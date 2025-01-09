@@ -1,0 +1,531 @@
+City 1,City 2,State,Distance
+Nashua,Manchester,New Hampshire,16.438923635383265
+Nashua,Portsmouth,New Hampshire,41.79666645407912
+Nashua,Dover,New Hampshire,43.19819207613844
+Nashua,Concord,New Hampshire,33.41170686754328
+Nashua,Rochester,New Hampshire,45.979838818738436
+Nashua,Keene,New Hampshire,43.34383110814738
+Nashua,Laconia,New Hampshire,56.84485635465661
+Nashua,Somersworth,New Hampshire,46.39702094071657
+Nashua,Franklin,New Hampshire,49.208657292614866
+Nashua,South Hooksett,New Hampshire,19.884842496800612
+Nashua,Suncook,New Hampshire,26.928284029846488
+Nashua,Pinardville,New Hampshire,17.43864885683243
+Nashua,East Merrimack,New Hampshire,8.303095567275811
+Nashua,Tilton Northfield,New Hampshire,48.27056836668283
+Nashua,Hampton Beach,New Hampshire,36.29238781928363
+Nashua,Contoocook,New Hampshire,34.6051201426472
+Nashua,West Swanzey,New Hampshire,43.08477170369875
+Nashua,Klondike Corner,New Hampshire,16.627321335088112
+Nashua,Seabrook Beach,New Hampshire,35.198573141894336
+Nashua,North Walpole,New Hampshire,55.655347768931
+Nashua,Union,New Hampshire,56.428094983253764
+Nashua,New Boston,New Hampshire,18.86317642951813
+Nashua,Francestown,New Hampshire,23.334601304891795
+Nashua,Milton Mills,New Hampshire,58.47841257001472
+Nashua,Blodgett Landing,New Hampshire,51.38928033073761
+Manchester,Portsmouth,New Hampshire,33.91357147641078
+Manchester,Dover,New Hampshire,31.646201380335345
+Manchester,Concord,New Hampshire,17.92730375829346
+Manchester,Rochester,New Hampshire,32.021030383717765
+Manchester,Keene,New Hampshire,43.41727110628743
+Manchester,Laconia,New Hampshire,40.60452692820175
+Manchester,Claremont,New Hampshire,52.64476111016367
+Manchester,Somersworth,New Hampshire,33.81075681183075
+Manchester,Franklin,New Hampshire,34.04725505090457
+Manchester,South Hooksett,New Hampshire,3.474549504846002
+Manchester,Suncook,New Hampshire,10.597620088644087
+Manchester,Pinardville,New Hampshire,3.8353774010045636
+Manchester,East Merrimack,New Hampshire,8.199835056685798
+Manchester,Tilton Northfield,New Hampshire,32.59193427642074
+Manchester,Hampton Beach,New Hampshire,32.418366861581305
+Manchester,Contoocook,New Hampshire,21.32764748924439
+Manchester,West Swanzey,New Hampshire,45.2187444245006
+Manchester,Klondike Corner,New Hampshire,9.947817583238717
+Manchester,Sanbornville,New Hampshire,44.431122758576095
+Manchester,Seabrook Beach,New Hampshire,32.25690092382706
+Manchester,Center Ossipee,New Hampshire,55.138697395617385
+Manchester,North Walpole,New Hampshire,51.886389249995375
+Manchester,Suissevale,New Hampshire,51.15727096075975
+Manchester,Union,New Hampshire,40.92484517063195
+Manchester,New Boston,New Hampshire,12.628396862082381
+Manchester,Center Sandwich,New Hampshire,56.86445152099852
+Manchester,Francestown,New Hampshire,18.723162687909067
+Manchester,Milton Mills,New Hampshire,43.22283535988377
+Manchester,Melvin Village,New Hampshire,49.151614065588525
+Manchester,Blodgett Landing,New Hampshire,40.37525552816844
+Portsmouth,Dover,New Hampshire,10.390059026359955
+Portsmouth,Concord,New Hampshire,41.03665194117796
+Portsmouth,Rochester,New Hampshire,19.363076889292888
+Portsmouth,Laconia,New Hampshire,49.88432365622242
+Portsmouth,Somersworth,New Hampshire,14.458389566496262
+Portsmouth,Franklin,New Hampshire,52.27560399403616
+Portsmouth,South Hooksett,New Hampshire,32.59009186584974
+Portsmouth,Suncook,New Hampshire,34.362033776017874
+Portsmouth,Pinardville,New Hampshire,37.40466053868967
+Portsmouth,East Merrimack,New Hampshire,37.77194714269749
+Portsmouth,Tilton Northfield,New Hampshire,48.798027953140675
+Portsmouth,Hampton Beach,New Hampshire,10.056635024154616
+Portsmouth,Contoocook,New Hampshire,48.39074345823017
+Portsmouth,Klondike Corner,New Hampshire,43.861019077124894
+Portsmouth,Sanbornville,New Hampshire,36.339111010985384
+Portsmouth,Seabrook Beach,New Hampshire,12.11986397661537
+Portsmouth,Center Ossipee,New Hampshire,51.511029315161856
+Portsmouth,Suissevale,New Hampshire,54.42246047168816
+Portsmouth,Union,New Hampshire,32.271947472023335
+Portsmouth,New Boston,New Hampshire,46.47756180990306
+Portsmouth,Francestown,New Hampshire,52.45630965710733
+Portsmouth,Milton Mills,New Hampshire,32.11973333156911
+Portsmouth,Melvin Village,New Hampshire,50.959940385035864
+Dover,Concord,New Hampshire,34.2057188615863
+Dover,Rochester,New Hampshire,8.976505710777088
+Dover,Laconia,New Hampshire,39.91971052299024
+Dover,Somersworth,New Hampshire,4.466748162668461
+Dover,Franklin,New Hampshire,43.46359785367261
+Dover,South Hooksett,New Hampshire,29.3896438311706
+Dover,Suncook,New Hampshire,28.93852682868619
+Dover,Pinardville,New Hampshire,34.5261254630595
+Dover,East Merrimack,New Hampshire,37.43987276040891
+Dover,Tilton Northfield,New Hampshire,39.80986577375616
+Dover,Hampton Beach,New Hampshire,19.30789597514602
+Dover,Contoocook,New Hampshire,41.899826676894506
+Dover,Klondike Corner,New Hampshire,41.20663230760699
+Dover,Sanbornville,New Hampshire,26.157588851322156
+Dover,Seabrook Beach,New Hampshire,21.19156030038914
+Dover,Center Ossipee,New Hampshire,41.27167907042668
+Dover,Suissevale,New Hampshire,44.04496888155059
+Dover,Union,New Hampshire,22.01955363505284
+Dover,New Boston,New Hampshire,43.44853441015956
+Dover,Center Sandwich,New Hampshire,51.07341914757568
+Dover,Francestown,New Hampshire,49.00080248194844
+Dover,Milton Mills,New Hampshire,22.124395625767182
+Dover,Melvin Village,New Hampshire,40.5732275337088
+Dover,Blodgett Landing,New Hampshire,59.650038849604094
+Concord,Rochester,New Hampshire,29.67991551454581
+Concord,Keene,New Hampshire,42.18215100776937
+Concord,Laconia,New Hampshire,23.967941146268803
+Concord,Lebanon,New Hampshire,44.70552863405928
+Concord,Claremont,New Hampshire,40.506925579106124
+Concord,Somersworth,New Hampshire,34.04698005015559
+Concord,Franklin,New Hampshire,16.1213965377195
+Concord,South Hooksett,New Hampshire,15.22028432001575
+Concord,Suncook,New Hampshire,8.33914318585277
+Concord,Pinardville,New Hampshire,15.987116239392499
+Concord,East Merrimack,New Hampshire,25.248205954942527
+Concord,Tilton Northfield,New Hampshire,14.859121747224407
+Concord,Hampton Beach,New Hampshire,43.654339440699836
+Concord,Contoocook,New Hampshire,7.7600744365583445
+Concord,West Swanzey,New Hampshire,45.92306189642137
+Concord,Klondike Corner,New Hampshire,18.830136610182194
+Concord,Sanbornville,New Hampshire,34.72093724999076
+Concord,Seabrook Beach,New Hampshire,44.24021246194178
+Concord,Center Ossipee,New Hampshire,41.58196373913977
+Concord,North Walpole,New Hampshire,45.14073957852056
+Concord,North Woodstock,New Hampshire,56.06164515932277
+Concord,Suissevale,New Hampshire,35.44241677200819
+Concord,Union,New Hampshire,32.46354135214552
+Concord,New Boston,New Hampshire,18.699024855036033
+Concord,Center Sandwich,New Hampshire,40.35644886961975
+Concord,Francestown,New Hampshire,21.03771171225952
+Concord,Milton Mills,New Hampshire,35.36942029179734
+Concord,Melvin Village,New Hampshire,34.15424336140942
+Concord,Blodgett Landing,New Hampshire,26.180095347782693
+Rochester,Laconia,New Hampshire,31.403380957972605
+Rochester,Somersworth,New Hampshire,5.65341826723567
+Rochester,Franklin,New Hampshire,36.29445544034412
+Rochester,South Hooksett,New Hampshire,29.09325350313243
+Rochester,Suncook,New Hampshire,26.393779964713552
+Rochester,Pinardville,New Hampshire,34.11319527121339
+Rochester,East Merrimack,New Hampshire,39.096331353587594
+Rochester,Tilton Northfield,New Hampshire,32.49540147158718
+Rochester,Hampton Beach,New Hampshire,27.871693367249446
+Rochester,North Conway,New Hampshire,51.764003143277776
+Rochester,Contoocook,New Hampshire,37.40960565259351
+Rochester,Klondike Corner,New Hampshire,40.60707802832744
+Rochester,Sanbornville,New Hampshire,17.687503873962726
+Rochester,Seabrook Beach,New Hampshire,29.639124649212754
+Rochester,Center Ossipee,New Hampshire,32.59267792488871
+Rochester,Suissevale,New Hampshire,35.07002072506641
+Rochester,Union,New Hampshire,13.45539794814391
+Rochester,New Boston,New Hampshire,42.3934054935609
+Rochester,Center Sandwich,New Hampshire,42.09843302666532
+Rochester,Francestown,New Hampshire,47.32513143207837
+Rochester,Milton Mills,New Hampshire,14.147249559462281
+Rochester,Melvin Village,New Hampshire,31.59725465208401
+Rochester,Blodgett Landing,New Hampshire,53.698990161561795
+Keene,Laconia,New Hampshire,59.76060542072502
+Keene,Lebanon,New Hampshire,47.408507456226765
+Keene,Claremont,New Hampshire,29.714945884122514
+Keene,Franklin,New Hampshire,46.992314801844216
+Keene,South Hooksett,New Hampshire,44.684591848083556
+Keene,Suncook,New Hampshire,44.81136865139603
+Keene,Pinardville,New Hampshire,39.83259884285796
+Keene,East Merrimack,New Hampshire,41.86905377197633
+Keene,Tilton Northfield,New Hampshire,49.43741927204628
+Keene,Contoocook,New Hampshire,35.19963139607482
+Keene,West Swanzey,New Hampshire,5.553325012442579
+Keene,Klondike Corner,New Hampshire,33.52452777986755
+Keene,North Walpole,New Hampshire,15.49620687241744
+Keene,New Boston,New Hampshire,30.791174852060717
+Keene,Francestown,New Hampshire,24.776330022840085
+Keene,Blodgett Landing,New Hampshire,32.24037880853938
+Laconia,Lebanon,New Hampshire,39.15108770351579
+Laconia,Claremont,New Hampshire,45.21883080794493
+Laconia,Somersworth,New Hampshire,37.04872725541158
+Laconia,Franklin,New Hampshire,12.818524286068675
+Laconia,South Hooksett,New Hampshire,37.32919790285767
+Laconia,Suncook,New Hampshire,30.006913374806427
+Laconia,Pinardville,New Hampshire,39.50304177196817
+Laconia,East Merrimack,New Hampshire,48.55106610697585
+Laconia,Tilton Northfield,New Hampshire,10.56125450883443
+Laconia,Hampton Beach,New Hampshire,56.497910311509685
+Laconia,North Conway,New Hampshire,36.927744023852995
+Laconia,Woodsville,New Hampshire,47.929986336451556
+Laconia,Contoocook,New Hampshire,26.868047042550646
+Laconia,Klondike Corner,New Hampshire,42.78839647128298
+Laconia,Sanbornville,New Hampshire,22.523044897124528
+Laconia,Seabrook Beach,New Hampshire,57.81515440227939
+Laconia,North Haverhill,New Hampshire,45.04224281261933
+Laconia,Center Ossipee,New Hampshire,20.62659555693363
+Laconia,Mountain Lakes,New Hampshire,44.80858906676222
+Laconia,North Walpole,New Hampshire,56.94634227498997
+Laconia,North Woodstock,New Hampshire,33.85251284099707
+Laconia,Suissevale,New Hampshire,11.91144819896372
+Laconia,Union,New Hampshire,23.503560483499545
+Laconia,New Boston,New Hampshire,42.45765389467208
+Laconia,Center Sandwich,New Hampshire,16.40442817731149
+Laconia,Francestown,New Hampshire,43.68029265656159
+Laconia,Milton Mills,New Hampshire,26.153964653670805
+Laconia,Melvin Village,New Hampshire,11.788575835441879
+Laconia,Blodgett Landing,New Hampshire,31.338082844119864
+Lebanon,Claremont,New Hampshire,18.1869022565224
+Lebanon,Franklin,New Hampshire,31.999150302119023
+Lebanon,South Hooksett,New Hampshire,58.88833186167511
+Lebanon,Suncook,New Hampshire,52.918642908991586
+Lebanon,Pinardville,New Hampshire,57.38991192231503
+Lebanon,Tilton Northfield,New Hampshire,35.702573103912066
+Lebanon,Woodsville,New Hampshire,36.80054758479499
+Lebanon,Contoocook,New Hampshire,39.34533169803955
+Lebanon,West Swanzey,New Hampshire,52.8985786436347
+Lebanon,Klondike Corner,New Hampshire,55.73667791882771
+Lebanon,North Haverhill,New Hampshire,33.517602525132595
+Lebanon,Center Ossipee,New Hampshire,55.82347677059875
+Lebanon,Mountain Lakes,New Hampshire,36.59681654842514
+Lebanon,North Walpole,New Hampshire,35.09769129123623
+Lebanon,North Woodstock,New Hampshire,39.23938347149884
+Lebanon,Suissevale,New Hampshire,45.046202336411234
+Lebanon,New Boston,New Hampshire,53.41948744735261
+Lebanon,Center Sandwich,New Hampshire,42.460234591925314
+Lebanon,Francestown,New Hampshire,49.772059991759846
+Lebanon,Melvin Village,New Hampshire,47.59572589864545
+Lebanon,Blodgett Landing,New Hampshire,20.897771305517377
+Claremont,Franklin,New Hampshire,33.95673636121286
+Claremont,South Hooksett,New Hampshire,51.84871609465796
+Claremont,Suncook,New Hampshire,47.588809820391276
+Claremont,Pinardville,New Hampshire,48.94011972600465
+Claremont,East Merrimack,New Hampshire,55.74135195513261
+Claremont,Tilton Northfield,New Hampshire,37.73481449556643
+Claremont,Woodsville,New Hampshire,54.949905497413454
+Claremont,Contoocook,New Hampshire,33.24427869664883
+Claremont,West Swanzey,New Hampshire,35.09607832305936
+Claremont,Klondike Corner,New Hampshire,45.43251187580512
+Claremont,North Haverhill,New Hampshire,51.628164229110084
+Claremont,Mountain Lakes,New Hampshire,54.58968026037765
+Claremont,North Walpole,New Hampshire,16.95303307451095
+Claremont,North Woodstock,New Hampshire,55.56241982748232
+Claremont,Suissevale,New Hampshire,54.4017326710967
+Claremont,New Boston,New Hampshire,42.67848342224939
+Claremont,Center Sandwich,New Hampshire,53.913965384661886
+Claremont,Francestown,New Hampshire,37.68485466420767
+Claremont,Melvin Village,New Hampshire,56.01863260142553
+Claremont,Blodgett Landing,New Hampshire,14.987683469930165
+Somersworth,Franklin,New Hampshire,41.73640576831141
+Somersworth,South Hooksett,New Hampshire,31.238147477469543
+Somersworth,Suncook,New Hampshire,29.740020054149458
+Somersworth,Pinardville,New Hampshire,36.374574436641495
+Somersworth,East Merrimack,New Hampshire,40.179320295691454
+Somersworth,Tilton Northfield,New Hampshire,37.97098840584777
+Somersworth,Hampton Beach,New Hampshire,23.71765088433997
+Somersworth,North Conway,New Hampshire,55.68853321105137
+Somersworth,Contoocook,New Hampshire,41.806470707960344
+Somersworth,Klondike Corner,New Hampshire,43.01992156197246
+Somersworth,Sanbornville,New Hampshire,21.885171410090464
+Somersworth,Seabrook Beach,New Hampshire,25.62498855626124
+Somersworth,Center Ossipee,New Hampshire,37.05267492937273
+Somersworth,Suissevale,New Hampshire,40.334908821111796
+Somersworth,Union,New Hampshire,17.81701170003213
+Somersworth,New Boston,New Hampshire,45.06960372421962
+Somersworth,Center Sandwich,New Hampshire,47.35314707203268
+Somersworth,Francestown,New Hampshire,50.361705195334544
+Somersworth,Milton Mills,New Hampshire,17.74039369572539
+Somersworth,Melvin Village,New Hampshire,36.80246077366095
+Somersworth,Blodgett Landing,New Hampshire,58.75985829354207
+Berlin,North Conway,New Hampshire,31.500332837599398
+Berlin,Woodsville,New Hampshire,44.79891594300567
+Berlin,Groveton,New Hampshire,15.210260760567582
+Berlin,North Haverhill,New Hampshire,46.68900806958644
+Berlin,Center Ossipee,New Hampshire,50.878281174565856
+Berlin,Mountain Lakes,New Hampshire,42.87305090393834
+Berlin,North Woodstock,New Hampshire,37.91365540789965
+Berlin,West Stewartstown,New Hampshire,37.260392398327234
+Berlin,Suissevale,New Hampshire,52.96007640399417
+Berlin,Center Sandwich,New Hampshire,47.681711894621735
+Berlin,Melvin Village,New Hampshire,55.096609949578955
+Franklin,South Hooksett,New Hampshire,31.291260519605476
+Franklin,Suncook,New Hampshire,24.119523106424893
+Franklin,Pinardville,New Hampshire,31.92455617307511
+Franklin,East Merrimack,New Hampshire,41.18788380301997
+Franklin,Tilton Northfield,New Hampshire,3.876515450514564
+Franklin,Hampton Beach,New Hampshire,56.92283438952057
+Franklin,North Conway,New Hampshire,49.16154947377402
+Franklin,Woodsville,New Hampshire,51.019013855104724
+Franklin,Contoocook,New Hampshire,15.804847300896716
+Franklin,West Swanzey,New Hampshire,51.85481247133652
+Franklin,Klondike Corner,New Hampshire,33.57745833539907
+Franklin,Sanbornville,New Hampshire,32.90338412689045
+Franklin,Seabrook Beach,New Hampshire,57.850764091366095
+Franklin,North Haverhill,New Hampshire,47.71399852555138
+Franklin,Center Ossipee,New Hampshire,33.42875907479611
+Franklin,Mountain Lakes,New Hampshire,48.50028484183992
+Franklin,North Walpole,New Hampshire,44.404580289947084
+Franklin,North Woodstock,New Hampshire,40.515003237875085
+Franklin,Suissevale,New Hampshire,24.36287298798849
+Franklin,Union,New Hampshire,32.604958299221956
+Franklin,New Boston,New Hampshire,32.593169704109286
+Franklin,Center Sandwich,New Hampshire,27.30534130246638
+Franklin,Francestown,New Hampshire,32.61471755318805
+Franklin,Milton Mills,New Hampshire,35.571905238369
+Franklin,Melvin Village,New Hampshire,24.602974652715435
+Franklin,Blodgett Landing,New Hampshire,19.317419608614255
+South Hooksett,Suncook,New Hampshire,7.388317761607885
+South Hooksett,Pinardville,New Hampshire,5.1463703609393345
+South Hooksett,East Merrimack,New Hampshire,11.670995701663218
+South Hooksett,Tilton Northfield,New Hampshire,29.617753442075475
+South Hooksett,Hampton Beach,New Hampshire,32.12678443931055
+South Hooksett,Contoocook,New Hampshire,19.583638006192924
+South Hooksett,West Swanzey,New Hampshire,46.84971395897382
+South Hooksett,Klondike Corner,New Hampshire,11.822652308036945
+South Hooksett,Sanbornville,New Hampshire,41.03390626176669
+South Hooksett,Seabrook Beach,New Hampshire,32.188440307490964
+South Hooksett,Center Ossipee,New Hampshire,51.66457180420481
+South Hooksett,North Walpole,New Hampshire,52.217233123578545
+South Hooksett,Suissevale,New Hampshire,47.76025879830351
+South Hooksett,Union,New Hampshire,37.57684820130669
+South Hooksett,New Boston,New Hampshire,14.113039917846942
+South Hooksett,Center Sandwich,New Hampshire,53.53431504999636
+South Hooksett,Francestown,New Hampshire,19.919402522820025
+South Hooksett,Milton Mills,New Hampshire,39.92333128730777
+South Hooksett,Melvin Village,New Hampshire,45.71558624416511
+South Hooksett,Blodgett Landing,New Hampshire,38.988422487363316
+Suncook,Pinardville,New Hampshire,10.01120136879482
+Suncook,East Merrimack,New Hampshire,18.62667231197405
+Suncook,Tilton Northfield,New Hampshire,22.27621474453632
+Suncook,Hampton Beach,New Hampshire,35.93215981665067
+Suncook,Contoocook,New Hampshire,14.381248437973243
+Suncook,West Swanzey,New Hampshire,47.76525289994179
+Suncook,Klondike Corner,New Hampshire,15.270035439979152
+Suncook,Sanbornville,New Hampshire,35.676805853872935
+Suncook,Seabrook Beach,New Hampshire,36.369151179058626
+Suncook,Center Ossipee,New Hampshire,45.16058136599516
+Suncook,North Walpole,New Hampshire,50.18918039862741
+Suncook,Suissevale,New Hampshire,40.656204280745726
+Suncook,Union,New Hampshire,32.61041472199648
+Suncook,New Boston,New Hampshire,16.44972989062298
+Suncook,Center Sandwich,New Hampshire,46.279587324713624
+Suncook,Francestown,New Hampshire,20.96219668439298
+Suncook,Milton Mills,New Hampshire,35.22261765688342
+Suncook,Melvin Village,New Hampshire,38.774163225721225
+Suncook,Blodgett Landing,New Hampshire,33.81716390440892
+Pinardville,East Merrimack,New Hampshire,9.271548731357692
+Pinardville,Tilton Northfield,New Hampshire,30.84416926432353
+Pinardville,Hampton Beach,New Hampshire,36.21586391697151
+Pinardville,Contoocook,New Hampshire,18.25752749178577
+Pinardville,West Swanzey,New Hampshire,41.82811621048663
+Pinardville,Klondike Corner,New Hampshire,6.6805339112319615
+Pinardville,Sanbornville,New Hampshire,45.31908740755422
+Pinardville,Seabrook Beach,New Hampshire,36.07996839078634
+Pinardville,Center Ossipee,New Hampshire,55.17127886191198
+Pinardville,North Walpole,New Hampshire,48.062114528231845
+Pinardville,Suissevale,New Hampshire,50.476128131367325
+Pinardville,Union,New Hampshire,42.030949070730486
+Pinardville,New Boston,New Hampshire,9.087882711699127
+Pinardville,Center Sandwich,New Hampshire,55.88255439545001
+Pinardville,Francestown,New Hampshire,15.070234885949754
+Pinardville,Milton Mills,New Hampshire,44.48869194322065
+Pinardville,Melvin Village,New Hampshire,48.70764968260705
+Pinardville,Blodgett Landing,New Hampshire,36.93994436224457
+East Merrimack,Tilton Northfield,New Hampshire,40.09781806210976
+East Merrimack,Hampton Beach,New Hampshire,34.106436151866
+East Merrimack,Contoocook,New Hampshire,27.091228616760365
+East Merrimack,West Swanzey,New Hampshire,42.680518335275295
+East Merrimack,Klondike Corner,New Hampshire,10.308840632880715
+East Merrimack,Sanbornville,New Hampshire,52.405382872414926
+East Merrimack,Seabrook Beach,New Hampshire,33.448477352931334
+East Merrimack,North Walpole,New Hampshire,52.45425565135289
+East Merrimack,Suissevale,New Hampshire,59.27589021818132
+East Merrimack,Union,New Hampshire,48.79412133120318
+East Merrimack,New Boston,New Hampshire,13.113164618266012
+East Merrimack,Francestown,New Hampshire,18.78595735230113
+East Merrimack,Milton Mills,New Hampshire,50.98228828492433
+East Merrimack,Melvin Village,New Hampshire,57.32236386191546
+East Merrimack,Blodgett Landing,New Hampshire,44.90697452727451
+Tilton Northfield,Hampton Beach,New Hampshire,53.778850920784976
+Tilton Northfield,North Conway,New Hampshire,47.46295757546016
+Tilton Northfield,Woodsville,New Hampshire,52.8289182051671
+Tilton Northfield,Contoocook,New Hampshire,16.433313459195197
+Tilton Northfield,West Swanzey,New Hampshire,54.127730311600175
+Tilton Northfield,Klondike Corner,New Hampshire,33.24614647513579
+Tilton Northfield,Sanbornville,New Hampshire,29.246966600178705
+Tilton Northfield,Seabrook Beach,New Hampshire,54.7830498212438
+Tilton Northfield,North Haverhill,New Hampshire,49.61126960136122
+Tilton Northfield,Center Ossipee,New Hampshire,30.79470818304731
+Tilton Northfield,Mountain Lakes,New Hampshire,50.13174177049334
+Tilton Northfield,North Walpole,New Hampshire,47.68688153695321
+Tilton Northfield,North Woodstock,New Hampshire,41.20367804921638
+Tilton Northfield,Suissevale,New Hampshire,22.457552924224448
+Tilton Northfield,Union,New Hampshire,28.8067467571054
+Tilton Northfield,New Boston,New Hampshire,32.59364450932627
+Tilton Northfield,Center Sandwich,New Hampshire,26.281493115764956
+Tilton Northfield,Francestown,New Hampshire,33.338082012185126
+Tilton Northfield,Milton Mills,New Hampshire,31.787659751698378
+Tilton Northfield,Melvin Village,New Hampshire,22.19613869986546
+Tilton Northfield,Blodgett Landing,New Hampshire,22.981651924408915
+Hampton Beach,Contoocook,New Hampshire,50.311427278068216
+Hampton Beach,Klondike Corner,New Hampshire,42.04436684638061
+Hampton Beach,Sanbornville,New Hampshire,45.41782088855965
+Hampton Beach,Seabrook Beach,New Hampshire,2.0741732745947306
+Hampton Beach,Union,New Hampshire,41.237745411869575
+Hampton Beach,New Boston,New Hampshire,44.895211618112356
+Hampton Beach,Francestown,New Hampshire,51.04427131740793
+Hampton Beach,Milton Mills,New Hampshire,41.432161868236406
+Hampton Beach,Melvin Village,New Hampshire,59.04525099072299
+North Conway,Woodsville,New Hampshire,45.47938188343033
+North Conway,Sanbornville,New Hampshire,34.07708165064382
+North Conway,Groveton,New Hampshire,43.60368350463358
+North Conway,North Haverhill,New Hampshire,44.99603748371451
+North Conway,Center Ossipee,New Hampshire,19.88600261176436
+North Conway,Mountain Lakes,New Hampshire,41.9437502320112
+North Conway,North Woodstock,New Hampshire,28.610217213171097
+North Conway,Suissevale,New Hampshire,25.016619761608585
+North Conway,Union,New Hampshire,38.31568993236158
+North Conway,Center Sandwich,New Hampshire,22.561028989389182
+North Conway,Milton Mills,New Hampshire,37.950920254836724
+North Conway,Melvin Village,New Hampshire,25.975594197180122
+Woodsville,Groveton,New Hampshire,40.57692616226497
+Woodsville,North Haverhill,New Hampshire,3.5088134022454898
+Woodsville,Center Ossipee,New Hampshire,51.20569935542538
+Woodsville,Mountain Lakes,New Hampshire,3.6831745747246916
+Woodsville,North Woodstock,New Hampshire,17.92140560406138
+Woodsville,Suissevale,New Hampshire,43.95084924026891
+Woodsville,Center Sandwich,New Hampshire,37.21998668502154
+Woodsville,Melvin Village,New Hampshire,47.59416127537698
+Woodsville,Blodgett Landing,New Hampshire,52.929690325189654
+Contoocook,West Swanzey,New Hampshire,39.30174975632277
+Contoocook,Klondike Corner,New Hampshire,18.280268193388817
+Contoocook,Sanbornville,New Hampshire,41.23043888727749
+Contoocook,Seabrook Beach,New Hampshire,50.72084605295993
+Contoocook,Center Ossipee,New Hampshire,46.282087519948
+Contoocook,North Walpole,New Hampshire,37.39704463815414
+Contoocook,North Woodstock,New Hampshire,56.14706472092281
+Contoocook,Suissevale,New Hampshire,38.77025576735828
+Contoocook,Union,New Hampshire,39.36545141674834
+Contoocook,New Boston,New Hampshire,16.947361198849237
+Contoocook,Center Sandwich,New Hampshire,42.679260942961584
+Contoocook,Francestown,New Hampshire,16.925143895371654
+Contoocook,Milton Mills,New Hampshire,42.33735522142559
+Contoocook,Melvin Village,New Hampshire,38.1395971622173
+Contoocook,Blodgett Landing,New Hampshire,19.532134208554762
+West Swanzey,Klondike Corner,New Hampshire,35.27529233199528
+West Swanzey,North Walpole,New Hampshire,20.050079824301452
+West Swanzey,New Boston,New Hampshire,32.74868166679636
+West Swanzey,Francestown,New Hampshire,27.060832962320198
+West Swanzey,Blodgett Landing,New Hampshire,37.68933399585301
+Klondike Corner,Sanbornville,New Hampshire,50.94295151378008
+Klondike Corner,Seabrook Beach,New Hampshire,41.72736423493062
+Klondike Corner,Center Ossipee,New Hampshire,59.83504456235477
+Klondike Corner,North Walpole,New Hampshire,42.74915744709338
+Klondike Corner,Suissevale,New Hampshire,54.24505025668663
+Klondike Corner,Union,New Hampshire,47.86228136365098
+Klondike Corner,New Boston,New Hampshire,2.9434475569223997
+Klondike Corner,Center Sandwich,New Hampshire,59.15855326630718
+Klondike Corner,Francestown,New Hampshire,9.053018378612812
+Klondike Corner,Milton Mills,New Hampshire,50.43489327916303
+Klondike Corner,Melvin Village,New Hampshire,52.8194302986937
+Klondike Corner,Blodgett Landing,New Hampshire,34.88279912230492
+Sanbornville,Seabrook Beach,New Hampshire,47.24159653981712
+Sanbornville,Center Ossipee,New Hampshire,15.190544807643889
+Sanbornville,North Woodstock,New Hampshire,47.21289644468258
+Sanbornville,Suissevale,New Hampshire,20.428174145323915
+Sanbornville,Union,New Hampshire,4.244884403388845
+Sanbornville,New Boston,New Hampshire,51.907583220386826
+Sanbornville,Center Sandwich,New Hampshire,27.087794910455386
+Sanbornville,Francestown,New Hampshire,55.46283906445631
+Sanbornville,Milton Mills,New Hampshire,4.667113150466539
+Sanbornville,Melvin Village,New Hampshire,16.79802488861276
+Sanbornville,Blodgett Landing,New Hampshire,52.208286428868945
+Seabrook Beach,Union,New Hampshire,43.04583428321404
+Seabrook Beach,New Boston,New Hampshire,44.609717936234276
+Seabrook Beach,Francestown,New Hampshire,50.76189297254633
+Seabrook Beach,Milton Mills,New Hampshire,43.308176241512534
+Groveton,North Haverhill,New Hampshire,43.340336777778234
+Groveton,Mountain Lakes,New Hampshire,39.85783627294172
+Groveton,North Woodstock,New Hampshire,40.21113236021147
+Groveton,West Stewartstown,New Hampshire,26.65251118424499
+Groveton,Center Sandwich,New Hampshire,55.12598068069718
+North Haverhill,Center Ossipee,New Hampshire,49.38915906398332
+North Haverhill,Mountain Lakes,New Hampshire,3.828795701898059
+North Haverhill,North Woodstock,New Hampshire,16.708332845713866
+North Haverhill,Suissevale,New Hampshire,41.6585839696931
+North Haverhill,Center Sandwich,New Hampshire,35.08379070171535
+North Haverhill,Melvin Village,New Hampshire,45.3012076226233
+North Haverhill,Blodgett Landing,New Hampshire,49.42408239548614
+Center Ossipee,Mountain Lakes,New Hampshire,47.55338694779418
+Center Ossipee,North Woodstock,New Hampshire,33.506070275445744
+Center Ossipee,Suissevale,New Hampshire,10.798262501512376
+Center Ossipee,Union,New Hampshire,19.253247035851114
+Center Ossipee,Center Sandwich,New Hampshire,14.914723487151221
+Center Ossipee,Milton Mills,New Hampshire,19.6346100150789
+Center Ossipee,Melvin Village,New Hampshire,8.9771169376137
+Center Ossipee,Blodgett Landing,New Hampshire,51.688939306796016
+Mountain Lakes,North Woodstock,New Hampshire,14.238243527090903
+Mountain Lakes,Suissevale,New Hampshire,40.43934823298396
+Mountain Lakes,Center Sandwich,New Hampshire,33.65725646672353
+Mountain Lakes,Melvin Village,New Hampshire,44.07906522113877
+Mountain Lakes,Blodgett Landing,New Hampshire,51.58050036691883
+North Walpole,New Boston,New Hampshire,39.80743755078698
+North Walpole,Francestown,New Hampshire,33.76243556156812
+North Walpole,Blodgett Landing,New Hampshire,25.89833597340208
+North Woodstock,Suissevale,New Hampshire,27.313183371784195
+North Woodstock,Union,New Hampshire,50.5273429488398
+North Woodstock,Center Sandwich,New Hampshire,20.311685977140932
+North Woodstock,Milton Mills,New Hampshire,51.87946814244107
+North Woodstock,Melvin Village,New Hampshire,30.880007712436903
+North Woodstock,Blodgett Landing,New Hampshire,48.73052441048653
+Suissevale,Union,New Hampshire,23.37777146152211
+Suissevale,New Boston,New Hampshire,54.09189461401073
+Suissevale,Center Sandwich,New Hampshire,7.02845136371171
+Suissevale,Francestown,New Hampshire,55.54085772037062
+Suissevale,Milton Mills,New Hampshire,25.0280069051857
+Suissevale,Melvin Village,New Hampshire,3.64460440284728
+Suissevale,Blodgett Landing,New Hampshire,41.610706875513564
+Union,New Boston,New Hampshire,48.99250973446805
+Union,Center Sandwich,New Hampshire,30.255127391479107
+Union,Francestown,New Hampshire,52.85023615145152
+Union,Milton Mills,New Hampshire,3.025481302475331
+Union,Melvin Village,New Hampshire,19.74068781191644
+Union,Blodgett Landing,New Hampshire,51.73735462006262
+New Boston,Center Sandwich,New Hampshire,58.7383408357597
+New Boston,Francestown,New Hampshire,6.1524683138185985
+New Boston,Milton Mills,New Hampshire,51.64777881210152
+New Boston,Melvin Village,New Hampshire,52.8528767954414
+New Boston,Blodgett Landing,New Hampshire,32.52727454249125
+Center Sandwich,Francestown,New Hampshire,59.60237294274232
+Center Sandwich,Milton Mills,New Hampshire,31.73777451577261
+Center Sandwich,Melvin Village,New Hampshire,10.568324778026614
+Center Sandwich,Blodgett Landing,New Hampshire,42.40945768697188
+Francestown,Milton Mills,New Hampshire,55.62613592262116
+Francestown,Melvin Village,New Hampshire,54.683097511963936
+Francestown,Blodgett Landing,New Hampshire,28.983973355329443
+Milton Mills,Melvin Village,New Hampshire,21.3878841596355
+Milton Mills,Blodgett Landing,New Hampshire,54.73447901972277
+Melvin Village,Blodgett Landing,New Hampshire,42.71199660508025

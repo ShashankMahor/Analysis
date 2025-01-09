@@ -1,0 +1,2826 @@
+City 1,City 2,State,Distance
+Burlington,South Burlington,Vermont,1.8421456459288714
+Burlington,Essex Junction,Vermont,5.810417098801382
+Burlington,Barre,Vermont,40.970436098462
+Burlington,Winooski,Vermont,2.3755682566859027
+Burlington,Montpelier,Vermont,36.08654945132856
+Burlington,St. Albans,Vermont,23.53138879603009
+Burlington,Newport,Vermont,59.151323723324154
+Burlington,Morrisville,Vermont,31.90631500442689
+Burlington,Vergennes,Vermont,22.209691103238583
+Burlington,Proctor,Vermont,57.306406997381444
+Burlington,Enosburg Falls,Vermont,35.92027105794688
+Burlington,South Barre,Vermont,42.40978445431383
+Burlington,East Barre,Vermont,45.223798733130884
+Burlington,Orleans,Vermont,55.43120677814096
+Burlington,Jeffersonville,Vermont,22.609929809655544
+Burlington,Underhill Flats,Vermont,14.31016899819266
+Burlington,Huntington,Vermont,16.31860497381563
+Burlington,North Troy,Vermont,53.79025704052279
+Burlington,Graniteville,Vermont,44.00938409265482
+Burlington,East Middlebury,Vermont,35.97148768858748
+Burlington,South Royalton,Vermont,58.66113388509628
+Burlington,Saint George,Vermont,9.142469725213646
+Burlington,Bakersfield,Vermont,29.31948429647191
+Burlington,North Hyde Park,Vermont,33.95751039170663
+Burlington,Greensboro Bend,Vermont,48.03044785164635
+Burlington,Highgate Center,Vermont,32.43677487748668
+Burlington,Waterbury Center,Vermont,26.38006176924125
+Burlington,Lincoln,Vermont,29.070175426019063
+Burlington,Websterville,Vermont,43.798962391533394
+Burlington,Peacham,Vermont,53.54240687971252
+Burlington,West Charlotte,Vermont,12.32232719574054
+Burlington,Westford,Vermont,13.686639814959012
+Burlington,Newport Center,Vermont,55.7275561005661
+Burlington,Sheffield,Vermont,55.628633818640594
+Burlington,Wolcott,Vermont,38.259809238037995
+Burlington,New Haven,Vermont,25.243790601716167
+Burlington,Bolton Valley,Vermont,19.135824564884285
+Burlington,South Hero,Vermont,11.596762071723656
+Burlington,East Charlotte,Vermont,11.855156568616936
+Burlington,Chittenden,Vermont,55.901229043171554
+Burlington,South Lincoln,Vermont,31.831722147350614
+Burlington,Huntington Center,Vermont,18.878168272260737
+Burlington,Underhill Center,Vermont,16.50199515388408
+Burlington,Bolton,Vermont,18.81078590832317
+Burlington,Hanksville,Vermont,21.096477277802194
+Burlington,Highgate Springs,Vermont,34.43932914689729
+South Burlington,Essex Junction,Vermont,5.590270766668523
+South Burlington,Barre,Vermont,39.65264871292835
+South Burlington,Winooski,Vermont,2.857283992134727
+South Burlington,Montpelier,Vermont,34.86388009401933
+South Burlington,St. Albans,Vermont,25.051081123719232
+South Burlington,Newport,Vermont,59.6298709845473
+South Burlington,Morrisville,Vermont,31.67701894071201
+South Burlington,Vergennes,Vermont,20.499417671823704
+South Burlington,Proctor,Vermont,55.48371096793608
+South Burlington,Enosburg Falls,Vermont,37.040672501131326
+South Burlington,South Barre,Vermont,41.030977735668955
+South Burlington,East Barre,Vermont,43.859523894820725
+South Burlington,Orleans,Vermont,55.65847649841961
+South Burlington,Castleton Four Corners,Vermont,58.80542741485537
+South Burlington,Jeffersonville,Vermont,23.019946985247653
+South Burlington,Underhill Flats,Vermont,14.177213244365984
+South Burlington,Huntington,Vermont,14.744814176310237
+South Burlington,North Troy,Vermont,54.5434344863346
+South Burlington,Graniteville,Vermont,42.61612849308046
+South Burlington,East Middlebury,Vermont,34.14697512319098
+South Burlington,South Royalton,Vermont,56.93123385505023
+South Burlington,Saint George,Vermont,7.384501078186228
+South Burlington,Bakersfield,Vermont,30.179344592096786
+South Burlington,North Hyde Park,Vermont,34.1419043936757
+South Burlington,Lyndon Center,Vermont,59.82442205864402
+South Burlington,Greensboro Bend,Vermont,47.692436934711274
+South Burlington,Highgate Center,Vermont,33.971484269900245
+South Burlington,Waterbury Center,Vermont,25.38731930316972
+South Burlington,Lincoln,Vermont,27.23955677139289
+South Burlington,Websterville,Vermont,42.43800042632907
+South Burlington,Peacham,Vermont,52.668117575256474
+South Burlington,West Charlotte,Vermont,10.652849223527962
+South Burlington,Westford,Vermont,14.410175046670549
+South Burlington,Newport Center,Vermont,56.314843471615355
+South Burlington,Sheffield,Vermont,55.35641950590059
+South Burlington,Wolcott,Vermont,37.94082377375201
+South Burlington,New Haven,Vermont,23.424407291565103
+South Burlington,Bolton Valley,Vermont,18.21151434732949
+South Burlington,South Hero,Vermont,13.43885101598755
+South Burlington,East Charlotte,Vermont,10.03432455251957
+South Burlington,Chittenden,Vermont,54.062003967646866
+South Burlington,Sutton,Vermont,59.99945595298505
+South Burlington,South Lincoln,Vermont,29.999794911013016
+South Burlington,Huntington Center,Vermont,17.244098748417382
+South Burlington,Lyndon,Vermont,59.76076104348689
+South Burlington,Underhill Center,Vermont,16.193622287061483
+South Burlington,Bolton,Vermont,17.623847543435378
+South Burlington,Hanksville,Vermont,19.39614906511154
+South Burlington,Highgate Springs,Vermont,36.07406027886067
+Rutland,Barre,Vermont,47.03812817118699
+Rutland,Montpelier,Vermont,49.670232770971914
+Rutland,Wilder,Vermont,33.52596835828316
+Rutland,Bellows Falls,Vermont,42.05789217581817
+Rutland,West Brattleboro,Vermont,55.36582436519046
+Rutland,White River Junction,Vermont,32.68128428835065
+Rutland,Vergennes,Vermont,40.88693144995394
+Rutland,Manchester Center,Vermont,29.638758999714852
+Rutland,Proctor,Vermont,5.179481026360508
+Rutland,North Bennington,Vermont,49.12416953184179
+Rutland,South Barre,Vermont,45.0742242832884
+Rutland,East Barre,Vermont,45.723083520324195
+Rutland,Castleton Four Corners,Vermont,11.6432290823103
+Rutland,Saxtons River,Vermont,40.11631232900887
+Rutland,Huntington,Vermont,49.58862853410601
+Rutland,Pownal,Vermont,59.687208650243484
+Rutland,Stamford,Vermont,58.78838470083545
+Rutland,Pownal Center,Vermont,57.349018271803374
+Rutland,Graniteville,Vermont,44.60753241502797
+Rutland,East Middlebury,Vermont,26.013056155268284
+Rutland,Hartford Village,Vermont,32.40545607768176
+Rutland,South Royalton,Vermont,27.088082021826505
+Rutland,Killington Village,Vermont,10.09916810881871
+Rutland,North Springfield,Vermont,29.727718525080128
+Rutland,Saint George,Vermont,53.54685787760327
+Rutland,Ascutney,Vermont,31.89008715045254
+Rutland,South Shaftsbury,Vermont,47.481203300304905
+Rutland,North Clarendon,Vermont,2.6198497191058756
+Rutland,North Hartland,Vermont,31.149195953077836
+Rutland,West Woodstock,Vermont,21.420026669226786
+Rutland,North Pownal,Vermont,57.775749049075046
+Rutland,Proctorsville,Vermont,23.278789342972882
+Rutland,Quechee,Vermont,28.183989095578543
+Rutland,Wells River,Vermont,59.24224726810189
+Rutland,Pawlet,Vermont,20.542529742337084
+Rutland,West Pawlet,Vermont,22.008521951834517
+Rutland,Waterbury Center,Vermont,54.60896821118615
+Rutland,Lincoln,Vermont,34.08692582731073
+Rutland,East Poultney,Vermont,13.006497824178782
+Rutland,East Dorset,Vermont,25.18369254704057
+Rutland,Websterville,Vermont,45.737678684475455
+Rutland,Jacksonville,Vermont,56.59973540380119
+Rutland,Algiers,Vermont,58.240810377586996
+Rutland,West Charlotte,Vermont,50.301435451626766
+Rutland,Harmonyville,Vermont,42.514332694268084
+Rutland,South Londonderry,Vermont,30.102004073919993
+Rutland,Danby,Vermont,18.243813023432857
+Rutland,Townshend,Vermont,41.820258328321614
+Rutland,New Haven,Vermont,36.74820759787015
+Rutland,Bolton Valley,Vermont,56.06805821594167
+Rutland,Old Bennington,Vermont,51.40588908344188
+Rutland,East Charlotte,Vermont,50.09882800389523
+Rutland,Chittenden,Vermont,6.696437361420434
+Rutland,South Lincoln,Vermont,31.475808773729106
+Rutland,Middletown Springs,Vermont,11.166726094654267
+Rutland,North Westminster,Vermont,42.72303943586744
+Rutland,Huntington Center,Vermont,47.04802607721111
+Rutland,Whitingham,Vermont,56.8089576516078
+Rutland,Wardsboro,Vermont,40.20202737472609
+Rutland,Grafton,Vermont,35.54707989909512
+Rutland,Jamaica,Vermont,36.73204813870967
+Rutland,Londonderry,Vermont,27.68477226943597
+Rutland,West Dummerston,Vermont,50.388470057034475
+Rutland,Stratton Mountain,Vermont,34.192458457671016
+Rutland,Weston,Vermont,23.91614925594186
+Rutland,Chimney Hill,Vermont,49.87238720894966
+Rutland,Bolton,Vermont,53.01742781118394
+Rutland,Hanksville,Vermont,44.34621268696591
+Rutland,South Woodstock,Vermont,22.639951347523688
+Essex Junction,Barre,Vermont,36.08893874055332
+Essex Junction,Winooski,Vermont,3.498818191308767
+Essex Junction,Montpelier,Vermont,31.00473999392423
+Essex Junction,St. Albans,Vermont,22.25991332001319
+Essex Junction,Newport,Vermont,54.20862196013201
+Essex Junction,Morrisville,Vermont,26.15205561385447
+Essex Junction,Vergennes,Vermont,23.432681450314366
+Essex Junction,Proctor,Vermont,56.80935408010294
+Essex Junction,Enosburg Falls,Vermont,32.69277884776601
+Essex Junction,South Barre,Vermont,37.68759641622714
+Essex Junction,Lyndonville,Vermont,55.0469480270108
+Essex Junction,East Barre,Vermont,40.447937381271416
+Essex Junction,Orleans,Vermont,50.09753517374266
+Essex Junction,Derby Center,Vermont,57.858351761407235
+Essex Junction,Jeffersonville,Vermont,17.60789935192937
+Essex Junction,Underhill Flats,Vermont,8.598683552488977
+Essex Junction,Huntington,Vermont,12.828542289588942
+Essex Junction,North Troy,Vermont,49.42749760953305
+Essex Junction,Graniteville,Vermont,39.321979740835474
+Essex Junction,East Middlebury,Vermont,35.60222309147732
+Essex Junction,South Royalton,Vermont,55.46282100144719
+Essex Junction,Saint George,Vermont,7.8556278436491525
+Essex Junction,Bakersfield,Vermont,25.321836847121723
+Essex Junction,North Hyde Park,Vermont,28.57532214820588
+Essex Junction,Wells River,Vermont,57.11068779714019
+Essex Junction,Lyndon Center,Vermont,54.43968394539815
+Essex Junction,Greensboro Bend,Vermont,42.239089330126994
+Essex Junction,Highgate Center,Vermont,31.08911065363147
+Essex Junction,Waterbury Center,Vermont,20.94325102535095
+Essex Junction,Lincoln,Vermont,27.406477556226932
+Essex Junction,Websterville,Vermont,39.01988841140403
+Essex Junction,Peacham,Vermont,47.903812515537936
+Essex Junction,West Charlotte,Vermont,14.260182365955604
+Essex Junction,Westford,Vermont,9.581891519508522
+Essex Junction,Newport Center,Vermont,50.99573940845265
+Essex Junction,Sheffield,Vermont,49.860810996498316
+Essex Junction,West Burke,Vermont,57.00551068286366
+Essex Junction,Wolcott,Vermont,32.47217083689399
+Essex Junction,New Haven,Vermont,25.171581976603534
+Essex Junction,Bolton Valley,Vermont,13.665691344148621
+Essex Junction,South Hero,Vermont,14.293815487510612
+Essex Junction,East Charlotte,Vermont,12.456484022743647
+Essex Junction,Chittenden,Vermont,54.903600126049206
+Essex Junction,Sutton,Vermont,54.48146518297083
+Essex Junction,South Lincoln,Vermont,30.153563200734144
+Essex Junction,Huntington Center,Vermont,15.583069253874978
+Essex Junction,Lyndon,Vermont,54.41851792327576
+Essex Junction,East Burke,Vermont,58.3550962575437
+Essex Junction,Underhill Center,Vermont,10.705565179000148
+Essex Junction,Bolton,Vermont,13.842612951613026
+Essex Junction,Hanksville,Vermont,18.139942798446892
+Essex Junction,Highgate Springs,Vermont,33.699415473628235
+Barre,Winooski,Vermont,39.204493896975045
+Barre,Montpelier,Vermont,5.538241732009683
+Barre,St. Albans,Vermont,50.96495318937855
+Barre,Newport,Vermont,53.01916643756428
+Barre,Wilder,Vermont,37.113322632485435
+Barre,White River Junction,Vermont,39.00795166576449
+Barre,Morrisville,Vermont,25.106845971324802
+Barre,Vergennes,Vermont,37.19553076099893
+Barre,Proctor,Vermont,45.24382159665276
+Barre,Enosburg Falls,Vermont,51.03027106802773
+Barre,South Barre,Vermont,2.4415473827823515
+Barre,Lyndonville,Vermont,34.147507136559454
+Barre,East Barre,Vermont,4.508957662525073
+Barre,Orleans,Vermont,44.72255711802997
+Barre,Derby Center,Vermont,55.28306703631052
+Barre,Castleton Four Corners,Vermont,53.69228649567389
+Barre,Island Pond,Vermont,52.29963050359725
+Barre,Jeffersonville,Vermont,34.43052200764793
+Barre,Derby Line,Vermont,58.80633367709381
+Barre,Underhill Flats,Vermont,31.12700628044561
+Barre,Huntington,Vermont,25.425835287626303
+Barre,North Troy,Vermont,55.23970435408114
+Barre,Graniteville,Vermont,3.9249156302276376
+Barre,East Middlebury,Vermont,33.51892931957374
+Barre,Hartford Village,Vermont,37.989207654525366
+Barre,South Royalton,Vermont,26.756056659262327
+Barre,Killington Village,Vermont,40.357779048951194
+Barre,Saint George,Vermont,33.16306868759959
+Barre,Bakersfield,Vermont,42.763515767142984
+Barre,Ascutney,Vermont,54.900600899408694
+Barre,North Clarendon,Vermont,48.99919251872803
+Barre,North Hartland,Vermont,42.52330325081475
+Barre,West Woodstock,Vermont,40.686639927771516
+Barre,North Hyde Park,Vermont,32.74583804412023
+Barre,Proctorsville,Vermont,56.895278653397796
+Barre,Lunenburg,Vermont,44.72389307376227
+Barre,Quechee,Vermont,38.6012159221514
+Barre,Wells River,Vermont,22.437139474406187
+Barre,Lyndon Center,Vermont,33.81823297639552
+Barre,Greensboro Bend,Vermont,27.54285438297344
+Barre,Highgate Center,Vermont,57.34344222090911
+Barre,Waterbury Center,Vermont,16.194052636930085
+Barre,Lincoln,Vermont,25.032267553249394
+Barre,East Poultney,Vermont,58.266634075462605
+Barre,Websterville,Vermont,3.147433730548862
+Barre,Peacham,Vermont,18.927120878117382
+Barre,West Charlotte,Vermont,37.796667119155885
+Barre,Gilman,Vermont,41.985244059683986
+Barre,Westford,Vermont,37.59513368361771
+Barre,Newport Center,Vermont,52.93414571336262
+Barre,Sheffield,Vermont,33.75694802197293
+Barre,West Burke,Vermont,40.28491258725962
+Barre,Wolcott,Vermont,24.125951731310057
+Barre,New Haven,Vermont,32.33028260386765
+Barre,Bolton Valley,Vermont,22.883213091323576
+Barre,South Hero,Vermont,49.97712799990108
+Barre,East Charlotte,Vermont,34.83694960699332
+Barre,Chittenden,Vermont,40.69172896331973
+Barre,Sutton,Vermont,38.00529761197962
+Barre,South Lincoln,Vermont,24.98311683590512
+Barre,Middletown Springs,Vermont,58.039732181042716
+Barre,Huntington Center,Vermont,23.61364379612896
+Barre,Lyndon,Vermont,32.80801637523204
+Barre,East Burke,Vermont,38.83143884196954
+Barre,Underhill Center,Vermont,28.75582555862859
+Barre,Bolton,Vermont,22.256594187384195
+Barre,Hanksville,Vermont,22.766305799343662
+Barre,South Woodstock,Vermont,44.1326142569721
+Winooski,Montpelier,Vermont,34.2182839298451
+Winooski,St. Albans,Vermont,22.44035039394122
+Winooski,Newport,Vermont,56.92364051632412
+Winooski,Morrisville,Vermont,29.534434154481396
+Winooski,Vergennes,Vermont,22.94685716598104
+Winooski,Proctor,Vermont,57.458060469557445
+Winooski,Enosburg Falls,Vermont,34.19258770186524
+Winooski,South Barre,Vermont,40.72147446939066
+Winooski,Lyndonville,Vermont,58.50657314866588
+Winooski,East Barre,Vermont,43.512153754367226
+Winooski,Orleans,Vermont,53.108646602853575
+Winooski,Jeffersonville,Vermont,20.34100199579382
+Winooski,Underhill Flats,Vermont,11.936523362493078
+Winooski,Huntington,Vermont,15.070578152156825
+Winooski,North Troy,Vermont,51.724605068547056
+Winooski,Graniteville,Vermont,42.33898553892031
+Winooski,East Middlebury,Vermont,36.132715809616606
+Winooski,South Royalton,Vermont,57.677691247381574
+Winooski,Saint George,Vermont,8.570547779671461
+Winooski,Bakersfield,Vermont,27.333120646683494
+Winooski,North Hyde Park,Vermont,31.62013242013351
+Winooski,Lyndon Center,Vermont,57.89735878283905
+Winooski,Greensboro Bend,Vermont,45.66826053340629
+Winooski,Highgate Center,Vermont,31.363489892874778
+Winooski,Waterbury Center,Vermont,24.32069054830602
+Winooski,Lincoln,Vermont,28.673469393068707
+Winooski,Websterville,Vermont,42.08467475782453
+Winooski,Peacham,Vermont,51.372287749346505
+Winooski,West Charlotte,Vermont,13.228613251928973
+Winooski,Westford,Vermont,11.584494452954482
+Winooski,Newport Center,Vermont,53.555993246947914
+Winooski,Sheffield,Vermont,53.258277650140414
+Winooski,Wolcott,Vermont,35.896370899042154
+Winooski,New Haven,Vermont,25.477148034484532
+Winooski,Bolton Valley,Vermont,17.04929809190254
+Winooski,South Hero,Vermont,12.048201199912507
+Winooski,East Charlotte,Vermont,12.183860711938587
+Winooski,Chittenden,Vermont,55.84599477842916
+Winooski,Sutton,Vermont,57.85678361563752
+Winooski,South Lincoln,Vermont,31.440957650272914
+Winooski,Huntington Center,Vermont,17.73791043129877
+Winooski,Lyndon,Vermont,57.88956924743592
+Winooski,Underhill Center,Vermont,14.147589228771105
+Winooski,Bolton,Vermont,16.962136625997797
+Winooski,Hanksville,Vermont,20.115308155664728
+Winooski,Highgate Springs,Vermont,33.60488480239683
+Montpelier,St. Albans,Vermont,45.427189294023265
+Montpelier,Newport,Vermont,49.6860800579819
+Montpelier,Wilder,Vermont,42.374665112886106
+Montpelier,White River Junction,Vermont,44.21839389998888
+Montpelier,Morrisville,Vermont,20.21760941611183
+Montpelier,Vergennes,Vermont,34.65276193874104
+Montpelier,Proctor,Vermont,47.37320166595247
+Montpelier,Enosburg Falls,Vermont,45.79694541735721
+Montpelier,South Barre,Vermont,7.764507368541299
+Montpelier,Lyndonville,Vermont,33.78775167309223
+Montpelier,East Barre,Vermont,10.034270136705207
+Montpelier,Orleans,Vermont,41.72807832108489
+Montpelier,Derby Center,Vermont,52.20140831675026
+Montpelier,Castleton Four Corners,Vermont,55.342764580091035
+Montpelier,Island Pond,Vermont,50.69940815891563
+Montpelier,Jeffersonville,Vermont,28.944895446790902
+Montpelier,Derby Line,Vermont,55.74829204188786
+Montpelier,Underhill Flats,Vermont,25.681477605273802
+Montpelier,Huntington,Vermont,21.13428807832058
+Montpelier,North Troy,Vermont,51.10873090627371
+Montpelier,Graniteville,Vermont,9.387491952463371
+Montpelier,East Middlebury,Vermont,33.29548419151662
+Montpelier,Hartford Village,Vermont,43.1941284940577
+Montpelier,South Royalton,Vermont,31.442474532182658
+Montpelier,Killington Village,Vermont,43.80074144331484
+Montpelier,Saint George,Vermont,28.717221939996723
+Montpelier,Bakersfield,Vermont,37.432206510495796
+Montpelier,Ascutney,Vermont,59.798501355365474
+Montpelier,North Clarendon,Vermont,51.79169167978871
+Montpelier,North Hartland,Vermont,47.62752170104936
+Montpelier,West Woodstock,Vermont,45.20582808460552
+Montpelier,North Hyde Park,Vermont,27.935258746481804
+Montpelier,Lunenburg,Vermont,46.083895105650974
+Montpelier,Quechee,Vermont,43.57828690775452
+Montpelier,Wells River,Vermont,26.493206485318666
+Montpelier,Lyndon Center,Vermont,33.37289061255258
+Montpelier,Greensboro Bend,Vermont,25.27420136333611
+Montpelier,Highgate Center,Vermont,51.85526283320594
+Montpelier,Waterbury Center,Vermont,10.70177145318606
+Montpelier,Lincoln,Vermont,23.79910443980989
+Montpelier,Websterville,Vermont,8.68551928130568
+Montpelier,Peacham,Vermont,20.278183645893453
+Montpelier,West Charlotte,Vermont,34.00511798807604
+Montpelier,Gilman,Vermont,43.623885182517945
+Montpelier,Westford,Vermont,32.1024425081075
+Montpelier,Newport Center,Vermont,49.194035269573426
+Montpelier,Sheffield,Vermont,32.23626489532882
+Montpelier,West Burke,Vermont,39.20396244302684
+Montpelier,Wolcott,Vermont,20.19815103654882
+Montpelier,New Haven,Vermont,30.340405223862543
+Montpelier,Bolton Valley,Vermont,17.57737690091078
+Montpelier,South Hero,Vermont,44.70988489499077
+Montpelier,East Charlotte,Vermont,30.92088130333465
+Montpelier,Chittenden,Vermont,43.12836408859077
+Montpelier,Sutton,Vermont,36.776961878320726
+Montpelier,South Lincoln,Vermont,24.36304249424457
+Montpelier,Huntington Center,Vermont,19.692471980814407
+Montpelier,Lyndon,Vermont,32.57000334971607
+Montpelier,East Burke,Vermont,38.32863770847209
+Montpelier,Underhill Center,Vermont,23.278487424862007
+Montpelier,Bolton,Vermont,17.276681045855426
+Montpelier,Hanksville,Vermont,19.363106445685613
+Montpelier,South Woodstock,Vermont,48.72083910062204
+Montpelier,Highgate Springs,Vermont,55.78737896995744
+St. Albans,Newport,Vermont,43.86812510178054
+St. Albans,Morrisville,Vermont,29.884412970365297
+St. Albans,Vergennes,Vermont,45.36283279509047
+St. Albans,Enosburg Falls,Vermont,15.379587825552369
+St. Albans,South Barre,Vermont,53.12760557376032
+St. Albans,Lyndonville,Vermont,56.688565630404455
+St. Albans,East Barre,Vermont,55.44682031402489
+St. Albans,Orleans,Vermont,43.44292402603258
+St. Albans,Derby Center,Vermont,47.61375739897672
+St. Albans,Island Pond,Vermont,58.919102350535155
+St. Albans,Jeffersonville,Vermont,17.209617538061718
+St. Albans,Derby Line,Vermont,49.89500067491083
+St. Albans,Underhill Flats,Vermont,21.0721926963867
+St. Albans,Huntington,Vermont,33.78599753341322
+St. Albans,North Troy,Vermont,35.76798646223419
+St. Albans,Graniteville,Vermont,54.78140781393609
+St. Albans,East Middlebury,Vermont,57.821551766889534
+St. Albans,Saint George,Vermont,30.111804218460424
+St. Albans,Bakersfield,Vermont,14.002038180731278
+St. Albans,North Hyde Park,Vermont,26.12427826133658
+St. Albans,Lyndon Center,Vermont,56.04713735048641
+St. Albans,Greensboro Bend,Vermont,44.055769954424576
+St. Albans,Highgate Center,Vermont,8.923964451041865
+St. Albans,Waterbury Center,Vermont,34.932984404467334
+St. Albans,Lincoln,Vermont,49.16885953009427
+St. Albans,Websterville,Vermont,54.11238691187183
+St. Albans,Peacham,Vermont,56.00911930873002
+St. Albans,West Charlotte,Vermont,35.66042751962293
+St. Albans,Westford,Vermont,14.545030537792735
+St. Albans,Newport Center,Vermont,39.431526725957994
+St. Albans,Sheffield,Vermont,49.912698785811045
+St. Albans,West Burke,Vermont,55.661457851882275
+St. Albans,Wolcott,Vermont,35.716541558015656
+St. Albans,New Haven,Vermont,47.431073959850806
+St. Albans,Bolton Valley,Vermont,29.507715598527767
+St. Albans,South Hero,Vermont,15.560239167501443
+St. Albans,East Charlotte,Vermont,34.474960795431286
+St. Albans,Sutton,Vermont,53.55673333040119
+St. Albans,South Lincoln,Vermont,51.85133670861075
+St. Albans,Huntington Center,Vermont,36.46113745880833
+St. Albans,Lyndon,Vermont,56.63201136374481
+St. Albans,East Burke,Vermont,58.459975464702744
+St. Albans,Underhill Center,Vermont,22.898982016317763
+St. Albans,Bolton,Vermont,31.777624890797778
+St. Albans,Hanksville,Vermont,39.17935263180599
+St. Albans,Highgate Springs,Vermont,11.52834062450164
+Newport,Morrisville,Vermont,32.281981299564066
+Newport,Enosburg Falls,Vermont,29.189619970340438
+Newport,South Barre,Vermont,55.29693652655281
+Newport,Lyndonville,Vermont,29.58057229852233
+Newport,East Barre,Vermont,55.64036866920347
+Newport,Orleans,Vermont,8.861030528311563
+Newport,Derby Center,Vermont,3.7781155908815234
+Newport,Island Pond,Vermont,18.037431525679985
+Newport,Jeffersonville,Vermont,36.613644478642584
+Newport,Derby Line,Vermont,6.784770118447022
+Newport,Underhill Flats,Vermont,46.19826588265406
+Newport,Huntington,Vermont,57.03232457901106
+Newport,North Troy,Vermont,10.384884082572086
+Newport,Graniteville,Vermont,56.24741961927443
+Newport,Saint George,Vermont,59.63670894417971
+Newport,Bakersfield,Vermont,31.08584219272466
+Newport,North Hyde Park,Vermont,26.376427014561955
+Newport,Lunenburg,Vermont,42.15986210632523
+Newport,Wells River,Vermont,54.580757123774944
+Newport,Lyndon Center,Vermont,29.20434896115749
+Newport,Greensboro Bend,Vermont,26.311428869981793
+Newport,Highgate Center,Vermont,40.86047649561874
+Newport,Waterbury Center,Vermont,46.12103078351857
+Newport,Websterville,Vermont,55.10095139432539
+Newport,Peacham,Vermont,41.99313516865186
+Newport,Gilman,Vermont,43.57000035122211
+Newport,Westford,Vermont,45.544441203091324
+Newport,Newport Center,Vermont,4.899737287452404
+Newport,Sheffield,Vermont,23.756331329435014
+Newport,West Burke,Vermont,23.240008867576893
+Newport,Wolcott,Vermont,29.6374900328034
+Newport,Bolton Valley,Vermont,48.09693801944762
+Newport,South Hero,Vermont,57.32065415133981
+Newport,Sutton,Vermont,23.073828087544666
+Newport,Huntington Center,Vermont,58.238478429981015
+Newport,Lyndon,Vermont,30.675869703174275
+Newport,East Burke,Vermont,27.528547747514377
+Newport,Beecher Falls,Vermont,35.41569285457643
+Newport,Underhill Center,Vermont,45.075361712698175
+Newport,Bolton,Vermont,51.227137032976785
+Newport,Highgate Springs,Vermont,44.05041882029516
+Wilder,Bellows Falls,Vermont,38.32938889440952
+Wilder,West Brattleboro,Vermont,58.705392871502994
+Wilder,White River Junction,Vermont,2.1926313550638747
+Wilder,Vergennes,Vermont,57.62799681118097
+Wilder,Manchester Center,Vermont,49.96367432832647
+Wilder,Proctor,Vermont,36.27235046654151
+Wilder,South Barre,Vermont,34.707668325468106
+Wilder,East Barre,Vermont,33.09412943859238
+Wilder,Castleton Four Corners,Vermont,45.058355338393056
+Wilder,Saxtons River,Vermont,38.62207937660983
+Wilder,Huntington,Vermont,55.84092624575086
+Wilder,Graniteville,Vermont,33.203591073552715
+Wilder,East Middlebury,Vermont,44.332271133288536
+Wilder,Hartford Village,Vermont,1.5093284648465841
+Wilder,South Royalton,Vermont,13.484194456457406
+Wilder,Killington Village,Vermont,23.560363144374058
+Wilder,North Springfield,Vermont,26.384476583472384
+Wilder,Ascutney,Vermont,19.343348046343397
+Wilder,North Clarendon,Vermont,33.43715830757672
+Wilder,North Hartland,Vermont,6.335277301614346
+Wilder,West Woodstock,Vermont,12.687284528185549
+Wilder,Proctorsville,Vermont,26.198889827587944
+Wilder,Quechee,Vermont,5.663272281923105
+Wilder,Wells River,Vermont,35.07961907983535
+Wilder,Pawlet,Vermont,48.809710689216246
+Wilder,West Pawlet,Vermont,51.77608933519519
+Wilder,Waterbury Center,Vermont,52.19905975506138
+Wilder,Lincoln,Vermont,44.63910304823846
+Wilder,East Poultney,Vermont,46.09662490298427
+Wilder,East Dorset,Vermont,45.90948223058959
+Wilder,Websterville,Vermont,34.14830268791664
+Wilder,Peacham,Vermont,45.39522359354186
+Wilder,Harmonyville,Vermont,47.75416530048884
+Wilder,Gilman,Vermont,58.803670718908826
+Wilder,South Londonderry,Vermont,42.00471114702258
+Wilder,Danby,Vermont,41.17332243463428
+Wilder,Townshend,Vermont,47.191296901897445
+Wilder,New Haven,Vermont,51.79787889497451
+Wilder,Bolton Valley,Vermont,57.52217587554502
+Wilder,Chittenden,Vermont,31.73138619711306
+Wilder,South Lincoln,Vermont,42.25399527753703
+Wilder,Middletown Springs,Vermont,42.62556903451286
+Wilder,North Westminster,Vermont,39.181973001667764
+Wilder,Huntington Center,Vermont,53.16057186343294
+Wilder,Lyndon,Vermont,59.59455158860163
+Wilder,Wardsboro,Vermont,49.985979545099006
+Wilder,Grafton,Vermont,38.129882433996805
+Wilder,Jamaica,Vermont,46.46882405289973
+Wilder,Londonderry,Vermont,39.84065604995405
+Wilder,West Dummerston,Vermont,53.91592165733927
+Wilder,Stratton Mountain,Vermont,48.80555191072534
+Wilder,Weston,Vermont,35.99918144619452
+Wilder,Bolton,Vermont,55.66166853907699
+Wilder,Hanksville,Vermont,50.865901379398146
+Wilder,South Woodstock,Vermont,13.593277547117788
+Bellows Falls,West Brattleboro,Vermont,20.61368226576682
+Bellows Falls,White River Junction,Vermont,36.148226962667586
+Bellows Falls,Manchester Center,Vermont,29.590443402142654
+Bellows Falls,Proctor,Vermont,47.23462005383329
+Bellows Falls,North Bennington,Vermont,42.37703483738378
+Bellows Falls,Castleton Four Corners,Vermont,50.27336116821623
+Bellows Falls,Saxtons River,Vermont,2.8086302602123308
+Bellows Falls,Pownal,Vermont,47.06955477678625
+Bellows Falls,Stamford,Vermont,39.989816806570865
+Bellows Falls,Pownal Center,Vermont,45.27369920822917
+Bellows Falls,Hartford Village,Vermont,37.03134558353773
+Bellows Falls,South Royalton,Vermont,46.89794710905087
+Bellows Falls,Killington Village,Vermont,39.3137604846092
+Bellows Falls,North Springfield,Vermont,14.019184048341653
+Bellows Falls,Ascutney,Vermont,19.042026482822664
+Bellows Falls,South Shaftsbury,Vermont,40.109647039147305
+Bellows Falls,North Clarendon,Vermont,39.72274604696994
+Bellows Falls,North Hartland,Vermont,32.07631890515724
+Bellows Falls,West Woodstock,Vermont,33.277741931372
+Bellows Falls,North Pownal,Vermont,47.027782358889645
+Bellows Falls,Proctorsville,Vermont,19.349468490960852
+Bellows Falls,Quechee,Vermont,35.262696877277214
+Bellows Falls,Pawlet,Vermont,39.184853504758074
+Bellows Falls,West Pawlet,Vermont,42.832457777615566
+Bellows Falls,East Poultney,Vermont,46.69874085535717
+Bellows Falls,East Dorset,Vermont,28.903614027947572
+Bellows Falls,Jacksonville,Vermont,29.688473968627086
+Bellows Falls,Algiers,Vermont,22.68756216829841
+Bellows Falls,Harmonyville,Vermont,12.596511149737967
+Bellows Falls,South Londonderry,Vermont,18.440122703910326
+Bellows Falls,Danby,Vermont,30.877492431912632
+Bellows Falls,Townshend,Vermont,12.403219045856778
+Bellows Falls,Old Bennington,Vermont,42.14800154309375
+Bellows Falls,Chittenden,Vermont,46.52568162149703
+Bellows Falls,Middletown Springs,Vermont,41.538763802315124
+Bellows Falls,North Westminster,Vermont,0.8631292040926102
+Bellows Falls,Whitingham,Vermont,32.24188099873309
+Bellows Falls,Wardsboro,Vermont,18.021081583802037
+Bellows Falls,Grafton,Vermont,8.145874715251942
+Bellows Falls,Jamaica,Vermont,16.55209575440609
+Bellows Falls,Londonderry,Vermont,18.97693389943364
+Bellows Falls,West Dummerston,Vermont,16.22153789369013
+Bellows Falls,Stratton Mountain,Vermont,22.65913249834067
+Bellows Falls,Weston,Vermont,20.1458851560818
+Bellows Falls,Chimney Hill,Vermont,28.368545711383423
+Bellows Falls,South Woodstock,Vermont,29.691289283818556
+West Brattleboro,White River Junction,Vermont,56.51404323180404
+West Brattleboro,Manchester Center,Vermont,31.502737624883352
+West Brattleboro,North Bennington,Vermont,32.7879417499445
+West Brattleboro,Saxtons River,Vermont,20.085926396203547
+West Brattleboro,Pownal,Vermont,32.80774660077393
+West Brattleboro,Stamford,Vermont,24.034335617688388
+West Brattleboro,Pownal Center,Vermont,31.73666031191555
+West Brattleboro,Hartford Village,Vermont,57.35656264733743
+West Brattleboro,Killington Village,Vermont,55.627788038710925
+West Brattleboro,North Springfield,Vermont,32.9690045075117
+West Brattleboro,Ascutney,Vermont,39.3641986431934
+West Brattleboro,South Shaftsbury,Vermont,31.022966258982784
+West Brattleboro,North Clarendon,Vermont,52.76864405358216
+West Brattleboro,North Hartland,Vermont,52.393738802332535
+West Brattleboro,West Woodstock,Vermont,52.20952510972789
+West Brattleboro,North Pownal,Vermont,33.77801758726356
+West Brattleboro,Proctorsville,Vermont,36.292741568946035
+West Brattleboro,Quechee,Vermont,55.22029248619652
+West Brattleboro,Pawlet,Vermont,44.643490834774155
+West Brattleboro,West Pawlet,Vermont,47.58045102472128
+West Brattleboro,East Poultney,Vermont,55.54337511463288
+West Brattleboro,East Dorset,Vermont,33.79403932323137
+West Brattleboro,Jacksonville,Vermont,11.75618948571764
+West Brattleboro,Algiers,Vermont,2.8890662448337743
+West Brattleboro,Harmonyville,Vermont,12.927698745366762
+West Brattleboro,South Londonderry,Vermont,25.422435781669332
+West Brattleboro,Danby,Vermont,39.18762151534663
+West Brattleboro,Townshend,Vermont,13.627020316497541
+West Brattleboro,Old Bennington,Vermont,31.1626838067605
+West Brattleboro,Middletown Springs,Vermont,50.882152851956455
+West Brattleboro,North Westminster,Vermont,19.804057696296223
+West Brattleboro,Whitingham,Vermont,15.031361027351034
+West Brattleboro,Wardsboro,Vermont,16.053440812902693
+West Brattleboro,Grafton,Vermont,21.726309280389042
+West Brattleboro,Jamaica,Vermont,18.92786191099952
+West Brattleboro,Londonderry,Vermont,27.71986336621857
+West Brattleboro,West Dummerston,Vermont,5.138531472487629
+West Brattleboro,Stratton Mountain,Vermont,23.60246789543866
+West Brattleboro,Weston,Vermont,31.50354791636653
+West Brattleboro,Chimney Hill,Vermont,15.510442040754352
+West Brattleboro,South Woodstock,Vermont,48.78801241103721
+White River Junction,Vergennes,Vermont,58.40493905776217
+White River Junction,Manchester Center,Vermont,48.087913260186596
+White River Junction,Proctor,Vermont,35.68628573461
+White River Junction,South Barre,Vermont,36.59078624045632
+White River Junction,East Barre,Vermont,35.04994507504583
+White River Junction,Castleton Four Corners,Vermont,44.2823756278732
+White River Junction,Saxtons River,Vermont,36.43027938002138
+White River Junction,Huntington,Vermont,57.19212785825173
+White River Junction,Graniteville,Vermont,35.110475876338896
+White River Junction,East Middlebury,Vermont,44.81518773904128
+White River Junction,Hartford Village,Vermont,1.0288154631418016
+White River Junction,South Royalton,Vermont,14.590362869480687
+White River Junction,Killington Village,Vermont,22.864159681106432
+White River Junction,North Springfield,Vermont,24.21261582038089
+White River Junction,Ascutney,Vermont,17.15330624988168
+White River Junction,North Clarendon,Vermont,32.43501937257588
+White River Junction,North Hartland,Vermont,4.146513929746297
+White River Junction,West Woodstock,Vermont,11.461545282033358
+White River Junction,Proctorsville,Vermont,24.177202070495014
+White River Junction,Quechee,Vermont,4.497295396803964
+White River Junction,Wells River,Vermont,37.26435650198545
+White River Junction,Pawlet,Vermont,47.31473118845052
+White River Junction,West Pawlet,Vermont,50.35361833454896
+White River Junction,Waterbury Center,Vermont,53.92692036223875
+White River Junction,Lincoln,Vermont,45.603238635235485
+White River Junction,East Poultney,Vermont,45.06531805682642
+White River Junction,East Dorset,Vermont,44.089876511985835
+White River Junction,Websterville,Vermont,36.07527404198565
+White River Junction,Algiers,Vermont,58.76418082986377
+White River Junction,Peacham,Vermont,47.5716700317008
+White River Junction,Harmonyville,Vermont,45.57217967875772
+White River Junction,South Londonderry,Vermont,39.95597575766777
+White River Junction,Danby,Vermont,39.514740225238214
+White River Junction,Townshend,Vermont,45.011337135604336
+White River Junction,New Haven,Vermont,52.608886319377845
+White River Junction,Bolton Valley,Vermont,59.12100699529814
+White River Junction,Chittenden,Vermont,31.30934654199247
+White River Junction,South Lincoln,Vermont,43.157126244793595
+White River Junction,Middletown Springs,Vermont,41.43215224038138
+White River Junction,North Westminster,Vermont,37.0016093561666
+White River Junction,Huntington Center,Vermont,54.49173576553001
+White River Junction,Wardsboro,Vermont,47.84657311627844
+White River Junction,Grafton,Vermont,35.95236421321469
+White River Junction,Jamaica,Vermont,44.34420774535508
+White River Junction,Londonderry,Vermont,37.82148854528931
+White River Junction,West Dummerston,Vermont,51.72329054183479
+White River Junction,Stratton Mountain,Vermont,46.7675813219048
+White River Junction,Weston,Vermont,34.034261752454654
+White River Junction,Bolton,Vermont,57.18992370160921
+White River Junction,Hanksville,Vermont,52.14941494409619
+White River Junction,South Woodstock,Vermont,11.90173130828996
+Morrisville,Vergennes,Vermont,42.52931728813591
+Morrisville,Enosburg Falls,Vermont,26.271782851308522
+Morrisville,South Barre,Vermont,27.542674215475678
+Morrisville,Lyndonville,Vermont,29.255800717827704
+Morrisville,East Barre,Vermont,29.074095068868296
+Morrisville,Orleans,Vermont,25.94124006510016
+Morrisville,Derby Center,Vermont,35.43952144277107
+Morrisville,Island Pond,Vermont,39.00453101357528
+Morrisville,Jeffersonville,Vermont,12.9710656711651
+Morrisville,Derby Line,Vermont,38.908544408884346
+Morrisville,Underhill Flats,Vermont,17.599836120376477
+Morrisville,Huntington,Vermont,25.252495182473236
+Morrisville,North Troy,Vermont,31.64794720195367
+Morrisville,Graniteville,Vermont,28.978398133591444
+Morrisville,East Middlebury,Vermont,47.63649432100531
+Morrisville,South Royalton,Vermont,51.65179179419665
+Morrisville,Saint George,Vermont,29.34134547314448
+Morrisville,Bakersfield,Vermont,18.595005673084863
+Morrisville,North Hyde Park,Vermont,7.726684672947498
+Morrisville,Lunenburg,Vermont,45.65094095372465
+Morrisville,Wells River,Vermont,38.39365580284007
+Morrisville,Lyndon Center,Vermont,28.629410647428752
+Morrisville,Greensboro Bend,Vermont,16.242112023356764
+Morrisville,Highgate Center,Vermont,34.25374677711457
+Morrisville,Waterbury Center,Vermont,13.95445667054993
+Morrisville,Lincoln,Vermont,37.187403137550675
+Morrisville,Websterville,Vermont,28.00800294543105
+Morrisville,Peacham,Vermont,26.126807435838128
+Morrisville,West Charlotte,Vermont,36.939479919414325
+Morrisville,Gilman,Vermont,44.51618332504118
+Morrisville,Westford,Vermont,20.9094660550359
+Morrisville,Newport Center,Vermont,30.672315622225113
+Morrisville,Sheffield,Vermont,23.72702292142881
+Morrisville,West Burke,Vermont,30.85552202666695
+Morrisville,Wolcott,Vermont,6.539308174487741
+Morrisville,New Haven,Vermont,40.646039923343395
+Morrisville,Bolton Valley,Vermont,16.3214897031687
+Morrisville,South Hero,Vermont,35.48883692931301
+Morrisville,East Charlotte,Vermont,33.887143521833295
+Morrisville,Sutton,Vermont,28.32941566519465
+Morrisville,South Lincoln,Vermont,38.95298242550941
+Morrisville,Huntington Center,Vermont,26.152225920868787
+Morrisville,Lyndon,Vermont,28.791802916784512
+Morrisville,East Burke,Vermont,32.29223000084881
+Morrisville,Underhill Center,Vermont,15.48782768264511
+Morrisville,Bolton,Vermont,19.25888267243804
+Morrisville,Hanksville,Vermont,27.94646240070753
+Morrisville,Highgate Springs,Vermont,38.41514628143595
+Vergennes,Proctor,Vermont,35.97458349634174
+Vergennes,Enosburg Falls,Vermont,55.90080704339945
+Vergennes,South Barre,Vermont,37.368810051999155
+Vergennes,East Barre,Vermont,40.073262570604136
+Vergennes,Castleton Four Corners,Vermont,38.4462572213403
+Vergennes,Jeffersonville,Vermont,39.106342236339415
+Vergennes,Underhill Flats,Vermont,29.016008984003744
+Vergennes,Huntington,Vermont,17.277511971673174
+Vergennes,Graniteville,Vermont,38.49294024328433
+Vergennes,East Middlebury,Vermont,15.214691064415964
+Vergennes,Hartford Village,Vermont,57.524760384357805
+Vergennes,South Royalton,Vermont,44.260820809082134
+Vergennes,Killington Village,Vermont,42.66620143683345
+Vergennes,Saint George,Vermont,15.821679707500964
+Vergennes,Bakersfield,Vermont,48.03933613807379
+Vergennes,North Clarendon,Vermont,43.489128666105174
+Vergennes,North Hartland,Vermont,59.78638844969463
+Vergennes,West Woodstock,Vermont,52.01666783946174
+Vergennes,North Hyde Park,Vermont,47.81720191985246
+Vergennes,Quechee,Vermont,55.18269176655368
+Vergennes,Wells River,Vermont,59.36190094221973
+Vergennes,Pawlet,Vermont,56.64125998917162
+Vergennes,West Pawlet,Vermont,55.84739171041244
+Vergennes,Greensboro Bend,Vermont,56.0652876605192
+Vergennes,Highgate Center,Vermont,54.27776625915092
+Vergennes,Waterbury Center,Vermont,30.292057667595625
+Vergennes,Lincoln,Vermont,13.748080867723141
+Vergennes,East Poultney,Vermont,44.27729745325304
+Vergennes,Websterville,Vermont,38.88653665737173
+Vergennes,Peacham,Vermont,54.926735617356066
+Vergennes,West Charlotte,Vermont,9.908084425067589
+Vergennes,Westford,Vermont,32.797993026259626
+Vergennes,Danby,Vermont,58.1808283752095
+Vergennes,Wolcott,Vermont,47.32684876086189
+Vergennes,New Haven,Vermont,5.8859908937237915
+Vergennes,Bolton Valley,Vermont,26.23387618766587
+Vergennes,South Hero,Vermont,33.323944910382785
+Vergennes,East Charlotte,Vermont,10.97660945892588
+Vergennes,Chittenden,Vermont,35.39993869900051
+Vergennes,South Lincoln,Vermont,15.624955632450074
+Vergennes,Middletown Springs,Vermont,47.40506156716018
+Vergennes,Huntington Center,Vermont,16.69377259794689
+Vergennes,Underhill Center,Vermont,29.477501199963125
+Vergennes,Bolton,Vermont,23.29018514845688
+Vergennes,Hanksville,Vermont,15.749957791972854
+Vergennes,South Woodstock,Vermont,55.268086459952634
+Vergennes,Highgate Springs,Vermont,56.54130427908799
+Manchester Center,Proctor,Vermont,33.627427021758486
+Manchester Center,North Bennington,Vermont,20.59250277686349
+Manchester Center,Castleton Four Corners,Vermont,30.843767230740823
+Manchester Center,Saxtons River,Vermont,26.781815074827783
+Manchester Center,Pownal,Vermont,30.475250520309064
+Manchester Center,Stamford,Vermont,29.181356342370155
+Manchester Center,Pownal Center,Vermont,28.127484866747498
+Manchester Center,East Middlebury,Vermont,54.82585663606359
+Manchester Center,Hartford Village,Vermont,48.4632188195831
+Manchester Center,South Royalton,Vermont,50.793928370046224
+Manchester Center,Killington Village,Vermont,34.73648855864513
+Manchester Center,North Springfield,Vermont,27.65935502227098
+Manchester Center,Ascutney,Vermont,35.386917824252954
+Manchester Center,South Shaftsbury,Vermont,18.611147979202723
+Manchester Center,North Clarendon,Vermont,27.168179051365193
+Manchester Center,North Hartland,Vermont,44.45654076326797
+Manchester Center,West Woodstock,Vermont,38.41717029332362
+Manchester Center,North Pownal,Vermont,28.832228912472598
+Manchester Center,Proctorsville,Vermont,24.390596578000785
+Manchester Center,Quechee,Vermont,44.59026957454347
+Manchester Center,Pawlet,Vermont,13.39873265419361
+Manchester Center,West Pawlet,Vermont,16.09684386895183
+Manchester Center,East Poultney,Vermont,25.303765230458342
+Manchester Center,East Dorset,Vermont,4.605280732704771
+Manchester Center,Jacksonville,Vermont,28.73694729812434
+Manchester Center,Algiers,Vermont,34.25486394751314
+Manchester Center,Harmonyville,Vermont,21.26931458222652
+Manchester Center,South Londonderry,Vermont,11.385461623081632
+Manchester Center,Danby,Vermont,11.466521410350277
+Manchester Center,Townshend,Vermont,20.800161534697697
+Manchester Center,Old Bennington,Vermont,22.39642535903998
+Manchester Center,Chittenden,Vermont,36.29730429546468
+Manchester Center,Middletown Springs,Vermont,21.46594000038129
+Manchester Center,North Westminster,Vermont,29.681595531008494
+Manchester Center,Whitingham,Vermont,28.208695917825494
+Manchester Center,Wardsboro,Vermont,15.770934685311719
+Manchester Center,Grafton,Vermont,21.662998031312945
+Manchester Center,Jamaica,Vermont,14.310543792297734
+Manchester Center,Londonderry,Vermont,11.969092472613626
+Manchester Center,West Dummerston,Vermont,27.635865395325737
+Manchester Center,Stratton Mountain,Vermont,8.141277287027995
+Manchester Center,Weston,Vermont,14.440781939181914
+Manchester Center,Chimney Hill,Vermont,21.32918603004786
+Manchester Center,South Woodstock,Vermont,36.470695366242744
+Proctor,North Bennington,Vermont,52.42183456732322
+Proctor,South Barre,Vermont,43.448145528589
+Proctor,East Barre,Vermont,44.403066586835244
+Proctor,Castleton Four Corners,Vermont,9.43036316795898
+Proctor,Underhill Flats,Vermont,59.15569219012765
+Proctor,Saxtons River,Vermont,45.2952870325946
+Proctor,Huntington,Vermont,45.52215337759114
+Proctor,Graniteville,Vermont,43.164235620879715
+Proctor,East Middlebury,Vermont,21.33816887081002
+Proctor,Hartford Village,Vermont,35.28858724497676
+Proctor,South Royalton,Vermont,28.076642916345506
+Proctor,Killington Village,Vermont,12.865322146405324
+Proctor,North Springfield,Vermont,34.79730912244797
+Proctor,Saint George,Vermont,49.077942077469345
+Proctor,Ascutney,Vermont,36.56714849941952
+Proctor,South Shaftsbury,Vermont,50.911663183874936
+Proctor,North Clarendon,Vermont,7.64542804681026
+Proctor,North Hartland,Vermont,34.628663108294084
+Proctor,West Woodstock,Vermont,24.849949354825217
+Proctor,Proctorsville,Vermont,28.386868284126365
+Proctor,Quechee,Vermont,31.228405502245003
+Proctor,Wells River,Vermont,59.223551509150674
+Proctor,Pawlet,Vermont,23.157926144911116
+Proctor,West Pawlet,Vermont,23.882950677164867
+Proctor,Waterbury Center,Vermont,51.47009535229963
+Proctor,Lincoln,Vermont,30.03394192100469
+Proctor,East Poultney,Vermont,13.0636335254082
+Proctor,East Dorset,Vermont,29.32661690872986
+Proctor,Websterville,Vermont,44.25964341779837
+Proctor,West Charlotte,Vermont,45.51093005239384
+Proctor,Harmonyville,Vermont,47.533272675276066
+Proctor,South Londonderry,Vermont,34.99293615464789
+Proctor,Danby,Vermont,22.47938221670191
+Proctor,Townshend,Vermont,46.841924329912686
+Proctor,New Haven,Vermont,32.06422561028559
+Proctor,Bolton Valley,Vermont,52.406862974180456
+Proctor,Old Bennington,Vermont,54.84777335246217
+Proctor,East Charlotte,Vermont,45.45132246711024
+Proctor,Chittenden,Vermont,5.157790919300842
+Proctor,South Lincoln,Vermont,27.53621467147618
+Proctor,Middletown Springs,Vermont,13.271874119984668
+Proctor,North Westminster,Vermont,47.90144497136899
+Proctor,Huntington Center,Vermont,43.06474086598819
+Proctor,Wardsboro,Vermont,45.0089535035118
+Proctor,Grafton,Vermont,40.707380372888764
+Proctor,Jamaica,Vermont,41.60836226100118
+Proctor,Londonderry,Vermont,32.62711418656205
+Proctor,West Dummerston,Vermont,55.398821230576694
+Proctor,Stratton Mountain,Vermont,38.74197749719766
+Proctor,Underhill Center,Vermont,58.34722493217264
+Proctor,Weston,Vermont,28.970758099911716
+Proctor,Chimney Hill,Vermont,54.30477072269562
+Proctor,Bolton,Vermont,49.2871590545253
+Proctor,Hanksville,Vermont,40.395911641068096
+Proctor,South Woodstock,Vermont,26.57426154637939
+Enosburg Falls,South Barre,Vermont,53.429468991025786
+Enosburg Falls,Lyndonville,Vermont,47.10222404561122
+Enosburg Falls,East Barre,Vermont,55.182821855408434
+Enosburg Falls,Orleans,Vermont,30.327002805967837
+Enosburg Falls,Derby Center,Vermont,32.85065179028221
+Enosburg Falls,Island Pond,Vermont,45.489527101709236
+Enosburg Falls,Jeffersonville,Vermont,18.383211272918597
+Enosburg Falls,Derby Line,Vermont,34.868106915179574
+Enosburg Falls,Underhill Flats,Vermont,27.516502705208033
+Enosburg Falls,Huntington,Vermont,41.15294251919343
+Enosburg Falls,North Troy,Vermont,20.477074514677255
+Enosburg Falls,Graniteville,Vermont,54.94900028403896
+Enosburg Falls,Saint George,Vermont,40.0793710283763
+Enosburg Falls,Bakersfield,Vermont,8.71443816233156
+Enosburg Falls,North Hyde Park,Vermont,19.412377779192063
+Enosburg Falls,Lyndon Center,Vermont,46.48855913735557
+Enosburg Falls,Greensboro Bend,Vermont,35.866351380371746
+Enosburg Falls,Highgate Center,Vermont,11.921339262036442
+Enosburg Falls,Waterbury Center,Vermont,36.83844338877482
+Enosburg Falls,Lincoln,Vermont,56.41407226871336
+Enosburg Falls,Websterville,Vermont,54.04278615282626
+Enosburg Falls,Peacham,Vermont,50.61920378941119
+Enosburg Falls,West Charlotte,Vermont,46.950147034424354
+Enosburg Falls,Westford,Vermont,23.1451366679396
+Enosburg Falls,Newport Center,Vermont,24.52720911353234
+Enosburg Falls,Sheffield,Vermont,39.9450247755073
+Enosburg Falls,West Burke,Vermont,44.44559394198057
+Enosburg Falls,Wolcott,Vermont,30.03205667126223
+Enosburg Falls,New Haven,Vermont,56.652721344994376
+Enosburg Falls,Bolton Valley,Vermont,34.05989026728788
+Enosburg Falls,South Hero,Vermont,30.42777125562004
+Enosburg Falls,East Charlotte,Vermont,45.00981638437487
+Enosburg Falls,Sutton,Vermont,42.71830847856117
+Enosburg Falls,South Lincoln,Vermont,58.83999157854609
+Enosburg Falls,Huntington Center,Vermont,43.41778429842843
+Enosburg Falls,Lyndon,Vermont,47.39197480895227
+Enosburg Falls,East Burke,Vermont,47.8654456858448
+Enosburg Falls,Underhill Center,Vermont,28.0447258500088
+Enosburg Falls,Bolton,Vermont,37.107379219364674
+Enosburg Falls,Hanksville,Vermont,46.0302673176759
+Enosburg Falls,Highgate Springs,Vermont,15.623854190972988
+North Bennington,Castleton Four Corners,Vermont,47.416495769043465
+North Bennington,Saxtons River,Vermont,39.87821950997733
+North Bennington,Pownal,Vermont,10.95842735721027
+North Bennington,Stamford,Vermont,14.736163721208426
+North Bennington,Pownal Center,Vermont,8.775462584793075
+North Bennington,Killington Village,Vermont,55.17333381224418
+North Bennington,North Springfield,Vermont,45.696388268700865
+North Bennington,Ascutney,Vermont,53.783704012248236
+North Bennington,South Shaftsbury,Vermont,2.307949076625724
+North Bennington,North Clarendon,Vermont,46.840509935976954
+North Bennington,West Woodstock,Vermont,58.8388911600134
+North Bennington,North Pownal,Vermont,8.734654231818276
+North Bennington,Proctorsville,Vermont,43.89207292639845
+North Bennington,Pawlet,Vermont,29.470379299579214
+North Bennington,West Pawlet,Vermont,29.92665468428279
+North Bennington,East Poultney,Vermont,41.57902231243775
+North Bennington,East Dorset,Vermont,25.1284245072013
+North Bennington,Jacksonville,Vermont,23.133178696802858
+North Bennington,Algiers,Vermont,34.495128940071574
+North Bennington,Harmonyville,Vermont,30.191753388823994
+North Bennington,South Londonderry,Vermont,28.467965494466164
+North Bennington,Danby,Vermont,31.634153486747167
+North Bennington,Townshend,Vermont,30.20138295240537
+North Bennington,Old Bennington,Vermont,3.028461847670878
+North Bennington,Chittenden,Vermont,55.81104570523346
+North Bennington,Middletown Springs,Vermont,39.284441548167344
+North Bennington,North Westminster,Vermont,42.073768640170954
+North Bennington,Whitingham,Vermont,20.41019874693759
+North Bennington,Wardsboro,Vermont,24.357091677675623
+North Bennington,Grafton,Vermont,36.274676285528706
+North Bennington,Jamaica,Vermont,26.322131783989793
+North Bennington,Londonderry,Vermont,30.32304932808846
+North Bennington,West Dummerston,Vermont,31.874421328382745
+North Bennington,Stratton Mountain,Vermont,21.716940117852754
+North Bennington,Weston,Vermont,33.988854717859155
+North Bennington,Chimney Hill,Vermont,17.27751686371013
+North Bennington,South Woodstock,Vermont,56.68110787755446
+South Barre,Lyndonville,Vermont,35.682307566751646
+South Barre,East Barre,Vermont,2.8671683335635048
+South Barre,Orleans,Vermont,46.94259670828441
+South Barre,Derby Center,Vermont,57.50896560237174
+South Barre,Castleton Four Corners,Vermont,52.04074294613472
+South Barre,Island Pond,Vermont,54.158311447059816
+South Barre,Jeffersonville,Vermont,36.70938399147498
+South Barre,Underhill Flats,Vermont,33.07223654179657
+South Barre,Huntington,Vermont,26.584338563762376
+South Barre,North Troy,Vermont,57.639677280167454
+South Barre,Graniteville,Vermont,1.6710243956310349
+South Barre,East Middlebury,Vermont,32.68526229896504
+South Barre,Hartford Village,Vermont,35.570775618697446
+South Barre,South Royalton,Vermont,24.330419298918233
+South Barre,Killington Village,Vermont,38.1702003433497
+South Barre,North Springfield,Vermont,57.60465695481824
+South Barre,Saint George,Vermont,34.353525894781114
+South Barre,Bakersfield,Vermont,45.13323659129997
+South Barre,Ascutney,Vermont,52.45906235541098
+South Barre,North Clarendon,Vermont,46.9821670281605
+South Barre,North Hartland,Vermont,40.09066294693572
+South Barre,West Woodstock,Vermont,38.27371172749117
+South Barre,North Hyde Park,Vermont,35.18627809309807
+South Barre,Proctorsville,Vermont,54.50977822642155
+South Barre,Lunenburg,Vermont,45.54533110763983
+South Barre,Quechee,Vermont,36.16026930910912
+South Barre,Wells River,Vermont,21.996855572710516
+South Barre,Lyndon Center,Vermont,35.38348381470233
+South Barre,Greensboro Bend,Vermont,29.653147243732974
+South Barre,Highgate Center,Vermont,59.61932555181852
+South Barre,Waterbury Center,Vermont,18.248057130508325
+South Barre,Lincoln,Vermont,24.731473504113875
+South Barre,East Poultney,Vermont,56.49796866768988
+South Barre,Websterville,Vermont,1.5272989621164688
+South Barre,Peacham,Vermont,20.003619053170453
+South Barre,West Charlotte,Vermont,38.59529351762239
+South Barre,Gilman,Vermont,42.69698588602214
+South Barre,Westford,Vermont,39.60146717237143
+South Barre,Newport Center,Vermont,55.282091456744794
+South Barre,Sheffield,Vermont,35.648994848852986
+South Barre,West Burke,Vermont,42.021824170551376
+South Barre,Wolcott,Vermont,26.52683232790838
+South Barre,New Haven,Vermont,32.28275750336647
+South Barre,Bolton Valley,Vermont,24.710573815796003
+South Barre,South Hero,Vermont,51.7034791509722
+South Barre,East Charlotte,Vermont,35.719227728073115
+South Barre,Chittenden,Vermont,38.80673761737393
+South Barre,Sutton,Vermont,39.79538339326203
+South Barre,South Lincoln,Vermont,24.414683864964577
+South Barre,Middletown Springs,Vermont,56.12659760390403
+South Barre,Huntington Center,Vermont,24.596234104305175
+South Barre,Lyndon,Vermont,34.310028162409075
+South Barre,East Burke,Vermont,40.38977097825034
+South Barre,Underhill Center,Vermont,30.749462024760827
+South Barre,Bolton,Vermont,23.849270673918543
+South Barre,Hanksville,Vermont,23.502858902550685
+South Barre,South Woodstock,Vermont,41.71048373850882
+Lyndonville,East Barre,Vermont,34.64092896329879
+Lyndonville,Orleans,Vermont,21.312457735080976
+Lyndonville,Derby Center,Vermont,29.73252588767967
+Lyndonville,Island Pond,Vermont,19.981970297708788
+Lyndonville,Jeffersonville,Vermont,41.452413885637064
+Lyndonville,Derby Line,Vermont,32.54472862908848
+Lyndonville,Underhill Flats,Vermont,46.663366225384024
+Lyndonville,Huntington,Vermont,50.91789158966166
+Lyndonville,North Troy,Vermont,37.489267005249474
+Lyndonville,Graniteville,Vermont,35.86926870940354
+Lyndonville,South Royalton,Vermont,56.05669577398384
+Lyndonville,Saint George,Vermont,56.856792901429245
+Lyndonville,Bakersfield,Vermont,43.02501721637775
+Lyndonville,North Hyde Park,Vermont,30.6103671048316
+Lyndonville,Lunenburg,Vermont,16.774260744997395
+Lyndonville,Wells River,Vermont,26.49349665806746
+Lyndonville,Lyndon Center,Vermont,0.6429069452342233
+Lyndonville,Greensboro Bend,Vermont,13.064379071710398
+Lyndonville,Highgate Center,Vermont,58.258180234637024
+Lyndonville,Waterbury Center,Vermont,37.17982795459644
+Lyndonville,Lincoln,Vermont,57.5229731386561
+Lyndonville,Websterville,Vermont,34.78403780926486
+Lyndonville,Peacham,Vermont,16.514830181173906
+Lyndonville,Gilman,Vermont,16.44455343334369
+Lyndonville,Westford,Vermont,50.08334268920808
+Lyndonville,Newport Center,Vermont,32.5034958771564
+Lyndonville,Sheffield,Vermont,7.187907419657535
+Lyndonville,West Burke,Vermont,7.5394889043416615
+Lyndonville,Wolcott,Vermont,22.73228270977517
+Lyndonville,Bolton Valley,Vermont,43.097397355105684
+Lyndonville,Sutton,Vermont,6.6094330138218735
+Lyndonville,South Lincoln,Vermont,58.1487671018188
+Lyndonville,Huntington Center,Vermont,50.67764770526436
+Lyndonville,Lyndon,Vermont,1.4779352745048353
+Lyndonville,East Burke,Vermont,4.719987571565471
+Lyndonville,Beecher Falls,Vermont,41.180740236268704
+Lyndonville,Underhill Center,Vermont,44.360196573014925
+Lyndonville,Bolton,Vermont,45.11764826277035
+Lyndonville,Hanksville,Vermont,51.39151090635933
+East Barre,Orleans,Vermont,47.13407803330967
+East Barre,Derby Center,Vermont,57.69492446158046
+East Barre,Castleton Four Corners,Vermont,53.19781616971111
+East Barre,Island Pond,Vermont,53.56026539107636
+East Barre,Jeffersonville,Vermont,38.835780545661464
+East Barre,Underhill Flats,Vermont,35.62784076843909
+East Barre,Huntington,Vermont,29.44310761075988
+East Barre,North Troy,Vermont,58.480170366442714
+East Barre,Graniteville,Vermont,1.6112173254860072
+East Barre,East Middlebury,Vermont,34.804170150640594
+East Barre,Hartford Village,Vermont,34.04154284944478
+East Barre,South Royalton,Vermont,23.544326787767627
+East Barre,Killington Village,Vermont,38.33336733559548
+East Barre,North Springfield,Vermont,56.71838019873095
+East Barre,Saint George,Vermont,37.21092879014464
+East Barre,Bakersfield,Vermont,47.012991581316605
+East Barre,Ascutney,Vermont,51.27185267598921
+East Barre,North Clarendon,Vermont,47.5188303797339
+East Barre,North Hartland,Vermont,38.68790395741768
+East Barre,West Woodstock,Vermont,37.53590569509584
+East Barre,North Hyde Park,Vermont,36.607893863227424
+East Barre,Proctorsville,Vermont,53.91350288499329
+East Barre,Lunenburg,Vermont,43.64664460083239
+East Barre,Quechee,Vermont,34.935261326784705
+East Barre,Wells River,Vermont,19.304348658178498
+East Barre,Lyndon Center,Vermont,34.38651070184601
+East Barre,Greensboro Bend,Vermont,29.645002282560664
+East Barre,Waterbury Center,Vermont,20.702997877077372
+East Barre,Lincoln,Vermont,27.244727390371526
+East Barre,East Poultney,Vermont,57.46628051791933
+East Barre,Websterville,Vermont,1.4281311726769037
+East Barre,Peacham,Vermont,18.526330476060448
+East Barre,West Charlotte,Vermont,41.451317473698616
+East Barre,Gilman,Vermont,40.70435074916361
+East Barre,Westford,Vermont,42.10354112131083
+East Barre,Newport Center,Vermont,55.875084244046704
+East Barre,Sheffield,Vermont,35.17026664069848
+East Barre,West Burke,Vermont,41.25441076826127
+East Barre,Wolcott,Vermont,27.459091020562905
+East Barre,New Haven,Vermont,34.90230684601534
+East Barre,Bolton Valley,Vermont,27.34885867898944
+East Barre,South Hero,Vermont,54.40803423797648
+East Barre,East Charlotte,Vermont,38.58268381510569
+East Barre,Chittenden,Vermont,39.62395854984182
+East Barre,Sutton,Vermont,39.12263545632609
+East Barre,South Lincoln,Vermont,26.767212811728257
+East Barre,Middletown Springs,Vermont,56.8463619782057
+East Barre,Huntington Center,Vermont,27.463364872011347
+East Barre,Lyndon,Vermont,33.23035543198217
+East Barre,East Burke,Vermont,39.360911682212794
+East Barre,Underhill Center,Vermont,33.26285762268581
+East Barre,Bolton,Vermont,26.605324469309796
+East Barre,Hanksville,Vermont,26.35768597839883
+East Barre,South Woodstock,Vermont,40.88573772831179
+Orleans,Derby Center,Vermont,10.568076729442712
+Orleans,Island Pond,Vermont,15.480523621066782
+Orleans,Jeffersonville,Vermont,32.93626435336548
+Orleans,Derby Line,Vermont,14.08379837611036
+Orleans,Underhill Flats,Vermont,41.68777885266881
+Orleans,Huntington,Vermont,51.176346859111206
+Orleans,North Troy,Vermont,16.316704608347685
+Orleans,Graniteville,Vermont,47.81573827367763
+Orleans,Saint George,Vermont,54.68254717251234
+Orleans,Bakersfield,Vermont,29.66164399201623
+Orleans,North Hyde Park,Vermont,21.524009803256806
+Orleans,Lunenburg,Vermont,35.35682104729672
+Orleans,Wells River,Vermont,45.76338576949029
+Orleans,Lyndon Center,Vermont,20.874287959673275
+Orleans,Greensboro Bend,Vermont,17.595430858721095
+Orleans,Highgate Center,Vermont,42.23635351607636
+Orleans,Waterbury Center,Vermont,39.28258935505138
+Orleans,Websterville,Vermont,46.66263657649391
+Orleans,Peacham,Vermont,33.13210776860261
+Orleans,Gilman,Vermont,36.31761759992654
+Orleans,Westford,Vermont,42.24236505206511
+Orleans,Newport Center,Vermont,11.191038468891078
+Orleans,Sheffield,Vermont,15.054223428153493
+Orleans,West Burke,Vermont,15.828650901348263
+Orleans,Wolcott,Vermont,22.150108157492028
+Orleans,Bolton Valley,Vermont,42.220536301454096
+Orleans,South Hero,Vermont,55.30575754960483
+Orleans,East Charlotte,Vermont,59.45380471126929
+Orleans,Sutton,Vermont,15.078472340162744
+Orleans,Huntington Center,Vermont,52.07741223596061
+Orleans,Lyndon,Vermont,22.283564300424196
+Orleans,East Burke,Vermont,19.972531638473562
+Orleans,Beecher Falls,Vermont,37.36592145594647
+Orleans,Underhill Center,Vermont,40.18236801895798
+Orleans,Bolton,Vermont,45.19905298220909
+Orleans,Hanksville,Vermont,53.781991522823674
+Orleans,Highgate Springs,Vermont,45.90762606288584
+Derby Center,Island Pond,Vermont,15.72248372130102
+Derby Center,Jeffersonville,Vermont,40.28072335226569
+Derby Center,Derby Line,Vermont,3.5495230264341715
+Derby Center,Underhill Flats,Vermont,49.78440907935021
+Derby Center,North Troy,Vermont,13.428856608605878
+Derby Center,Graniteville,Vermont,58.38336691488093
+Derby Center,Bakersfield,Vermont,34.86340020837997
+Derby Center,North Hyde Park,Vermont,29.83563755458772
+Derby Center,Lunenburg,Vermont,41.058081217176955
+Derby Center,Wells River,Vermont,55.43736848453913
+Derby Center,Lyndon Center,Vermont,29.425966971884645
+Derby Center,Greensboro Bend,Vermont,28.10937652786236
+Derby Center,Highgate Center,Vermont,44.44532781513124
+Derby Center,Waterbury Center,Vermont,49.16223468906832
+Derby Center,Websterville,Vermont,57.23007383529303
+Derby Center,Peacham,Vermont,43.2140733429109
+Derby Center,Gilman,Vermont,42.736644575612864
+Derby Center,Westford,Vermont,49.26109848475196
+Derby Center,Newport Center,Vermont,8.356518913795984
+Derby Center,Sheffield,Vermont,24.553863817559712
+Derby Center,West Burke,Vermont,22.870436859691267
+Derby Center,Wolcott,Vermont,32.36752402410221
+Derby Center,Bolton Valley,Vermont,51.426904361225034
+Derby Center,Sutton,Vermont,23.126493310317844
+Derby Center,Lyndon,Vermont,30.942887965380645
+Derby Center,East Burke,Vermont,27.136011157938686
+Derby Center,Beecher Falls,Vermont,31.70952126758549
+Derby Center,Underhill Center,Vermont,48.59979849942719
+Derby Center,Bolton,Vermont,54.524798215304365
+Derby Center,Highgate Springs,Vermont,47.55343235516433
+Castleton Four Corners,Saxtons River,Vermont,47.98723634113626
+Castleton Four Corners,Huntington,Vermont,50.70992275391478
+Castleton Four Corners,Pownal,Vermont,58.35970566148558
+Castleton Four Corners,Stamford,Vermont,59.260418406513864
+Castleton Four Corners,Pownal Center,Vermont,56.11220156352267
+Castleton Four Corners,Graniteville,Vermont,51.88727434018188
+Castleton Four Corners,East Middlebury,Vermont,25.681924347800493
+Castleton Four Corners,Hartford Village,Vermont,43.976841954729345
+Castleton Four Corners,South Royalton,Vermont,37.48478180170136
+Castleton Four Corners,Killington Village,Vermont,21.505139270449764
+Castleton Four Corners,North Springfield,Vermont,39.39712951613092
+Castleton Four Corners,Saint George,Vermont,53.072096897331285
+Castleton Four Corners,Ascutney,Vermont,42.72015064059166
+Castleton Four Corners,South Shaftsbury,Vermont,46.212743986680444
+Castleton Four Corners,North Clarendon,Vermont,12.511118766162145
+Castleton Four Corners,North Hartland,Vermont,42.7904219179184
+Castleton Four Corners,West Woodstock,Vermont,33.061972769412854
+Castleton Four Corners,North Pownal,Vermont,56.12165450601751
+Castleton Four Corners,Proctorsville,Vermont,32.872780342451506
+Castleton Four Corners,Quechee,Vermont,39.78681076852737
+Castleton Four Corners,Pawlet,Vermont,18.205628355294742
+Castleton Four Corners,West Pawlet,Vermont,17.562659735928204
+Castleton Four Corners,Waterbury Center,Vermont,58.338413310551125
+Castleton Four Corners,Lincoln,Vermont,35.67090423128789
+Castleton Four Corners,East Poultney,Vermont,5.840525049414034
+Castleton Four Corners,East Dorset,Vermont,27.23056647603074
+Castleton Four Corners,Websterville,Vermont,52.951391250886076
+Castleton Four Corners,Jacksonville,Vermont,59.49195233022294
+Castleton Four Corners,West Charlotte,Vermont,48.33788391935673
+Castleton Four Corners,Harmonyville,Vermont,48.166238028244095
+Castleton Four Corners,South Londonderry,Vermont,35.26547645170008
+Castleton Four Corners,Danby,Vermont,21.287128326137875
+Castleton Four Corners,Townshend,Vermont,47.50919667537445
+Castleton Four Corners,New Haven,Vermont,35.75502915486686
+Castleton Four Corners,Bolton Valley,Vermont,58.36484815242055
+Castleton Four Corners,Old Bennington,Vermont,50.09750815695273
+Castleton Four Corners,East Charlotte,Vermont,48.884161062715435
+Castleton Four Corners,Chittenden,Vermont,14.585109685593114
+Castleton Four Corners,South Lincoln,Vermont,33.52121978693534
+Castleton Four Corners,Middletown Springs,Vermont,9.615369595233236
+Castleton Four Corners,North Westminster,Vermont,50.82952204941262
+Castleton Four Corners,Huntington Center,Vermont,48.49658922776578
+Castleton Four Corners,Whitingham,Vermont,59.05221955480935
+Castleton Four Corners,Wardsboro,Vermont,44.53474161393711
+Castleton Four Corners,Grafton,Vermont,42.904238680994176
+Castleton Four Corners,Jamaica,Vermont,41.56640073161004
+Castleton Four Corners,Londonderry,Vermont,33.27787369309916
+Castleton Four Corners,West Dummerston,Vermont,55.823025332314195
+Castleton Four Corners,Stratton Mountain,Vermont,37.431946275696916
+Castleton Four Corners,Weston,Vermont,30.50797729104415
+Castleton Four Corners,Chimney Hill,Vermont,52.16490086978407
+Castleton Four Corners,Bolton,Vermont,55.15217233092957
+Castleton Four Corners,Hanksville,Vermont,45.95948857378723
+Castleton Four Corners,South Woodstock,Vermont,34.211754402438245
+Island Pond,Jeffersonville,Vermont,47.82876392949928
+Island Pond,Derby Line,Vermont,16.816030503954078
+Island Pond,Underhill Flats,Vermont,55.92560805711493
+Island Pond,North Troy,Vermont,28.395262259529204
+Island Pond,Graniteville,Vermont,54.61532925065592
+Island Pond,Bakersfield,Vermont,45.1334460525248
+Island Pond,North Hyde Park,Vermont,36.130668705373026
+Island Pond,Lunenburg,Vermont,26.56342812201652
+Island Pond,Wells River,Vermont,46.29987765252654
+Island Pond,Lyndon Center,Vermont,19.995523962170136
+Island Pond,Greensboro Bend,Vermont,25.59763088845093
+Island Pond,Highgate Center,Vermont,57.40628807708578
+Island Pond,Waterbury Center,Vermont,50.94676219663134
+Island Pond,Websterville,Vermont,53.48003941336506
+Island Pond,Peacham,Vermont,36.21440187294845
+Island Pond,Gilman,Vermont,28.805515975748044
+Island Pond,Westford,Vermont,57.171845731318534
+Island Pond,Newport Center,Vermont,22.792069330700933
+Island Pond,Sheffield,Vermont,18.551747109289312
+Island Pond,West Burke,Vermont,12.561110814387824
+Island Pond,Wolcott,Vermont,33.74024597568123
+Island Pond,Bolton Valley,Vermont,55.15971109756184
+Island Pond,Sutton,Vermont,14.459457812222364
+Island Pond,Lyndon,Vermont,21.45100991996947
+Island Pond,East Burke,Vermont,15.763145157295135
+Island Pond,Beecher Falls,Vermont,23.56741257637622
+Island Pond,Underhill Center,Vermont,54.1553728787343
+Island Pond,Bolton,Vermont,57.867701236217535
+Jeffersonville,Derby Line,Vermont,43.35747083888831
+Jeffersonville,Underhill Flats,Vermont,10.101950686748872
+Jeffersonville,Huntington,Vermont,23.17972668846566
+Jeffersonville,North Troy,Vermont,32.112646521578284
+Jeffersonville,Graniteville,Vermont,38.325489125812396
+Jeffersonville,East Middlebury,Vermont,48.130232997970204
+Jeffersonville,South Royalton,Vermont,59.399223711408226
+Jeffersonville,Saint George,Vermont,23.641797611997045
+Jeffersonville,Bakersfield,Vermont,9.704040450206424
+Jeffersonville,North Hyde Park,Vermont,11.760927794687158
+Jeffersonville,Lunenburg,Vermont,58.10961367773684
+Jeffersonville,Wells River,Vermont,50.79375194835676
+Jeffersonville,Lyndon Center,Vermont,40.81262823906886
+Jeffersonville,Greensboro Bend,Vermont,28.423802153834288
+Jeffersonville,Highgate Center,Vermont,22.913017819941093
+Jeffersonville,Waterbury Center,Vermont,19.03178650240614
+Jeffersonville,Lincoln,Vermont,38.16859303446006
+Jeffersonville,Websterville,Vermont,37.55925293724734
+Jeffersonville,Peacham,Vermont,38.959082278377345
+Jeffersonville,West Charlotte,Vermont,31.183380232016688
+Jeffersonville,Gilman,Vermont,57.183432934083385
+Jeffersonville,Westford,Vermont,9.343201780895832
+Jeffersonville,Newport Center,Vermont,33.408169502145086
+Jeffersonville,Sheffield,Vermont,35.247842263065245
+Jeffersonville,West Burke,Vermont,41.852565401822915
+Jeffersonville,Wolcott,Vermont,19.237395196842275
+Jeffersonville,New Haven,Vermont,39.05522512437426
+Jeffersonville,Bolton Valley,Vermont,15.67922674431002
+Jeffersonville,South Hero,Vermont,23.34366853159236
+Jeffersonville,East Charlotte,Vermont,28.685859338374705
+Jeffersonville,Sutton,Vermont,39.477819740555915
+Jeffersonville,South Lincoln,Vermont,40.53698634341578
+Jeffersonville,Huntington Center,Vermont,25.264472097241125
+Jeffersonville,Lyndon,Vermont,41.16015365941598
+Jeffersonville,East Burke,Vermont,43.95661773830419
+Jeffersonville,Underhill Center,Vermont,9.93387140314231
+Jeffersonville,Bolton,Vermont,18.757346504853988
+Jeffersonville,Hanksville,Vermont,27.80990446850183
+Jeffersonville,Highgate Springs,Vermont,26.881719641010555
+Derby Line,Underhill Flats,Vermont,52.977810189359104
+Derby Line,North Troy,Vermont,14.716287302353463
+Derby Line,Bakersfield,Vermont,37.51857655868174
+Derby Line,North Hyde Park,Vermont,33.14911441187834
+Derby Line,Lunenburg,Vermont,42.940939066027596
+Derby Line,Wells River,Vermont,58.5211805086083
+Derby Line,Lyndon Center,Vermont,32.27792880895163
+Derby Line,Greensboro Bend,Vermont,31.568726135619904
+Derby Line,Highgate Center,Vermont,46.216546846005215
+Derby Line,Waterbury Center,Vermont,52.667830338386544
+Derby Line,Peacham,Vermont,46.47092504064169
+Derby Line,Gilman,Vermont,44.82435959983423
+Derby Line,Westford,Vermont,52.226283079914865
+Derby Line,Newport Center,Vermont,10.48939319436149
+Derby Line,Sheffield,Vermont,27.710340710255892
+Derby Line,West Burke,Vermont,25.444040666327545
+Derby Line,Wolcott,Vermont,35.91254151137115
+Derby Line,Bolton Valley,Vermont,54.82722163007234
+Derby Line,Sutton,Vermont,25.942383544855453
+Derby Line,Lyndon,Vermont,33.809278743559375
+Derby Line,East Burke,Vermont,29.645628816471035
+Derby Line,Beecher Falls,Vermont,29.883776544527862
+Derby Line,Underhill Center,Vermont,51.859916881186386
+Derby Line,Bolton,Vermont,57.94212811293953
+Derby Line,Highgate Springs,Vermont,49.12948284732879
+Underhill Flats,Huntington,Vermont,13.685053861354483
+Underhill Flats,North Troy,Vermont,42.1843884262602
+Underhill Flats,Graniteville,Vermont,34.74320344185425
+Underhill Flats,East Middlebury,Vermont,38.69025705933249
+Underhill Flats,South Royalton,Vermont,53.549248336502515
+Underhill Flats,Saint George,Vermont,13.581367644549644
+Underhill Flats,Bakersfield,Vermont,19.21806690796197
+Underhill Flats,North Hyde Park,Vermont,20.183081926201645
+Underhill Flats,Wells River,Vermont,50.72354254256373
+Underhill Flats,Lyndon Center,Vermont,46.04859346648303
+Underhill Flats,Greensboro Bend,Vermont,33.76569350082847
+Underhill Flats,Highgate Center,Vermont,28.993775732231367
+Underhill Flats,Waterbury Center,Vermont,14.996798387086686
+Underhill Flats,Lincoln,Vermont,29.121790060029294
+Underhill Flats,Websterville,Vermont,34.228880529813466
+Underhill Flats,Peacham,Vermont,40.553510183471104
+Underhill Flats,West Charlotte,Vermont,21.205741319208588
+Underhill Flats,Westford,Vermont,6.670744356070268
+Underhill Flats,Newport Center,Vermont,43.25567275487115
+Underhill Flats,Sheffield,Vermont,41.326059357892966
+Underhill Flats,West Burke,Vermont,48.43604974353467
+Underhill Flats,Wolcott,Vermont,23.992358178479865
+Underhill Flats,New Haven,Vermont,29.202748133729237
+Underhill Flats,Bolton Valley,Vermont,8.567958359968825
+Underhill Flats,South Hero,Vermont,19.536962909708922
+Underhill Flats,East Charlotte,Vermont,18.613584930887605
+Underhill Flats,Chittenden,Vermont,56.56740591363742
+Underhill Flats,Sutton,Vermont,45.920275879670996
+Underhill Flats,South Lincoln,Vermont,31.661311220907013
+Underhill Flats,Huntington Center,Vermont,16.09358624468996
+Underhill Flats,Lyndon,Vermont,46.08915803277319
+Underhill Flats,East Burke,Vermont,49.86455170312258
+Underhill Flats,Underhill Center,Vermont,2.5661944903673275
+Underhill Flats,Bolton,Vermont,10.713024720302068
+Underhill Flats,Hanksville,Vermont,18.781764734216857
+Underhill Flats,Highgate Springs,Vermont,32.38123154657006
+Saxtons River,Pownal,Vermont,44.922145240722024
+Saxtons River,Stamford,Vermont,38.11589187637564
+Saxtons River,Pownal Center,Vermont,43.06808051967753
+Saxtons River,Hartford Village,Vermont,37.27066700097735
+Saxtons River,South Royalton,Vermont,46.48242526738766
+Saxtons River,Killington Village,Vermont,37.9261358708903
+Saxtons River,North Springfield,Vermont,13.24234426953987
+Saxtons River,Ascutney,Vermont,19.28574196884336
+Saxtons River,South Shaftsbury,Vermont,37.59828602181174
+Saxtons River,North Clarendon,Vermont,37.72450207659802
+Saxtons River,North Hartland,Vermont,32.30798201715634
+Saxtons River,West Woodstock,Vermont,32.67055644239962
+Saxtons River,North Pownal,Vermont,44.779523141026104
+Saxtons River,Proctorsville,Vermont,17.894433453246986
+Saxtons River,Quechee,Vermont,35.20166913636788
+Saxtons River,Pawlet,Vermont,36.49108739404071
+Saxtons River,West Pawlet,Vermont,40.123877614526954
+Saxtons River,East Poultney,Vermont,44.26597723373241
+Saxtons River,East Dorset,Vermont,26.13321104584919
+Saxtons River,Jacksonville,Vermont,28.297557425117567
+Saxtons River,Algiers,Vermont,22.40278057481755
+Saxtons River,Harmonyville,Vermont,10.54897244807078
+Saxtons River,South Londonderry,Vermont,15.647938430612616
+Saxtons River,Danby,Vermont,28.28878817489816
+Saxtons River,Townshend,Vermont,10.248801460135564
+Saxtons River,Old Bennington,Vermont,39.75041763381966
+Saxtons River,Chittenden,Vermont,44.82455048771796
+Saxtons River,Middletown Springs,Vermont,39.11953471320736
+Saxtons River,North Westminster,Vermont,3.0116622567134184
+Saxtons River,Whitingham,Vermont,30.675961595341686
+Saxtons River,Wardsboro,Vermont,15.565061354712988
+Saxtons River,Grafton,Vermont,5.4212533313390505
+Saxtons River,Jamaica,Vermont,13.862105631973074
+Saxtons River,Londonderry,Vermont,16.258763090557164
+Saxtons River,West Dummerston,Vermont,15.340809934546968
+Saxtons River,Stratton Mountain,Vermont,19.893471741758894
+Saxtons River,Weston,Vermont,17.66246624313521
+Saxtons River,Chimney Hill,Vermont,26.386124367037052
+Saxtons River,South Woodstock,Vermont,29.139462148310677
+Huntington,North Troy,Vermont,54.45640231431109
+Huntington,Graniteville,Vermont,28.11985143185411
+Huntington,East Middlebury,Vermont,25.031894776568933
+Huntington,Hartford Village,Vermont,56.19341227558567
+Huntington,South Royalton,Vermont,42.671024201290095
+Huntington,Killington Village,Vermont,47.82892134671687
+Huntington,Saint George,Vermont,7.770868393270023
+Huntington,Bakersfield,Vermont,32.7118066767918
+Huntington,North Clarendon,Vermont,52.152094734503095
+Huntington,North Hartland,Vermont,59.650391967263225
+Huntington,West Woodstock,Vermont,54.04749600432135
+Huntington,North Hyde Park,Vermont,30.727634659580502
+Huntington,Quechee,Vermont,55.068970921385116
+Huntington,Wells River,Vermont,47.5814397044398
+Huntington,Lyndon Center,Vermont,50.375225981487915
+Huntington,Greensboro Bend,Vermont,39.23922577510898
+Huntington,Highgate Center,Vermont,42.207837865199785
+Huntington,Waterbury Center,Vermont,13.748292616078041
+Huntington,Lincoln,Vermont,15.509017255512305
+Huntington,East Poultney,Vermont,56.429352250438924
+Huntington,Websterville,Vermont,28.039430384880426
+Huntington,Peacham,Vermont,40.477417515523285
+Huntington,West Charlotte,Vermont,13.211326088509084
+Huntington,Westford,Vermont,19.3986587977943
+Huntington,Newport Center,Vermont,54.744279211417016
+Huntington,Sheffield,Vermont,47.0910328709721
+Huntington,West Burke,Vermont,54.47506968524451
+Huntington,Wolcott,Vermont,30.20161169584874
+Huntington,New Haven,Vermont,16.023214382342974
+Huntington,Bolton Valley,Vermont,8.96721072096415
+Huntington,South Hero,Vermont,26.987254829686115
+Huntington,East Charlotte,Vermont,10.016901190173154
+Huntington,Chittenden,Vermont,43.093420812046546
+Huntington,Sutton,Vermont,51.893791494116066
+Huntington,South Lincoln,Vermont,18.12444735501067
+Huntington,Middletown Springs,Vermont,58.440430892769484
+Huntington,Huntington Center,Vermont,2.765097008705775
+Huntington,Lyndon,Vermont,50.000254378206364
+Huntington,East Burke,Vermont,54.89207589296211
+Huntington,Underhill Center,Vermont,13.246397799329783
+Huntington,Bolton,Vermont,6.05258096602214
+Huntington,Hanksville,Vermont,5.425560096222912
+Huntington,South Woodstock,Vermont,57.629704101485004
+Huntington,Highgate Springs,Vermont,45.30238632317005
+North Troy,Graniteville,Vermont,58.81766860089888
+North Troy,Saint George,Vermont,55.75172021504789
+North Troy,Bakersfield,Vermont,24.559137901781597
+North Troy,North Hyde Park,Vermont,24.35574099292453
+North Troy,Lunenburg,Vermont,51.52775095173016
+North Troy,Lyndon Center,Vermont,37.014580800944685
+North Troy,Greensboro Bend,Vermont,31.01966856679249
+North Troy,Highgate Center,Vermont,31.552587681662317
+North Troy,Waterbury Center,Vermont,45.459674600384616
+North Troy,Websterville,Vermont,57.716459198395015
+North Troy,Peacham,Vermont,47.425688474112896
+North Troy,Gilman,Vermont,52.60800698726353
+North Troy,Westford,Vermont,40.140158749583485
+North Troy,Newport Center,Vermont,5.639977453939765
+North Troy,Sheffield,Vermont,30.83139757839991
+North Troy,West Burke,Vermont,32.09799343962129
+North Troy,Wolcott,Vermont,31.113936107520644
+North Troy,Bolton Valley,Vermont,45.843515413210255
+North Troy,South Hero,Vermont,50.258425564812065
+North Troy,Sutton,Vermont,31.384791882221634
+North Troy,Huntington Center,Vermont,56.087238903325954
+North Troy,Lyndon,Vermont,38.361714539201735
+North Troy,East Burke,Vermont,36.27983860995571
+North Troy,Beecher Falls,Vermont,44.599997080370564
+North Troy,Underhill Center,Vermont,41.59705018861384
+North Troy,Bolton,Vermont,49.083631334105306
+North Troy,Hanksville,Vermont,58.32309441577531
+North Troy,Highgate Springs,Vermont,34.41361552904055
+Pownal,Stamford,Vermont,9.12833835781354
+Pownal,Pownal Center,Vermont,2.3485825371340723
+Pownal,North Springfield,Vermont,52.96950104351556
+Pownal,South Shaftsbury,Vermont,12.253820376192493
+Pownal,North Clarendon,Vermont,57.33369145491442
+Pownal,North Pownal,Vermont,2.652518473079011
+Pownal,Proctorsville,Vermont,52.181080815883405
+Pownal,Pawlet,Vermont,40.35008262149107
+Pownal,West Pawlet,Vermont,40.88404732168625
+Pownal,East Poultney,Vermont,52.52038886077749
+Pownal,East Dorset,Vermont,35.080514914990204
+Pownal,Jacksonville,Vermont,21.284437329080536
+Pownal,Algiers,Vermont,33.67023062964032
+Pownal,Harmonyville,Vermont,34.4734448619045
+Pownal,South Londonderry,Vermont,36.3631967389437
+Pownal,Danby,Vermont,41.84700528560782
+Pownal,Townshend,Vermont,34.69724107727352
+Pownal,Old Bennington,Vermont,8.318847070923876
+Pownal,Middletown Springs,Vermont,50.108168834938695
+Pownal,North Westminster,Vermont,46.5943098180162
+Pownal,Whitingham,Vermont,17.98006439502709
+Pownal,Wardsboro,Vermont,29.70509813048792
+Pownal,Grafton,Vermont,42.347688267961495
+Pownal,Jamaica,Vermont,32.610150118168185
+Pownal,Londonderry,Vermont,38.57248579779629
+Pownal,West Dummerston,Vermont,33.60713744975604
+Pownal,Stratton Mountain,Vermont,29.57379083083918
+Pownal,Weston,Vermont,42.63701752131937
+Pownal,Chimney Hill,Vermont,18.877694596281753
+Stamford,Pownal Center,Vermont,8.804342736391558
+Stamford,North Springfield,Vermont,47.634813872227845
+Stamford,Ascutney,Vermont,55.52488138589318
+Stamford,South Shaftsbury,Vermont,14.559363583151256
+Stamford,North Clarendon,Vermont,56.28414956647573
+Stamford,North Pownal,Vermont,10.80361587288181
+Stamford,Proctorsville,Vermont,47.854632481754805
+Stamford,Pawlet,Vermont,41.068819409795175
+Stamford,West Pawlet,Vermont,42.395001491496224
+Stamford,East Poultney,Vermont,53.47909699556818
+Stamford,East Dorset,Vermont,33.606943722399365
+Stamford,Jacksonville,Vermont,12.33478628279465
+Stamford,Algiers,Vermont,24.692297236218028
+Stamford,Harmonyville,Vermont,27.571988958282166
+Stamford,South Londonderry,Vermont,32.22136837905616
+Stamford,Danby,Vermont,40.551221225280926
+Stamford,Townshend,Vermont,27.92020710428186
+Stamford,Old Bennington,Vermont,11.80448736329963
+Stamford,Middletown Springs,Vermont,50.29998653117744
+Stamford,North Westminster,Vermont,39.42360450990018
+Stamford,Whitingham,Vermont,9.023242531724756
+Stamford,Wardsboro,Vermont,23.839643011373486
+Stamford,Grafton,Vermont,36.34095551829111
+Stamford,Jamaica,Vermont,27.257017283590834
+Stamford,Londonderry,Vermont,34.68146461762444
+Stamford,West Dummerston,Vermont,25.408784473640964
+Stamford,Stratton Mountain,Vermont,25.879822055972397
+Stamford,Weston,Vermont,39.010953733767785
+Stamford,Chimney Hill,Vermont,11.80964113285613
+Pownal Center,North Springfield,Vermont,50.842789621745254
+Pownal Center,Ascutney,Vermont,58.92217207377868
+Pownal Center,South Shaftsbury,Vermont,9.94753977513467
+Pownal Center,North Clarendon,Vermont,54.99155336172481
+Pownal Center,North Pownal,Vermont,2.064378347232869
+Pownal Center,Proctorsville,Vermont,49.94603838328779
+Pownal Center,Pawlet,Vermont,38.069194900161065
+Pownal Center,West Pawlet,Vermont,38.66512972461355
+Pownal Center,East Poultney,Vermont,50.27185429919313
+Pownal Center,East Dorset,Vermont,32.732716656474075
+Pownal Center,Jacksonville,Vermont,20.445076794506605
+Pownal Center,Algiers,Vermont,32.77684935661082
+Pownal Center,Harmonyville,Vermont,32.68306696535304
+Pownal Center,South Londonderry,Vermont,34.141147839610355
+Pownal Center,Danby,Vermont,39.4987356896649
+Pownal Center,Townshend,Vermont,32.877088495098796
+Pownal Center,Old Bennington,Vermont,6.0231382813206595
+Pownal Center,Middletown Springs,Vermont,47.80733534384341
+Pownal Center,North Westminster,Vermont,44.82267933359647
+Pownal Center,Whitingham,Vermont,17.19277134950253
+Pownal Center,Wardsboro,Vermont,27.73673276818545
+Pownal Center,Grafton,Vermont,40.34535356212519
+Pownal Center,Jamaica,Vermont,30.543995205016188
+Pownal Center,Londonderry,Vermont,36.32334549980268
+Pownal Center,West Dummerston,Vermont,32.2231590335956
+Pownal Center,Stratton Mountain,Vermont,27.335695639969185
+Pownal Center,Weston,Vermont,40.36065970449791
+Pownal Center,Chimney Hill,Vermont,17.30554775683972
+Graniteville,East Middlebury,Vermont,33.224101821952345
+Graniteville,Hartford Village,Vermont,34.093671393048844
+Graniteville,South Royalton,Vermont,23.12105024314748
+Graniteville,Killington Village,Vermont,37.42968237802717
+Graniteville,North Springfield,Vermont,56.37557059133986
+Graniteville,Saint George,Vermont,35.890719169412165
+Graniteville,Bakersfield,Vermont,46.68843035684824
+Graniteville,Ascutney,Vermont,51.10882311233334
+Graniteville,North Clarendon,Vermont,46.45176180461
+Graniteville,North Hartland,Vermont,38.6579408601355
+Graniteville,West Woodstock,Vermont,37.099358382772074
+Graniteville,North Hyde Park,Vermont,36.58773727408264
+Graniteville,Proctorsville,Vermont,53.40537342933669
+Graniteville,Lunenburg,Vermont,45.16207958837964
+Graniteville,Quechee,Vermont,34.78890330034527
+Graniteville,Wells River,Vermont,20.90036502598122
+Graniteville,Lyndon Center,Vermont,35.5972643728298
+Graniteville,Greensboro Bend,Vermont,30.41296524884157
+Graniteville,Waterbury Center,Vermont,19.91369766999547
+Graniteville,Lincoln,Vermont,25.63505159230105
+Graniteville,East Poultney,Vermont,56.226827243626445
+Graniteville,Websterville,Vermont,1.1569939562242286
+Graniteville,Peacham,Vermont,19.896954314631124
+Graniteville,West Charlotte,Vermont,39.994876086588036
+Graniteville,Gilman,Vermont,42.24219142656982
+Graniteville,Westford,Vermont,41.271804965242865
+Graniteville,Newport Center,Vermont,56.34949224502218
+Graniteville,Sheffield,Vermont,36.163493004752794
+Graniteville,West Burke,Vermont,42.37622762126397
+Graniteville,Wolcott,Vermont,27.72611353613005
+Graniteville,New Haven,Vermont,33.3026331136929
+Graniteville,Bolton Valley,Vermont,26.37732739094881
+Graniteville,South Hero,Vermont,53.356127315000634
+Graniteville,East Charlotte,Vermont,37.15307500923414
+Graniteville,Chittenden,Vermont,38.43643650971799
+Graniteville,Sutton,Vermont,40.20328584682267
+Graniteville,South Lincoln,Vermont,25.15893404771062
+Graniteville,Middletown Springs,Vermont,55.70546315224291
+Graniteville,Huntington Center,Vermont,26.080337975913288
+Graniteville,Lyndon,Vermont,34.47253706513005
+Graniteville,East Burke,Vermont,40.58723790823045
+Graniteville,Underhill Center,Vermont,32.419962704878756
+Graniteville,Bolton,Vermont,25.488247893581466
+Graniteville,Hanksville,Vermont,24.902905830835277
+Graniteville,South Woodstock,Vermont,40.50105522672925
+East Middlebury,Hartford Village,Vermont,44.01568595023291
+East Middlebury,South Royalton,Vermont,31.502041493804832
+East Middlebury,Killington Village,Vermont,27.509541816055435
+East Middlebury,North Springfield,Vermont,53.065452866032246
+East Middlebury,Saint George,Vermont,27.81065339931958
+East Middlebury,Bakersfield,Vermont,57.72579737606972
+East Middlebury,Ascutney,Vermont,52.47348213067848
+East Middlebury,North Clarendon,Vermont,28.6323519371299
+East Middlebury,North Hartland,Vermont,45.70999454444897
+East Middlebury,West Woodstock,Vermont,37.36897241465771
+East Middlebury,North Hyde Park,Vermont,54.33236283000099
+East Middlebury,Proctorsville,Vermont,47.213196889067476
+East Middlebury,Quechee,Vermont,41.21233488118523
+East Middlebury,Wells River,Vermont,53.4119290865774
+East Middlebury,Pawlet,Vermont,43.390638345066854
+East Middlebury,West Pawlet,Vermont,43.191906125390005
+East Middlebury,Greensboro Bend,Vermont,58.001788818656685
+East Middlebury,Waterbury Center,Vermont,33.77263484359544
+East Middlebury,Lincoln,Vermont,10.449092501757546
+East Middlebury,East Poultney,Vermont,31.424488848512322
+East Middlebury,East Dorset,Vermont,50.61033258841519
+East Middlebury,Websterville,Vermont,34.01067015079754
+East Middlebury,Peacham,Vermont,52.444388082999865
+East Middlebury,West Charlotte,Vermont,24.312801750236122
+East Middlebury,South Londonderry,Vermont,56.10526990060967
+East Middlebury,Westford,Vermont,43.97376668589487
+East Middlebury,Danby,Vermont,43.804568177693014
+East Middlebury,Wolcott,Vermont,50.83979024797896
+East Middlebury,New Haven,Vermont,10.739420378839512
+East Middlebury,Bolton Valley,Vermont,32.902756147308565
+East Middlebury,South Hero,Vermont,47.49818424876383
+East Middlebury,East Charlotte,Vermont,24.11656083988345
+East Middlebury,Chittenden,Vermont,20.245977710561284
+East Middlebury,South Lincoln,Vermont,9.013786238015763
+East Middlebury,Middletown Springs,Vermont,33.70982525363592
+East Middlebury,Huntington Center,Vermont,22.871494520013865
+East Middlebury,Londonderry,Vermont,53.66546651869113
+East Middlebury,Underhill Center,Vermont,38.225530772551494
+East Middlebury,Weston,Vermont,49.774650611728475
+East Middlebury,Bolton,Vermont,29.664106586131314
+East Middlebury,Hanksville,Vermont,20.405967254350852
+East Middlebury,South Woodstock,Vermont,40.47581922900505
+Hartford Village,South Royalton,Vermont,13.61918289089057
+Hartford Village,Killington Village,Vermont,22.509305338954373
+Hartford Village,North Springfield,Vermont,24.943781162863228
+Hartford Village,Ascutney,Vermont,18.011958295315804
+Hartford Village,North Clarendon,Vermont,32.2398187099294
+Hartford Village,North Hartland,Vermont,4.963822786111565
+Hartford Village,West Woodstock,Vermont,11.368383404584437
+Hartford Village,Proctorsville,Vermont,24.69118568924125
+Hartford Village,Quechee,Vermont,4.320933337968669
+Hartford Village,Wells River,Vermont,36.50673321944424
+Hartford Village,Pawlet,Vermont,47.410198735177175
+Hartford Village,West Pawlet,Vermont,50.40336057644644
+Hartford Village,Waterbury Center,Vermont,52.89810519076783
+Hartford Village,Lincoln,Vermont,44.67567960626311
+Hartford Village,East Poultney,Vermont,44.88951405823147
+Hartford Village,East Dorset,Vermont,44.41825135904441
+Hartford Village,Websterville,Vermont,35.06148012792968
+Hartford Village,Algiers,Vermont,59.624609549069156
+Hartford Village,Peacham,Vermont,46.68826325303275
+Hartford Village,Harmonyville,Vermont,46.32871091003627
+Hartford Village,South Londonderry,Vermont,40.49933993444063
+Hartford Village,Danby,Vermont,39.7204461023616
+Hartford Village,Townshend,Vermont,45.761525107895565
+Hartford Village,New Haven,Vermont,51.71919068008925
+Hartford Village,Bolton Valley,Vermont,58.09638867021616
+Hartford Village,Chittenden,Vermont,30.83678715552043
+Hartford Village,South Lincoln,Vermont,42.24323387805718
+Hartford Village,Middletown Springs,Vermont,41.34434793188478
+Hartford Village,North Westminster,Vermont,37.88648101618839
+Hartford Village,Huntington Center,Vermont,53.49576204568822
+Hartford Village,Wardsboro,Vermont,48.5108534600088
+Hartford Village,Grafton,Vermont,36.69631988146242
+Hartford Village,Jamaica,Vermont,44.98530331336018
+Hartford Village,Londonderry,Vermont,38.332368176395235
+Hartford Village,West Dummerston,Vermont,52.54548485444598
+Hartford Village,Stratton Mountain,Vermont,47.298711985890975
+Hartford Village,Weston,Vermont,34.49017057457416
+Hartford Village,Bolton,Vermont,56.17056047003092
+Hartford Village,Hanksville,Vermont,51.16058582798788
+Hartford Village,South Woodstock,Vermont,12.121404157531554
+South Royalton,Killington Village,Vermont,17.51972109392972
+South Royalton,North Springfield,Vermont,33.27444436347037
+South Royalton,Saint George,Vermont,49.54805331280197
+South Royalton,Ascutney,Vermont,28.437439908136874
+South Royalton,North Clarendon,Vermont,28.029369930067354
+South Royalton,North Hartland,Vermont,17.039858568742545
+South Royalton,West Woodstock,Vermont,13.992060012915365
+South Royalton,North Hyde Park,Vermont,59.357401644730096
+South Royalton,Proctorsville,Vermont,30.396340958439097
+South Royalton,Quechee,Vermont,12.563313763362528
+South Royalton,Wells River,Vermont,32.68252636610356
+South Royalton,Pawlet,Vermont,46.04551197879378
+South Royalton,West Pawlet,Vermont,48.30518834570412
+South Royalton,Lyndon Center,Vermont,55.936979476188235
+South Royalton,Greensboro Bend,Vermont,52.990607725991595
+South Royalton,Waterbury Center,Vermont,40.37143026589402
+South Royalton,Lincoln,Vermont,31.161735004333043
+South Royalton,East Poultney,Vermont,40.05877794475641
+South Royalton,East Dorset,Vermont,46.293480316005386
+South Royalton,Websterville,Vermont,24.22850323455994
+South Royalton,Peacham,Vermont,39.58705087990872
+South Royalton,West Charlotte,Vermont,50.3419356152757
+South Royalton,Harmonyville,Vermont,54.040055704228415
+South Royalton,Gilman,Vermont,57.49549729678737
+South Royalton,South Londonderry,Vermont,45.44210160783474
+South Royalton,Sheffield,Vermont,57.86636607503317
+South Royalton,Danby,Vermont,40.2250243126554
+South Royalton,Wolcott,Vermont,50.83847295914244
+South Royalton,Townshend,Vermont,53.395421951426044
+South Royalton,New Haven,Vermont,38.405808503187046
+South Royalton,Bolton Valley,Vermont,45.05948336961061
+South Royalton,East Charlotte,Vermont,48.492116841309006
+South Royalton,Chittenden,Vermont,22.965840006884584
+South Royalton,South Lincoln,Vermont,28.804139858880557
+South Royalton,Middletown Springs,Vermont,37.86775227176609
+South Royalton,North Westminster,Vermont,47.757798347416895
+South Royalton,Huntington Center,Vermont,39.955134462172985
+South Royalton,Lyndon,Vermont,54.58293558918152
+South Royalton,Wardsboro,Vermont,54.82769288318257
+South Royalton,Grafton,Vermont,44.545645142616735
+South Royalton,Jamaica,Vermont,51.08696884500383
+South Royalton,Londonderry,Vermont,42.94902688689578
+South Royalton,Stratton Mountain,Vermont,51.794788516104965
+South Royalton,Underhill Center,Vermont,51.6756791094216
+South Royalton,Weston,Vermont,38.616048632329
+South Royalton,Bolton,Vermont,42.95074125772008
+South Royalton,Hanksville,Vermont,37.581888249893034
+South Royalton,South Woodstock,Vermont,17.382998876411097
+Killington Village,North Springfield,Vermont,25.606932545742723
+Killington Village,Saint George,Vermont,53.02119193443861
+Killington Village,Ascutney,Vermont,25.317290772116177
+Killington Village,South Shaftsbury,Vermont,53.29324617425406
+Killington Village,North Clarendon,Vermont,10.592548190915634
+Killington Village,North Hartland,Vermont,21.787441342412198
+Killington Village,West Woodstock,Vermont,12.032359646816156
+Killington Village,Proctorsville,Vermont,20.03233733667867
+Killington Village,Quechee,Vermont,18.388031454292776
+Killington Village,Wells River,Vermont,50.12172264319543
+Killington Village,Pawlet,Vermont,28.607455299152647
+Killington Village,West Pawlet,Vermont,30.787941171368036
+Killington Village,Waterbury Center,Vermont,50.330210489447076
+Killington Village,Lincoln,Vermont,32.91885760558041
+Killington Village,East Poultney,Vermont,23.02433029707813
+Killington Village,East Dorset,Vermont,30.13482640426751
+Killington Village,Websterville,Vermont,38.58556430241946
+Killington Village,Jacksonville,Vermont,58.90301223549986
+Killington Village,Algiers,Vermont,58.40713317872559
+Killington Village,Peacham,Vermont,55.952762968394616
+Killington Village,West Charlotte,Vermont,51.19054623124878
+Killington Village,Harmonyville,Vermont,42.76378561484772
+Killington Village,South Londonderry,Vermont,31.791368720472974
+Killington Village,Danby,Vermont,23.560074089387772
+Killington Village,Townshend,Vermont,42.06921927596326
+Killington Village,New Haven,Vermont,37.606223947294865
+Killington Village,Bolton Valley,Vermont,53.01647143281924
+Killington Village,Old Bennington,Vermont,57.1209671476848
+Killington Village,East Charlotte,Vermont,50.35494803581039
+Killington Village,Chittenden,Vermont,9.020376654266181
+Killington Village,South Lincoln,Vermont,30.152042235949036
+Killington Village,Middletown Springs,Vermont,20.40169547737074
+Killington Village,North Westminster,Vermont,40.089790336224645
+Killington Village,Huntington Center,Vermont,45.11662235025966
+Killington Village,Whitingham,Vermont,59.664425518523835
+Killington Village,Wardsboro,Vermont,41.90409301311233
+Killington Village,Grafton,Vermont,34.30260035519728
+Killington Village,Jamaica,Vermont,38.177489931441535
+Killington Village,Londonderry,Vermont,29.204484330505622
+Killington Village,West Dummerston,Vermont,50.49849793308431
+Killington Village,Stratton Mountain,Vermont,37.30123378336995
+Killington Village,Underhill Center,Vermont,59.474590348206924
+Killington Village,Weston,Vermont,24.862255435366134
+Killington Village,Chimney Hill,Vermont,52.92346431899281
+Killington Village,Bolton,Vermont,50.21755697897136
+Killington Village,Hanksville,Vermont,42.408634712605405
+Killington Village,South Woodstock,Vermont,14.122320597855738
+North Springfield,Ascutney,Vermont,8.102453711182962
+North Springfield,South Shaftsbury,Vermont,43.40837285843601
+North Springfield,North Clarendon,Vermont,27.679314410396564
+North Springfield,North Hartland,Vermont,20.078487691449197
+North Springfield,West Woodstock,Vermont,19.428348567282697
+North Springfield,North Pownal,Vermont,52.24886128182352
+North Springfield,Proctorsville,Vermont,6.533239062050273
+North Springfield,Quechee,Vermont,22.36927289725584
+North Springfield,Pawlet,Vermont,32.603422729802766
+North Springfield,West Pawlet,Vermont,36.289122023439575
+North Springfield,Lincoln,Vermont,58.207108787156976
+North Springfield,East Poultney,Vermont,36.91959233612636
+North Springfield,East Dorset,Vermont,24.874817127114042
+North Springfield,Websterville,Vermont,57.470346039763
+North Springfield,Jacksonville,Vermont,39.62841225582699
+North Springfield,Algiers,Vermont,35.445804239684826
+North Springfield,Harmonyville,Vermont,21.40707344089926
+North Springfield,South Londonderry,Vermont,17.287476659211503
+North Springfield,Danby,Vermont,23.548657723228512
+North Springfield,Townshend,Vermont,20.82843615790285
+North Springfield,Old Bennington,Vermont,46.391309514050896
+North Springfield,Chittenden,Vermont,33.37240660731876
+North Springfield,South Lincoln,Vermont,55.44624996734685
+North Springfield,Middletown Springs,Vermont,31.850054669373772
+North Springfield,North Westminster,Vermont,14.84882476966863
+North Springfield,Whitingham,Vermont,41.47149396514095
+North Springfield,Wardsboro,Vermont,23.7977408225351
+North Springfield,Grafton,Vermont,11.759066060792888
+North Springfield,Jamaica,Vermont,20.46259023079525
+North Springfield,Londonderry,Vermont,15.826075990575973
+North Springfield,West Dummerston,Vermont,27.97987693216967
+North Springfield,Stratton Mountain,Vermont,23.979611003159576
+North Springfield,Weston,Vermont,13.61673901116712
+North Springfield,Chimney Hill,Vermont,35.93743683542761
+North Springfield,South Woodstock,Vermont,15.907255191107446
+Saint George,Bakersfield,Vermont,32.287985766040336
+Saint George,North Clarendon,Vermont,56.15803481645651
+Saint George,North Hyde Park,Vermont,33.38094658707652
+Saint George,Wells River,Vermont,55.20779318112211
+Saint George,Lyndon Center,Vermont,56.28416652095604
+Saint George,Greensboro Bend,Vermont,44.59508654120454
+Saint George,Highgate Center,Vermont,38.9441726483944
+Saint George,Waterbury Center,Vermont,20.26398246700932
+Saint George,Lincoln,Vermont,20.104615411749315
+Saint George,East Poultney,Vermont,58.89879338845347
+Saint George,Websterville,Vermont,35.80527354400776
+Saint George,Peacham,Vermont,47.54812523650618
+Saint George,West Charlotte,Vermont,7.718882141929342
+Saint George,Westford,Vermont,16.988270261033207
+Saint George,Newport Center,Vermont,56.80604863824549
+Saint George,Sheffield,Vermont,52.4226337464346
+Saint George,West Burke,Vermont,59.754064052796835
+Saint George,Wolcott,Vermont,35.08341310372839
+Saint George,New Haven,Vermont,17.320249936482895
+Saint George,Bolton Valley,Vermont,13.759419563815838
+Saint George,South Hero,Vermont,20.53888954125478
+Saint George,East Charlotte,Vermont,5.047307985749497
+Saint George,Chittenden,Vermont,47.33486120073769
+Saint George,Sutton,Vermont,57.18110891388256
+Saint George,South Lincoln,Vermont,22.87224869193754
+Saint George,Huntington Center,Vermont,10.033949539440203
+Saint George,Lyndon,Vermont,56.05031552522459
+Saint George,Underhill Center,Vermont,14.577249614418223
+Saint George,Bolton,Vermont,12.089944370249457
+Saint George,Hanksville,Vermont,12.04430496883151
+Saint George,Highgate Springs,Vermont,41.53036350133432
+Bakersfield,North Hyde Park,Vermont,12.925763149337
+Bakersfield,Lunenburg,Vermont,59.75342834533143
+Bakersfield,Wells River,Vermont,56.80576563440933
+Bakersfield,Lyndon Center,Vermont,42.38756860089287
+Bakersfield,Greensboro Bend,Vermont,30.726229522983882
+Bakersfield,Highgate Center,Vermont,15.900031494541308
+Bakersfield,Waterbury Center,Vermont,28.19744452429781
+Bakersfield,Lincoln,Vermont,47.84103078142999
+Bakersfield,Websterville,Vermont,45.824292784690805
+Bakersfield,Peacham,Vermont,44.110737767173774
+Bakersfield,West Charlotte,Vermont,39.49527185376672
+Bakersfield,Gilman,Vermont,59.38165317801076
+Bakersfield,Westford,Vermont,15.803065779060379
+Bakersfield,Newport Center,Vermont,27.08675195533736
+Bakersfield,Sheffield,Vermont,36.11818259642532
+Bakersfield,West Burke,Vermont,41.6913068651418
+Bakersfield,Wolcott,Vermont,23.353410111997544
+Bakersfield,New Haven,Vermont,48.418759901791766
+Bakersfield,Bolton Valley,Vermont,25.379780316619826
+Bakersfield,South Hero,Vermont,26.234858266413216
+Bakersfield,East Charlotte,Vermont,37.30382334231503
+Bakersfield,Sutton,Vermont,39.624361838672456
+Bakersfield,South Lincoln,Vermont,50.22961608512511
+Bakersfield,Huntington Center,Vermont,34.8904042786932
+Bakersfield,Lyndon,Vermont,43.066151265672275
+Bakersfield,East Burke,Vermont,44.58035251538672
+Bakersfield,Underhill Center,Vermont,19.505607069992156
+Bakersfield,Bolton,Vermont,28.45924205899946
+Bakersfield,Hanksville,Vermont,37.468071021071324
+Bakersfield,Highgate Springs,Vermont,20.094243959752735
+Ascutney,South Shaftsbury,Vermont,51.49872707290544
+Ascutney,North Clarendon,Vermont,30.329888619639043
+Ascutney,North Hartland,Vermont,13.04943351509107
+Ascutney,West Woodstock,Vermont,15.797220016466458
+Ascutney,Proctorsville,Vermont,11.742602295267139
+Ascutney,Quechee,Vermont,16.337100984843953
+Ascutney,Wells River,Vermont,54.312310783061776
+Ascutney,Pawlet,Vermont,38.85825980241307
+Ascutney,West Pawlet,Vermont,42.43857899826753
+Ascutney,Lincoln,Vermont,56.2397115841079
+Ascutney,East Poultney,Vermont,41.222854644480286
+Ascutney,East Dorset,Vermont,32.25983322482952
+Ascutney,Websterville,Vermont,52.154284865873514
+Ascutney,Jacksonville,Vermont,47.012807114290254
+Ascutney,Algiers,Vermont,41.613484434264635
+Ascutney,Harmonyville,Vermont,28.736491233262505
+Ascutney,South Londonderry,Vermont,25.342218065102603
+Ascutney,Danby,Vermont,29.905426941667386
+Ascutney,Townshend,Vermont,28.217532437032837
+Ascutney,Old Bennington,Vermont,54.49374496539392
+Ascutney,Chittenden,Vermont,34.04288180305264
+Ascutney,South Lincoln,Vermont,53.533511560040374
+Ascutney,Middletown Springs,Vermont,36.42877557240644
+Ascutney,North Westminster,Vermont,19.900712867987757
+Ascutney,Whitingham,Vermont,49.045295865726814
+Ascutney,Wardsboro,Vermont,31.69877455669121
+Ascutney,Grafton,Vermont,19.28042042005164
+Ascutney,Jamaica,Vermont,28.4718974399998
+Ascutney,Londonderry,Vermont,23.7466764377494
+Ascutney,West Dummerston,Vermont,34.60352113057303
+Ascutney,Stratton Mountain,Vermont,32.06974363898812
+Ascutney,Weston,Vermont,21.0357993137866
+Ascutney,Chimney Hill,Vermont,43.76797670035144
+Ascutney,South Woodstock,Vermont,12.280822166878325
+South Shaftsbury,North Clarendon,Vermont,45.15530018036722
+South Shaftsbury,West Woodstock,Vermont,56.72494557483884
+South Shaftsbury,North Pownal,Vermont,10.310666315210916
+South Shaftsbury,Proctorsville,Vermont,41.67131255766829
+South Shaftsbury,Pawlet,Vermont,28.13071955857615
+South Shaftsbury,West Pawlet,Vermont,28.8346179087387
+South Shaftsbury,East Poultney,Vermont,40.372684292423735
+South Shaftsbury,East Dorset,Vermont,23.184446329048097
+South Shaftsbury,Jacksonville,Vermont,21.815000260705947
+South Shaftsbury,Algiers,Vermont,32.83833201791454
+South Shaftsbury,Harmonyville,Vermont,27.975448925236694
+South Shaftsbury,South Londonderry,Vermont,26.195250818068853
+South Shaftsbury,Danby,Vermont,29.80065411316599
+South Shaftsbury,Townshend,Vermont,27.970227344822465
+South Shaftsbury,Old Bennington,Vermont,3.936110395102877
+South Shaftsbury,Chittenden,Vermont,54.17603332343443
+South Shaftsbury,Middletown Springs,Vermont,37.85991535204413
+South Shaftsbury,North Westminster,Vermont,39.81531318347635
+South Shaftsbury,Whitingham,Vermont,19.27860324458091
+South Shaftsbury,Wardsboro,Vermont,22.09445298589069
+South Shaftsbury,Grafton,Vermont,33.969207499583206
+South Shaftsbury,Jamaica,Vermont,24.019038603730575
+South Shaftsbury,Londonderry,Vermont,28.080341433506824
+South Shaftsbury,West Dummerston,Vermont,29.894264069804862
+South Shaftsbury,Stratton Mountain,Vermont,19.429246942192417
+South Shaftsbury,Weston,Vermont,31.794859411275926
+South Shaftsbury,Chimney Hill,Vermont,15.544667879797444
+South Shaftsbury,South Woodstock,Vermont,54.52274628418219
+North Clarendon,North Hartland,Vermont,30.59365270626152
+North Clarendon,West Woodstock,Vermont,21.01809135087887
+North Clarendon,North Pownal,Vermont,55.460630609536985
+North Clarendon,Proctorsville,Vermont,21.17707850618584
+North Clarendon,Quechee,Vermont,27.954357067228653
+North Clarendon,Pawlet,Vermont,18.6636821798263
+North Clarendon,West Pawlet,Vermont,20.453426076980634
+North Clarendon,Waterbury Center,Vermont,56.96857908465502
+North Clarendon,Lincoln,Vermont,36.65745098872021
+North Clarendon,East Poultney,Vermont,12.662226937799865
+North Clarendon,East Dorset,Vermont,22.678611075819433
+North Clarendon,Websterville,Vermont,47.59097067998638
+North Clarendon,Jacksonville,Vermont,53.988832414340905
+North Clarendon,Algiers,Vermont,55.64537209101614
+North Clarendon,West Charlotte,Vermont,52.917958493677
+North Clarendon,Harmonyville,Vermont,39.92897893289032
+North Clarendon,South Londonderry,Vermont,27.48715282362258
+North Clarendon,Danby,Vermont,15.733715047133893
+North Clarendon,Townshend,Vermont,39.23583539231696
+North Clarendon,New Haven,Vermont,39.367887581333044
+North Clarendon,Bolton Valley,Vermont,58.552001275958496
+North Clarendon,Old Bennington,Vermont,49.071336229553566
+North Clarendon,East Charlotte,Vermont,52.71849326033584
+North Clarendon,Chittenden,Vermont,9.133529120279752
+North Clarendon,South Lincoln,Vermont,34.03210001230904
+North Clarendon,Middletown Springs,Vermont,9.838661243777723
+North Clarendon,North Westminster,Vermont,40.37198046464338
+North Clarendon,Huntington Center,Vermont,49.59914294421061
+North Clarendon,Whitingham,Vermont,54.21562381230304
+North Clarendon,Wardsboro,Vermont,37.58257037510389
+North Clarendon,Grafton,Vermont,33.079042839028695
+North Clarendon,Jamaica,Vermont,34.116430810357826
+North Clarendon,Londonderry,Vermont,25.076905177255135
+North Clarendon,West Dummerston,Vermont,47.80075771106525
+North Clarendon,Stratton Mountain,Vermont,31.590308445986807
+North Clarendon,Weston,Vermont,21.34331883920542
+North Clarendon,Chimney Hill,Vermont,47.28292943229707
+North Clarendon,Bolton,Vermont,55.517738315853975
+North Clarendon,Hanksville,Vermont,46.89330957099679
+North Clarendon,South Woodstock,Vermont,21.830759550208594
+North Hartland,West Woodstock,Vermont,9.784377817598603
+North Hartland,Proctorsville,Vermont,20.317215620854142
+North Hartland,Quechee,Vermont,4.646107976853134
+North Hartland,Wells River,Vermont,41.41072261858085
+North Hartland,Pawlet,Vermont,44.41312458149116
+North Hartland,West Pawlet,Vermont,47.58266402595187
+North Hartland,Waterbury Center,Vermont,57.099362895495375
+North Hartland,Lincoln,Vermont,47.38517717276855
+North Hartland,East Poultney,Vermont,43.07384058614365
+North Hartland,East Dorset,Vermont,40.57145258218418
+North Hartland,Websterville,Vermont,39.657400825894335
+North Hartland,Jacksonville,Vermont,59.68654866095264
+North Hartland,Algiers,Vermont,54.66114042733626
+North Hartland,Peacham,Vermont,51.64790628393374
+North Hartland,Harmonyville,Vermont,41.427387125894946
+North Hartland,South Londonderry,Vermont,36.01620083582672
+North Hartland,Danby,Vermont,36.321088577350594
+North Hartland,Townshend,Vermont,40.86789808779205
+North Hartland,New Haven,Vermont,54.07534353919004
+North Hartland,Chittenden,Vermont,30.619354746980783
+North Hartland,South Lincoln,Vermont,44.83977886073371
+North Hartland,Middletown Springs,Vermont,39.14379830712832
+North Hartland,North Westminster,Vermont,32.93244122668412
+North Hartland,Huntington Center,Vermont,56.919740397190594
+North Hartland,Wardsboro,Vermont,43.75257937253674
+North Hartland,Grafton,Vermont,31.811148097339803
+North Hartland,Jamaica,Vermont,40.273433959667045
+North Hartland,Londonderry,Vermont,33.937678819695435
+North Hartland,West Dummerston,Vermont,47.58908704270874
+North Hartland,Stratton Mountain,Vermont,42.84148595452364
+North Hartland,Weston,Vermont,30.258971688585714
+North Hartland,Chimney Hill,Vermont,55.92031759954727
+North Hartland,Bolton,Vermont,59.98001395449411
+North Hartland,Hanksville,Vermont,54.49573492306919
+North Hartland,South Woodstock,Vermont,9.036490612301439
+West Woodstock,Proctorsville,Vermont,16.475971889431065
+West Woodstock,Quechee,Vermont,7.04781329595183
+West Woodstock,Wells River,Vermont,44.733052422894396
+West Woodstock,Pawlet,Vermont,36.20807048508978
+West Woodstock,West Pawlet,Vermont,39.11459733814823
+West Woodstock,Waterbury Center,Vermont,53.60430043969695
+West Woodstock,Lincoln,Vermont,40.49584431117179
+West Woodstock,East Poultney,Vermont,33.62110554876354
+West Woodstock,East Dorset,Vermont,34.1308864981713
+West Woodstock,Websterville,Vermont,38.212732280995205
+West Woodstock,Jacksonville,Vermont,57.77767730986666
+West Woodstock,Algiers,Vermont,54.765111923340484
+West Woodstock,Peacham,Vermont,53.067493868117815
+West Woodstock,West Charlotte,Vermont,59.63631784695511
+West Woodstock,Harmonyville,Vermont,40.049473976736
+West Woodstock,South Londonderry,Vermont,31.878380522222162
+West Woodstock,Danby,Vermont,28.881181633314295
+West Woodstock,Townshend,Vermont,39.40628539184068
+West Woodstock,New Haven,Vermont,46.506657936921364
+West Woodstock,Bolton Valley,Vermont,57.65607813436332
+West Woodstock,East Charlotte,Vermont,58.314339026970345
+West Woodstock,Chittenden,Vermont,20.953217523646256
+West Woodstock,South Lincoln,Vermont,37.80844066677903
+West Woodstock,Middletown Springs,Vermont,29.981835872091626
+West Woodstock,North Westminster,Vermont,34.128867301992656
+West Woodstock,Huntington Center,Vermont,51.282642403310945
+West Woodstock,Whitingham,Vermont,59.177693442507696
+West Woodstock,Wardsboro,Vermont,40.9855743653694
+West Woodstock,Grafton,Vermont,30.559040108917845
+West Woodstock,Jamaica,Vermont,37.26896769245567
+West Woodstock,Londonderry,Vermont,29.4646813813098
+West Woodstock,West Dummerston,Vermont,47.14134356601214
+West Woodstock,Stratton Mountain,Vermont,38.43579746419776
+West Woodstock,Weston,Vermont,25.250203570801585
+West Woodstock,Chimney Hill,Vermont,52.9564060679139
+West Woodstock,Bolton,Vermont,55.24920804511091
+West Woodstock,Hanksville,Vermont,48.70028917880543
+West Woodstock,South Woodstock,Vermont,3.6170565255657285
+North Hyde Park,Lunenburg,Vermont,47.38384330542438
+North Hyde Park,Wells River,Vermont,44.29989629532934
+North Hyde Park,Lyndon Center,Vermont,29.967759908244236
+North Hyde Park,Greensboro Bend,Vermont,17.948488836153057
+North Hyde Park,Highgate Center,Vermont,28.788097233562112
+North Hyde Park,Waterbury Center,Vermont,21.14492209831058
+North Hyde Park,Lincoln,Vermont,43.92084833090062
+North Hyde Park,Websterville,Vermont,35.59051305990715
+North Hyde Park,Peacham,Vermont,31.373126910205567
+North Hyde Park,West Charlotte,Vermont,41.09938486401507
+North Hyde Park,Gilman,Vermont,46.79446488199715
+North Hyde Park,Westford,Vermont,21.0804529420093
+North Hyde Park,Newport Center,Vermont,24.050531343255994
+North Hyde Park,Sheffield,Vermont,24.0030880734527
+North Hyde Park,West Burke,Vermont,30.294046518764944
+North Hyde Park,Wolcott,Vermont,10.649704906908003
+North Hyde Park,New Haven,Vermont,46.611154004293745
+North Hyde Park,Bolton Valley,Vermont,21.85714864428785
+North Hyde Park,South Hero,Vermont,34.97533569928426
+North Hyde Park,East Charlotte,Vermont,38.263461233707034
+North Hyde Park,Sutton,Vermont,27.99419605805271
+North Hyde Park,South Lincoln,Vermont,45.86622561043418
+North Hyde Park,Huntington Center,Vermont,32.089221653154105
+North Hyde Park,Lyndon,Vermont,30.51521369027977
+North Hyde Park,East Burke,Vermont,32.671621321354074
+North Hyde Park,Beecher Falls,Vermont,58.85054889246167
+North Hyde Park,Underhill Center,Vermont,18.806960367143965
+North Hyde Park,Bolton,Vermont,25.049922380445754
+North Hyde Park,Hanksville,Vermont,34.1849816065589
+North Hyde Park,Highgate Springs,Vermont,32.979196292634185
+North Pownal,Proctorsville,Vermont,51.150033335706425
+North Pownal,Pawlet,Vermont,38.20484475293978
+North Pownal,West Pawlet,Vermont,38.60256670276672
+North Pownal,East Poultney,Vermont,50.28748872071641
+North Pownal,East Dorset,Vermont,33.42689612530652
+North Pownal,Jacksonville,Vermont,22.508836131681743
+North Pownal,Algiers,Vermont,34.83638181779622
+North Pownal,Harmonyville,Vermont,34.452380300085935
+North Pownal,South Londonderry,Vermont,35.39243869198013
+North Pownal,Danby,Vermont,40.098454928989256
+North Pownal,Townshend,Vermont,34.62471372954613
+North Pownal,Old Bennington,Vermont,6.4374277541064355
+North Pownal,Middletown Springs,Vermont,48.015985571801934
+North Pownal,North Westminster,Vermont,46.59410198078837
+North Pownal,Whitingham,Vermont,19.257083423567956
+North Pownal,Wardsboro,Vermont,29.365157392156558
+North Pownal,Grafton,Vermont,41.9205043028614
+North Pownal,Jamaica,Vermont,32.05730465118694
+North Pownal,Londonderry,Vermont,37.50756238370902
+North Pownal,West Dummerston,Vermont,34.19231494420879
+North Pownal,Stratton Mountain,Vermont,28.564196722247093
+North Pownal,Weston,Vermont,41.46390721446777
+North Pownal,Chimney Hill,Vermont,19.225642457194702
+Proctorsville,Quechee,Vermont,21.25737198590486
+Proctorsville,Pawlet,Vermont,27.142031395311815
+Proctorsville,West Pawlet,Vermont,30.74892592988182
+Proctorsville,Lincoln,Vermont,52.92885893966732
+Proctorsville,East Poultney,Vermont,30.523614377077056
+Proctorsville,East Dorset,Vermont,20.86308099479362
+Proctorsville,Websterville,Vermont,54.53339945305651
+Proctorsville,Jacksonville,Vermont,41.31074310494739
+Proctorsville,Algiers,Vermont,38.96982617670497
+Proctorsville,Harmonyville,Vermont,23.776610531902065
+Proctorsville,South Londonderry,Vermont,15.829471421529876
+Proctorsville,Danby,Vermont,18.16532015588999
+Proctorsville,Townshend,Vermont,23.11301586677261
+Proctorsville,New Haven,Vermont,57.53738586529112
+Proctorsville,Old Bennington,Vermont,44.99190870015272
+Proctorsville,Chittenden,Vermont,27.250321241769978
+Proctorsville,South Lincoln,Vermont,50.1612024017468
+Proctorsville,Middletown Springs,Vermont,25.50717710582375
+Proctorsville,North Westminster,Vermont,20.104023794718895
+Proctorsville,Whitingham,Vermont,42.707964234299745
+Proctorsville,Wardsboro,Vermont,24.523665165258553
+Proctorsville,Grafton,Vermont,14.597544238583355
+Proctorsville,Jamaica,Vermont,20.82614804964693
+Proctorsville,Londonderry,Vermont,13.644606359904731
+Proctorsville,West Dummerston,Vermont,31.164810746566545
+Proctorsville,Stratton Mountain,Vermont,22.610398808912528
+Proctorsville,Weston,Vermont,10.002199240674146
+Proctorsville,Chimney Hill,Vermont,36.55478391463446
+Proctorsville,South Woodstock,Vermont,13.492553895933977
+Lunenburg,Wells River,Vermont,28.204300166962287
+Lunenburg,Lyndon Center,Vermont,17.41661516433234
+Lunenburg,Greensboro Bend,Vermont,29.689928436877462
+Lunenburg,Waterbury Center,Vermont,51.778992449380304
+Lunenburg,Websterville,Vermont,44.28127940885845
+Lunenburg,Peacham,Vermont,25.906643385613975
+Lunenburg,Gilman,Vermont,3.4768413878286872
+Lunenburg,Newport Center,Vermont,46.07002619055754
+Lunenburg,Sheffield,Vermont,23.666210230549147
+Lunenburg,West Burke,Vermont,19.56847007714648
+Lunenburg,Wolcott,Vermont,39.11652791260945
+Lunenburg,Bolton Valley,Vermont,58.30815019455048
+Lunenburg,Sutton,Vermont,20.864790699916735
+Lunenburg,Lyndon,Vermont,16.951393543118233
+Lunenburg,East Burke,Vermont,15.689263107330637
+Lunenburg,Beecher Falls,Vermont,39.2148349249626
+Lunenburg,Bolton,Vermont,59.93620442288687
+Quechee,Wells River,Vermont,39.418803567344554
+Quechee,Pawlet,Vermont,43.14967156626126
+Quechee,West Pawlet,Vermont,46.113343413900346
+Quechee,Waterbury Center,Vermont,52.83640094813732
+Quechee,Lincoln,Vermont,42.73993336294493
+Quechee,East Poultney,Vermont,40.59467578285643
+Quechee,East Dorset,Vermont,40.4583227305109
+Quechee,Websterville,Vermont,35.82666470179306
+Quechee,Algiers,Vermont,57.60136750437975
+Quechee,Peacham,Vermont,48.862935951011266
+Quechee,Harmonyville,Vermont,43.73680031808502
+Quechee,South Londonderry,Vermont,37.07636477199327
+Quechee,Danby,Vermont,35.5746098341596
+Quechee,Townshend,Vermont,43.13979919584491
+Quechee,New Haven,Vermont,49.457127800196126
+Quechee,Bolton Valley,Vermont,57.62200256133632
+Quechee,Chittenden,Vermont,26.92237041646082
+Quechee,South Lincoln,Vermont,40.19821836135834
+Quechee,Middletown Springs,Vermont,37.02412493563904
+Quechee,North Westminster,Vermont,36.12548096700077
+Quechee,Huntington Center,Vermont,52.332691018017925
+Quechee,Wardsboro,Vermont,45.495301659490906
+Quechee,Grafton,Vermont,34.08454003490067
+Quechee,Jamaica,Vermont,41.88843743940047
+Quechee,Londonderry,Vermont,34.81768643268331
+Quechee,West Dummerston,Vermont,50.29587745495119
+Quechee,Stratton Mountain,Vermont,43.82091984724198
+Quechee,Weston,Vermont,30.835620982076225
+Quechee,Chimney Hill,Vermont,57.63345657288801
+Quechee,Bolton,Vermont,55.50491359797525
+Quechee,Hanksville,Vermont,49.89297030836584
+Quechee,South Woodstock,Vermont,8.119625819062179
+Wells River,Lyndon Center,Vermont,26.61021510978872
+Wells River,Greensboro Bend,Vermont,29.674660655191147
+Wells River,Waterbury Center,Vermont,36.18873983885689
+Wells River,Lincoln,Vermont,46.49186579643175
+Wells River,Websterville,Vermont,20.47634058703487
+Wells River,Peacham,Vermont,13.32995182391554
+Wells River,Gilman,Vermont,24.813280824266027
+Wells River,Westford,Vermont,56.52456433810812
+Wells River,Newport Center,Vermont,56.473562813375736
+Wells River,Sheffield,Vermont,30.899031203842476
+Wells River,West Burke,Vermont,34.029347133490106
+Wells River,Wolcott,Vermont,33.65159852812293
+Wells River,New Haven,Vermont,54.20242436129384
+Wells River,Bolton Valley,Vermont,43.45474659440693
+Wells River,East Charlotte,Vermont,57.20294184739863
+Wells River,Chittenden,Vermont,54.10725954479485
+Wells River,Sutton,Vermont,32.85363430932043
+Wells River,South Lincoln,Vermont,45.84376559997618
+Wells River,Huntington Center,Vermont,45.95028580659579
+Wells River,Lyndon,Vermont,25.08056564769976
+Wells River,East Burke,Vermont,30.541123749069516
+Wells River,Underhill Center,Vermont,48.170961755781846
+Wells River,Bolton,Vermont,43.642441293231094
+Wells River,Hanksville,Vermont,45.201051819085805
+Wells River,South Woodstock,Vermont,47.21063853875412
+Pawlet,West Pawlet,Vermont,3.719406824539475
+Pawlet,Lincoln,Vermont,52.88217265438754
+Pawlet,East Poultney,Vermont,12.410283108296737
+Pawlet,East Dorset,Vermont,11.040986967246505
+Pawlet,Jacksonville,Vermont,42.036195523350635
+Pawlet,Algiers,Vermont,47.44610177470313
+Pawlet,Harmonyville,Vermont,33.474204469025075
+Pawlet,South Londonderry,Vermont,21.281674188255877
+Pawlet,Danby,Vermont,9.055757197336767
+Pawlet,Townshend,Vermont,32.90572923723667
+Pawlet,New Haven,Vermont,53.759328289765804
+Pawlet,Old Bennington,Vermont,32.04607897438278
+Pawlet,Chittenden,Vermont,27.03652865891949
+Pawlet,South Lincoln,Vermont,50.49878455365564
+Pawlet,Middletown Springs,Vermont,9.894428015909288
+Pawlet,North Westminster,Vermont,39.5026555915484
+Pawlet,Whitingham,Vermont,41.29482114877388
+Pawlet,Wardsboro,Vermont,28.65356254203891
+Pawlet,Grafton,Vermont,31.069886244854263
+Pawlet,Jamaica,Vermont,26.433545132719495
+Pawlet,Londonderry,Vermont,20.23960424581416
+Pawlet,West Dummerston,Vermont,40.4862206072473
+Pawlet,Stratton Mountain,Vermont,21.041159647203227
+Pawlet,Weston,Vermont,19.666983010277082
+Pawlet,Chimney Hill,Vermont,34.52697685671723
+Pawlet,South Woodstock,Vermont,35.478770068868506
+West Pawlet,Lincoln,Vermont,52.99402776685522
+West Pawlet,East Poultney,Vermont,11.768051376754817
+West Pawlet,East Dorset,Vermont,14.382631036851256
+West Pawlet,Jacksonville,Vermont,44.2998375049543
+West Pawlet,Algiers,Vermont,50.34568192802337
+West Pawlet,Harmonyville,Vermont,36.75325550607531
+West Pawlet,South Londonderry,Vermont,24.798408395233036
+West Pawlet,Danby,Vermont,12.74361104698025
+West Pawlet,Townshend,Vermont,36.20579804622094
+West Pawlet,New Haven,Vermont,53.31471994553016
+West Pawlet,Old Bennington,Vermont,32.67296104138999
+West Pawlet,Chittenden,Vermont,28.20161595391373
+West Pawlet,South Lincoln,Vermont,50.71771777364886
+West Pawlet,Middletown Springs,Vermont,10.868058228681935
+West Pawlet,North Westminster,Vermont,43.135316337748804
+West Pawlet,Whitingham,Vermont,43.331040118266486
+West Pawlet,Wardsboro,Vermont,31.702967783172532
+West Pawlet,Grafton,Vermont,34.70456798157647
+West Pawlet,Jamaica,Vermont,29.693358444007462
+West Pawlet,Londonderry,Vermont,23.86514244331493
+West Pawlet,West Dummerston,Vermont,43.57762725674935
+West Pawlet,Stratton Mountain,Vermont,24.040864992230595
+West Pawlet,Weston,Vermont,23.38534440329456
+West Pawlet,Chimney Hill,Vermont,36.71043539294683
+West Pawlet,South Woodstock,Vermont,38.593362490949836
+Lyndon Center,Greensboro Bend,Vermont,12.430006842395775
+Lyndon Center,Highgate Center,Vermont,57.631006465046774
+Lyndon Center,Waterbury Center,Vermont,36.641881273706545
+Lyndon Center,Lincoln,Vermont,57.08752384956019
+Lyndon Center,Websterville,Vermont,34.505557596520624
+Lyndon Center,Peacham,Vermont,16.364427885263428
+Lyndon Center,Gilman,Vermont,17.06805772992162
+Lyndon Center,Westford,Vermont,49.450536951755325
+Lyndon Center,Newport Center,Vermont,32.063562249252506
+Lyndon Center,Sheffield,Vermont,6.596708179306122
+Lyndon Center,West Burke,Vermont,7.4798613012229485
+Lyndon Center,Wolcott,Vermont,22.108692028073616
+Lyndon Center,Bolton Valley,Vermont,42.524861076464326
+Lyndon Center,Sutton,Vermont,6.339277259182779
+Lyndon Center,South Lincoln,Vermont,57.73589596760185
+Lyndon Center,Huntington Center,Vermont,50.15458132973344
+Lyndon Center,Lyndon,Vermont,1.5402848799930575
+Lyndon Center,East Burke,Vermont,5.013214600337009
+Lyndon Center,Beecher Falls,Vermont,41.41513583614536
+Lyndon Center,Underhill Center,Vermont,43.7503496008092
+Lyndon Center,Bolton,Vermont,44.56297001526179
+Lyndon Center,Hanksville,Vermont,50.88845303011107
+Greensboro Bend,Highgate Center,Vermont,46.376832033205055
+Greensboro Bend,Waterbury Center,Vermont,25.773530473366513
+Greensboro Bend,Lincoln,Vermont,47.910673971902206
+Greensboro Bend,Websterville,Vermont,29.256072052485756
+Greensboro Bend,Peacham,Vermont,16.424400870026247
+Greensboro Bend,West Charlotte,Vermont,51.90585146161207
+Greensboro Bend,Gilman,Vermont,28.89892985522912
+Greensboro Bend,Westford,Vermont,37.02160377605188
+Greensboro Bend,Newport Center,Vermont,27.31967672833281
+Greensboro Bend,Sheffield,Vermont,7.857174842260504
+Greensboro Bend,West Burke,Vermont,15.237451559043953
+Greensboro Bend,Wolcott,Vermont,9.773607444961836
+Greensboro Bend,New Haven,Vermont,53.088591968785934
+Greensboro Bend,Bolton Valley,Vermont,30.91247543763746
+Greensboro Bend,South Hero,Vermont,51.54829266782585
+Greensboro Bend,East Charlotte,Vermont,48.73681526125516
+Greensboro Bend,Sutton,Vermont,12.655749587293657
+Greensboro Bend,South Lincoln,Vermont,48.98822262989009
+Greensboro Bend,Huntington Center,Vermont,39.383436208700694
+Greensboro Bend,Lyndon,Vermont,12.738557294174715
+Greensboro Bend,East Burke,Vermont,16.118739359190663
+Greensboro Bend,Beecher Falls,Vermont,49.04937752153343
+Greensboro Bend,Underhill Center,Vermont,31.533524474973472
+Greensboro Bend,Bolton,Vermont,33.257770726119524
+Greensboro Bend,Hanksville,Vermont,40.4884084808461
+Greensboro Bend,Highgate Springs,Vermont,50.53376747121673
+Highgate Center,Waterbury Center,Vermont,41.75259524182663
+Highgate Center,Lincoln,Vermont,57.68415220614303
+Highgate Center,West Charlotte,Vermont,44.58439011061731
+Highgate Center,Westford,Vermont,22.809680558020744
+Highgate Center,Newport Center,Vermont,36.08890498290407
+Highgate Center,Sheffield,Vermont,51.182034507209565
+Highgate Center,West Burke,Vermont,56.07821346597917
+Highgate Center,Wolcott,Vermont,39.25120295083861
+Highgate Center,New Haven,Vermont,56.249078372943934
+Highgate Center,Bolton Valley,Vermont,37.09901702356943
+Highgate Center,South Hero,Vermont,23.72386520116377
+Highgate Center,East Charlotte,Vermont,43.373658360414936
+Highgate Center,Sutton,Vermont,54.243114375769444
+Highgate Center,Huntington Center,Vermont,44.820545937409
+Highgate Center,Lyndon,Vermont,58.426751733349036
+Highgate Center,East Burke,Vermont,59.34638644371349
+Highgate Center,Underhill Center,Vermont,30.483602167246826
+Highgate Center,Bolton,Vermont,39.65031816289373
+Highgate Center,Hanksville,Vermont,47.54163880374179
+Highgate Center,Highgate Springs,Vermont,4.194248085340705
+Waterbury Center,Lincoln,Vermont,23.335126665172556
+Waterbury Center,Websterville,Vermont,19.32341799666646
+Waterbury Center,Peacham,Vermont,27.36791522753262
+Waterbury Center,West Charlotte,Vermont,26.863910991720577
+Waterbury Center,Gilman,Vermont,49.81785379694403
+Waterbury Center,Westford,Vermont,21.403820586604517
+Waterbury Center,Newport Center,Vermont,44.62655253636936
+Waterbury Center,Sheffield,Vermont,33.581616349958615
+Waterbury Center,West Burke,Vermont,40.95886161339242
+Waterbury Center,Wolcott,Vermont,17.357604104398646
+Waterbury Center,New Haven,Vermont,27.515090554795414
+Waterbury Center,Bolton Valley,Vermont,7.277730848625706
+Waterbury Center,South Hero,Vermont,34.21982408091753
+Waterbury Center,East Charlotte,Vermont,23.652012014887188
+Waterbury Center,Chittenden,Vermont,47.91374193764961
+Waterbury Center,Sutton,Vermont,38.38430260020866
+Waterbury Center,South Lincoln,Vermont,25.01572752942196
+Waterbury Center,Huntington Center,Vermont,13.620644467292351
+Waterbury Center,Lyndon,Vermont,36.25290986307365
+Waterbury Center,East Burke,Vermont,41.2040761908527
+Waterbury Center,Underhill Center,Vermont,12.577114877144895
+Waterbury Center,Bolton,Vermont,8.180276084607243
+Waterbury Center,Hanksville,Vermont,14.787542770299883
+Waterbury Center,South Woodstock,Vermont,57.19992793899238
+Waterbury Center,Highgate Springs,Vermont,45.573937234128024
+Lincoln,East Poultney,Vermont,41.279955770932716
+Lincoln,East Dorset,Vermont,59.22448298378441
+Lincoln,Websterville,Vermont,26.197564046559766
+Lincoln,Peacham,Vermont,43.68099629443497
+Lincoln,West Charlotte,Vermont,19.296666514342444
+Lincoln,Westford,Vermont,34.886162064226966
+Lincoln,Sheffield,Vermont,55.384248808597846
+Lincoln,Danby,Vermont,52.30366213914317
+Lincoln,Wolcott,Vermont,40.47818583758875
+Lincoln,New Haven,Vermont,7.99505833598789
+Lincoln,Bolton Valley,Vermont,22.694426791818287
+Lincoln,South Hero,Vermont,40.610438208349706
+Lincoln,East Charlotte,Vermont,17.81849792303103
+Lincoln,Chittenden,Vermont,27.629004470613925
+Lincoln,South Lincoln,Vermont,2.7676578769221454
+Lincoln,Middletown Springs,Vermont,43.03903636457717
+Lincoln,Huntington Center,Vermont,13.033169661533421
+Lincoln,Lyndon,Vermont,56.335017513399315
+Lincoln,Underhill Center,Vermont,28.36938311638627
+Lincoln,Weston,Vermont,56.98759435915944
+Lincoln,Bolton,Vermont,19.487789254127446
+Lincoln,Hanksville,Vermont,10.384726033334278
+Lincoln,South Woodstock,Vermont,43.95950964323252
+East Poultney,East Dorset,Vermont,21.93929866585338
+East Poultney,Websterville,Vermont,57.32062386800289
+East Poultney,Jacksonville,Vermont,54.02824924454713
+East Poultney,Algiers,Vermont,58.40790477042977
+East Poultney,West Charlotte,Vermont,54.17242414044445
+East Poultney,Harmonyville,Vermont,43.51645309024035
+East Poultney,South Londonderry,Vermont,30.662166167885996
+East Poultney,Danby,Vermont,16.547097163868624
+East Poultney,Townshend,Vermont,42.88008967900504
+East Poultney,New Haven,Vermont,41.5794400662776
+East Poultney,Old Bennington,Vermont,44.25698932631777
+East Poultney,East Charlotte,Vermont,54.72391481133852
+East Poultney,Chittenden,Vermont,17.96640544008034
+East Poultney,South Lincoln,Vermont,39.05057492539559
+East Poultney,Middletown Springs,Vermont,5.170150305498236
+East Poultney,North Westminster,Vermont,47.19025487387301
+East Poultney,Huntington Center,Vermont,54.176411336206506
+East Poultney,Whitingham,Vermont,53.47792818507726
+East Poultney,Wardsboro,Vermont,39.51592268255709
+East Poultney,Grafton,Vermont,39.01734324037068
+East Poultney,Jamaica,Vermont,36.73581713433959
+East Poultney,Londonderry,Vermont,28.88086377743497
+East Poultney,West Dummerston,Vermont,51.02630211197846
+East Poultney,Stratton Mountain,Vermont,32.21978043493069
+East Poultney,Weston,Vermont,26.60776846957784
+East Poultney,Chimney Hill,Vermont,46.62757793781406
+East Poultney,Hanksville,Vermont,51.612425398963595
+East Poultney,South Woodstock,Vermont,34.163223297762364
+East Dorset,Jacksonville,Vermont,32.31416909401843
+East Dorset,Algiers,Vermont,36.629870947454314
+East Dorset,Harmonyville,Vermont,22.433574190071134
+East Dorset,South Londonderry,Vermont,10.546708616337483
+East Dorset,Danby,Vermont,6.944896361753868
+East Dorset,Townshend,Vermont,21.867694876054134
+East Dorset,Old Bennington,Vermont,26.98984598061136
+East Dorset,Chittenden,Vermont,31.812044029294093
+East Dorset,South Lincoln,Vermont,56.64072725795661
+East Dorset,Middletown Springs,Vermont,17.67083505151366
+East Dorset,North Westminster,Vermont,29.126823605451303
+East Dorset,Whitingham,Vermont,32.07972736715035
+East Dorset,Wardsboro,Vermont,17.745839623382555
+East Dorset,Grafton,Vermont,20.767786722214
+East Dorset,Jamaica,Vermont,15.393823795636152
+East Dorset,Londonderry,Vermont,10.093921248058304
+East Dorset,West Dummerston,Vermont,29.507913843338432
+East Dorset,Stratton Mountain,Vermont,10.29042048445777
+East Dorset,Weston,Vermont,11.275238416776899
+East Dorset,Chimney Hill,Vermont,25.13419356177326
+East Dorset,South Woodstock,Vermont,32.348824069237374
+Websterville,Peacham,Vermont,18.8931083546093
+Websterville,West Charlotte,Vermont,40.10709923929591
+Websterville,Gilman,Vermont,41.39544100337598
+Websterville,Westford,Vermont,40.71766753088722
+Websterville,Newport Center,Vermont,55.2211279057242
+Websterville,Sheffield,Vermont,35.019682683343994
+Websterville,West Burke,Vermont,41.256400468893396
+Websterville,Wolcott,Vermont,26.63733851525232
+Websterville,New Haven,Vermont,33.78108971223649
+Websterville,Bolton Valley,Vermont,25.932992651028584
+Websterville,South Hero,Vermont,52.9841373173005
+Websterville,East Charlotte,Vermont,37.221832334162606
+Websterville,Chittenden,Vermont,39.54922540112681
+Websterville,Sutton,Vermont,39.07419891635664
+Websterville,South Lincoln,Vermont,25.82569814520659
+Websterville,Middletown Springs,Vermont,56.82902793628242
+Websterville,Huntington Center,Vermont,26.08154076289618
+Websterville,Lyndon,Vermont,33.393109284177754
+Websterville,East Burke,Vermont,39.50027822448297
+Websterville,Underhill Center,Vermont,31.873095231913943
+Websterville,Bolton,Vermont,25.17727658801552
+Websterville,Hanksville,Vermont,25.01643215646505
+Websterville,South Woodstock,Vermont,41.60391651184405
+Jacksonville,Algiers,Vermont,12.38656197487289
+Jacksonville,Harmonyville,Vermont,18.28109877882771
+Jacksonville,South Londonderry,Vermont,27.117479791117717
+Jacksonville,Danby,Vermont,38.82943920125321
+Jacksonville,Townshend,Vermont,18.82260208343906
+Jacksonville,Old Bennington,Vermont,20.953249256055297
+Jacksonville,Middletown Springs,Vermont,49.97700006172858
+Jacksonville,North Westminster,Vermont,29.00599723325607
+Jacksonville,Whitingham,Vermont,3.31481779066139
+Jacksonville,Wardsboro,Vermont,17.04365974907519
+Jacksonville,Grafton,Vermont,27.876437990870443
+Jacksonville,Jamaica,Vermont,20.804985404194145
+Jacksonville,Londonderry,Vermont,29.701830061924394
+Jacksonville,West Dummerston,Vermont,13.90136490724258
+Jacksonville,Stratton Mountain,Vermont,22.448839233061648
+Jacksonville,Weston,Vermont,34.04561679008895
+Jacksonville,Chimney Hill,Vermont,7.627964090453152
+Jacksonville,South Woodstock,Vermont,54.64515494700416
+Algiers,Harmonyville,Vermont,15.771280458142732
+Algiers,South Londonderry,Vermont,28.311032543099618
+Algiers,Danby,Vermont,42.068087147652754
+Algiers,Townshend,Vermont,16.47023223944296
+Algiers,Old Bennington,Vermont,32.68760247571358
+Algiers,Middletown Springs,Vermont,53.759736332408984
+Algiers,North Westminster,Vermont,21.853107673601922
+Algiers,Whitingham,Vermont,15.696835771751266
+Algiers,Wardsboro,Vermont,18.90213414443413
+Algiers,Grafton,Vermont,24.377734830822945
+Algiers,Jamaica,Vermont,21.81470590517114
+Algiers,Londonderry,Vermont,30.603589481734375
+Algiers,West Dummerston,Vermont,7.920631284364459
+Algiers,Stratton Mountain,Vermont,26.410973443392844
+Algiers,Weston,Vermont,34.366813221689895
+Algiers,Chimney Hill,Vermont,17.302868685856545
+Algiers,South Woodstock,Vermont,51.31361835473349
+Peacham,West Charlotte,Vermont,53.655885273357484
+Peacham,Gilman,Vermont,23.35323795729429
+Peacham,Westford,Vermont,45.70853653646548
+Peacham,Newport Center,Vermont,43.52904104365043
+Peacham,Sheffield,Vermont,18.851017862317416
+Peacham,West Burke,Vermont,23.66137325357947
+Peacham,Wolcott,Vermont,20.766476407602802
+Peacham,New Haven,Vermont,50.560266908522514
+Peacham,Bolton Valley,Vermont,34.456747933748424
+Peacham,South Hero,Vermont,59.983509496936634
+Peacham,East Charlotte,Vermont,50.48341619895412
+Peacham,Chittenden,Vermont,58.00397802883159
+Peacham,Sutton,Vermont,21.877104535603184
+Peacham,South Lincoln,Vermont,43.83692399351128
+Peacham,Huntington Center,Vermont,39.491003235806886
+Peacham,Lyndon,Vermont,15.0519513052018
+Peacham,East Burke,Vermont,21.188594372101228
+Peacham,Beecher Falls,Vermont,57.62319840084224
+Peacham,Underhill Center,Vermont,37.99837117496331
+Peacham,Bolton,Vermont,35.4772709814821
+Peacham,Hanksville,Vermont,39.49535847242709
+Peacham,South Woodstock,Vermont,56.027962729731186
+West Charlotte,Westford,Vermont,23.8356574895696
+West Charlotte,Sheffield,Vermont,59.75680004800311
+West Charlotte,Wolcott,Vermont,42.52528450063241
+West Charlotte,New Haven,Vermont,13.661412802900232
+West Charlotte,Bolton Valley,Vermont,20.99923087169106
+West Charlotte,South Hero,Vermont,23.454003068696245
+West Charlotte,East Charlotte,Vermont,3.211943651393212
+West Charlotte,Chittenden,Vermont,44.51784537685449
+West Charlotte,South Lincoln,Vermont,21.883891473501798
+West Charlotte,Middletown Springs,Vermont,57.225327952096656
+West Charlotte,Huntington Center,Vermont,14.313119358925384
+West Charlotte,Underhill Center,Vermont,22.294184227066378
+West Charlotte,Bolton,Vermont,18.800998676579034
+West Charlotte,Hanksville,Vermont,15.093863852367445
+West Charlotte,Highgate Springs,Vermont,46.72682810865974
+Harmonyville,South Londonderry,Vermont,12.901053546465393
+Harmonyville,Danby,Vermont,26.982341241722516
+Harmonyville,Townshend,Vermont,0.6993235461769927
+Harmonyville,Old Bennington,Vermont,29.736578877914777
+Harmonyville,Chittenden,Vermont,48.191742084691974
+Harmonyville,Middletown Springs,Vermont,38.66228761648397
+Harmonyville,North Westminster,Vermont,12.142032148040606
+Harmonyville,Whitingham,Vermont,20.3733404238943
+Harmonyville,Wardsboro,Vermont,6.253254190120182
+Harmonyville,Grafton,Vermont,9.654084238447908
+Harmonyville,Jamaica,Vermont,7.06129412134291
+Harmonyville,Londonderry,Vermont,15.003168509143714
+Harmonyville,West Dummerston,Vermont,7.87716090498933
+Harmonyville,Stratton Mountain,Vermont,13.188516478628134
+Harmonyville,Weston,Vermont,18.611078164969882
+Harmonyville,Chimney Hill,Vermont,15.8396536922712
+Harmonyville,South Woodstock,Vermont,36.768227786288904
+Gilman,Newport Center,Vermont,47.25720393900708
+Gilman,Sheffield,Vermont,23.587021713653535
+Gilman,West Burke,Vermont,20.511640715782562
+Gilman,Wolcott,Vermont,38.022120533059606
+Gilman,Bolton Valley,Vermont,56.511526831128016
+Gilman,Sutton,Vermont,21.423328475881302
+Gilman,Lyndon,Vermont,16.31554300539733
+Gilman,East Burke,Vermont,16.356441158042088
+Gilman,Beecher Falls,Vermont,42.55561445336544
+Gilman,Underhill Center,Vermont,58.87203117832272
+Gilman,Bolton,Vermont,57.99605794369505
+South Londonderry,Danby,Vermont,14.115092636719549
+South Londonderry,Townshend,Vermont,12.247180616382606
+South Londonderry,Old Bennington,Vermont,29.332779820025376
+South Londonderry,Chittenden,Vermont,36.11888041398424
+South Londonderry,Middletown Springs,Vermont,25.768858920537678
+South Londonderry,North Westminster,Vermont,18.62234661251947
+South Londonderry,Whitingham,Vermont,27.93138419809705
+South Londonderry,Wardsboro,Vermont,10.206601790542155
+South Londonderry,Grafton,Vermont,10.365998255914274
+South Londonderry,Jamaica,Vermont,6.631548928482545
+South Londonderry,Londonderry,Vermont,2.5878520650237515
+South Londonderry,West Dummerston,Vermont,20.611456910788473
+South Londonderry,Stratton Mountain,Vermont,6.832802491185783
+South Londonderry,Weston,Vermont,6.973786470205345
+South Londonderry,Chimney Hill,Vermont,21.336543858303227
+South Londonderry,South Woodstock,Vermont,29.192913051703567
+Westford,Newport Center,Vermont,42.05119433678419
+Westford,Sheffield,Vermont,44.16834304677847
+Westford,West Burke,Vermont,50.951805946093785
+Westford,Wolcott,Vermont,27.4413289545437
+Westford,New Haven,Vermont,33.94470561670846
+Westford,Bolton Valley,Vermont,15.236203265578158
+Westford,South Hero,Vermont,14.5833277918396
+Westford,East Charlotte,Vermont,21.87330616085216
+Westford,Sutton,Vermont,48.529997926474294
+Westford,South Lincoln,Vermont,37.521805617126496
+Westford,Huntington Center,Vermont,22.01704871306311
+Westford,Lyndon,Vermont,49.67361181418758
+Westford,East Burke,Vermont,52.85594356893534
+Westford,Underhill Center,Vermont,8.85287574280178
+Westford,Bolton,Vermont,17.28583464830027
+Westford,Hanksville,Vermont,24.738814888640736
+Westford,Highgate Springs,Vermont,25.986781267520666
+Newport Center,Sheffield,Vermont,26.12028904273538
+Newport Center,West Burke,Vermont,26.757733021929386
+Newport Center,Wolcott,Vermont,28.996269616176367
+Newport Center,Bolton Valley,Vermont,45.90534608850035
+Newport Center,South Hero,Vermont,53.26141802885236
+Newport Center,Sutton,Vermont,26.22103780315352
+Newport Center,Huntington Center,Vermont,56.1395233170881
+Newport Center,Lyndon,Vermont,33.46497924810549
+Newport Center,East Burke,Vermont,30.99005345013374
+Newport Center,Beecher Falls,Vermont,40.029502734989414
+Newport Center,Underhill Center,Vermont,42.345728365172384
+Newport Center,Bolton,Vermont,49.10031696329254
+Newport Center,Hanksville,Vermont,58.21158512826471
+Newport Center,Highgate Springs,Vermont,39.21334524423178
+Sheffield,West Burke,Vermont,7.38470944825767
+Sheffield,Wolcott,Vermont,17.43577163037886
+Sheffield,Bolton Valley,Vermont,38.76014212687257
+Sheffield,South Hero,Vermont,58.56462630756898
+Sheffield,East Charlotte,Vermont,56.59045725345751
+Sheffield,Sutton,Vermont,4.804926121080811
+Sheffield,South Lincoln,Vermont,56.332605718183196
+Sheffield,Huntington Center,Vermont,47.20045868263172
+Sheffield,Lyndon,Vermont,7.710905210558053
+Sheffield,East Burke,Vermont,8.708905844259984
+Sheffield,Beecher Falls,Vermont,41.66200236990615
+Sheffield,Underhill Center,Vermont,39.167160795045376
+Sheffield,Bolton,Vermont,41.11424137178101
+Sheffield,Hanksville,Vermont,48.24719164257347
+Sheffield,Highgate Springs,Vermont,55.23868798129275
+Danby,Townshend,Vermont,26.341064402569295
+Danby,New Haven,Vermont,54.51198834735208
+Danby,Old Bennington,Vermont,33.668104713136906
+Danby,Chittenden,Vermont,24.867155203432635
+Danby,South Lincoln,Vermont,49.71061464224794
+Danby,Middletown Springs,Vermont,11.7062122921961
+Danby,North Westminster,Vermont,31.278263575272643
+Danby,Whitingham,Vermont,38.79146745536359
+Danby,Wardsboro,Vermont,23.27448436641356
+Danby,Grafton,Vermont,22.912154376786454
+Danby,Jamaica,Vermont,20.285979537204156
+Danby,Londonderry,Vermont,12.407862909842853
+Danby,West Dummerston,Vermont,34.56069224092795
+Danby,Stratton Mountain,Vermont,16.424892852194766
+Danby,Weston,Vermont,10.880846470932584
+Danby,Chimney Hill,Vermont,31.8372581611159
+Danby,South Woodstock,Vermont,27.615036097977512
+West Burke,Wolcott,Vermont,24.70139418087648
+West Burke,Bolton Valley,Vermont,46.11850109010689
+West Burke,Sutton,Vermont,2.5817737156593297
+West Burke,Huntington Center,Vermont,54.57896013497353
+West Burke,Lyndon,Vermont,8.977631733683769
+West Burke,East Burke,Vermont,4.291836582411841
+West Burke,Beecher Falls,Vermont,34.758534635825036
+West Burke,Underhill Center,Vermont,46.338827559835686
+West Burke,Bolton,Vermont,48.49484519443507
+West Burke,Hanksville,Vermont,55.60193888150791
+Wolcott,New Haven,Vermont,44.85220018672107
+Wolcott,Bolton Valley,Vermont,21.5595218305621
+Wolcott,South Hero,Vermont,42.0156995737451
+Wolcott,East Charlotte,Vermont,39.39468436401499
+Wolcott,Sutton,Vermont,22.14003377117892
+Wolcott,South Lincoln,Vermont,41.916901703244775
+Wolcott,Huntington Center,Vermont,30.669731400114802
+Wolcott,Lyndon,Vermont,22.253199024077112
+Wolcott,East Burke,Vermont,25.883449571676763
+Wolcott,Beecher Falls,Vermont,57.29241884432553
+Wolcott,Underhill Center,Vermont,21.767400126533925
+Wolcott,Bolton,Vermont,24.153161663032808
+Wolcott,Hanksville,Vermont,32.09587299050043
+Wolcott,Highgate Springs,Vermont,43.44486570795818
+Townshend,Old Bennington,Vermont,29.8160128112049
+Townshend,Chittenden,Vermont,47.493078125353136
+Townshend,Middletown Springs,Vermont,38.01395909588989
+Townshend,North Westminster,Vermont,11.98990640363162
+Townshend,Whitingham,Vermont,20.851436988470596
+Townshend,Wardsboro,Vermont,6.065225971485074
+Townshend,Grafton,Vermont,9.069490627948621
+Townshend,Jamaica,Vermont,6.534012800612546
+Townshend,Londonderry,Vermont,14.325597615452072
+Townshend,West Dummerston,Vermont,8.57380151304928
+Townshend,Stratton Mountain,Vermont,12.755623401866842
+Townshend,Weston,Vermont,17.914939997712207
+Townshend,Chimney Hill,Vermont,16.15344672495241
+Townshend,South Woodstock,Vermont,36.13662922378621
+New Haven,Bolton Valley,Vermont,24.754541256230635
+New Haven,South Hero,Vermont,36.75924706360958
+New Haven,East Charlotte,Vermont,13.390125064395278
+New Haven,Chittenden,Vermont,30.869340579375265
+New Haven,South Lincoln,Vermont,9.741398111584585
+New Haven,Middletown Springs,Vermont,44.21410146379435
+New Haven,Huntington Center,Vermont,14.544338518728487
+New Haven,Underhill Center,Vermont,29.148838484816086
+New Haven,Bolton,Vermont,21.571852373268246
+New Haven,Hanksville,Vermont,12.765934661902458
+New Haven,South Woodstock,Vermont,49.82227205547462
+New Haven,Highgate Springs,Vermont,58.844536339512885
+Bolton Valley,South Hero,Vermont,27.132508535321293
+Bolton Valley,East Charlotte,Vermont,17.846260333202583
+Bolton Valley,Chittenden,Vermont,49.41851057987379
+Bolton Valley,Sutton,Vermont,43.539592696999904
+Bolton Valley,South Lincoln,Vermont,24.95672731177239
+Bolton Valley,Huntington Center,Vermont,10.255161924545458
+Bolton Valley,Lyndon,Vermont,42.29595948610627
+Bolton Valley,East Burke,Vermont,46.83946627552021
+Bolton Valley,Underhill Center,Vermont,6.633162109851802
+Bolton Valley,Bolton,Vermont,3.245545326469286
+Bolton Valley,Hanksville,Vermont,12.512680959663731
+Bolton Valley,Highgate Springs,Vermont,40.65670260904084
+South Hero,East Charlotte,Vermont,23.401217372694074
+South Hero,South Lincoln,Vermont,43.376391192130065
+South Hero,Huntington Center,Vermont,29.701390009040857
+South Hero,Underhill Center,Vermont,22.101560084186
+South Hero,Bolton,Vermont,27.91413284723549
+South Hero,Hanksville,Vermont,32.13721816550545
+South Hero,Highgate Springs,Vermont,24.760872617708802
+Old Bennington,Chittenden,Vermont,58.10143589283898
+Old Bennington,Middletown Springs,Vermont,41.79073453624215
+Old Bennington,North Westminster,Vermont,41.787625437629885
+Old Bennington,Whitingham,Vermont,18.058906673156812
+Old Bennington,Wardsboro,Vermont,24.18919061204755
+Old Bennington,Grafton,Vermont,36.48031121676869
+Old Bennington,Jamaica,Vermont,26.523582263891175
+Old Bennington,Londonderry,Vermont,31.352918886403355
+Old Bennington,West Dummerston,Vermont,30.680368302538366
+Old Bennington,Stratton Mountain,Vermont,22.505315964352462
+Old Bennington,Weston,Vermont,35.21392153121239
+Old Bennington,Chimney Hill,Vermont,15.753276858781668
+Old Bennington,South Woodstock,Vermont,57.99803681012893
+East Charlotte,Chittenden,Vermont,44.09985936606326
+East Charlotte,South Lincoln,Vermont,20.52086707512871
+East Charlotte,Middletown Springs,Vermont,57.5343467866342
+East Charlotte,Huntington Center,Vermont,11.256402969490722
+East Charlotte,Lyndon,Vermont,59.837478994132326
+East Charlotte,Underhill Center,Vermont,19.499240545388837
+East Charlotte,Bolton,Vermont,15.595234603130045
+East Charlotte,Hanksville,Vermont,12.287012071474553
+East Charlotte,Highgate Springs,Vermont,45.75266744249088
+Chittenden,South Lincoln,Vermont,24.969677841446803
+Chittenden,Middletown Springs,Vermont,17.358172170917474
+Chittenden,North Westminster,Vermont,47.24784311345852
+Chittenden,Huntington Center,Vermont,40.516603916353496
+Chittenden,Wardsboro,Vermont,46.30119284653866
+Chittenden,Grafton,Vermont,40.61672323245472
+Chittenden,Jamaica,Vermont,42.73836244440248
+Chittenden,Londonderry,Vermont,33.624810601185736
+Chittenden,West Dummerston,Vermont,56.06100444740775
+Chittenden,Stratton Mountain,Vermont,40.58521901971652
+Chittenden,Underhill Center,Vermont,55.57447525853481
+Chittenden,Weston,Vermont,29.619375240540613
+Chittenden,Chimney Hill,Vermont,56.31568113903512
+Chittenden,Bolton,Vermont,46.38706762677469
+Chittenden,Hanksville,Vermont,37.805051424336476
+Chittenden,South Woodstock,Vermont,23.140156199140357
+Sutton,Huntington Center,Vermont,52.00378572017553
+Sutton,Lyndon,Vermont,7.875643555486954
+Sutton,East Burke,Vermont,5.176558978093019
+Sutton,Beecher Falls,Vermont,37.120177503848176
+Sutton,Underhill Center,Vermont,43.80587512498823
+Sutton,Bolton,Vermont,45.91307275638383
+Sutton,Hanksville,Vermont,53.03823133961175
+Sutton,Highgate Springs,Vermont,58.21748179896761
+South Lincoln,Middletown Springs,Vermont,40.630045219005005
+South Lincoln,Huntington Center,Vermont,15.574024548530282
+South Lincoln,Lyndon,Vermont,56.9206536505218
+South Lincoln,Londonderry,Vermont,58.4047469136198
+South Lincoln,Underhill Center,Vermont,30.81104433782876
+South Lincoln,Weston,Vermont,54.26068510204077
+South Lincoln,Bolton,Vermont,21.793410029911026
+South Lincoln,Hanksville,Vermont,12.880104978898173
+South Lincoln,South Woodstock,Vermont,41.25570564640313
+Middletown Springs,North Westminster,Vermont,42.03611439288646
+Middletown Springs,Huntington Center,Vermont,56.059289039471665
+Middletown Springs,Whitingham,Vermont,49.638669646862894
+Middletown Springs,Wardsboro,Vermont,34.92365312958238
+Middletown Springs,Grafton,Vermont,33.89197185351498
+Middletown Springs,Jamaica,Vermont,31.991290101349545
+Middletown Springs,Londonderry,Vermont,23.886439820073544
+Middletown Springs,West Dummerston,Vermont,46.2664817195694
+Middletown Springs,Stratton Mountain,Vermont,27.829271640739368
+Middletown Springs,Weston,Vermont,21.47051749461473
+Middletown Springs,Chimney Hill,Vermont,42.72026977170318
+Middletown Springs,Hanksville,Vermont,53.42372098136758
+Middletown Springs,South Woodstock,Vermont,30.13350752740155
+North Westminster,Whitingham,Vermont,31.597073676373853
+North Westminster,Wardsboro,Vermont,17.72143959598715
+North Westminster,Grafton,Vermont,8.43276980663689
+North Westminster,Jamaica,Vermont,16.42295672292507
+North Westminster,Londonderry,Vermont,19.270174119082046
+North Westminster,West Dummerston,Vermont,15.466419202459653
+North Westminster,Stratton Mountain,Vermont,22.611880478227643
+North Westminster,Weston,Vermont,20.60480419610317
+North Westminster,Chimney Hill,Vermont,27.84679670948851
+North Westminster,South Woodstock,Vermont,30.544468060657586
+Huntington Center,Lyndon,Vermont,49.69805039309359
+Huntington Center,East Burke,Vermont,54.77949455715457
+Huntington Center,Underhill Center,Vermont,15.386828011074046
+Huntington Center,Bolton,Vermont,7.039363317693489
+Huntington Center,Hanksville,Vermont,2.72182530845124
+Huntington Center,South Woodstock,Vermont,54.86462974858865
+Huntington Center,Highgate Springs,Vermont,47.96635511324723
+Lyndon,East Burke,Vermont,6.149071767096909
+Lyndon,Beecher Falls,Vermont,42.615290707381675
+Lyndon,Underhill Center,Vermont,43.753106258150375
+Lyndon,Bolton,Vermont,44.24461278549475
+Lyndon,Hanksville,Vermont,50.355571763528566
+East Burke,Beecher Falls,Vermont,36.466877352850375
+East Burke,Underhill Center,Vermont,47.64978228986641
+East Burke,Bolton,Vermont,49.00930917009448
+East Burke,Hanksville,Vermont,55.6032472390171
+Whitingham,Wardsboro,Vermont,18.197015170868614
+Whitingham,Grafton,Vermont,29.789648282183055
+Whitingham,Jamaica,Vermont,21.93774889349445
+Whitingham,Londonderry,Vermont,30.514630510872912
+Whitingham,West Dummerston,Vermont,16.827438132972322
+Whitingham,Stratton Mountain,Vermont,22.648506870008948
+Whitingham,Weston,Vermont,34.9048009941666
+Whitingham,Chimney Hill,Vermont,6.954361365850054
+Whitingham,South Woodstock,Vermont,56.144165333511715
+Wardsboro,Grafton,Vermont,12.662103144365338
+Wardsboro,Jamaica,Vermont,3.765342901752598
+Wardsboro,Londonderry,Vermont,12.760247691746455
+Wardsboro,West Dummerston,Vermont,11.880172460624992
+Wardsboro,Stratton Mountain,Vermont,7.667202336712659
+Wardsboro,Weston,Vermont,17.044778836675924
+Wardsboro,Chimney Hill,Vermont,12.169015994268694
+Wardsboro,South Woodstock,Vermont,37.98562905949167
+Grafton,Jamaica,Vermont,9.966570937339117
+Grafton,Londonderry,Vermont,10.840329246934651
+Grafton,West Dummerston,Vermont,16.617118637637923
+Grafton,Stratton Mountain,Vermont,15.319957863061147
+Grafton,Weston,Vermont,12.428640630437586
+Grafton,Chimney Hill,Vermont,24.546021002989583
+Grafton,South Woodstock,Vermont,27.20989935051
+Jamaica,Londonderry,Vermont,9.12086389569063
+Jamaica,West Dummerston,Vermont,14.290572525552554
+Jamaica,Stratton Mountain,Vermont,6.4195702655107905
+Jamaica,Weston,Vermont,13.334535295368514
+Jamaica,Chimney Hill,Vermont,15.749738119565096
+Jamaica,South Woodstock,Vermont,34.30747694106728
+Londonderry,West Dummerston,Vermont,22.820059400207818
+Londonderry,Stratton Mountain,Vermont,9.008653351011448
+Londonderry,Weston,Vermont,4.3971454331953055
+Londonderry,Chimney Hill,Vermont,23.897486260645998
+Londonderry,South Woodstock,Vermont,26.86641307550883
+West Dummerston,Stratton Mountain,Vermont,19.547338260812847
+West Dummerston,Weston,Vermont,26.488225084652814
+West Dummerston,Chimney Hill,Vermont,15.045857864722032
+West Dummerston,South Woodstock,Vermont,43.74277814414017
+Stratton Mountain,Weston,Vermont,13.202710263619055
+Stratton Mountain,Chimney Hill,Vermont,15.752797626959037
+Stratton Mountain,South Woodstock,Vermont,35.87432070134886
+Underhill Center,Bolton,Vermont,9.26088294506435
+Underhill Center,Hanksville,Vermont,17.985629588444038
+Underhill Center,Highgate Springs,Vermont,34.023869062975706
+Weston,Chimney Hill,Vermont,28.293962104306832
+Weston,South Woodstock,Vermont,22.797654710068752
+Chimney Hill,South Woodstock,Vermont,50.04477090278314
+Bolton,Hanksville,Vermont,9.268216960941862
+Bolton,South Woodstock,Vermont,58.86420084141806
+Bolton,Highgate Springs,Vermont,43.08798968362406
+Hanksville,South Woodstock,Vermont,52.27357187314113
+Hanksville,Highgate Springs,Vermont,50.68651653259264

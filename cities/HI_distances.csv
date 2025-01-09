@@ -1,0 +1,3247 @@
+City 1,City 2,State,Distance
+Honolulu,Kailua,Hawaii,8.097564304881644
+Honolulu,East Honolulu,Hawaii,8.345834073256801
+Honolulu,Pearl City,Hawaii,8.747198266244837
+Honolulu,Waipahu,Hawaii,11.267816327691317
+Honolulu,Kaneohe,Hawaii,6.384136648482015
+Honolulu,Mililani Town,Hawaii,13.530327435496229
+Honolulu,Ewa Gentry,Hawaii,11.620840777544885
+Honolulu,Kapolei,Hawaii,14.308831270861509
+Honolulu,Mililani Mauka,Hawaii,13.895538077599136
+Honolulu,Makakilo,Hawaii,15.30327036529831
+Honolulu,Schofield Barracks,Hawaii,17.909073042357797
+Honolulu,Wahiawa,Hawaii,16.192848854060493
+Honolulu,Ocean Pointe,Hawaii,11.835064560389617
+Honolulu,Ewa Beach,Hawaii,10.427045060777465
+Honolulu,Halawa,Hawaii,5.6397334924299845
+Honolulu,Waimalu,Hawaii,7.118131946077806
+Honolulu,Royal Kunia,Hawaii,13.06295956881189
+Honolulu,Waianae,Hawaii,22.986870995720235
+Honolulu,Nanakuli,Hawaii,19.672837769807813
+Honolulu,Maili,Hawaii,21.66895833885728
+Honolulu,Waipio,Hawaii,11.32726290037899
+Honolulu,Makaha,Hawaii,25.484418425161962
+Honolulu,Aiea,Hawaii,6.339385301479278
+Honolulu,Hickam Housing,Hawaii,6.537395297663586
+Honolulu,Ahuimanu,Hawaii,7.473461731518492
+Honolulu,Waikele,Hawaii,11.460792995933346
+Honolulu,Ewa Villages,Hawaii,12.462849232895971
+Honolulu,West Loch Estate,Hawaii,11.724074898161463
+Honolulu,Iroquois Point,Hawaii,8.673165012683647
+Honolulu,Waimanalo,Hawaii,7.508872639227383
+Honolulu,Laie,Hawaii,22.29116921779067
+Honolulu,Waipio Acres,Hawaii,14.621782419725026
+Honolulu,Pupukea,Hawaii,25.53287099343208
+Honolulu,Kahaluu,Hawaii,8.8133406883277
+Honolulu,East Kapolei,Hawaii,12.783094955927103
+Honolulu,Heeia,Hawaii,6.47946353986055
+Honolulu,Haleiwa,Hawaii,24.615510647407664
+Honolulu,Waimanalo Beach,Hawaii,9.579073241599785
+Honolulu,Whitmore Village,Hawaii,17.152722852540943
+Honolulu,Hauula,Hawaii,19.838855634243505
+Honolulu,Kaunakakai,Hawaii,57.11669971551798
+Honolulu,Helemano,Hawaii,18.08850816030071
+Honolulu,Waialua,Hawaii,24.004334319428505
+Honolulu,Kalaeloa,Hawaii,14.159589355153157
+Honolulu,Kahuku,Hawaii,24.941166493998917
+Honolulu,Wheeler AFB,Hawaii,15.804136273331634
+Honolulu,Kualapuu,Hawaii,52.13114669506333
+Honolulu,Maunawili,Hawaii,5.455856387817308
+Honolulu,Ko Olina,Hawaii,17.594063238349936
+Honolulu,Mokuleia,Hawaii,27.01226710917951
+Honolulu,Kaaawa,Hawaii,15.081602651901429
+Honolulu,Punaluu,Hawaii,17.541577950606136
+Honolulu,Kawela Bay,Hawaii,27.360804371612808
+Honolulu,Maunaloa,Hawaii,43.04293734148537
+Honolulu,Makaha Valley,Hawaii,24.264730770570218
+Kailua,East Honolulu,Hawaii,6.60996469185648
+Kailua,Pearl City,Hawaii,14.002495871014077
+Kailua,Waipahu,Hawaii,17.43481565721978
+Kailua,Kaneohe,Hawaii,3.415781389551092
+Kailua,Mililani Town,Hawaii,18.114824528673932
+Kailua,Ewa Gentry,Hawaii,18.890734434928447
+Kailua,Kapolei,Hawaii,21.4462087754432
+Kailua,Mililani Mauka,Hawaii,17.416045087623576
+Kailua,Makakilo,Hawaii,22.135596302639048
+Kailua,Schofield Barracks,Hawaii,21.89292019379166
+Kailua,Wahiawa,Hawaii,19.430152470771983
+Kailua,Ocean Pointe,Hawaii,19.393051266052545
+Kailua,Ewa Beach,Hawaii,17.9868453902899
+Kailua,Halawa,Hawaii,11.585015948824797
+Kailua,Waimalu,Hawaii,12.55831356341777
+Kailua,Royal Kunia,Hawaii,18.84899270318711
+Kailua,Waianae,Hawaii,28.45138259476003
+Kailua,Nanakuli,Hawaii,26.090290355211117
+Kailua,Maili,Hawaii,27.7755167442476
+Kailua,Waipio,Hawaii,16.62921430410476
+Kailua,Makaha,Hawaii,30.83342545201172
+Kailua,Aiea,Hawaii,11.836358124978325
+Kailua,Hickam Housing,Hawaii,14.032283912731737
+Kailua,Ahuimanu,Hawaii,7.221051893791531
+Kailua,Waikele,Hawaii,17.16693030246291
+Kailua,Ewa Villages,Hawaii,19.5963777563096
+Kailua,West Loch Estate,Hawaii,18.483516769387606
+Kailua,Iroquois Point,Hawaii,16.247405209699597
+Kailua,Waimanalo,Hawaii,3.4850105364204653
+Kailua,Laie,Hawaii,21.166708106509326
+Kailua,Waipio Acres,Hawaii,18.652686036064438
+Kailua,Pupukea,Hawaii,26.477084996740622
+Kailua,Kahaluu,Hawaii,8.165303727911867
+Kailua,East Kapolei,Hawaii,19.52241834347409
+Kailua,Heeia,Hawaii,5.568824797569081
+Kailua,Haleiwa,Hawaii,27.154430731378966
+Kailua,Waimanalo Beach,Hawaii,5.128633026005203
+Kailua,Whitmore Village,Hawaii,20.289193260081277
+Kailua,Hauula,Hawaii,18.7125085231763
+Kailua,Kaunakakai,Hawaii,52.13092825323447
+Kailua,Helemano,Hawaii,20.57032879237273
+Kailua,Waialua,Hawaii,27.259076695001824
+Kailua,Kalaeloa,Hawaii,21.654922118759988
+Kailua,Kahuku,Hawaii,23.863458993504317
+Kailua,Wheeler AFB,Hawaii,19.891001756458316
+Kailua,Kualapuu,Hawaii,46.78018656627314
+Kailua,Maunawili,Hawaii,2.683755397741749
+Kailua,Ko Olina,Hawaii,24.720731846059063
+Kailua,Mokuleia,Hawaii,30.582664441879384
+Kailua,Kaaawa,Hawaii,13.024701955754791
+Kailua,Punaluu,Hawaii,16.217328681901073
+Kailua,Kawela Bay,Hawaii,27.073844799182563
+Kailua,Maunaloa,Hawaii,38.37868205567397
+Kailua,Makaha Valley,Hawaii,29.341726889920235
+East Honolulu,Pearl City,Hawaii,16.82766021392951
+East Honolulu,Waipahu,Hawaii,19.595492906084647
+East Honolulu,Kaneohe,Hawaii,8.710751170259508
+East Honolulu,Mililani Town,Hawaii,21.51897888232227
+East Honolulu,Ewa Gentry,Hawaii,19.832121199182797
+East Honolulu,Kapolei,Hawaii,22.53355051367479
+East Honolulu,Mililani Mauka,Hawaii,21.475044098607434
+East Honolulu,Makakilo,Hawaii,23.60276388201438
+East Honolulu,Schofield Barracks,Hawaii,25.761136562536645
+East Honolulu,Wahiawa,Hawaii,23.703380737470564
+East Honolulu,Ocean Pointe,Hawaii,19.878798419397537
+East Honolulu,Ewa Beach,Hawaii,18.505900319861432
+East Honolulu,Halawa,Hawaii,13.804061740242386
+East Honolulu,Waimalu,Hawaii,15.193308630131774
+East Honolulu,Royal Kunia,Hawaii,21.35445026733631
+East Honolulu,Waianae,Hawaii,31.283697471337703
+East Honolulu,Nanakuli,Hawaii,28.01010786501446
+East Honolulu,Maili,Hawaii,30.014718028759116
+East Honolulu,Waipio,Hawaii,19.48963979596579
+East Honolulu,Makaha,Hawaii,33.77197854309322
+East Honolulu,Aiea,Hawaii,14.393862323672339
+East Honolulu,Hickam Housing,Hawaii,14.771111634148546
+East Honolulu,Ahuimanu,Hawaii,12.34559502416324
+East Honolulu,Waikele,Hawaii,19.720359597649605
+East Honolulu,Ewa Villages,Hawaii,20.711643092504186
+East Honolulu,West Loch Estate,Hawaii,20.056403857325535
+East Honolulu,Iroquois Point,Hawaii,16.7940496023952
+East Honolulu,Waimanalo,Hawaii,3.1252256785251364
+East Honolulu,Laie,Hawaii,27.319045009994216
+East Honolulu,Waipio Acres,Hawaii,22.431869774580594
+East Honolulu,Pupukea,Hawaii,31.991075846714246
+East Honolulu,Kahaluu,Hawaii,13.60992155883431
+East Honolulu,East Kapolei,Hawaii,21.112120217153212
+East Honolulu,Heeia,Hawaii,10.61366240197613
+East Honolulu,Haleiwa,Hawaii,31.932985441858722
+East Honolulu,Waimanalo Beach,Hawaii,2.640387594835944
+East Honolulu,Whitmore Village,Hawaii,24.637956667039692
+East Honolulu,Hauula,Hawaii,24.82673400267073
+East Honolulu,Kaunakakai,Hawaii,48.77356489297304
+East Honolulu,Helemano,Hawaii,25.27858904598484
+East Honolulu,Waialua,Hawaii,31.64148178514931
+East Honolulu,Kalaeloa,Hawaii,22.199504998958293
+East Honolulu,Kahuku,Hawaii,30.0359184622732
+East Honolulu,Wheeler AFB,Hawaii,23.659598753821598
+East Honolulu,Kualapuu,Hawaii,43.792428930336385
+East Honolulu,Maunawili,Hawaii,5.756491711824892
+East Honolulu,Ko Olina,Hawaii,25.787816955985793
+East Honolulu,Mokuleia,Hawaii,34.80472743842747
+East Honolulu,Kaaawa,Hawaii,19.257419845754935
+East Honolulu,Punaluu,Hawaii,22.33692064380889
+East Honolulu,Ualapue,Hawaii,59.24042679613765
+East Honolulu,Kawela Bay,Hawaii,33.044607545451946
+East Honolulu,Maunaloa,Hawaii,34.71052895469816
+East Honolulu,Makaha Valley,Hawaii,32.49814966897838
+Hilo,Hawaiian Paradise Park,Hawaii,10.517038688651825
+Hilo,Waimea,Hawaii,42.2712614728266
+Hilo,Waikoloa Village,Hawaii,50.00956695987002
+Hilo,Kahaluu-Keauhou,Hawaii,57.121398474468926
+Hilo,Captain Cook,Hawaii,54.21263326624381
+Hilo,Hawaiian Beaches,Hawaii,14.246291868874346
+Hilo,Ainaloa,Hawaii,12.94316703975851
+Hilo,Mountain View,Hawaii,11.46036359095512
+Hilo,Hawaiian Acres,Hawaii,10.984409683273855
+Hilo,Holualoa,Hawaii,54.416998884257154
+Hilo,Kurtistown,Hawaii,7.104354458197624
+Hilo,Honaunau-Napoopoo,Hawaii,52.885998406042184
+Hilo,Orchidlands Estates,Hawaii,10.180994462146337
+Hilo,Honokaa,Hawaii,36.365720582360886
+Hilo,Kealakekua,Hawaii,54.88079447502372
+Hilo,Kapaau,Hawaii,59.839471229075635
+Hilo,Pahala,Hawaii,42.2126418437057
+Hilo,Fern Acres,Hawaii,12.41189307844066
+Hilo,Nanawale Estates,Hawaii,17.11926261012646
+Hilo,Leilani Estates,Hawaii,18.91386148768126
+Hilo,Kaloko,Hawaii,56.34480845492671
+Hilo,Pepeekeo,Hawaii,9.998341733962919
+Hilo,Pahoa,Hawaii,16.107600256697967
+Hilo,Keaau,Hawaii,5.111009387180825
+Hilo,Discovery Harbour,Hawaii,56.72598810136369
+Hilo,Papaikou,Hawaii,7.142277475441516
+Hilo,Wainaku,Hawaii,3.972286792909598
+Hilo,Volcano Golf Course,Hawaii,21.066310188084206
+Hilo,Honalo,Hawaii,53.4458438108254
+Hilo,Halaula,Hawaii,57.91825207414773
+Hilo,Royal Hawaiian Estates,Hawaii,18.14717043934299
+Hilo,Laupahoehoe,Hawaii,21.787632407297
+Hilo,Eden Roc,Hawaii,13.537364629151785
+Hilo,Naalehu,Hawaii,53.17814709989758
+Hilo,Fern Forest,Hawaii,15.664537007307349
+Hilo,Mauna Loa Estates,Hawaii,19.988620912261286
+Hilo,Waikoloa Beach Resort,Hawaii,53.64194122911328
+Hilo,Volcano,Hawaii,18.656848199277036
+Hilo,Paukaa,Hawaii,5.1231293474716395
+Hilo,Paauilo,Hawaii,30.453731988099083
+Hilo,Honomu,Hawaii,12.59224388568255
+Hilo,Kukuihaele,Hawaii,43.028929753658886
+Hilo,Tiki Gardens,Hawaii,12.244677161356813
+Hilo,Puako,Hawaii,52.50395939041024
+Hilo,Seaview,Hawaii,22.154348052898477
+Hilo,Waiohinu,Hawaii,54.67435062053564
+Hilo,Black Sands,Hawaii,20.643423829370008
+Hilo,Kamaili,Hawaii,20.321297824243313
+Hilo,Kalapana,Hawaii,23.938819455205127
+Pearl City,Waipahu,Hawaii,3.644619189580643
+Pearl City,Kaneohe,Hawaii,10.710137748790284
+Pearl City,Mililani Town,Hawaii,4.787910664980168
+Pearl City,Ewa Gentry,Hawaii,6.515982121180834
+Pearl City,Kapolei,Hawaii,8.376531294756106
+Pearl City,Mililani Mauka,Hawaii,5.56188760373601
+Pearl City,Makakilo,Hawaii,8.586812500387119
+Pearl City,Schofield Barracks,Hawaii,9.197450970690912
+Pearl City,Wahiawa,Hawaii,7.816023600532353
+Pearl City,Ocean Pointe,Hawaii,7.672594013816293
+Pearl City,Ewa Beach,Hawaii,6.698878866815166
+Pearl City,Halawa,Hawaii,3.112086912665154
+Pearl City,Waimalu,Hawaii,1.6391115002917749
+Pearl City,Royal Kunia,Hawaii,4.847400623720037
+Pearl City,Waianae,Hawaii,14.595627113535508
+Pearl City,Nanakuli,Hawaii,12.144522420346288
+Pearl City,Maili,Hawaii,13.773037999990905
+Pearl City,Waipio,Hawaii,2.6898028310054247
+Pearl City,Makaha,Hawaii,17.046081373573703
+Pearl City,Aiea,Hawaii,2.4363238970138363
+Pearl City,Hickam Housing,Hawaii,4.988909356684228
+Pearl City,Ahuimanu,Hawaii,7.859344048417684
+Pearl City,Waikele,Hawaii,3.1701901746875443
+Pearl City,Ewa Villages,Hawaii,6.780340716418486
+Pearl City,West Loch Estate,Hawaii,5.226181448770148
+Pearl City,Iroquois Point,Hawaii,5.798179043026923
+Pearl City,Waimanalo,Hawaii,15.175198202985362
+Pearl City,Laie,Hawaii,16.690412830472475
+Pearl City,Waipio Acres,Hawaii,5.976596775746967
+Pearl City,Pupukea,Hawaii,17.960232255219466
+Pearl City,Kahaluu,Hawaii,8.087744687994542
+Pearl City,East Kapolei,Hawaii,6.088985891977892
+Pearl City,Heeia,Hawaii,8.849632604621684
+Pearl City,Haleiwa,Hawaii,16.20666562572826
+Pearl City,Waimanalo Beach,Hawaii,17.468899598490825
+Pearl City,Whitmore Village,Hawaii,8.764964729103161
+Pearl City,Hauula,Hawaii,14.598294466838471
+Pearl City,Helemano,Hawaii,10.010632036366115
+Pearl City,Waialua,Hawaii,15.368282793682413
+Pearl City,Kalaeloa,Hawaii,9.31251061209854
+Pearl City,Kahuku,Hawaii,19.012204320936963
+Pearl City,Wheeler AFB,Hawaii,7.107241716744907
+Pearl City,Maunawili,Hawaii,12.199996672175638
+Pearl City,Ko Olina,Hawaii,11.377301176154042
+Pearl City,Mokuleia,Hawaii,18.29241518601946
+Pearl City,Kaaawa,Hawaii,12.009900803643609
+Pearl City,Punaluu,Hawaii,12.966978270297362
+Pearl City,Kawela Bay,Hawaii,20.579153784410902
+Pearl City,Maunaloa,Hawaii,51.45998660203072
+Pearl City,Makaha Valley,Hawaii,15.696864556814502
+Waipahu,Kaneohe,Hawaii,14.224495224399273
+Waipahu,Mililani Town,Hawaii,4.17978420801294
+Waipahu,Ewa Gentry,Hawaii,3.6919709997929084
+Waipahu,Kapolei,Hawaii,4.878083333710776
+Waipahu,Mililani Mauka,Hawaii,6.249553508508493
+Waipahu,Makakilo,Hawaii,4.944924719088575
+Waipahu,Schofield Barracks,Hawaii,8.121055846406614
+Waipahu,Wahiawa,Hawaii,7.948127575712036
+Waipahu,Ocean Pointe,Hawaii,5.059502429501519
+Waipahu,Ewa Beach,Hawaii,4.668077614774182
+Waipahu,Halawa,Hawaii,5.9474948431579255
+Waipahu,Waimalu,Hawaii,4.8854716454291465
+Waipahu,Royal Kunia,Hawaii,1.932970585458478
+Waipahu,Waianae,Hawaii,11.73630027101358
+Waipahu,Nanakuli,Hawaii,8.663170626334864
+Waipahu,Maili,Hawaii,10.47985164444548
+Waipahu,Waipio,Hawaii,2.138769266696756
+Waipahu,Makaha,Hawaii,14.240987049188016
+Waipahu,Aiea,Hawaii,5.599689879393986
+Waipahu,Hickam Housing,Hawaii,5.526622027709226
+Waipahu,Ahuimanu,Hawaii,11.503435818488896
+Waipahu,Waikele,Hawaii,1.1751996442949642
+Waipahu,Ewa Villages,Hawaii,3.562611305236935
+Waipahu,West Loch Estate,Hawaii,1.9092313762958493
+Waipahu,Iroquois Point,Hawaii,4.810114923531768
+Waipahu,Waimanalo,Hawaii,18.282125034129923
+Waipahu,Laie,Hawaii,18.542402300409808
+Waipahu,Waipio Acres,Hawaii,5.722335373198177
+Waipahu,Pupukea,Hawaii,18.37369411911241
+Waipahu,Kahaluu,Hawaii,11.70375681899869
+Waipahu,East Kapolei,Hawaii,2.5263956420880542
+Waipahu,Heeia,Hawaii,12.445538646681179
+Waipahu,Haleiwa,Hawaii,15.610079731536327
+Waipahu,Waimanalo Beach,Hawaii,20.532570229835034
+Waipahu,Whitmore Village,Hawaii,8.740123957356118
+Waipahu,Hauula,Hawaii,16.73676224891734
+Waipahu,Helemano,Hawaii,10.35799108320917
+Waipahu,Waialua,Hawaii,14.26644100440877
+Waipahu,Kalaeloa,Hawaii,6.1043489288518735
+Waipahu,Kahuku,Hawaii,20.586943572215027
+Waipahu,Wheeler AFB,Hawaii,6.379640311027964
+Waipahu,Maunawili,Hawaii,15.445077037100617
+Waipahu,Ko Olina,Hawaii,7.7477045191341904
+Waipahu,Mokuleia,Hawaii,16.760993993597125
+Waipahu,Kaaawa,Hawaii,15.066123360779425
+Waipahu,Punaluu,Hawaii,15.488250824266023
+Waipahu,Kawela Bay,Hawaii,21.55381734728292
+Waipahu,Maunaloa,Hawaii,54.3049351106805
+Waipahu,Makaha Valley,Hawaii,13.108707411492714
+Kaneohe,Mililani Town,Hawaii,14.712787687029941
+Kaneohe,Ewa Gentry,Hawaii,15.978527557152876
+Kaneohe,Kapolei,Hawaii,18.442831038844083
+Kaneohe,Mililani Mauka,Hawaii,14.004987004102064
+Kaneohe,Makakilo,Hawaii,19.02307335357757
+Kaneohe,Schofield Barracks,Hawaii,18.479728595287533
+Kaneohe,Wahiawa,Hawaii,16.038354604628868
+Kaneohe,Ocean Pointe,Hawaii,16.615178100009214
+Kaneohe,Ewa Beach,Hawaii,15.23610334225212
+Kaneohe,Halawa,Hawaii,8.523445815905815
+Kaneohe,Waimalu,Hawaii,9.340937659469429
+Kaneohe,Royal Kunia,Hawaii,15.553041985337167
+Kaneohe,Waianae,Hawaii,25.06908786611425
+Kaneohe,Nanakuli,Hawaii,22.845159622354384
+Kaneohe,Maili,Hawaii,24.467518163649885
+Kaneohe,Waipio,Hawaii,13.296330324346224
+Kaneohe,Makaha,Hawaii,27.43876961260207
+Kaneohe,Aiea,Hawaii,8.66326363296678
+Kaneohe,Hickam Housing,Hawaii,11.360675115514363
+Kaneohe,Ahuimanu,Hawaii,3.8899456111210804
+Kaneohe,Waikele,Hawaii,13.880257660857277
+Kaneohe,Ewa Villages,Hawaii,16.61728887990046
+Kaneohe,West Loch Estate,Hawaii,15.398694120434111
+Kaneohe,Iroquois Point,Hawaii,13.546013424261444
+Kaneohe,Waimanalo,Hawaii,5.86926322975107
+Kaneohe,Laie,Hawaii,18.61390162549197
+Kaneohe,Waipio Acres,Hawaii,15.236914154952316
+Kaneohe,Pupukea,Hawaii,23.4474156171953
+Kaneohe,Kahaluu,Hawaii,4.996350514712327
+Kaneohe,East Kapolei,Hawaii,16.415480038583265
+Kaneohe,Heeia,Hawaii,2.1744799528360135
+Kaneohe,Haleiwa,Hawaii,23.865249157680907
+Kaneohe,Waimanalo Beach,Hawaii,8.017278529409007
+Kaneohe,Whitmore Village,Hawaii,16.907714651076677
+Kaneohe,Hauula,Hawaii,16.119016264677676
+Kaneohe,Kaunakakai,Hawaii,55.52492038284165
+Kaneohe,Helemano,Hawaii,17.24767486583362
+Kaneohe,Waialua,Hawaii,23.896696825090476
+Kaneohe,Kalaeloa,Hawaii,18.809214802622826
+Kaneohe,Kahuku,Hawaii,21.3316883696996
+Kaneohe,Wheeler AFB,Hawaii,16.47525446454876
+Kaneohe,Kualapuu,Hawaii,50.189960111202176
+Kaneohe,Maunawili,Hawaii,2.9832796717908954
+Kaneohe,Ko Olina,Hawaii,21.679899912540275
+Kaneohe,Mokuleia,Hawaii,27.204826554677073
+Kaneohe,Kaaawa,Hawaii,10.59757695322359
+Kaneohe,Punaluu,Hawaii,13.632448862862855
+Kaneohe,Kawela Bay,Hawaii,24.344039101232504
+Kaneohe,Maunaloa,Hawaii,41.737904683493426
+Kaneohe,Makaha Valley,Hawaii,25.935524251787246
+Mililani Town,Ewa Gentry,Hawaii,7.747944626119027
+Mililani Town,Kapolei,Hawaii,8.090124341829233
+Mililani Town,Mililani Mauka,Hawaii,2.3771676199652174
+Mililani Town,Makakilo,Hawaii,7.387140413230503
+Mililani Town,Schofield Barracks,Hawaii,4.434211118744231
+Mililani Town,Wahiawa,Hawaii,3.7686639677688945
+Mililani Town,Ocean Pointe,Hawaii,9.1275115938652
+Mililani Town,Ewa Beach,Hawaii,8.846713824301178
+Mililani Town,Halawa,Hawaii,7.899865421645212
+Mililani Town,Waimalu,Hawaii,6.412277191475024
+Mililani Town,Royal Kunia,Hawaii,3.0410761724424806
+Mililani Town,Waianae,Hawaii,10.40027737753384
+Mililani Town,Nanakuli,Hawaii,9.24474428304772
+Mililani Town,Maili,Hawaii,10.26775488636242
+Mililani Town,Waipio,Hawaii,2.503446512547282
+Mililani Town,Makaha,Hawaii,12.731341151876544
+Mililani Town,Aiea,Hawaii,7.196396080844221
+Mililani Town,Hickam Housing,Hawaii,9.046567650320213
+Mililani Town,Ahuimanu,Hawaii,11.242594381860812
+Mililani Town,Waikele,Hawaii,3.081007638517705
+Mililani Town,Ewa Villages,Hawaii,7.376874688136872
+Mililani Town,West Loch Estate,Hawaii,5.868974811405371
+Mililani Town,Iroquois Point,Hawaii,8.861030979610584
+Mililani Town,Waimanalo,Hawaii,19.68215220211353
+Mililani Town,Laie,Hawaii,14.704662011378302
+Mililani Town,Waipio Acres,Hawaii,1.5433534586201478
+Mililani Town,Pupukea,Hawaii,14.199870913474555
+Mililani Town,Kahaluu,Hawaii,10.93688189519985
+Mililani Town,East Kapolei,Hawaii,5.969665439097042
+Mililani Town,Heeia,Hawaii,12.63680120526561
+Mililani Town,Haleiwa,Hawaii,11.699228358102681
+Mililani Town,Waimanalo Beach,Hawaii,21.99072107265486
+Mililani Town,Whitmore Village,Hawaii,4.573257336249183
+Mililani Town,Hauula,Hawaii,13.119632523915937
+Mililani Town,Helemano,Hawaii,6.178809696173652
+Mililani Town,Waialua,Hawaii,10.652307709681601
+Mililani Town,Kalaeloa,Hawaii,9.700960678853686
+Mililani Town,Kahuku,Hawaii,16.59386468356229
+Mililani Town,Wheeler AFB,Hawaii,2.3982221688613246
+Mililani Town,Maunawili,Hawaii,16.614981530852447
+Mililani Town,Ko Olina,Hawaii,10.045879543973442
+Mililani Town,Mokuleia,Hawaii,13.509836112769378
+Mililani Town,Kaaawa,Hawaii,12.534385720278715
+Mililani Town,Punaluu,Hawaii,12.246633115858357
+Mililani Town,Kawela Bay,Hawaii,17.396581087872228
+Mililani Town,Maunaloa,Hawaii,56.04264637081827
+Mililani Town,Makaha Valley,Hawaii,11.229478736553423
+Kahului,Kihei,Hawaii,7.369311900027708
+Kahului,Wailuku,Hawaii,3.0598987076408912
+Kahului,Lahaina,Hawaii,13.060373620830568
+Kahului,Waihee-Waiehu,Hawaii,4.408238676498147
+Kahului,Haiku-Pauwela,Hawaii,10.661910564270018
+Kahului,Pukalani,Hawaii,8.128505961563942
+Kahului,Makawao,Hawaii,9.278998817867638
+Kahului,Napili-Honokowai,Hawaii,15.05850602609862
+Kahului,Kula,Hawaii,10.998549523439875
+Kahului,Wailea,Hawaii,12.83173526849042
+Kahului,Waikapu,Hawaii,4.575948032334745
+Kahului,Kaunakakai,Hawaii,37.87417806004295
+Kahului,Lanai City,Hawaii,29.538116717991464
+Kahului,Keokea,Hawaii,12.127796691824773
+Kahului,Paia,Hawaii,6.445162760867681
+Kahului,Kualapuu,Hawaii,43.363690840631676
+Kahului,Hawi,Hawaii,59.92691353353295
+Kahului,Kaanapali,Hawaii,14.682425714601775
+Kahului,Mahinahina,Hawaii,13.888835798170494
+Kahului,Haliimaile,Hawaii,7.907282575478448
+Kahului,Olinda,Hawaii,11.341727858328902
+Kahului,Hana,Hawaii,29.87514124108238
+Kahului,Launiupoko,Hawaii,11.835831239791855
+Kahului,Ualapue,Hawaii,27.839164722958174
+Kahului,Kapalua,Hawaii,14.520854429954007
+Kahului,Maunaloa,Hawaii,51.81504950276988
+Kahului,Maalaea,Hawaii,4.975810639849515
+Kahului,Makena,Hawaii,16.70022644325763
+Kahului,Olowalu,Hawaii,10.680131747418704
+Kahului,Manele,Hawaii,29.88160015348602
+Ewa Gentry,Kapolei,Hawaii,2.701638429249387
+Ewa Gentry,Mililani Mauka,Hawaii,9.922927534922207
+Ewa Gentry,Makakilo,Hawaii,3.937034373848852
+Ewa Gentry,Schofield Barracks,Hawaii,11.189150819028736
+Ewa Gentry,Wahiawa,Hawaii,11.488554188366336
+Ewa Gentry,Ocean Pointe,Hawaii,1.3801193698448095
+Ewa Gentry,Ewa Beach,Hawaii,1.6558865810968768
+Ewa Gentry,Halawa,Hawaii,7.489963755734938
+Ewa Gentry,Waimalu,Hawaii,7.0887313067327415
+Ewa Gentry,Royal Kunia,Hawaii,4.891207625899653
+Ewa Gentry,Waianae,Hawaii,12.799472918751437
+Ewa Gentry,Nanakuli,Hawaii,8.505378229964723
+Ewa Gentry,Maili,Hawaii,10.745155629431897
+Ewa Gentry,Waipio,Hawaii,5.8186148811219836
+Ewa Gentry,Makaha,Hawaii,15.25290538411454
+Ewa Gentry,Aiea,Hawaii,7.544068077146507
+Ewa Gentry,Hickam Housing,Hawaii,5.084514995861258
+Ewa Gentry,Ahuimanu,Hawaii,13.929874765321651
+Ewa Gentry,Waikele,Hawaii,4.866188206791265
+Ewa Gentry,Ewa Villages,Hawaii,0.9603978235120599
+Ewa Gentry,West Loch Estate,Hawaii,1.881047139879603
+Ewa Gentry,Iroquois Point,Hawaii,3.0831777261331936
+Ewa Gentry,Waimanalo,Hawaii,19.080339288764424
+Ewa Gentry,Laie,Hawaii,22.234345778864807
+Ewa Gentry,Waipio Acres,Hawaii,9.26443476973615
+Ewa Gentry,Pupukea,Hawaii,21.818200543345277
+Ewa Gentry,Kahaluu,Hawaii,14.407827820247842
+Ewa Gentry,East Kapolei,Hawaii,2.205279195509368
+Ewa Gentry,Heeia,Hawaii,14.518770883011971
+Ewa Gentry,Haleiwa,Hawaii,18.653296619651698
+Ewa Gentry,Waimanalo Beach,Hawaii,21.198092509311834
+Ewa Gentry,Whitmore Village,Hawaii,12.212212123218944
+Ewa Gentry,Hauula,Hawaii,20.41283140319153
+Ewa Gentry,Helemano,Hawaii,13.890731022521903
+Ewa Gentry,Waialua,Hawaii,17.038699280648803
+Ewa Gentry,Kalaeloa,Hawaii,2.881629411483661
+Ewa Gentry,Kahuku,Hawaii,24.266939171589303
+Ewa Gentry,Wheeler AFB,Hawaii,9.731803303912674
+Ewa Gentry,Maunawili,Hawaii,16.578465398138487
+Ewa Gentry,Ko Olina,Hawaii,5.973437047791099
+Ewa Gentry,Mokuleia,Hawaii,19.138210781091423
+Ewa Gentry,Kaaawa,Hawaii,18.462443506649844
+Ewa Gentry,Punaluu,Hawaii,19.09668527097234
+Ewa Gentry,Kawela Bay,Hawaii,25.13753192310803
+Ewa Gentry,Maunaloa,Hawaii,54.2896166643374
+Ewa Gentry,Makaha Valley,Hawaii,14.500076068329658
+Kapolei,Mililani Mauka,Hawaii,10.4509534081823
+Kapolei,Makakilo,Hawaii,1.585321817374888
+Kapolei,Schofield Barracks,Hawaii,10.581586098788787
+Kapolei,Wahiawa,Hawaii,11.553627174376151
+Kapolei,Ocean Pointe,Hawaii,3.0511376017363885
+Kapolei,Ewa Beach,Hawaii,4.172366274517689
+Kapolei,Halawa,Hawaii,9.91944021436528
+Kapolei,Waimalu,Hawaii,9.284017013657378
+Kapolei,Royal Kunia,Hawaii,5.059401861843139
+Kapolei,Waianae,Hawaii,10.639363869896505
+Kapolei,Nanakuli,Hawaii,6.0001224977373875
+Kapolei,Maili,Hawaii,8.309305965937755
+Kapolei,Waipio,Hawaii,6.869719811547864
+Kapolei,Makaha,Hawaii,13.010844477546723
+Kapolei,Aiea,Hawaii,9.848964923494337
+Kapolei,Hickam Housing,Hawaii,7.7779855673928635
+Kapolei,Ahuimanu,Hawaii,16.123564387167917
+Kapolei,Waikele,Hawaii,5.870370046477639
+Kapolei,Ewa Villages,Hawaii,1.8604712085534714
+Kapolei,West Loch Estate,Hawaii,3.156914090318693
+Kapolei,Iroquois Point,Hawaii,5.769851715312676
+Kapolei,Waimanalo,Hawaii,21.74809165939686
+Kapolei,Laie,Hawaii,22.7891482455521
+Kapolei,Waipio Acres,Hawaii,9.444079826799504
+Kapolei,Pupukea,Hawaii,21.46638290365249
+Kapolei,Kahaluu,Hawaii,16.455860003163277
+Kapolei,East Kapolei,Hawaii,2.3565112826783197
+Kapolei,Heeia,Hawaii,16.866959921206355
+Kapolei,Haleiwa,Hawaii,17.7785251102239
+Kapolei,Waimanalo Beach,Hawaii,23.88146631464786
+Kapolei,Whitmore Village,Hawaii,12.11499580123726
+Kapolei,Hauula,Hawaii,21.18812646300231
+Kapolei,Helemano,Hawaii,13.859150973702938
+Kapolei,Waialua,Hawaii,15.91486869135683
+Kapolei,Kalaeloa,Hawaii,1.8177660707271304
+Kapolei,Kahuku,Hawaii,24.603905216609036
+Kapolei,Wheeler AFB,Hawaii,9.568042416108707
+Kapolei,Maunawili,Hawaii,19.192037703139018
+Kapolei,Ko Olina,Hawaii,3.296934147097773
+Kapolei,Mokuleia,Hawaii,17.63316197515191
+Kapolei,Kaaawa,Hawaii,19.912348119866326
+Kapolei,Punaluu,Hawaii,20.149022663996195
+Kapolei,Kawela Bay,Hawaii,25.06602679867557
+Kapolei,Maunaloa,Hawaii,56.97445321020289
+Kapolei,Makaha Valley,Hawaii,12.46051341690072
+Kihei,Wailuku,Hawaii,9.017921880864138
+Kihei,Lahaina,Hawaii,16.23233986430852
+Kihei,Waihee-Waiehu,Hawaii,11.270605277303384
+Kihei,Haiku-Pauwela,Hawaii,13.880987350564206
+Kihei,Pukalani,Hawaii,8.173340746592428
+Kihei,Makawao,Hawaii,9.961058186586216
+Kihei,Napili-Honokowai,Hawaii,20.307455485132273
+Kihei,Kula,Hawaii,7.57908877036765
+Kihei,Wailea,Hawaii,5.46866564219425
+Kihei,Waikapu,Hawaii,7.098899190487378
+Kihei,Kaunakakai,Hawaii,42.15106645504693
+Kihei,Lanai City,Hawaii,30.66355150330462
+Kihei,Keokea,Hawaii,6.166598913023121
+Kihei,Paia,Hawaii,10.918395601950772
+Kihei,Kualapuu,Hawaii,47.92370313590764
+Kihei,Kapaau,Hawaii,55.413720315891744
+Kihei,Hawi,Hawaii,54.03993395384163
+Kihei,Kaanapali,Hawaii,18.81015570716764
+Kihei,Mahinahina,Hawaii,18.83314171833678
+Kihei,Haliimaile,Hawaii,9.85985658852768
+Kihei,Olinda,Hawaii,10.787060917554728
+Kihei,Halaula,Hawaii,57.31237687184329
+Kihei,Hana,Hawaii,28.13026507834108
+Kihei,Launiupoko,Hawaii,14.13173628674303
+Kihei,Ualapue,Hawaii,32.80852910620366
+Kihei,Kapalua,Hawaii,20.32045250090811
+Kihei,Maunaloa,Hawaii,55.65641402260553
+Kihei,Maalaea,Hawaii,3.9494553818174603
+Kihei,Makena,Hawaii,9.331102295500811
+Kihei,Olowalu,Hawaii,11.76505854151795
+Kihei,Manele,Hawaii,29.538542671169527
+Mililani Mauka,Makakilo,Hawaii,9.762000761414575
+Mililani Mauka,Schofield Barracks,Hawaii,4.482388057583089
+Mililani Mauka,Wahiawa,Hawaii,2.301201430045913
+Mililani Mauka,Ocean Pointe,Hawaii,11.299290627479449
+Mililani Mauka,Ewa Beach,Hawaii,10.865827165745465
+Mililani Mauka,Halawa,Hawaii,8.47217583257624
+Mililani Mauka,Waimalu,Hawaii,6.980375671076889
+Mililani Mauka,Royal Kunia,Hawaii,5.391942834954196
+Mililani Mauka,Waianae,Hawaii,11.728208286268526
+Mililani Mauka,Nanakuli,Hawaii,11.328045484938993
+Mililani Mauka,Maili,Hawaii,12.077426129582093
+Mililani Mauka,Waipio,Hawaii,4.219033022956348
+Mililani Mauka,Makaha,Hawaii,13.871760584417618
+Mililani Mauka,Aiea,Hawaii,7.671414580951337
+Mililani Mauka,Hickam Housing,Hawaii,10.40004529251894
+Mililani Mauka,Ahuimanu,Hawaii,10.27692980185009
+Mililani Mauka,Waikele,Hawaii,5.078942559374615
+Mililani Mauka,Ewa Villages,Hawaii,9.640467472568954
+Mililani Mauka,West Loch Estate,Hawaii,8.068029125655045
+Mililani Mauka,Iroquois Point,Hawaii,10.622544249295338
+Mililani Mauka,Waimanalo,Hawaii,19.35846188199411
+Mililani Mauka,Laie,Hawaii,12.373167703528987
+Mililani Mauka,Waipio Acres,Hawaii,1.5226296285269476
+Mililani Mauka,Pupukea,Hawaii,12.477969664467082
+Mililani Mauka,Kahaluu,Hawaii,9.708195630101363
+Mililani Mauka,East Kapolei,Hawaii,8.279658739879816
+Mililani Mauka,Heeia,Hawaii,11.849327329460621
+Mililani Mauka,Haleiwa,Hawaii,10.73817831048064
+Mililani Mauka,Waimanalo Beach,Hawaii,21.66016366331007
+Mililani Mauka,Whitmore Village,Hawaii,3.2624332273837813
+Mililani Mauka,Hauula,Hawaii,10.744836110358438
+Mililani Mauka,Helemano,Hawaii,4.460013102155033
+Mililani Mauka,Waialua,Hawaii,10.175651816125495
+Mililani Mauka,Kalaeloa,Hawaii,12.02838760612366
+Mililani Mauka,Kahuku,Hawaii,14.34425863429122
+Mililani Mauka,Wheeler AFB,Hawaii,2.6016527292554446
+Mililani Mauka,Maunawili,Hawaii,16.230869705141334
+Mililani Mauka,Ko Olina,Hawaii,12.397826810992175
+Mililani Mauka,Mokuleia,Hawaii,13.342100035091935
+Mililani Mauka,Kaaawa,Hawaii,10.393740413669383
+Mililani Mauka,Punaluu,Hawaii,9.900141708655262
+Mililani Mauka,Kawela Bay,Hawaii,15.385250373912914
+Mililani Mauka,Maunaloa,Hawaii,55.67236976546588
+Mililani Mauka,Makaha Valley,Hawaii,12.217939657621807
+Makakilo,Schofield Barracks,Hawaii,9.339320588091436
+Makakilo,Wahiawa,Hawaii,10.59770632173555
+Makakilo,Ocean Pointe,Hawaii,4.563284231342352
+Makakilo,Ewa Beach,Hawaii,5.541493139537747
+Makakilo,Halawa,Hawaii,10.550661147691477
+Makakilo,Waimalu,Hawaii,9.715926908920801
+Makakilo,Royal Kunia,Hawaii,4.503027429810668
+Makakilo,Waianae,Hawaii,9.069162501944975
+Makakilo,Nanakuli,Hawaii,4.568977459014571
+Makakilo,Maili,Hawaii,6.829776789333459
+Makakilo,Waipio,Hawaii,6.649052992571015
+Makakilo,Makaha,Hawaii,11.460403044884046
+Makakilo,Aiea,Hawaii,10.361276755545578
+Makakilo,Hickam Housing,Hawaii,8.842840632863066
+Makakilo,Ahuimanu,Hawaii,16.4410358048909
+Makakilo,Waikele,Hawaii,5.70834126617347
+Makakilo,Ewa Villages,Hawaii,2.9834746141436055
+Makakilo,West Loch Estate,Hawaii,3.6585691342666866
+Makakilo,Iroquois Point,Hawaii,6.997643281719315
+Makakilo,Waimanalo,Hawaii,22.652911231741484
+Makakilo,Laie,Hawaii,21.96131750086813
+Makakilo,Waipio Acres,Hawaii,8.600155404142193
+Makakilo,Pupukea,Hawaii,20.23507584996602
+Makakilo,Kahaluu,Hawaii,16.643784500488827
+Makakilo,East Kapolei,Hawaii,2.6132592275895
+Makakilo,Heeia,Hawaii,17.327453999679342
+Makakilo,Haleiwa,Hawaii,16.378946744857494
+Makakilo,Waimanalo Beach,Hawaii,24.83194275009062
+Makakilo,Whitmore Village,Hawaii,11.071127986971204
+Makakilo,Hauula,Hawaii,20.487174986371063
+Makakilo,Helemano,Hawaii,12.820196065053839
+Makakilo,Waialua,Hawaii,14.450192456398584
+Makakilo,Kalaeloa,Hawaii,3.3019781415428078
+Makakilo,Kahuku,Hawaii,23.658784779667954
+Makakilo,Wheeler AFB,Hawaii,8.547706151971516
+Makakilo,Maunawili,Hawaii,19.98533516079225
+Makakilo,Ko Olina,Hawaii,2.8265364618649076
+Makakilo,Mokuleia,Hawaii,16.08173310295373
+Makakilo,Kaaawa,Hawaii,19.62787003385722
+Makakilo,Punaluu,Hawaii,19.613507154019924
+Makakilo,Kawela Bay,Hawaii,23.934558192643276
+Makakilo,Maunaloa,Hawaii,58.159511338747265
+Makakilo,Makaha Valley,Hawaii,10.878557520659642
+Schofield Barracks,Wahiawa,Hawaii,2.874578522006829
+Schofield Barracks,Ocean Pointe,Hawaii,12.501921037025697
+Schofield Barracks,Ewa Beach,Hawaii,12.572745669049612
+Schofield Barracks,Halawa,Hawaii,12.301676111626463
+Schofield Barracks,Waimalu,Hawaii,10.801166350650885
+Schofield Barracks,Royal Kunia,Hawaii,6.372985419509878
+Schofield Barracks,Waianae,Hawaii,7.771730107941543
+Schofield Barracks,Nanakuli,Hawaii,8.946282078443584
+Schofield Barracks,Maili,Hawaii,8.90315709351159
+Schofield Barracks,Waipio,Hawaii,6.880882392753425
+Schofield Barracks,Makaha,Hawaii,9.658048984714725
+Schofield Barracks,Aiea,Hawaii,11.570743686683242
+Schofield Barracks,Hickam Housing,Hawaii,13.387186516759806
+Schofield Barracks,Ahuimanu,Hawaii,14.758304367677827
+Schofield Barracks,Waikele,Hawaii,7.228232662273891
+Schofield Barracks,Ewa Villages,Hawaii,10.553402790131125
+Schofield Barracks,West Loch Estate,Hawaii,9.38413122930434
+Schofield Barracks,Iroquois Point,Hawaii,12.930999337460655
+Schofield Barracks,Waimanalo,Hawaii,23.758172939497133
+Schofield Barracks,Laie,Hawaii,13.472424797545862
+Schofield Barracks,Waipio Acres,Hawaii,3.3295525007054967
+Schofield Barracks,Pupukea,Hawaii,10.897904185272878
+Schofield Barracks,Kahaluu,Hawaii,14.155187905995481
+Schofield Barracks,East Kapolei,Hawaii,9.06325221038785
+Schofield Barracks,Heeia,Hawaii,16.32842941501842
+Schofield Barracks,Haleiwa,Hawaii,7.502920682323848
+Schofield Barracks,Waimanalo Beach,Hawaii,26.065428287556866
+Schofield Barracks,Whitmore Village,Hawaii,2.542109184310618
+Schofield Barracks,Hauula,Hawaii,12.587232489693557
+Schofield Barracks,Helemano,Hawaii,4.000804041745335
+Schofield Barracks,Waialua,Hawaii,6.232863996704294
+Schofield Barracks,Kalaeloa,Hawaii,12.385763147008534
+Schofield Barracks,Kahuku,Hawaii,14.745402922617837
+Schofield Barracks,Wheeler AFB,Hawaii,2.1084435817565885
+Schofield Barracks,Maunawili,Hawaii,20.64385394202508
+Schofield Barracks,Ko Olina,Hawaii,11.332652541445796
+Schofield Barracks,Mokuleia,Hawaii,9.103200079507062
+Schofield Barracks,Kaaawa,Hawaii,13.931604501496373
+Schofield Barracks,Punaluu,Hawaii,12.576596699599637
+Schofield Barracks,Kawela Bay,Hawaii,14.641119004294062
+Schofield Barracks,Makaha Valley,Hawaii,7.919726328684951
+Wahiawa,Ocean Pointe,Hawaii,12.86479465104894
+Wahiawa,Ewa Beach,Hawaii,12.61537656596137
+Wahiawa,Halawa,Hawaii,10.767598174977444
+Wahiawa,Waimalu,Hawaii,9.27134072202911
+Wahiawa,Royal Kunia,Hawaii,6.659256104324329
+Wahiawa,Waianae,Hawaii,10.623216308910221
+Wahiawa,Nanakuli,Hawaii,11.223879540933698
+Wahiawa,Maili,Hawaii,11.523365071771671
+Wahiawa,Waipio,Hawaii,6.1326573818105015
+Wahiawa,Makaha,Hawaii,12.53060507431627
+Wahiawa,Aiea,Hawaii,9.97005139446853
+Wahiawa,Hickam Housing,Hawaii,12.550950879291044
+Wahiawa,Ahuimanu,Hawaii,12.226489169343052
+Wahiawa,Waikele,Hawaii,6.834408442122919
+Wahiawa,Ewa Villages,Hawaii,11.057434678005508
+Wahiawa,West Loch Estate,Hawaii,9.607574625385514
+Wahiawa,Iroquois Point,Hawaii,12.5768969271433
+Wahiawa,Waimanalo,Hawaii,21.51382712389216
+Wahiawa,Laie,Hawaii,11.41353414794102
+Wahiawa,Waipio Acres,Hawaii,2.229363015936537
+Wahiawa,Pupukea,Hawaii,10.447095432576482
+Wahiawa,Kahaluu,Hawaii,11.507946900986562
+Wahiawa,East Kapolei,Hawaii,9.604486470205387
+Wahiawa,Heeia,Hawaii,13.866910540864355
+Wahiawa,Haleiwa,Hawaii,8.437295470594085
+Wahiawa,Waimanalo Beach,Hawaii,23.806581110539693
+Wahiawa,Whitmore Village,Hawaii,0.9612320407286448
+Wahiawa,Hauula,Hawaii,10.184134661083101
+Wahiawa,Helemano,Hawaii,2.410223134092318
+Wahiawa,Waialua,Hawaii,7.9418045688456775
+Wahiawa,Kalaeloa,Hawaii,13.260222848753676
+Wahiawa,Kahuku,Hawaii,13.066270802804981
+Wahiawa,Wheeler AFB,Hawaii,2.0874555541007425
+Wahiawa,Maunawili,Hawaii,18.378084271871444
+Wahiawa,Ko Olina,Hawaii,12.989073757573207
+Wahiawa,Mokuleia,Hawaii,11.181434035984072
+Wahiawa,Kaaawa,Hawaii,11.07238781214235
+Wahiawa,Punaluu,Hawaii,9.884810486409393
+Wahiawa,Kawela Bay,Hawaii,13.650851408812006
+Wahiawa,Maunaloa,Hawaii,57.764996172404864
+Wahiawa,Makaha Valley,Hawaii,10.783025245021644
+Wailuku,Lahaina,Hawaii,10.080010903127253
+Wailuku,Waihee-Waiehu,Hawaii,2.4355006097604157
+Wailuku,Haiku-Pauwela,Hawaii,13.353686550137713
+Wailuku,Pukalani,Hawaii,11.184209114997326
+Wailuku,Makawao,Hawaii,12.328230938873977
+Wailuku,Napili-Honokowai,Hawaii,12.100183811152757
+Wailuku,Kula,Hawaii,13.857072553961432
+Wailuku,Wailea,Hawaii,14.376531907833296
+Wailuku,Waikapu,Hawaii,3.222640692557819
+Wailuku,Kaunakakai,Hawaii,34.846744330397954
+Wailuku,Lanai City,Hawaii,26.709809265161738
+Wailuku,Keokea,Hawaii,14.516106423525354
+Wailuku,Paia,Hawaii,9.07118323668431
+Wailuku,Kualapuu,Hawaii,40.36928564036588
+Wailuku,Kaanapali,Hawaii,11.622555421957719
+Wailuku,Mahinahina,Hawaii,10.873264069337004
+Wailuku,Haliimaile,Hawaii,10.907363897685455
+Wailuku,Olinda,Hawaii,14.401559244068514
+Wailuku,Hana,Hawaii,32.93268374355391
+Wailuku,Launiupoko,Hawaii,9.05340644520352
+Wailuku,Ualapue,Hawaii,24.88090093724234
+Wailuku,Kapalua,Hawaii,11.706649415715669
+Wailuku,Maunaloa,Hawaii,48.76731048022845
+Wailuku,Maalaea,Hawaii,5.5133840815954525
+Wailuku,Makena,Hawaii,18.131936743475634
+Wailuku,Olowalu,Hawaii,8.321723521944827
+Wailuku,Manele,Hawaii,27.360055771982204
+Ocean Pointe,Ewa Beach,Hawaii,1.4143449940374633
+Ocean Pointe,Halawa,Hawaii,8.25420423695375
+Ocean Pointe,Waimalu,Hawaii,8.05826760768596
+Ocean Pointe,Royal Kunia,Hawaii,6.249771481943946
+Ocean Pointe,Waianae,Hawaii,13.617933305849503
+Ocean Pointe,Nanakuli,Hawaii,9.051183771114676
+Ocean Pointe,Maili,Hawaii,11.358301262449926
+Ocean Pointe,Waipio,Hawaii,7.174777749163658
+Ocean Pointe,Makaha,Hawaii,16.022789704028423
+Ocean Pointe,Aiea,Hawaii,8.423126154849275
+Ocean Pointe,Hickam Housing,Hawaii,5.3765359175443255
+Ocean Pointe,Ahuimanu,Hawaii,14.81991678615419
+Ocean Pointe,Waikele,Hawaii,6.234694759032056
+Ocean Pointe,Ewa Villages,Hawaii,1.979248566174011
+Ocean Pointe,West Loch Estate,Hawaii,3.2591254872590643
+Ocean Pointe,Iroquois Point,Hawaii,3.1730619225724066
+Ocean Pointe,Waimanalo,Hawaii,19.341751158930794
+Ocean Pointe,Laie,Hawaii,23.597465793453853
+Ocean Pointe,Waipio Acres,Hawaii,10.642052068134399
+Ocean Pointe,Pupukea,Hawaii,23.177785423179806
+Ocean Pointe,Kahaluu,Hawaii,15.386845244799954
+Ocean Pointe,East Kapolei,Hawaii,3.4467973642727094
+Ocean Pointe,Heeia,Hawaii,15.28255338619125
+Ocean Pointe,Haleiwa,Hawaii,19.939158924072498
+Ocean Pointe,Waimanalo Beach,Hawaii,21.39270897287143
+Ocean Pointe,Whitmore Village,Hawaii,13.581411511374943
+Ocean Pointe,Hauula,Hawaii,21.75511872775337
+Ocean Pointe,Helemano,Hawaii,15.26519558922014
+Ocean Pointe,Waialua,Hawaii,18.269053013408122
+Ocean Pointe,Kalaeloa,Hawaii,2.3281222992987
+Ocean Pointe,Kahuku,Hawaii,25.642433851575827
+Ocean Pointe,Wheeler AFB,Hawaii,11.091044125051212
+Ocean Pointe,Maunawili,Hawaii,16.987943123383992
+Ocean Pointe,Ko Olina,Hawaii,6.0128279604064385
+Ocean Pointe,Mokuleia,Hawaii,20.264663557158926
+Ocean Pointe,Kaaawa,Hawaii,19.67203955175469
+Ocean Pointe,Punaluu,Hawaii,20.398627909313987
+Ocean Pointe,Kawela Bay,Hawaii,26.51479789545588
+Ocean Pointe,Maunaloa,Hawaii,54.130040463747065
+Ocean Pointe,Makaha Valley,Hawaii,15.391065108428428
+Ewa Beach,Halawa,Hawaii,6.945873693385331
+Ewa Beach,Waimalu,Hawaii,6.883101224617945
+Ewa Beach,Royal Kunia,Hawaii,6.203604658272548
+Ewa Beach,Waianae,Hawaii,14.45488638235835
+Ewa Beach,Nanakuli,Hawaii,10.105467340990652
+Ewa Beach,Maili,Hawaii,12.368305276911629
+Ewa Beach,Waipio,Hawaii,6.654322482136271
+Ewa Beach,Makaha,Hawaii,16.905847794765307
+Ewa Beach,Aiea,Hawaii,7.178127762985672
+Ewa Beach,Hickam Housing,Hawaii,3.963591688952078
+Ewa Beach,Ahuimanu,Hawaii,13.550081985139837
+Ewa Beach,Waikele,Hawaii,5.807465674791695
+Ewa Beach,Ewa Villages,Hawaii,2.604904102945339
+Ewa Beach,West Loch Estate,Hawaii,3.200204401089477
+Ewa Beach,Iroquois Point,Hawaii,1.7590852052108565
+Ewa Beach,Waimanalo,Hawaii,17.93190512523163
+Ewa Beach,Laie,Hawaii,23.01100280852194
+Ewa Beach,Waipio Acres,Hawaii,10.38809765794357
+Ewa Beach,Pupukea,Hawaii,23.030095196378262
+Ewa Beach,Kahaluu,Hawaii,14.175512234738985
+Ewa Beach,East Kapolei,Hawaii,3.793249874607026
+Ewa Beach,Heeia,Hawaii,13.94809597040002
+Ewa Beach,Haleiwa,Hawaii,20.068634889180004
+Ewa Beach,Waimanalo Beach,Hawaii,19.990950833506375
+Ewa Beach,Whitmore Village,Hawaii,13.396124377621883
+Ewa Beach,Hauula,Hawaii,21.07582389766702
+Ewa Beach,Helemano,Hawaii,15.025478658417677
+Ewa Beach,Waialua,Hawaii,18.53357820090955
+Ewa Beach,Kalaeloa,Hawaii,3.7326261053781926
+Ewa Beach,Kahuku,Hawaii,25.149208573064342
+Ewa Beach,Wheeler AFB,Hawaii,10.984037343014077
+Ewa Beach,Maunawili,Hawaii,15.574696389350603
+Ewa Beach,Ko Olina,Hawaii,7.3141886189197995
+Ewa Beach,Mokuleia,Hawaii,20.718124807258835
+Ewa Beach,Kaaawa,Hawaii,18.69624109305077
+Ewa Beach,Punaluu,Hawaii,19.5995300791182
+Ewa Beach,Kawela Bay,Hawaii,26.214744825396753
+Ewa Beach,Maunaloa,Hawaii,52.83348940166816
+Ewa Beach,Makaha Valley,Hawaii,16.154214619200854
+Halawa,Waimalu,Hawaii,1.5082157669283
+Halawa,Royal Kunia,Hawaii,7.586616427254878
+Halawa,Waianae,Hawaii,17.498844205182163
+Halawa,Nanakuli,Hawaii,14.594419348875283
+Halawa,Maili,Hawaii,16.42080207517741
+Halawa,Waipio,Hawaii,5.702852665147734
+Halawa,Makaha,Hawaii,19.9782002763734
+Halawa,Aiea,Hawaii,0.8279368470088398
+Halawa,Hickam Housing,Hawaii,3.5660397895123883
+Halawa,Ahuimanu,Hawaii,6.623294531671107
+Halawa,Waikele,Hawaii,5.928314928706674
+Halawa,Ewa Villages,Hawaii,8.096634216977058
+Halawa,West Loch Estate,Hawaii,6.901264950872729
+Halawa,Iroquois Point,Hawaii,5.423452683026096
+Halawa,Waimanalo,Hawaii,12.342422862826087
+Halawa,Laie,Hawaii,18.510358242032186
+Halawa,Waipio Acres,Hawaii,9.049370378234187
+Halawa,Pupukea,Hawaii,20.616233170949435
+Halawa,Kahaluu,Hawaii,7.363526785272303
+Halawa,East Kapolei,Hawaii,7.9374382759335385
+Halawa,Heeia,Hawaii,7.0385114995816505
+Halawa,Haleiwa,Hawaii,19.200295625559388
+Halawa,Waimanalo Beach,Hawaii,14.604917890437724
+Halawa,Whitmore Village,Hawaii,11.72713363855773
+Halawa,Hauula,Hawaii,16.22886764211221
+Halawa,Helemano,Hawaii,12.836464766581056
+Halawa,Waialua,Hawaii,18.448900522237004
+Halawa,Kalaeloa,Hawaii,10.352900514218467
+Halawa,Kahuku,Hawaii,20.997414612304915
+Halawa,Wheeler AFB,Hawaii,10.204655674437733
+Halawa,Kualapuu,Hawaii,57.43155434442888
+Halawa,Maunawili,Hawaii,9.504476290788519
+Halawa,Ko Olina,Hawaii,13.164527800787633
+Halawa,Mokuleia,Hawaii,21.40085225141597
+Halawa,Kaaawa,Hawaii,12.632252231347492
+Halawa,Punaluu,Hawaii,14.269894663354448
+Halawa,Kawela Bay,Hawaii,22.926000355789206
+Halawa,Maunaloa,Hawaii,48.490983123277694
+Halawa,Makaha Valley,Hawaii,18.69516005291525
+Waimalu,Royal Kunia,Hawaii,6.3427233999019546
+Waimalu,Waianae,Hawaii,16.184567333963905
+Waimalu,Nanakuli,Hawaii,13.532077229074837
+Waimalu,Maili,Hawaii,15.25486770612266
+Waimalu,Waipio,Hawaii,4.3026084704590755
+Waimalu,Makaha,Hawaii,18.646625643136918
+Waimalu,Aiea,Hawaii,0.7995095488496242
+Waimalu,Hickam Housing,Hawaii,4.2243356616037495
+Waimalu,Ahuimanu,Hawaii,6.857876761757497
+Waimalu,Waikele,Hawaii,4.658167971282111
+Waimalu,Ewa Villages,Hawaii,7.5439927600242145
+Waimalu,West Loch Estate,Hawaii,6.152900123886948
+Waimalu,Iroquois Point,Hawaii,5.619276697053897
+Waimalu,Waimanalo,Hawaii,13.588051418422031
+Waimalu,Laie,Hawaii,17.404857670957817
+Waimalu,Waipio Acres,Hawaii,7.541821430877192
+Waimalu,Pupukea,Hawaii,19.20716014937803
+Waimalu,Kahaluu,Hawaii,7.332344727343612
+Waimalu,East Kapolei,Hawaii,7.128147026535655
+Waimalu,Heeia,Hawaii,7.614574501262854
+Waimalu,Haleiwa,Hawaii,17.699853259066593
+Waimalu,Waimanalo Beach,Hawaii,15.87409852364939
+Waimalu,Whitmore Village,Hawaii,10.229717664685186
+Waimalu,Hauula,Hawaii,15.19280603844352
+Waimalu,Helemano,Hawaii,11.370151509968702
+Waimalu,Waialua,Hawaii,16.941256142258705
+Waimalu,Kalaeloa,Hawaii,9.965928076393821
+Waimalu,Kahuku,Hawaii,19.831736684047943
+Waimalu,Wheeler AFB,Hawaii,8.701437292274964
+Waimalu,Kualapuu,Hawaii,58.71832125212473
+Waimalu,Maunawili,Hawaii,10.65187848694084
+Waimalu,Ko Olina,Hawaii,12.434659851398088
+Waimalu,Mokuleia,Hawaii,19.902695245628063
+Waimalu,Kaaawa,Hawaii,12.010437094918172
+Waimalu,Punaluu,Hawaii,13.36090303976424
+Waimalu,Kawela Bay,Hawaii,21.62578725782699
+Waimalu,Maunaloa,Hawaii,49.84028417471655
+Waimalu,Makaha Valley,Hawaii,17.318624943424112
+Royal Kunia,Waianae,Hawaii,9.929704705625417
+Royal Kunia,Nanakuli,Hawaii,7.345452943227246
+Royal Kunia,Maili,Hawaii,8.927160864156656
+Royal Kunia,Waipio,Hawaii,2.3508162443654768
+Royal Kunia,Makaha,Hawaii,12.422779793590951
+Royal Kunia,Aiea,Hawaii,7.115888650372111
+Royal Kunia,Hickam Housing,Hawaii,7.459494707438856
+Royal Kunia,Ahuimanu,Hawaii,12.532519458611937
+Royal Kunia,Waikele,Hawaii,1.686189376339973
+Royal Kunia,Ewa Villages,Hawaii,4.399498677687284
+Royal Kunia,West Loch Estate,Hawaii,3.035325063578908
+Royal Kunia,Iroquois Point,Hawaii,6.63459108075935
+Royal Kunia,Waimanalo,Hawaii,19.9098651974222
+Royal Kunia,Laie,Hawaii,17.74529523473181
+Royal Kunia,Waipio Acres,Hawaii,4.4675209900287145
+Royal Kunia,Pupukea,Hawaii,16.928548957697583
+Royal Kunia,Kahaluu,Hawaii,12.539034399065223
+Royal Kunia,East Kapolei,Hawaii,2.9497638193847098
+Royal Kunia,Heeia,Hawaii,13.653082708025147
+Royal Kunia,Haleiwa,Hawaii,13.874322867822666
+Royal Kunia,Waimanalo Beach,Hawaii,22.183774354156537
+Royal Kunia,Whitmore Village,Hawaii,7.339564181780734
+Royal Kunia,Hauula,Hawaii,16.129841508420398
+Royal Kunia,Helemano,Hawaii,9.041281514694296
+Royal Kunia,Waialua,Hawaii,12.426702475948789
+Royal Kunia,Kalaeloa,Hawaii,6.661861619469312
+Royal Kunia,Kahuku,Hawaii,19.620388379225417
+Royal Kunia,Wheeler AFB,Hawaii,4.84159277940004
+Royal Kunia,Maunawili,Hawaii,16.994523287615365
+Royal Kunia,Ko Olina,Hawaii,7.280084683373603
+Royal Kunia,Mokuleia,Hawaii,14.849598734332357
+Royal Kunia,Kaaawa,Hawaii,15.134353168241189
+Royal Kunia,Punaluu,Hawaii,15.145056486986146
+Royal Kunia,Kawela Bay,Hawaii,20.300881653643923
+Royal Kunia,Maunaloa,Hawaii,56.0605063877442
+Royal Kunia,Makaha Valley,Hawaii,11.229459270616813
+Waianae,Nanakuli,Hawaii,5.069149308199731
+Waianae,Maili,Hawaii,3.015234745552272
+Waianae,Waipio,Hawaii,11.907736745557376
+Waianae,Makaha,Hawaii,2.508428506534234
+Waianae,Aiea,Hawaii,16.97631708676119
+Waianae,Hickam Housing,Hawaii,17.069447817480015
+Waianae,Ahuimanu,Hawaii,21.64212677587662
+Waianae,Waikele,Hawaii,11.570668432745043
+Waianae,Ewa Villages,Hawaii,11.853717663020808
+Waianae,West Loch Estate,Hawaii,11.734626130052956
+Waianae,Iroquois Point,Hawaii,15.650948174203416
+Waianae,Waimanalo,Hawaii,29.768878590634372
+Waianae,Laie,Hawaii,20.514090152786913
+Waianae,Waipio Acres,Hawaii,10.241202824075643
+Waianae,Pupukea,Hawaii,15.842768574400822
+Waianae,Kahaluu,Hawaii,21.286052596775367
+Waianae,East Kapolei,Hawaii,10.807567941818807
+Waianae,Heeia,Hawaii,23.022000424204233
+Waianae,Haleiwa,Hawaii,10.770448621623604
+Waianae,Waimanalo Beach,Hawaii,32.05831302820458
+Waianae,Whitmore Village,Hawaii,10.280463440931527
+Waianae,Hauula,Hawaii,20.037419356497377
+Waianae,Helemano,Hawaii,11.456558209094188
+Waianae,Waialua,Hawaii,8.330531575311147
+Waianae,Kalaeloa,Hawaii,12.167078442511702
+Waianae,Kahuku,Hawaii,21.227168039696434
+Waianae,Wheeler AFB,Hawaii,9.14676192166267
+Waianae,Maunawili,Hawaii,26.787164079522043
+Waianae,Ko Olina,Hawaii,8.973154963343053
+Waianae,Mokuleia,Hawaii,8.281556655039822
+Waianae,Kaaawa,Hawaii,21.695444465548487
+Waianae,Punaluu,Hawaii,20.280909471878363
+Waianae,Kawela Bay,Hawaii,20.0532914459339
+Waianae,Makaha Valley,Hawaii,1.9762108547593484
+Hawaiian Paradise Park,Waimea,Hawaii,52.61338850298136
+Hawaiian Paradise Park,Waikoloa Village,Hawaii,59.839440429016314
+Hawaiian Paradise Park,Hawaiian Beaches,Hawaii,3.7296591727519615
+Hawaiian Paradise Park,Ainaloa,Hawaii,4.518326414240945
+Hawaiian Paradise Park,Mountain View,Hawaii,12.758191474354454
+Hawaiian Paradise Park,Hawaiian Acres,Hawaii,6.279591360480035
+Hawaiian Paradise Park,Kurtistown,Hawaii,6.640360996175567
+Hawaiian Paradise Park,Honaunau-Napoopoo,Hawaii,58.67504898228714
+Hawaiian Paradise Park,Orchidlands Estates,Hawaii,3.412217527467505
+Hawaiian Paradise Park,Honokaa,Hawaii,46.86409034339598
+Hawaiian Paradise Park,Pahala,Hawaii,42.35514772384665
+Hawaiian Paradise Park,Fern Acres,Hawaii,8.785146795592878
+Hawaiian Paradise Park,Nanawale Estates,Hawaii,6.6787641981380155
+Hawaiian Paradise Park,Leilani Estates,Hawaii,8.773132442276985
+Hawaiian Paradise Park,Pepeekeo,Hawaii,19.329234426630215
+Hawaiian Paradise Park,Pahoa,Hawaii,6.175573879460965
+Hawaiian Paradise Park,Keaau,Hawaii,5.843464189325777
+Hawaiian Paradise Park,Discovery Harbour,Hawaii,56.75206571991557
+Hawaiian Paradise Park,Papaikou,Hawaii,16.57493994024032
+Hawaiian Paradise Park,Wainaku,Hawaii,13.9597778405868
+Hawaiian Paradise Park,Volcano Golf Course,Hawaii,22.37163806267804
+Hawaiian Paradise Park,Royal Hawaiian Estates,Hawaii,17.048225402401805
+Hawaiian Paradise Park,Laupahoehoe,Hawaii,31.86831182069826
+Hawaiian Paradise Park,Eden Roc,Hawaii,10.349106476619
+Hawaiian Paradise Park,Naalehu,Hawaii,52.997960119599604
+Hawaiian Paradise Park,Fern Forest,Hawaii,13.369697656627256
+Hawaiian Paradise Park,Mauna Loa Estates,Hawaii,19.59586154248451
+Hawaiian Paradise Park,Volcano,Hawaii,21.14581984584985
+Hawaiian Paradise Park,Paukaa,Hawaii,14.752949446404775
+Hawaiian Paradise Park,Paauilo,Hawaii,40.874561218507395
+Hawaiian Paradise Park,Honomu,Hawaii,21.816955466808675
+Hawaiian Paradise Park,Kukuihaele,Hawaii,53.54596558511879
+Hawaiian Paradise Park,Tiki Gardens,Hawaii,4.318317829189415
+Hawaiian Paradise Park,Seaview,Hawaii,12.51271694940033
+Hawaiian Paradise Park,Waiohinu,Hawaii,54.87346172803932
+Hawaiian Paradise Park,Black Sands,Hawaii,11.659263904657122
+Hawaiian Paradise Park,Kamaili,Hawaii,10.42077333790508
+Hawaiian Paradise Park,Kalapana,Hawaii,15.563472083247248
+Lahaina,Waihee-Waiehu,Hawaii,10.321052231598271
+Lahaina,Haiku-Pauwela,Hawaii,23.343443179204233
+Lahaina,Pukalani,Hawaii,21.017612400836132
+Lahaina,Makawao,Hawaii,22.31007374952252
+Lahaina,Napili-Honokowai,Hawaii,6.324924866528169
+Lahaina,Kula,Hawaii,22.950253081232397
+Lahaina,Wailea,Hawaii,20.279280872749037
+Lahaina,Waikapu,Hawaii,9.564943602118747
+Lahaina,Kaunakakai,Hawaii,25.93019421315162
+Lahaina,Lanai City,Hawaii,16.815935551667305
+Lahaina,Keokea,Hawaii,22.39834093784051
+Lahaina,Paia,Hawaii,19.070202069889373
+Lahaina,Kualapuu,Hawaii,31.745226108630387
+Lahaina,Kaanapali,Hawaii,3.1630393985640466
+Lahaina,Mahinahina,Hawaii,4.773442861929181
+Lahaina,Haliimaile,Hawaii,20.965001814362708
+Lahaina,Olinda,Hawaii,24.27126080475783
+Lahaina,Hana,Hawaii,42.82067354580046
+Lahaina,Launiupoko,Hawaii,2.456451305856186
+Lahaina,Ualapue,Hawaii,17.000045785366027
+Lahaina,Kapalua,Hawaii,7.751752722330701
+Lahaina,Maunaloa,Hawaii,39.46125053760985
+Lahaina,Maalaea,Hawaii,12.413496820509229
+Lahaina,Makena,Hawaii,23.22162728473008
+Lahaina,Olowalu,Hawaii,5.193960418048236
+Lahaina,Manele,Hawaii,18.342343925346952
+Nanakuli,Maili,Hawaii,2.3387485811570907
+Nanakuli,Waipio,Hawaii,9.68436811153316
+Nanakuli,Makaha,Hawaii,7.202036174651037
+Nanakuli,Aiea,Hawaii,14.260861397749643
+Nanakuli,Hickam Housing,Hawaii,13.316768729487348
+Nanakuli,Ahuimanu,Hawaii,19.87595353939252
+Nanakuli,Waikele,Hawaii,8.983488543429257
+Nanakuli,Ewa Villages,Hawaii,7.5494310340933755
+Nanakuli,West Loch Estate,Hawaii,7.95478081329502
+Nanakuli,Iroquois Point,Hawaii,11.554035012509145
+Nanakuli,Waimanalo,Hawaii,26.889311625387524
+Nanakuli,Laie,Hawaii,22.410869962021547
+Nanakuli,Waipio Acres,Hawaii,9.855578967855338
+Nanakuli,Pupukea,Hawaii,19.15177978942437
+Nanakuli,Kahaluu,Hawaii,19.8390768306715
+Nanakuli,East Kapolei,Hawaii,6.90356600059057
+Nanakuli,Heeia,Hawaii,20.98557633408323
+Nanakuli,Haleiwa,Hawaii,14.543508924966048
+Nanakuli,Waimanalo Beach,Hawaii,29.112994378942876
+Nanakuli,Whitmore Village,Hawaii,11.32026565397808
+Nanakuli,Hauula,Hawaii,21.390608066328152
+Nanakuli,Helemano,Hawaii,12.930489992330669
+Nanakuli,Waialua,Hawaii,12.266608202060993
+Nanakuli,Kalaeloa,Hawaii,7.301180224812422
+Nanakuli,Kahuku,Hawaii,23.65383952808394
+Nanakuli,Wheeler AFB,Hawaii,9.21446257741541
+Nanakuli,Maunawili,Hawaii,24.098838199097155
+Nanakuli,Ko Olina,Hawaii,3.90494066452684
+Nanakuli,Mokuleia,Hawaii,13.043112667160946
+Nanakuli,Kaaawa,Hawaii,21.715564588493237
+Nanakuli,Punaluu,Hawaii,21.0354213572174
+Nanakuli,Kawela Bay,Hawaii,23.195367631319062
+Nanakuli,Makaha Valley,Hawaii,7.0336181530777795
+Maili,Waipio,Hawaii,11.177857724016874
+Maili,Makaha,Hawaii,4.904512712727402
+Maili,Aiea,Hawaii,16.014404807848724
+Maili,Hickam Housing,Hawaii,15.425459628377418
+Maili,Ahuimanu,Hawaii,21.30636696522461
+Maili,Waikele,Hawaii,10.611412374254458
+Maili,Ewa Villages,Hawaii,9.784974867412092
+Maili,West Loch Estate,Hawaii,10.025054318371769
+Maili,Iroquois Point,Hawaii,13.756490277921982
+Maili,Waimanalo,Hawaii,28.76105010263301
+Maili,Laie,Hawaii,22.258881479476496
+Maili,Waipio Acres,Hawaii,10.55697408329398
+Maili,Pupukea,Hawaii,18.27242287482515
+Maili,Kahaluu,Hawaii,21.14183056182036
+Maili,East Kapolei,Hawaii,9.001846330319491
+Maili,Heeia,Hawaii,22.527763740808954
+Maili,Haleiwa,Hawaii,13.381458477128724
+Maili,Waimanalo Beach,Hawaii,31.012064703810296
+Maili,Whitmore Village,Hawaii,11.422800957238408
+Maili,Hauula,Hawaii,21.488221330565523
+Maili,Helemano,Hawaii,12.871602950346263
+Maili,Waialua,Hawaii,10.991851284948826
+Maili,Kalaeloa,Hawaii,9.639910605922578
+Maili,Kahuku,Hawaii,23.250486539681653
+Maili,Wheeler AFB,Hawaii,9.688724690520699
+Maili,Maunawili,Hawaii,25.895862716443162
+Maili,Ko Olina,Hawaii,6.157100342608452
+Maili,Mokuleia,Hawaii,11.269817800632724
+Maili,Kaaawa,Hawaii,22.415045202610596
+Maili,Punaluu,Hawaii,21.404477050848737
+Maili,Kawela Bay,Hawaii,22.424686647819335
+Maili,Makaha Valley,Hawaii,4.976450744802826
+Waipio,Makaha,Hawaii,14.356278549657754
+Waipio,Aiea,Hawaii,5.101310289342643
+Waipio,Hickam Housing,Hawaii,6.543542590083189
+Waipio,Ahuimanu,Hawaii,10.192418874329494
+Waipio,Waikele,Hawaii,1.005188334173691
+Waipio,Ewa Villages,Hawaii,5.690211816892728
+Waipio,West Loch Estate,Hawaii,4.043668718703885
+Waipio,Iroquois Point,Hawaii,6.450052977385688
+Waipio,Waimanalo,Hawaii,17.864858120227403
+Waipio,Laie,Hawaii,16.423901741130962
+Waipio,Waipio Acres,Hawaii,3.9796065033280574
+Waipio,Pupukea,Hawaii,16.571728236959586
+Waipio,Kahaluu,Hawaii,10.189080924137258
+Waipio,East Kapolei,Hawaii,4.527300314148849
+Waipio,Heeia,Hawaii,11.352887946399859
+Waipio,Haleiwa,Hawaii,14.202641871919385
+Waipio,Waimanalo Beach,Hawaii,20.15866752880527
+Waipio,Whitmore Village,Hawaii,7.001749765579313
+Waipio,Hauula,Hawaii,14.599192670086907
+Waipio,Helemano,Hawaii,8.514303674056098
+Waipio,Waialua,Hawaii,13.113556742533245
+Waipio,Kalaeloa,Hawaii,8.211580030256151
+Waipio,Kahuku,Hawaii,18.50630524574268
+Waipio,Wheeler AFB,Hawaii,4.895740188349388
+Waipio,Maunawili,Hawaii,14.88193005480671
+Waipio,Ko Olina,Hawaii,9.471619035193928
+Waipio,Mokuleia,Hawaii,15.878703324200906
+Waipio,Kaaawa,Hawaii,13.049185069322661
+Waipio,Punaluu,Hawaii,13.362671212446164
+Waipio,Kawela Bay,Hawaii,19.59830584356527
+Waipio,Maunaloa,Hawaii,54.142439910312405
+Waipio,Makaha Valley,Hawaii,13.016039389784863
+Waihee-Waiehu,Haiku-Pauwela,Hawaii,13.194813564214684
+Waihee-Waiehu,Pukalani,Hawaii,12.184548732685723
+Waihee-Waiehu,Makawao,Hawaii,13.052573417922
+Waihee-Waiehu,Napili-Honokowai,Hawaii,10.978508995152556
+Waihee-Waiehu,Kula,Hawaii,15.37238947551493
+Waihee-Waiehu,Wailea,Hawaii,16.690621197787767
+Waihee-Waiehu,Waikapu,Hawaii,5.577348168606303
+Waihee-Waiehu,Kaunakakai,Hawaii,33.89615555124133
+Waihee-Waiehu,Lanai City,Hawaii,27.13690616712501
+Waihee-Waiehu,Keokea,Hawaii,16.47702675634557
+Waihee-Waiehu,Paia,Hawaii,9.001186961068758
+Waihee-Waiehu,Kualapuu,Hawaii,39.268113264165564
+Waihee-Waiehu,Kaanapali,Hawaii,11.20543581634826
+Waihee-Waiehu,Mahinahina,Hawaii,9.998868494631314
+Waihee-Waiehu,Haliimaile,Hawaii,11.441048530614976
+Waihee-Waiehu,Olinda,Hawaii,15.271158289878938
+Waihee-Waiehu,Hana,Hawaii,33.604138576755716
+Waihee-Waiehu,Launiupoko,Hawaii,9.860986486675142
+Waihee-Waiehu,Ualapue,Hawaii,23.68802011361956
+Waihee-Waiehu,Kapalua,Hawaii,10.237577429426027
+Waihee-Waiehu,Maunaloa,Hawaii,47.93289174246848
+Waihee-Waiehu,Maalaea,Hawaii,7.921719466298645
+Waihee-Waiehu,Makena,Hawaii,20.482592054941108
+Waihee-Waiehu,Olowalu,Hawaii,9.76250301909676
+Waihee-Waiehu,Manele,Hawaii,28.292091450212393
+Kapaa,Lihue,Hawaii,8.185547802337236
+Kapaa,Wailua Homesteads,Hawaii,2.402212088092168
+Kapaa,Kalaheo,Hawaii,16.316620525235134
+Kapaa,Hanamaulu,Hawaii,6.5869123074962905
+Kapaa,Puhi,Hawaii,9.21899613637993
+Kapaa,Kilauea,Hawaii,8.7203811688239
+Kapaa,Kekaha,Hawaii,24.707177048641462
+Kapaa,Lawai,Hawaii,15.118362464252163
+Kapaa,Anahola,Hawaii,4.437188507526157
+Kapaa,Wailua,Hawaii,2.587213678583041
+Kapaa,Koloa,Hawaii,14.69896119112374
+Kapaa,Eleele,Hawaii,19.275286974624837
+Kapaa,Hanapepe,Hawaii,19.392833624546235
+Kapaa,Princeville,Hawaii,11.991076541815119
+Kapaa,Kaumakani,Hawaii,21.092454484342696
+Kapaa,Omao,Hawaii,14.19455948598742
+Kapaa,Poipu,Hawaii,15.873501442491037
+Kapaa,Haena,Hawaii,16.01108681138207
+Kapaa,Pakala Village,Hawaii,21.245012041208916
+Kapaa,Hanalei,Hawaii,12.151378606999105
+Kapaa,Kalihiwai,Hawaii,10.328062818974644
+Kapaa,Wainiha,Hawaii,14.448663528358084
+Waimea,Waikoloa Village,Hawaii,11.839755248080246
+Waimea,Kahaluu-Keauhou,Hawaii,36.88187307054238
+Waimea,Captain Cook,Hawaii,39.01028530800338
+Waimea,Hawaiian Beaches,Hawaii,56.286336457785424
+Waimea,Ainaloa,Hawaii,53.82664082583271
+Waimea,Mountain View,Hawaii,45.215501190690006
+Waimea,Hawaiian Acres,Hawaii,50.57377151075368
+Waimea,Holualoa,Hawaii,30.715762575341557
+Waimea,Kurtistown,Hawaii,47.13890848774677
+Waimea,Honaunau-Napoopoo,Hawaii,41.02496787055051
+Waimea,Orchidlands Estates,Hawaii,51.29877577658991
+Waimea,Honokaa,Hawaii,12.1496963656816
+Waimea,Kealakekua,Hawaii,37.732664188182376
+Waimea,Kapaau,Hawaii,18.624905220489623
+Waimea,Pahala,Hawaii,56.90433147992216
+Waimea,Fern Acres,Hawaii,50.308158418873894
+Waimea,Nanawale Estates,Hawaii,58.91695863383638
+Waimea,Kaloko,Hawaii,28.521432686851337
+Waimea,Pepeekeo,Hawaii,36.78646895394842
+Waimea,Hawi,Hawaii,19.665437820747577
+Waimea,Pahoa,Hawaii,57.42330457622342
+Waimea,Keaau,Hawaii,46.803535963535104
+Waimea,Papaikou,Hawaii,38.38208744265337
+Waimea,Wainaku,Hawaii,39.64895064334243
+Waimea,Volcano Golf Course,Hawaii,45.658396101129696
+Waimea,Honalo,Hawaii,34.17636407872342
+Waimea,Halaula,Hawaii,16.980323507691235
+Waimea,Royal Hawaiian Estates,Hawaii,49.170155753237765
+Waimea,Laupahoehoe,Hawaii,26.389782044741466
+Waimea,Eden Roc,Hawaii,50.30109933609856
+Waimea,Fern Forest,Hawaii,50.03664562200866
+Waimea,Mauna Loa Estates,Hawaii,48.5423995030758
+Waimea,Hana,Hawaii,57.57210400059141
+Waimea,Waikoloa Beach Resort,Hawaii,16.187660434250347
+Waimea,Volcano,Hawaii,43.138750556862924
+Waimea,Paukaa,Hawaii,39.410123376654
+Waimea,Paauilo,Hawaii,17.480142192201395
+Waimea,Honomu,Hawaii,35.58337982453814
+Waimea,Kukuihaele,Hawaii,8.752471174893895
+Waimea,Tiki Gardens,Hawaii,53.07404997525446
+Waimea,Puako,Hawaii,13.496364517954627
+Makaha,Aiea,Hawaii,19.441053713180967
+Makaha,Hickam Housing,Hawaii,19.57592206373057
+Makaha,Ahuimanu,Hawaii,23.945770362773604
+Makaha,Waikele,Hawaii,14.052720632737298
+Makaha,Ewa Villages,Hawaii,14.301260506632499
+Makaha,West Loch Estate,Hawaii,14.232163428188972
+Makaha,Iroquois Point,Hawaii,18.136227188843897
+Makaha,Waimanalo,Hawaii,32.22078338162324
+Makaha,Laie,Hawaii,21.619327237996636
+Makaha,Waipio Acres,Hawaii,12.427561819031965
+Makaha,Pupukea,Hawaii,16.231491671390597
+Makaha,Kahaluu,Hawaii,23.52724520632607
+Makaha,East Kapolei,Hawaii,13.29347534363478
+Makaha,Heeia,Hawaii,25.36794805929254
+Makaha,Haleiwa,Hawaii,11.008888158525844
+Makaha,Waimanalo Beach,Hawaii,34.51484862702807
+Makaha,Whitmore Village,Hawaii,12.05730029283312
+Makaha,Hauula,Hawaii,21.40155622293657
+Makaha,Helemano,Hawaii,13.010843014939741
+Makaha,Waialua,Hawaii,8.599206197249112
+Makaha,Kalaeloa,Hawaii,14.462316976164995
+Makaha,Kahuku,Hawaii,22.04396981579079
+Makaha,Wheeler AFB,Hawaii,11.27020708683503
+Makaha,Maunawili,Hawaii,29.22072324719272
+Makaha,Ko Olina,Hawaii,11.061402268987848
+Makaha,Mokuleia,Hawaii,7.5267564859354446
+Makaha,Kaaawa,Hawaii,23.537776438471393
+Makaha,Punaluu,Hawaii,21.8841090008134
+Makaha,Kawela Bay,Hawaii,20.457769849903993
+Makaha,Makaha Valley,Hawaii,1.8175786808339602
+Aiea,Hickam Housing,Hawaii,4.118240905508763
+Aiea,Ahuimanu,Hawaii,6.400103866999576
+Aiea,Waikele,Hawaii,5.434807748563952
+Aiea,Ewa Villages,Hawaii,8.06835553762016
+Aiea,West Loch Estate,Hawaii,6.753491933107488
+Aiea,Iroquois Point,Hawaii,5.775596941144601
+Aiea,Waimanalo,Hawaii,12.801458737183639
+Aiea,Laie,Hawaii,17.73249001811764
+Aiea,Waipio Acres,Hawaii,8.29493158658469
+Aiea,Pupukea,Hawaii,19.788606325022222
+Aiea,Kahaluu,Hawaii,7.0032375099386694
+Aiea,East Kapolei,Hawaii,7.757200298444013
+Aiea,Heeia,Hawaii,7.018162084858879
+Aiea,Haleiwa,Hawaii,18.406175681414222
+Aiea,Waimanalo Beach,Hawaii,15.084320113743903
+Aiea,Whitmore Village,Hawaii,10.930562180118987
+Aiea,Hauula,Hawaii,15.470001851744806
+Aiea,Helemano,Hawaii,12.019275324378386
+Aiea,Waialua,Hawaii,17.69078638947214
+Aiea,Kalaeloa,Hawaii,10.42509139174564
+Aiea,Kahuku,Hawaii,20.204498229246514
+Aiea,Wheeler AFB,Hawaii,9.467288022895362
+Aiea,Kualapuu,Hawaii,57.92787846449954
+Aiea,Maunawili,Hawaii,9.882885746746439
+Aiea,Ko Olina,Hawaii,13.043522772384351
+Aiea,Mokuleia,Hawaii,20.673831922371686
+Aiea,Kaaawa,Hawaii,12.017974214676947
+Aiea,Punaluu,Hawaii,13.550345332443737
+Aiea,Kawela Bay,Hawaii,22.106036462497308
+Aiea,Maunaloa,Hawaii,49.04244187319119
+Aiea,Makaha Valley,Hawaii,18.117321745971356
+Hickam Housing,Ahuimanu,Hawaii,10.07611573072331
+Hickam Housing,Waikele,Hawaii,6.1882996642299295
+Hickam Housing,Ewa Villages,Hawaii,5.942854450900657
+Hickam Housing,West Loch Estate,Hawaii,5.402883835632836
+Hickam Housing,Iroquois Point,Hawaii,2.215236443933809
+Hickam Housing,Waimanalo,Hawaii,14.014336344737936
+Hickam Housing,Laie,Hawaii,21.577953320158624
+Hickam Housing,Waipio Acres,Hawaii,10.489728719608818
+Hickam Housing,Pupukea,Hawaii,22.872678548404906
+Hickam Housing,Kahaluu,Hawaii,10.904272520976683
+Hickam Housing,East Kapolei,Hawaii,6.426748774827979
+Hickam Housing,Heeia,Hawaii,10.232472361331503
+Hickam Housing,Haleiwa,Hawaii,20.74554354809272
+Hickam Housing,Waimanalo Beach,Hawaii,16.116067033366267
+Hickam Housing,Whitmore Village,Hawaii,13.464371404445087
+Hickam Housing,Hauula,Hawaii,19.40000117754319
+Hickam Housing,Helemano,Hawaii,14.853510816133651
+Hickam Housing,Waialua,Hawaii,19.611909249145967
+Hickam Housing,Kalaeloa,Hawaii,7.676033405732725
+Hickam Housing,Kahuku,Hawaii,23.95633224902
+Hickam Housing,Wheeler AFB,Hawaii,11.43829453968042
+Hickam Housing,Kualapuu,Hawaii,58.54122514062847
+Hickam Housing,Maunawili,Hawaii,11.611408100189662
+Hickam Housing,Ko Olina,Hawaii,11.057918342823756
+Hickam Housing,Mokuleia,Hawaii,22.23939698730642
+Hickam Housing,Kaaawa,Hawaii,16.13617119786422
+Hickam Housing,Punaluu,Hawaii,17.584754441502525
+Hickam Housing,Kawela Bay,Hawaii,25.56680111502261
+Hickam Housing,Maunaloa,Hawaii,49.328845596892805
+Hickam Housing,Makaha Valley,Hawaii,18.552397646783426
+Haiku-Pauwela,Pukalani,Hawaii,6.231052529423082
+Haiku-Pauwela,Makawao,Hawaii,4.775734609564962
+Haiku-Pauwela,Napili-Honokowai,Hawaii,23.795159123452162
+Haiku-Pauwela,Kula,Hawaii,10.118171301025964
+Haiku-Pauwela,Wailea,Hawaii,17.721802644691348
+Haiku-Pauwela,Waikapu,Hawaii,15.160808836849924
+Haiku-Pauwela,Kaunakakai,Hawaii,46.53946070192368
+Haiku-Pauwela,Lanai City,Hawaii,40.0606862962048
+Haiku-Pauwela,Keokea,Hawaii,13.937476844096313
+Haiku-Pauwela,Paia,Hawaii,4.283181577791151
+Haiku-Pauwela,Kualapuu,Hawaii,51.61771341800554
+Haiku-Pauwela,Kapaau,Hawaii,56.96803902794125
+Haiku-Pauwela,Hawi,Hawaii,56.120345341404956
+Haiku-Pauwela,Kaanapali,Hawaii,24.39560360497264
+Haiku-Pauwela,Mahinahina,Hawaii,23.044651197986514
+Haiku-Pauwela,Haliimaile,Hawaii,4.064438047376916
+Haiku-Pauwela,Olinda,Hawaii,6.194500170747492
+Haiku-Pauwela,Halaula,Hawaii,58.64862943603907
+Haiku-Pauwela,Hana,Hawaii,21.28329351889827
+Haiku-Pauwela,Launiupoko,Hawaii,22.39838684598323
+Haiku-Pauwela,Ualapue,Hawaii,36.06331355053396
+Haiku-Pauwela,Kapalua,Hawaii,22.63066362577457
+Haiku-Pauwela,Maalaea,Hawaii,14.330694221770795
+Haiku-Pauwela,Makena,Hawaii,21.134523535758923
+Haiku-Pauwela,Olowalu,Hawaii,21.339023759766416
+Haiku-Pauwela,Manele,Hawaii,40.54288842911343
+Ahuimanu,Waikele,Hawaii,10.930144792470891
+Ahuimanu,Ewa Villages,Hawaii,14.401306362284828
+Ahuimanu,West Loch Estate,Hawaii,12.974449109305887
+Ahuimanu,Iroquois Point,Hawaii,12.044641177075139
+Ahuimanu,Waimanalo,Hawaii,9.683494448553363
+Ahuimanu,Laie,Hawaii,15.27024863986372
+Ahuimanu,Waipio Acres,Hawaii,11.59025876139795
+Ahuimanu,Pupukea,Hawaii,19.657014063467408
+Ahuimanu,Kahaluu,Hawaii,1.3849213194139924
+Ahuimanu,East Kapolei,Hawaii,13.906478702017003
+Ahuimanu,Heeia,Hawaii,1.7539643032792067
+Ahuimanu,Haleiwa,Hawaii,19.975736895215363
+Ahuimanu,Waimanalo Beach,Hawaii,11.884837143817016
+Ahuimanu,Whitmore Village,Hawaii,13.074360877474058
+Ahuimanu,Hauula,Hawaii,12.77202929789541
+Ahuimanu,Kaunakakai,Hawaii,59.345251404013545
+Ahuimanu,Helemano,Hawaii,13.363866585440867
+Ahuimanu,Waialua,Hawaii,20.038067422053878
+Ahuimanu,Kalaeloa,Hawaii,16.81113440518581
+Ahuimanu,Kahuku,Hawaii,17.977218216200612
+Ahuimanu,Wheeler AFB,Hawaii,12.811523167073235
+Ahuimanu,Kualapuu,Hawaii,53.96918068878687
+Ahuimanu,Maunawili,Hawaii,6.61941470777009
+Ahuimanu,Ko Olina,Hawaii,19.215457600491206
+Ahuimanu,Mokuleia,Hawaii,23.363913690294194
+Ahuimanu,Kaaawa,Hawaii,7.655225615907075
+Ahuimanu,Punaluu,Hawaii,10.352283943061058
+Ahuimanu,Kawela Bay,Hawaii,20.78256143955014
+Ahuimanu,Maunaloa,Hawaii,45.597450510133
+Ahuimanu,Makaha Valley,Hawaii,22.378285699382385
+Lihue,Wailua Homesteads,Hawaii,6.528462797787274
+Lihue,Kalaheo,Hawaii,11.407782906571393
+Lihue,Hanamaulu,Hawaii,1.658263626312823
+Lihue,Puhi,Hawaii,2.365700841387391
+Lihue,Kilauea,Hawaii,16.62390748101642
+Lihue,Kekaha,Hawaii,22.957697828896226
+Lihue,Lawai,Hawaii,9.91595061122974
+Lihue,Anahola,Hawaii,12.221319713050368
+Lihue,Wailua,Hawaii,5.805754448955258
+Lihue,Koloa,Hawaii,8.228567401240793
+Lihue,Eleele,Hawaii,15.013604250561524
+Lihue,Hanapepe,Hawaii,15.355433242012461
+Lihue,Princeville,Hawaii,18.692435003468002
+Lihue,Kaumakani,Hawaii,17.565437083376352
+Lihue,Omao,Hawaii,8.68972031226604
+Lihue,Poipu,Hawaii,9.026529201141834
+Lihue,Haena,Hawaii,21.442300678609087
+Lihue,Pakala Village,Hawaii,18.530875415020493
+Lihue,Hanalei,Hawaii,18.355102997061735
+Lihue,Kalihiwai,Hawaii,17.65954468563316
+Lihue,Wainiha,Hawaii,19.74729296242366
+Pukalani,Makawao,Hawaii,1.7878848137363192
+Pukalani,Napili-Honokowai,Hawaii,23.11118240259488
+Pukalani,Kula,Hawaii,4.3688897230843935
+Pukalani,Wailea,Hawaii,11.50910700894368
+Pukalani,Waikapu,Hawaii,11.68800250173966
+Pukalani,Kaunakakai,Hawaii,45.982140398151294
+Pukalani,Lanai City,Hawaii,37.074380375844626
+Pukalani,Keokea,Hawaii,7.8103217277853245
+Pukalani,Paia,Hawaii,5.319657513854828
+Pukalani,Kualapuu,Hawaii,51.426662532305514
+Pukalani,Kapaau,Hawaii,54.00068802339823
+Pukalani,Hawi,Hawaii,52.93577460804622
+Pukalani,Kaanapali,Hawaii,22.799786316652416
+Pukalani,Mahinahina,Hawaii,21.996968017023693
+Pukalani,Haliimaile,Hawaii,2.363046035169411
+Pukalani,Olinda,Hawaii,3.254723840145904
+Pukalani,Halaula,Hawaii,55.781915716168086
+Pukalani,Hana,Hawaii,21.80533419274511
+Pukalani,Launiupoko,Hawaii,19.514172978551343
+Pukalani,Ualapue,Hawaii,35.8629473639294
+Pukalani,Kapalua,Hawaii,22.417850051761917
+Pukalani,Maunaloa,Hawaii,59.94134771242647
+Pukalani,Maalaea,Hawaii,9.786534444094057
+Pukalani,Makena,Hawaii,14.908493249666153
+Pukalani,Olowalu,Hawaii,17.827557157570467
+Pukalani,Manele,Hawaii,36.7470949249126
+Makawao,Napili-Honokowai,Hawaii,24.03078192476658
+Makawao,Kula,Hawaii,5.3593254419387995
+Makawao,Wailea,Hawaii,13.15175524313185
+Makawao,Waikapu,Hawaii,13.149001537738895
+Makawao,Kaunakakai,Hawaii,46.945937597023075
+Makawao,Lanai City,Hawaii,38.55089920871937
+Makawao,Keokea,Hawaii,9.172450703147803
+Makawao,Paia,Hawaii,5.093725852808528
+Makawao,Kualapuu,Hawaii,52.30881426124491
+Makawao,Kapaau,Hawaii,53.879196032228265
+Makawao,Hawi,Hawaii,52.88688213206709
+Makawao,Kaanapali,Hawaii,23.937122136121648
+Makawao,Mahinahina,Hawaii,22.998530852981055
+Makawao,Haliimaile,Hawaii,1.8033460056943569
+Makawao,Olinda,Hawaii,2.32104067440265
+Makawao,Halaula,Hawaii,55.628802002202754
+Makawao,Hana,Hawaii,20.61655522606254
+Makawao,Launiupoko,Hawaii,20.91786596220163
+Makawao,Ualapue,Hawaii,36.71685586542344
+Makawao,Kapalua,Hawaii,23.213760904298884
+Makawao,Maalaea,Hawaii,11.441679629018314
+Makawao,Makena,Hawaii,16.43445162686711
+Makawao,Olowalu,Hawaii,19.348233190115415
+Makawao,Manele,Hawaii,38.36442942477461
+Waikele,Ewa Villages,Hawaii,4.6954700530689
+Waikele,West Loch Estate,Hawaii,3.057277241532123
+Waikele,Iroquois Point,Hawaii,5.790218799508534
+Waikele,Waimanalo,Hawaii,18.233778907456003
+Waikele,Laie,Hawaii,17.36884542708123
+Waikele,Waipio Acres,Hawaii,4.621193327696959
+Waikele,Pupukea,Hawaii,17.276984628825847
+Waikele,Kahaluu,Hawaii,11.009689175053945
+Waikele,East Kapolei,Hawaii,3.523960482067207
+Waikele,Heeia,Hawaii,12.002102134784625
+Waikele,Haleiwa,Hawaii,14.668735909389921
+Waikele,Waimanalo Beach,Hawaii,20.511605587633237
+Waikele,Whitmore Village,Hawaii,7.654213859713942
+Waikele,Hauula,Hawaii,15.575657657604848
+Waikele,Helemano,Hawaii,9.240188601891171
+Waikele,Waialua,Hawaii,13.435753796204954
+Waikele,Kalaeloa,Hawaii,7.208721474260303
+Waikele,Kahuku,Hawaii,19.412767676942284
+Waikele,Wheeler AFB,Hawaii,5.37400423601461
+Waikele,Maunawili,Hawaii,15.309958556548839
+Waikele,Ko Olina,Hawaii,8.534846193138234
+Waikele,Mokuleia,Hawaii,16.062508482135755
+Waikele,Kaaawa,Hawaii,14.043376502181967
+Waikele,Punaluu,Hawaii,14.363892891136695
+Waikele,Kawela Bay,Hawaii,20.407376694865114
+Waikele,Maunaloa,Hawaii,54.41742151140857
+Waikele,Makaha Valley,Hawaii,12.803956303481149
+Waikoloa Village,Kahaluu-Keauhou,Hawaii,27.691568311875958
+Waikoloa Village,Captain Cook,Hawaii,31.133282675923752
+Waikoloa Village,Mountain View,Hawaii,50.58026927369841
+Waikoloa Village,Hawaiian Ocean View,Hawaii,58.390457089309976
+Waikoloa Village,Hawaiian Acres,Hawaii,56.78079068871108
+Waikoloa Village,Holualoa,Hawaii,21.284016519451058
+Waikoloa Village,Kurtistown,Hawaii,53.7784420116992
+Waikoloa Village,Honaunau-Napoopoo,Hawaii,33.91914658048284
+Waikoloa Village,Orchidlands Estates,Hawaii,58.0016787809486
+Waikoloa Village,Honokaa,Hawaii,23.987155569265983
+Waikoloa Village,Kealakekua,Hawaii,29.414650150151825
+Waikoloa Village,Kapaau,Hawaii,19.928878827142974
+Waikoloa Village,Pahala,Hawaii,55.53053944935575
+Waikoloa Village,Fern Acres,Hawaii,56.04123598925116
+Waikoloa Village,Kaloko,Hawaii,17.999986632273174
+Waikoloa Village,Pepeekeo,Hawaii,46.174639334863244
+Waikoloa Village,Hawi,Hawaii,19.5210487396418
+Waikoloa Village,Keaau,Hawaii,54.01014428439408
+Waikoloa Village,Papaikou,Hawaii,47.319716824692286
+Waikoloa Village,Wainaku,Hawaii,48.01176333213081
+Waikoloa Village,Volcano Golf Course,Hawaii,48.66220225075987
+Waikoloa Village,Honalo,Hawaii,25.716643908971815
+Waikoloa Village,Halaula,Hawaii,19.3003486616578
+Waikoloa Village,Royal Hawaiian Estates,Hawaii,53.244846140333514
+Waikoloa Village,Laupahoehoe,Hawaii,37.17576379197964
+Waikoloa Village,Eden Roc,Hawaii,55.724323585041624
+Waikoloa Village,Fern Forest,Hawaii,54.85861843357965
+Waikoloa Village,Mauna Loa Estates,Hawaii,52.07608909717883
+Waikoloa Village,Hana,Hawaii,58.477032547529184
+Waikoloa Village,Waikoloa Beach Resort,Hawaii,4.3824989534397725
+Waikoloa Village,Volcano,Hawaii,46.63247232374292
+Waikoloa Village,Paukaa,Hawaii,48.010533564501394
+Waikoloa Village,Paauilo,Hawaii,29.00827083771978
+Waikoloa Village,Honomu,Hawaii,45.37955020399677
+Waikoloa Village,Kukuihaele,Hawaii,19.710123616674178
+Waikoloa Village,Tiki Gardens,Hawaii,59.558329788529484
+Waikoloa Village,Puako,Hawaii,2.5289793205567115
+Wailua Homesteads,Kalaheo,Hawaii,13.914547081179748
+Wailua Homesteads,Hanamaulu,Hawaii,5.114327505851158
+Wailua Homesteads,Puhi,Hawaii,7.13488008697222
+Wailua Homesteads,Kilauea,Hawaii,10.108664512614526
+Wailua Homesteads,Kekaha,Hawaii,22.619330922160483
+Wailua Homesteads,Lawai,Hawaii,12.719502302949907
+Wailua Homesteads,Anahola,Hawaii,6.817715461081651
+Wailua Homesteads,Wailua,Hawaii,2.4688991690408963
+Wailua Homesteads,Koloa,Hawaii,12.375114709499211
+Wailua Homesteads,Eleele,Hawaii,16.89700510836152
+Wailua Homesteads,Hanapepe,Hawaii,17.026604334778714
+Wailua Homesteads,Princeville,Hawaii,12.432189592509173
+Wailua Homesteads,Kaumakani,Hawaii,18.77039418501965
+Wailua Homesteads,Omao,Hawaii,11.808615787814439
+Wailua Homesteads,Poipu,Hawaii,13.580356607684253
+Wailua Homesteads,Haena,Hawaii,15.831988019866882
+Wailua Homesteads,Pakala Village,Hawaii,19.003193915755514
+Wailua Homesteads,Hanalei,Hawaii,12.303171890397374
+Wailua Homesteads,Kalihiwai,Hawaii,11.188265309826305
+Wailua Homesteads,Wainiha,Hawaii,14.184525004564538
+Kahaluu-Keauhou,Captain Cook,Hawaii,6.049824897661768
+Kahaluu-Keauhou,Mountain View,Hawaii,51.83560119489212
+Kahaluu-Keauhou,Hawaiian Ocean View,Hawaii,34.42527240287077
+Kahaluu-Keauhou,Hawaiian Acres,Hawaii,58.96277682571483
+Kahaluu-Keauhou,Holualoa,Hawaii,6.408784598692353
+Kahaluu-Keauhou,Kurtistown,Hawaii,57.518548838111805
+Kahaluu-Keauhou,Honaunau-Napoopoo,Hawaii,9.925293355395368
+Kahaluu-Keauhou,Honokaa,Hawaii,47.40228842320383
+Kahaluu-Keauhou,Kealakekua,Hawaii,3.8048553961939655
+Kahaluu-Keauhou,Kapaau,Hawaii,46.92144349942277
+Kahaluu-Keauhou,Pahala,Hawaii,40.063762293293884
+Kahaluu-Keauhou,Fern Acres,Hawaii,57.17850649049211
+Kahaluu-Keauhou,Kaloko,Hawaii,10.642714907509076
+Kahaluu-Keauhou,Pepeekeo,Hawaii,58.16861002865367
+Kahaluu-Keauhou,Hawi,Hawaii,45.96529650060274
+Kahaluu-Keauhou,Keaau,Hawaii,59.12368583339981
+Kahaluu-Keauhou,Discovery Harbour,Hawaii,42.0064926825459
+Kahaluu-Keauhou,Papaikou,Hawaii,57.93956294193977
+Kahaluu-Keauhou,Wainaku,Hawaii,57.03892898310198
+Kahaluu-Keauhou,Volcano Golf Course,Hawaii,44.81399211793315
+Kahaluu-Keauhou,Honalo,Hawaii,3.702140782108531
+Kahaluu-Keauhou,Halaula,Hawaii,46.63670644194399
+Kahaluu-Keauhou,Royal Hawaiian Estates,Hawaii,50.910090481192405
+Kahaluu-Keauhou,Laupahoehoe,Hawaii,54.484398745879055
+Kahaluu-Keauhou,Eden Roc,Hawaii,56.16117963151397
+Kahaluu-Keauhou,Naalehu,Hawaii,42.17834622056589
+Kahaluu-Keauhou,Fern Forest,Hawaii,53.99863934890615
+Kahaluu-Keauhou,Mauna Loa Estates,Hawaii,48.701956381042116
+Kahaluu-Keauhou,Waikoloa Beach Resort,Hawaii,25.412099435409484
+Kahaluu-Keauhou,Volcano,Hawaii,44.42644819423849
+Kahaluu-Keauhou,Paukaa,Hawaii,57.643800052120866
+Kahaluu-Keauhou,Paauilo,Hawaii,49.96350629801244
+Kahaluu-Keauhou,Honomu,Hawaii,58.60818582861101
+Kahaluu-Keauhou,Kukuihaele,Hawaii,45.63279100721863
+Kahaluu-Keauhou,Puako,Hawaii,28.233235201077015
+Kahaluu-Keauhou,Waiohinu,Hawaii,40.63294232740031
+Napili-Honokowai,Kula,Hawaii,25.953476905969733
+Napili-Honokowai,Wailea,Hawaii,25.06730242147751
+Napili-Honokowai,Waikapu,Hawaii,13.208574550305272
+Napili-Honokowai,Kaunakakai,Hawaii,22.9193068041275
+Napili-Honokowai,Lanai City,Hawaii,19.13624377104122
+Napili-Honokowai,Keokea,Hawaii,26.284455659108872
+Napili-Honokowai,Paia,Hawaii,19.791928384603086
+Napili-Honokowai,Kualapuu,Hawaii,28.316353662556182
+Napili-Honokowai,Kaanapali,Hawaii,3.5040623473794708
+Napili-Honokowai,Mahinahina,Hawaii,1.6491168882195875
+Napili-Honokowai,Haliimaile,Hawaii,22.41070954191954
+Napili-Honokowai,Olinda,Hawaii,26.23879554717394
+Napili-Honokowai,Hana,Hawaii,44.563472271551554
+Napili-Honokowai,Launiupoko,Hawaii,8.555557692083122
+Napili-Honokowai,Ualapue,Hawaii,12.783436883906674
+Napili-Honokowai,Kapalua,Hawaii,1.9785853236787014
+Napili-Honokowai,Maunaloa,Hawaii,36.977087629293045
+Napili-Honokowai,Maalaea,Hawaii,16.362413303648715
+Napili-Honokowai,Makena,Hawaii,28.3800470630457
+Napili-Honokowai,Olowalu,Hawaii,11.067198908114591
+Napili-Honokowai,Manele,Hawaii,22.24863322261235
+Kula,Wailea,Hawaii,8.678403019118209
+Kula,Waikapu,Hawaii,13.386885815515635
+Kula,Kaunakakai,Hawaii,48.558835612910244
+Kula,Lanai City,Hawaii,38.13213872011153
+Kula,Keokea,Hawaii,4.057804030710145
+Kula,Paia,Hawaii,9.668664209577095
+Kula,Kualapuu,Hawaii,54.16598553494557
+Kula,Kapaau,Hawaii,50.23154833274172
+Kula,Hawi,Hawaii,49.07847204144866
+Kula,Kaanapali,Hawaii,25.14042391774702
+Kula,Mahinahina,Hawaii,24.67862463827854
+Kula,Haliimaile,Hawaii,6.668291213031956
+Kula,Olinda,Hawaii,4.496055413420606
+Kula,Halaula,Hawaii,52.051093468069446
+Kula,Hana,Hawaii,20.5560822555094
+Kula,Launiupoko,Hawaii,21.107652606138725
+Kula,Ualapue,Hawaii,38.72711188556126
+Kula,Kapalua,Hawaii,25.511027834155243
+Kula,Maalaea,Hawaii,10.702071430454573
+Kula,Makena,Hawaii,11.467057678458985
+Kula,Olowalu,Hawaii,18.99805888925474
+Kula,Manele,Hawaii,37.11756687481128
+Ewa Villages,West Loch Estate,Hawaii,1.656136634841745
+Ewa Villages,Iroquois Point,Hawaii,4.017838413895383
+Ewa Villages,Waimanalo,Hawaii,19.891121010356557
+Ewa Villages,Laie,Hawaii,22.00516741836625
+Ewa Villages,Waipio Acres,Hawaii,8.854483806425199
+Ewa Villages,Pupukea,Hawaii,21.28909328983063
+Ewa Villages,Kahaluu,Hawaii,14.800952870734212
+Ewa Villages,East Kapolei,Hawaii,1.4922143977385078
+Ewa Villages,Heeia,Hawaii,15.081546106581301
+Ewa Villages,Haleiwa,Hawaii,17.97071210151611
+Ewa Villages,Waimanalo Beach,Hawaii,22.030577719154792
+Ewa Villages,Whitmore Village,Hawaii,11.733144300813796
+Ewa Villages,Hauula,Hawaii,20.261542438870503
+Ewa Villages,Helemano,Hawaii,13.440410316983773
+Ewa Villages,Waialua,Hawaii,16.289836513302195
+Ewa Villages,Kalaeloa,Hawaii,2.562839674650746
+Ewa Villages,Kahuku,Hawaii,23.964044336677485
+Ewa Villages,Wheeler AFB,Hawaii,9.21536314476163
+Ewa Villages,Maunawili,Hawaii,17.33252202832502
+Ewa Villages,Ko Olina,Hawaii,5.157089963432462
+Ewa Villages,Mokuleia,Hawaii,18.306222223274933
+Ewa Villages,Kaaawa,Hawaii,18.579302657586606
+Ewa Villages,Punaluu,Hawaii,19.049873127408333
+Ewa Villages,Kawela Bay,Hawaii,24.700137407533138
+Ewa Villages,Maunaloa,Hawaii,55.20913355586635
+Ewa Villages,Makaha Valley,Hawaii,13.569640727840945
+Wailea,Waikapu,Hawaii,12.052714886706735
+Wailea,Kaunakakai,Hawaii,46.072596036261714
+Wailea,Lanai City,Hawaii,32.87717850642074
+Wailea,Keokea,Hawaii,4.8981596683510995
+Wailea,Paia,Hawaii,15.574198024656706
+Wailea,Kualapuu,Hawaii,51.95899418006771
+Wailea,Kapaau,Hawaii,51.19740038370223
+Wailea,Hawi,Hawaii,49.698789039292116
+Wailea,Kaanapali,Hawaii,23.1444358479891
+Wailea,Mahinahina,Hawaii,23.51134052421531
+Wailea,Haliimaile,Hawaii,13.699024340907712
+Wailea,Olinda,Hawaii,13.047048185214296
+Wailea,Halaula,Hawaii,53.1358384579447
+Wailea,Hana,Hawaii,27.698589913301536
+Wailea,Launiupoko,Hawaii,17.948307247395494
+Wailea,Ualapue,Hawaii,37.21628758633936
+Wailea,Kapalua,Hawaii,25.297040861407808
+Wailea,Maunaloa,Hawaii,59.203446790087966
+Wailea,Maalaea,Hawaii,8.98102745858245
+Wailea,Makena,Hawaii,3.881305307422851
+Wailea,Olowalu,Hawaii,15.290695499848544
+Wailea,Manele,Hawaii,30.787227937038313
+West Loch Estate,Iroquois Point,Hawaii,3.9609107209906247
+West Loch Estate,Waimanalo,Hawaii,19.015967438415466
+West Loch Estate,Laie,Hawaii,20.40899304954653
+West Loch Estate,Waipio Acres,Hawaii,7.383446466567141
+West Loch Estate,Pupukea,Hawaii,19.948804071056355
+West Loch Estate,Kahaluu,Hawaii,13.299689141631154
+West Loch Estate,East Kapolei,Hawaii,1.062646702456162
+West Loch Estate,Heeia,Hawaii,13.759209784786458
+West Loch Estate,Haleiwa,Hawaii,16.873791180787297
+West Loch Estate,Waimanalo Beach,Hawaii,21.210622725278014
+West Loch Estate,Whitmore Village,Hawaii,10.335323108111867
+West Loch Estate,Hauula,Hawaii,18.632837726536774
+West Loch Estate,Helemano,Hawaii,12.010275873527583
+West Loch Estate,Waialua,Hawaii,15.337440397267777
+West Loch Estate,Kalaeloa,Hawaii,4.2109813782037815
+West Loch Estate,Kahuku,Hawaii,22.410575005953177
+West Loch Estate,Wheeler AFB,Hawaii,7.865992503676371
+West Loch Estate,Maunawili,Hawaii,16.32784394755617
+West Loch Estate,Ko Olina,Hawaii,6.2901470716180015
+West Loch Estate,Mokuleia,Hawaii,17.578283954262208
+West Loch Estate,Kaaawa,Hawaii,16.933717387518918
+West Loch Estate,Punaluu,Hawaii,17.397388634245804
+West Loch Estate,Kawela Bay,Hawaii,23.25651617809894
+West Loch Estate,Maunaloa,Hawaii,54.694640193445544
+West Loch Estate,Makaha Valley,Hawaii,13.308064939491674
+Iroquois Point,Waimanalo,Hawaii,16.17547789494313
+Iroquois Point,Laie,Hawaii,22.436399660456953
+Iroquois Point,Waipio Acres,Hawaii,10.390724615824228
+Iroquois Point,Pupukea,Hawaii,23.020833524214435
+Iroquois Point,Kahaluu,Hawaii,12.760510104478362
+Iroquois Point,East Kapolei,Hawaii,4.843480058045202
+Iroquois Point,Heeia,Hawaii,12.335314375969226
+Iroquois Point,Haleiwa,Hawaii,20.418552293442698
+Iroquois Point,Waimanalo Beach,Hawaii,18.242994157400155
+Iroquois Point,Whitmore Village,Hawaii,13.42620864199059
+Iroquois Point,Hauula,Hawaii,20.3869088779876
+Iroquois Point,Helemano,Hawaii,14.964187498971757
+Iroquois Point,Waialua,Hawaii,19.055830542996972
+Iroquois Point,Kalaeloa,Hawaii,5.489380140001479
+Iroquois Point,Kahuku,Hawaii,24.687765033271603
+Iroquois Point,Wheeler AFB,Hawaii,11.156965064017202
+Iroquois Point,Maunawili,Hawaii,13.820721410332766
+Iroquois Point,Ko Olina,Hawaii,8.995486443460262
+Iroquois Point,Mokuleia,Hawaii,21.447991898739065
+Iroquois Point,Kaaawa,Hawaii,17.609180754946216
+Iroquois Point,Punaluu,Hawaii,18.75543330389933
+Iroquois Point,Kawela Bay,Hawaii,25.998115220152354
+Iroquois Point,Maunaloa,Hawaii,51.20789806045642
+Iroquois Point,Makaha Valley,Hawaii,17.25971397081271
+Waimanalo,Laie,Hawaii,24.369727713001833
+Waimanalo,Waipio Acres,Hawaii,20.44252491830887
+Waimanalo,Pupukea,Hawaii,29.311414038843704
+Waimanalo,Kahaluu,Hawaii,10.859845877178897
+Waimanalo,East Kapolei,Hawaii,20.078039609335054
+Waimanalo,Heeia,Hawaii,7.929538873494606
+Waimanalo,Haleiwa,Hawaii,29.565536080998175
+Waimanalo,Waimanalo Beach,Hawaii,2.3096788847446574
+Waimanalo,Whitmore Village,Hawaii,22.42246610365175
+Waimanalo,Hauula,Hawaii,21.889012335474792
+Waimanalo,Kaunakakai,Hawaii,50.30638233097181
+Waimanalo,Helemano,Hawaii,22.91518722474452
+Waimanalo,Waialua,Hawaii,29.443937166898653
+Waimanalo,Kalaeloa,Hawaii,21.664369417073083
+Waimanalo,Kahuku,Hawaii,27.08141695186355
+Waimanalo,Wheeler AFB,Hawaii,21.684874208593932
+Waimanalo,Kualapuu,Hawaii,45.13576491013811
+Waimanalo,Maunawili,Hawaii,3.138004576504553
+Waimanalo,Ko Olina,Hawaii,25.04320740849306
+Waimanalo,Mokuleia,Hawaii,32.68732409835961
+Waimanalo,Kaaawa,Hawaii,16.26398641437122
+Waimanalo,Punaluu,Hawaii,19.392579724280687
+Waimanalo,Kawela Bay,Hawaii,30.175861010769793
+Waimanalo,Maunaloa,Hawaii,36.36615272360019
+Waimanalo,Makaha Valley,Hawaii,30.843806235818118
+Laie,Waipio Acres,Hawaii,13.369243218031121
+Laie,Pupukea,Hawaii,7.4635336112906385
+Laie,Kahaluu,Hawaii,13.901874611585312
+Laie,East Kapolei,Hawaii,20.652430201944366
+Laie,Heeia,Hawaii,16.872223440213126
+Laie,Haleiwa,Hawaii,11.56645132017706
+Laie,Waimanalo Beach,Hawaii,26.290155014873715
+Laie,Whitmore Village,Hawaii,11.12889704896967
+Laie,Hauula,Hawaii,2.5017875709546153
+Laie,Helemano,Hawaii,9.480409835370695
+Laie,Waialua,Hawaii,13.474119279877822
+Laie,Kalaeloa,Hawaii,24.39871155890329
+Laie,Kahuku,Hawaii,2.7182234465999415
+Laie,Wheeler AFB,Hawaii,13.499888438196672
+Laie,Maunawili,Hawaii,21.590914080816987
+Laie,Ko Olina,Hawaii,24.402487475700106
+Laie,Mokuleia,Hawaii,16.33230348617695
+Laie,Kaaawa,Hawaii,8.144425987274177
+Laie,Punaluu,Hawaii,4.982124481156503
+Laie,Kawela Bay,Hawaii,6.111134971821344
+Laie,Maunaloa,Hawaii,57.975201490119716
+Laie,Makaha Valley,Hawaii,19.828632357649713
+Waipio Acres,Pupukea,Hawaii,12.656976783459328
+Waipio Acres,Kahaluu,Hawaii,11.104532124614835
+Waipio Acres,East Kapolei,Hawaii,7.417225182317087
+Waipio Acres,Heeia,Hawaii,13.104403552490444
+Waipio Acres,Haleiwa,Hawaii,10.28288384761254
+Waipio Acres,Waimanalo Beach,Hawaii,22.750990558047715
+Waipio Acres,Whitmore Village,Hawaii,3.0357753076599874
+Waipio Acres,Hauula,Hawaii,11.915018820519808
+Waipio Acres,Helemano,Hawaii,4.639122368812588
+Waipio Acres,Waialua,Hawaii,9.399535391688532
+Waipio Acres,Kalaeloa,Hawaii,11.111237458089045
+Waipio Acres,Kahuku,Hawaii,15.167048336212066
+Waipio Acres,Wheeler AFB,Hawaii,1.2440592363104384
+Waipio Acres,Maunawili,Hawaii,17.33498745624024
+Waipio Acres,Ko Olina,Hawaii,11.135324421302961
+Waipio Acres,Mokuleia,Hawaii,12.40700215863806
+Waipio Acres,Kaaawa,Hawaii,11.891996060886838
+Waipio Acres,Punaluu,Hawaii,11.253554879254008
+Waipio Acres,Kawela Bay,Hawaii,15.87311374023709
+Waipio Acres,Maunaloa,Hawaii,56.79962344705243
+Waipio Acres,Makaha Valley,Hawaii,10.807707131818654
+Pupukea,Kahaluu,Hawaii,18.452095611228664
+Pupukea,East Kapolei,Hawaii,19.801549302489313
+Pupukea,Heeia,Hawaii,21.404187585437086
+Pupukea,Haleiwa,Hawaii,5.231635296040445
+Pupukea,Waimanalo Beach,Hawaii,31.447230072732417
+Pupukea,Whitmore Village,Hawaii,9.634384930404016
+Pupukea,Hauula,Hawaii,8.920112714460995
+Pupukea,Helemano,Hawaii,8.058408941859117
+Pupukea,Waialua,Hawaii,7.636527004634794
+Pupukea,Kalaeloa,Hawaii,23.260577060268282
+Pupukea,Kahuku,Hawaii,6.496335310009283
+Pupukea,Wheeler AFB,Hawaii,12.08695617856248
+Pupukea,Maunawili,Hawaii,26.276175270633498
+Pupukea,Ko Olina,Hawaii,22.09091021407506
+Pupukea,Mokuleia,Hawaii,9.665389768396784
+Pupukea,Kaaawa,Hawaii,14.133462936907547
+Pupukea,Punaluu,Hawaii,10.996063515938697
+Pupukea,Kawela Bay,Hawaii,4.22995005955238
+Pupukea,Makaha Valley,Hawaii,14.608806469439221
+Kahaluu,East Kapolei,Hawaii,14.176323813549656
+Kahaluu,Heeia,Hawaii,3.0053160830301753
+Kahaluu,Haleiwa,Hawaii,18.9980722057386
+Kahaluu,Waimanalo Beach,Hawaii,13.008371241552544
+Kahaluu,Whitmore Village,Hawaii,12.308849796128188
+Kahaluu,Hauula,Hawaii,11.401870577321285
+Kahaluu,Helemano,Hawaii,12.449127266337955
+Kahaluu,Waialua,Hawaii,19.190518944570748
+Kahaluu,Kalaeloa,Hawaii,17.275099781526134
+Kahaluu,Kahuku,Hawaii,16.612052918501398
+Kahaluu,Wheeler AFB,Hawaii,12.293046462953901
+Kahaluu,Kualapuu,Hawaii,54.756826345269204
+Kahaluu,Maunawili,Hawaii,7.85836660352068
+Kahaluu,Ko Olina,Hawaii,19.451377191955785
+Kahaluu,Mokuleia,Hawaii,22.54897541178862
+Kahaluu,Kaaawa,Hawaii,6.282526491727565
+Kahaluu,Punaluu,Hawaii,8.973023184724319
+Kahaluu,Kawela Bay,Hawaii,19.461983755259133
+Kahaluu,Maunaloa,Hawaii,46.5071568008778
+Kahaluu,Makaha Valley,Hawaii,21.909694210161078
+East Kapolei,Heeia,Hawaii,14.742656120051873
+East Kapolei,Haleiwa,Hawaii,16.492399783263117
+East Kapolei,Waimanalo Beach,Hawaii,22.273267298572357
+East Kapolei,Whitmore Village,Hawaii,10.261133713529741
+East Kapolei,Hauula,Hawaii,18.9703077988568
+East Kapolei,Helemano,Hawaii,11.976604410402368
+East Kapolei,Waialua,Hawaii,14.84267462460051
+East Kapolei,Kalaeloa,Hawaii,3.7529812107034894
+East Kapolei,Kahuku,Hawaii,22.56230539844189
+East Kapolei,Wheeler AFB,Hawaii,7.735245674639576
+East Kapolei,Maunawili,Hawaii,17.382616735451276
+East Kapolei,Ko Olina,Hawaii,5.312423214016703
+East Kapolei,Mokuleia,Hawaii,16.93784333329096
+East Kapolei,Kaaawa,Hawaii,17.559642579065137
+East Kapolei,Punaluu,Hawaii,17.85413003266374
+East Kapolei,Kawela Bay,Hawaii,23.235140836025042
+East Kapolei,Maunaloa,Hawaii,55.73952194655856
+East Kapolei,Makaha Valley,Hawaii,12.435238245266277
+Heeia,Haleiwa,Hawaii,21.705777452464176
+Heeia,Waimanalo Beach,Hawaii,10.135631460193844
+Heeia,Whitmore Village,Hawaii,14.73396732642928
+Heeia,Hauula,Hawaii,14.370463643056418
+Heeia,Kaunakakai,Hawaii,57.69424411343838
+Heeia,Helemano,Hawaii,15.080432091080832
+Heeia,Waialua,Hawaii,21.722325486961648
+Heeia,Kalaeloa,Hawaii,17.388708378962747
+Heeia,Kahuku,Hawaii,19.58699736195994
+Heeia,Wheeler AFB,Hawaii,14.338895089589577
+Heeia,Kualapuu,Hawaii,52.348835643187776
+Heeia,Maunawili,Hawaii,4.873412176825864
+Heeia,Ko Olina,Hawaii,20.046729292473678
+Heeia,Mokuleia,Hawaii,25.03089043995319
+Heeia,Kaaawa,Hawaii,9.057683424737407
+Heeia,Punaluu,Hawaii,11.917134984589783
+Heeia,Kawela Bay,Hawaii,22.467044296616876
+Heeia,Maunaloa,Hawaii,43.91235835856192
+Heeia,Makaha Valley,Hawaii,23.84031034292266
+Haleiwa,Waimanalo Beach,Hawaii,31.819977347157273
+Haleiwa,Whitmore Village,Hawaii,7.476237710528891
+Haleiwa,Hauula,Hawaii,12.169771613803332
+Haleiwa,Helemano,Hawaii,6.657286677753683
+Haleiwa,Waialua,Hawaii,2.448313997827564
+Haleiwa,Kalaeloa,Hawaii,19.595879022481917
+Haleiwa,Kahuku,Hawaii,11.371672877207548
+Haleiwa,Wheeler AFB,Hawaii,9.313960685721279
+Haleiwa,Maunawili,Hawaii,26.43492777922701
+Haleiwa,Ko Olina,Hawaii,17.838437678329512
+Haleiwa,Mokuleia,Hawaii,4.765888076880926
+Haleiwa,Kaaawa,Hawaii,16.228728879690017
+Haleiwa,Punaluu,Hawaii,13.567813346367958
+Haleiwa,Kawela Bay,Hawaii,9.45099508526149
+Haleiwa,Makaha Valley,Hawaii,9.419081882033176
+Kalaheo,Hanamaulu,Hawaii,12.444143747766184
+Kalaheo,Puhi,Hawaii,9.046321876183725
+Kalaheo,Kilauea,Hawaii,21.866841051133576
+Kalaheo,Kekaha,Hawaii,12.750582939198067
+Kalaheo,Lawai,Hawaii,1.5087313883235698
+Kalaheo,Anahola,Hawaii,20.69935589005086
+Kalaheo,Wailua,Hawaii,15.178537440764737
+Kalaheo,Koloa,Hawaii,4.108303212313731
+Kalaheo,Eleele,Hawaii,3.6675292118815768
+Kalaheo,Hanapepe,Hawaii,4.097978043612398
+Kalaheo,Princeville,Hawaii,20.97924372286781
+Kalaheo,Kaumakani,Hawaii,6.4486848051556525
+Kalaheo,Omao,Hawaii,2.7605608591309285
+Kalaheo,Poipu,Hawaii,4.6558429426111525
+Kalaheo,Haena,Hawaii,20.96498795265761
+Kalaheo,Pakala Village,Hawaii,7.950815400797462
+Kalaheo,Hanalei,Hawaii,19.899088064869346
+Kalaheo,Kalihiwai,Hawaii,21.35845505476231
+Kalaheo,Wainiha,Hawaii,19.4895181013919
+Hanamaulu,Puhi,Hawaii,3.543364829980939
+Hanamaulu,Kilauea,Hawaii,15.131989730818802
+Hanamaulu,Kekaha,Hawaii,23.476698353858993
+Hanamaulu,Lawai,Hawaii,10.98794021980324
+Hanamaulu,Anahola,Hawaii,10.566057721400199
+Hanamaulu,Wailua,Hawaii,4.157558860394558
+Hanamaulu,Koloa,Hawaii,9.573266459485746
+Hanamaulu,Eleele,Hawaii,15.96744427427983
+Hanamaulu,Hanapepe,Hawaii,16.26550685771458
+Hanamaulu,Princeville,Hawaii,17.47078733713411
+Hanamaulu,Kaumakani,Hawaii,18.39591606584624
+Hanamaulu,Omao,Hawaii,9.803727115811787
+Hanamaulu,Poipu,Hawaii,10.47287698537649
+Hanamaulu,Haena,Hawaii,20.49687324847313
+Hanamaulu,Pakala Village,Hawaii,19.20185875952018
+Hanamaulu,Hanalei,Hawaii,17.22837863167202
+Hanamaulu,Kalihiwai,Hawaii,16.302109819890568
+Hanamaulu,Wainiha,Hawaii,18.81151792879153
+Waimanalo Beach,Whitmore Village,Hawaii,24.71113840923549
+Waimanalo Beach,Hauula,Hawaii,23.829964318850045
+Waimanalo Beach,Kaunakakai,Hawaii,48.000815226135174
+Waimanalo Beach,Helemano,Hawaii,25.176150508862904
+Waimanalo Beach,Waialua,Hawaii,31.731264525472
+Waimanalo Beach,Kalaeloa,Hawaii,23.720386994102686
+Waimanalo Beach,Kahuku,Hawaii,28.989513258338484
+Waimanalo Beach,Wheeler AFB,Hawaii,23.993543771154574
+Waimanalo Beach,Kualapuu,Hawaii,42.84429043762396
+Waimanalo Beach,Maunawili,Hawaii,5.430117368365102
+Waimanalo Beach,Ko Olina,Hawaii,27.17036757174293
+Waimanalo Beach,Mokuleia,Hawaii,34.98358722337593
+Waimanalo Beach,Kaaawa,Hawaii,18.150654446571934
+Waimanalo Beach,Punaluu,Hawaii,21.333211663011344
+Waimanalo Beach,Ualapue,Hawaii,58.3804007805194
+Waimanalo Beach,Kawela Bay,Hawaii,32.173712843227975
+Waimanalo Beach,Maunaloa,Hawaii,34.05648496352681
+Waimanalo Beach,Makaha Valley,Hawaii,33.14612365588229
+Captain Cook,Ainaloa,Hawaii,58.67477996695055
+Captain Cook,Mountain View,Hawaii,47.98521489284213
+Captain Cook,Hawaiian Ocean View,Hawaii,28.82289980328803
+Captain Cook,Hawaiian Acres,Hawaii,55.08656088708155
+Captain Cook,Holualoa,Hawaii,10.826408329964876
+Captain Cook,Kurtistown,Hawaii,53.95800408705364
+Captain Cook,Honaunau-Napoopoo,Hawaii,3.881357931985708
+Captain Cook,Orchidlands Estates,Hawaii,57.49378282214835
+Captain Cook,Honokaa,Hawaii,48.60682055900849
+Captain Cook,Kealakekua,Hawaii,2.304191870131776
+Captain Cook,Kapaau,Hawaii,50.869506805106994
+Captain Cook,Pahala,Hawaii,34.14369519026612
+Captain Cook,Fern Acres,Hawaii,53.16237503715999
+Captain Cook,Kaloko,Hawaii,15.719482681831785
+Captain Cook,Pepeekeo,Hawaii,56.22992501146993
+Captain Cook,Hawi,Hawaii,50.1217278872431
+Captain Cook,Keaau,Hawaii,55.776335349859984
+Captain Cook,Discovery Harbour,Hawaii,36.04910026153886
+Captain Cook,Papaikou,Hawaii,55.717162534354685
+Captain Cook,Wainaku,Hawaii,54.51544906477846
+Captain Cook,Volcano Golf Course,Hawaii,40.30085383314684
+Captain Cook,Honalo,Hawaii,5.614703271717263
+Captain Cook,Halaula,Hawaii,50.39508294816411
+Captain Cook,Royal Hawaiian Estates,Hawaii,46.46659679902155
+Captain Cook,Laupahoehoe,Hawaii,53.862032122777684
+Captain Cook,Eden Roc,Hawaii,52.04916921946387
+Captain Cook,Naalehu,Hawaii,36.146439986665115
+Captain Cook,Fern Forest,Hawaii,49.720440788047455
+Captain Cook,Mauna Loa Estates,Hawaii,44.14823369444186
+Captain Cook,Waikoloa Beach Resort,Hawaii,29.507091938992986
+Captain Cook,Volcano,Hawaii,40.21154143707724
+Captain Cook,Paukaa,Hawaii,55.225955711230846
+Captain Cook,Paauilo,Hawaii,50.40536019432284
+Captain Cook,Honomu,Hawaii,56.923894034092456
+Captain Cook,Kukuihaele,Hawaii,47.70379624318183
+Captain Cook,Tiki Gardens,Hawaii,58.121250498432175
+Captain Cook,Puako,Hawaii,32.06799576262158
+Captain Cook,Waiohinu,Hawaii,34.635167270908646
+Puhi,Kilauea,Hawaii,17.107773945955714
+Puhi,Kekaha,Hawaii,20.695935760701154
+Puhi,Lawai,Hawaii,7.558860003264286
+Puhi,Anahola,Hawaii,13.535152641170036
+Puhi,Wailua,Hawaii,7.198444152916754
+Puhi,Koloa,Hawaii,6.031813148483961
+Puhi,Eleele,Hawaii,12.64790970547143
+Puhi,Hanapepe,Hawaii,12.990974248771568
+Puhi,Princeville,Hawaii,18.49726239118578
+Puhi,Kaumakani,Hawaii,15.208942198593995
+Puhi,Omao,Hawaii,6.340820713244795
+Puhi,Poipu,Hawaii,6.972923511767143
+Puhi,Haena,Hawaii,20.714336467244525
+Puhi,Pakala Village,Hawaii,16.2140225139209
+Puhi,Hanalei,Hawaii,17.978534287047914
+Puhi,Kalihiwai,Hawaii,17.774819150140967
+Puhi,Wainiha,Hawaii,19.02044163490609
+Whitmore Village,Hauula,Hawaii,10.096253957465585
+Whitmore Village,Helemano,Hawaii,1.7493812864040525
+Whitmore Village,Waialua,Hawaii,7.021850213759608
+Whitmore Village,Kalaeloa,Hawaii,13.856370074646827
+Whitmore Village,Kahuku,Hawaii,12.61794002119072
+Whitmore Village,Wheeler AFB,Hawaii,2.547453718871933
+Whitmore Village,Maunawili,Hawaii,19.285251797660745
+Whitmore Village,Ko Olina,Hawaii,13.34697188839544
+Whitmore Village,Mokuleia,Hawaii,10.29728444367033
+Whitmore Village,Kaaawa,Hawaii,11.480516581430223
+Whitmore Village,Punaluu,Hawaii,10.035074471621275
+Whitmore Village,Kawela Bay,Hawaii,12.978070551289628
+Whitmore Village,Maunaloa,Hawaii,58.6434036731794
+Whitmore Village,Makaha Valley,Hawaii,10.278031212180144
+Waikapu,Kaunakakai,Hawaii,35.287818270557565
+Waikapu,Lanai City,Hawaii,25.403316144086055
+Waikapu,Keokea,Hawaii,13.134738995153233
+Waikapu,Paia,Hawaii,10.998899613395846
+Waikapu,Kualapuu,Hawaii,40.98909985899718
+Waikapu,Kaanapali,Hawaii,11.856793748206455
+Waikapu,Mahinahina,Hawaii,11.741604713744453
+Waikapu,Haliimaile,Hawaii,12.053677163149306
+Waikapu,Olinda,Hawaii,14.928155653974473
+Waikapu,Hana,Hawaii,33.401691372080144
+Waikapu,Launiupoko,Hawaii,7.847939470289031
+Waikapu,Ualapue,Hawaii,25.756426897619864
+Waikapu,Kapalua,Hawaii,13.275154850182439
+Waikapu,Maunaloa,Hawaii,48.974869810076754
+Waikapu,Maalaea,Hawaii,3.156773342960651
+Waikapu,Makena,Hawaii,15.629369785932294
+Waikapu,Olowalu,Hawaii,6.2406174397894825
+Waikapu,Manele,Hawaii,25.420700382140645
+Hawaiian Beaches,Ainaloa,Hawaii,4.566000408838644
+Hawaiian Beaches,Mountain View,Hawaii,15.02195782889337
+Hawaiian Beaches,Hawaiian Acres,Hawaii,7.935887883835962
+Hawaiian Beaches,Kurtistown,Hawaii,9.715780595224466
+Hawaiian Beaches,Orchidlands Estates,Hawaii,5.6325926240113775
+Hawaiian Beaches,Honokaa,Hawaii,50.59159558267033
+Hawaiian Beaches,Pahala,Hawaii,42.964932916177034
+Hawaiian Beaches,Fern Acres,Hawaii,10.096693223976311
+Hawaiian Beaches,Nanawale Estates,Hawaii,3.07753175540336
+Hawaiian Beaches,Leilani Estates,Hawaii,5.48716636792399
+Hawaiian Beaches,Pepeekeo,Hawaii,22.903904857237645
+Hawaiian Beaches,Pahoa,Hawaii,3.5184253428349455
+Hawaiian Beaches,Keaau,Hawaii,9.482869647895214
+Hawaiian Beaches,Discovery Harbour,Hawaii,57.164110433805895
+Hawaiian Beaches,Papaikou,Hawaii,20.193692075148693
+Hawaiian Beaches,Wainaku,Hawaii,17.657859158363706
+Hawaiian Beaches,Volcano Golf Course,Hawaii,23.89656126131463
+Hawaiian Beaches,Royal Hawaiian Estates,Hawaii,18.108493201836726
+Hawaiian Beaches,Laupahoehoe,Hawaii,35.51712890307494
+Hawaiian Beaches,Eden Roc,Hawaii,11.48569370723182
+Hawaiian Beaches,Naalehu,Hawaii,53.37003549127559
+Hawaiian Beaches,Fern Forest,Hawaii,14.372248113061366
+Hawaiian Beaches,Mauna Loa Estates,Hawaii,20.7164616940648
+Hawaiian Beaches,Volcano,Hawaii,23.087079909425835
+Hawaiian Beaches,Paukaa,Hawaii,18.414140723863916
+Hawaiian Beaches,Paauilo,Hawaii,44.5872938518727
+Hawaiian Beaches,Honomu,Hawaii,25.35084043815273
+Hawaiian Beaches,Kukuihaele,Hawaii,57.27514940883419
+Hawaiian Beaches,Tiki Gardens,Hawaii,4.968729426675288
+Hawaiian Beaches,Seaview,Hawaii,9.504519971665237
+Hawaiian Beaches,Waiohinu,Hawaii,55.362212066440705
+Hawaiian Beaches,Black Sands,Hawaii,9.227568842975494
+Hawaiian Beaches,Kamaili,Hawaii,7.292299904440961
+Hawaiian Beaches,Kalapana,Hawaii,13.28779960171355
+Ainaloa,Mountain View,Hawaii,10.7846647749628
+Ainaloa,Hawaiian Ocean View,Hawaii,58.78369650715105
+Ainaloa,Hawaiian Acres,Hawaii,3.689979169323819
+Ainaloa,Kurtistown,Hawaii,6.695319812515211
+Ainaloa,Honaunau-Napoopoo,Hawaii,56.57884797651909
+Ainaloa,Orchidlands Estates,Hawaii,2.7622241998976658
+Ainaloa,Honokaa,Hawaii,48.985728725214194
+Ainaloa,Kealakekua,Hawaii,59.7933111952269
+Ainaloa,Pahala,Hawaii,38.53031931589851
+Ainaloa,Fern Acres,Hawaii,5.576046268218052
+Ainaloa,Nanawale Estates,Hawaii,5.616850677819976
+Ainaloa,Leilani Estates,Hawaii,6.401570299580888
+Ainaloa,Pepeekeo,Hawaii,22.586094569939775
+Ainaloa,Pahoa,Hawaii,3.6513766220015302
+Ainaloa,Keaau,Hawaii,7.834679647711121
+Ainaloa,Discovery Harbour,Hawaii,52.80704335090435
+Ainaloa,Papaikou,Hawaii,19.736506183784066
+Ainaloa,Wainaku,Hawaii,16.795185538500668
+Ainaloa,Volcano Golf Course,Hawaii,19.34037001306153
+Ainaloa,Honalo,Hawaii,59.09543590433218
+Ainaloa,Royal Hawaiian Estates,Hawaii,13.548962208719436
+Ainaloa,Laupahoehoe,Hawaii,34.72861249593674
+Ainaloa,Eden Roc,Hawaii,6.9241605175014485
+Ainaloa,Naalehu,Hawaii,49.02644087959761
+Ainaloa,Fern Forest,Hawaii,9.810333721276676
+Ainaloa,Mauna Loa Estates,Hawaii,16.15571402125176
+Ainaloa,Volcano,Hawaii,18.61616232525186
+Ainaloa,Paukaa,Hawaii,17.781544526044055
+Ainaloa,Paauilo,Hawaii,43.263886688349885
+Ainaloa,Honomu,Hawaii,25.152813618022314
+Ainaloa,Kukuihaele,Hawaii,55.441190656227974
+Ainaloa,Tiki Gardens,Hawaii,0.7531313148016314
+Ainaloa,Seaview,Hawaii,9.22153563184088
+Ainaloa,Waiohinu,Hawaii,50.97591769647622
+Ainaloa,Black Sands,Hawaii,7.776754553400524
+Ainaloa,Kamaili,Hawaii,7.5088435636056845
+Ainaloa,Kalapana,Hawaii,11.411488672147701
+Mountain View,Hawaiian Ocean View,Hawaii,50.367917115926375
+Mountain View,Hawaiian Acres,Hawaii,7.1271923575981875
+Mountain View,Holualoa,Hawaii,50.31570916275427
+Mountain View,Kurtistown,Hawaii,6.651706625489514
+Mountain View,Honaunau-Napoopoo,Hawaii,46.00146075508316
+Mountain View,Orchidlands Estates,Hawaii,9.545923470357097
+Mountain View,Honokaa,Hawaii,42.19214988472913
+Mountain View,Kealakekua,Hawaii,49.05735822430522
+Mountain View,Pahala,Hawaii,31.14088846412528
+Mountain View,Fern Acres,Hawaii,5.5943515888422235
+Mountain View,Nanawale Estates,Hawaii,16.372639907232024
+Mountain View,Leilani Estates,Hawaii,16.59812943371037
+Mountain View,Kaloko,Hawaii,53.13279675306458
+Mountain View,Pepeekeo,Hawaii,20.649001127338696
+Mountain View,Pahoa,Hawaii,14.214750305993766
+Mountain View,Keaau,Hawaii,9.362289779973397
+Mountain View,Discovery Harbour,Hawaii,45.690176910112314
+Mountain View,Papaikou,Hawaii,18.016635844904524
+Mountain View,Wainaku,Hawaii,14.862391901607067
+Mountain View,Volcano Golf Course,Hawaii,10.156596023119555
+Mountain View,Honalo,Hawaii,48.31488912950647
+Mountain View,Royal Hawaiian Estates,Hawaii,6.756554304630619
+Mountain View,Laupahoehoe,Hawaii,30.37096109297404
+Mountain View,Eden Roc,Hawaii,5.150677957259046
+Mountain View,Naalehu,Hawaii,42.06343637200325
+Mountain View,Fern Forest,Hawaii,5.234643543263963
+Mountain View,Mauna Loa Estates,Hawaii,8.540269700976754
+Mountain View,Waikoloa Beach Resort,Hawaii,53.58649716250203
+Mountain View,Volcano,Hawaii,8.459226214287956
+Mountain View,Paukaa,Hawaii,16.121235671032462
+Mountain View,Paauilo,Hawaii,37.25955068003777
+Mountain View,Honomu,Hawaii,23.113765646361657
+Mountain View,Kukuihaele,Hawaii,48.03673908642496
+Mountain View,Tiki Gardens,Hawaii,10.181441117128525
+Mountain View,Puako,Hawaii,53.1051433193676
+Mountain View,Seaview,Hawaii,17.891596467694157
+Mountain View,Waiohinu,Hawaii,43.688994434520666
+Mountain View,Black Sands,Hawaii,15.561413634336132
+Mountain View,Kamaili,Hawaii,17.03773705388263
+Mountain View,Kalapana,Hawaii,17.2371373822787
+Hauula,Helemano,Hawaii,8.631583519630064
+Hauula,Waialua,Hawaii,13.745536049566812
+Hauula,Kalaeloa,Hawaii,22.722004869626044
+Hauula,Kahuku,Hawaii,5.218386454665598
+Hauula,Wheeler AFB,Hawaii,12.247432709148354
+Hauula,Maunawili,Hawaii,19.094131607235383
+Hauula,Ko Olina,Hawaii,23.048961217081622
+Hauula,Mokuleia,Hawaii,16.86698856999858
+Hauula,Kaaawa,Hawaii,5.716056511827332
+Hauula,Punaluu,Hawaii,2.497652718804262
+Hauula,Kawela Bay,Hawaii,8.412145113679284
+Hauula,Maunaloa,Hawaii,55.78632022122709
+Hauula,Makaha Valley,Hawaii,19.586353346654594
+Hawaiian Ocean View,Hawaiian Acres,Hawaii,56.072080472987636
+Hawaiian Ocean View,Holualoa,Hawaii,39.602220153984696
+Hawaiian Ocean View,Kurtistown,Hawaii,56.985645647252255
+Hawaiian Ocean View,Honaunau-Napoopoo,Hawaii,25.218578961856885
+Hawaiian Ocean View,Orchidlands Estates,Hawaii,58.93864723755047
+Hawaiian Ocean View,Kealakekua,Hawaii,31.063032242066008
+Hawaiian Ocean View,Pahala,Hawaii,20.72495248004429
+Hawaiian Ocean View,Fern Acres,Hawaii,53.58395573240213
+Hawaiian Ocean View,Kaloko,Hawaii,44.53613293764739
+Hawaiian Ocean View,Keaau,Hawaii,59.72152166120347
+Hawaiian Ocean View,Discovery Harbour,Hawaii,10.474710474704178
+Hawaiian Ocean View,Volcano Golf Course,Hawaii,40.22566530475902
+Hawaiian Ocean View,Honalo,Hawaii,34.32733120281516
+Hawaiian Ocean View,Royal Hawaiian Estates,Hawaii,45.3230359195455
+Hawaiian Ocean View,Eden Roc,Hawaii,52.04629384597217
+Hawaiian Ocean View,Naalehu,Hawaii,13.194746577751923
+Hawaiian Ocean View,Fern Forest,Hawaii,49.0452364866211
+Hawaiian Ocean View,Mauna Loa Estates,Hawaii,42.75632461522891
+Hawaiian Ocean View,Waikoloa Beach Resort,Hawaii,57.56614306825678
+Hawaiian Ocean View,Volcano,Hawaii,42.16163628555302
+Hawaiian Ocean View,Tiki Gardens,Hawaii,58.54103128377302
+Hawaiian Ocean View,Puako,Hawaii,59.77502478982981
+Hawaiian Ocean View,Seaview,Hawaii,59.719968992195234
+Hawaiian Ocean View,Waiohinu,Hawaii,10.629942853376544
+Hawaiian Ocean View,Black Sands,Hawaii,57.62259271622143
+Hawaiian Ocean View,Kalapana,Hawaii,55.247026074983026
+Kaunakakai,Lanai City,Hawaii,18.852605911271002
+Kaunakakai,Keokea,Hawaii,48.312014562616945
+Kaunakakai,Paia,Hawaii,42.654905881809356
+Kaunakakai,Kualapuu,Hawaii,6.004965384562315
+Kaunakakai,Maunawili,Hawaii,53.37260149730194
+Kaunakakai,Kaanapali,Hawaii,23.437390393526982
+Kaunakakai,Mahinahina,Hawaii,23.986618151492788
+Kaunakakai,Haliimaile,Hawaii,45.32969499503615
+Kaunakakai,Olinda,Hawaii,49.13953461209138
+Kaunakakai,Launiupoko,Hawaii,28.155983293847726
+Kaunakakai,Ualapue,Hawaii,10.589679027248055
+Kaunakakai,Kapalua,Hawaii,23.91445519988162
+Kaunakakai,Maunaloa,Hawaii,14.13933993054686
+Kaunakakai,Maalaea,Hawaii,38.28436736722284
+Kaunakakai,Makena,Hawaii,48.69983410858343
+Kaunakakai,Olowalu,Hawaii,30.782178849716534
+Kaunakakai,Manele,Hawaii,24.78664799511752
+Hawaiian Acres,Holualoa,Hawaii,57.394715324374395
+Hawaiian Acres,Kurtistown,Hawaii,3.9444076822728826
+Hawaiian Acres,Honaunau-Napoopoo,Hawaii,53.047477741865585
+Hawaiian Acres,Orchidlands Estates,Hawaii,2.872702527502487
+Hawaiian Acres,Honokaa,Hawaii,46.20631489578065
+Hawaiian Acres,Kealakekua,Hawaii,56.17700453160781
+Hawaiian Acres,Pahala,Hawaii,36.102935874117804
+Hawaiian Acres,Fern Acres,Hawaii,2.523783031687905
+Hawaiian Acres,Nanawale Estates,Hawaii,9.306498982589153
+Hawaiian Acres,Leilani Estates,Hawaii,9.870870514423373
+Hawaiian Acres,Pepeekeo,Hawaii,20.9603873567196
+Hawaiian Acres,Pahoa,Hawaii,7.261015657678424
+Hawaiian Acres,Keaau,Hawaii,6.253340386902649
+Hawaiian Acres,Discovery Harbour,Hawaii,50.53116726841569
+Hawaiian Acres,Papaikou,Hawaii,18.091716351066047
+Hawaiian Acres,Wainaku,Hawaii,14.956185321745298
+Hawaiian Acres,Volcano Golf Course,Hawaii,16.17621888916069
+Hawaiian Acres,Honalo,Hawaii,55.44011157132278
+Hawaiian Acres,Royal Hawaiian Estates,Hawaii,10.771123556175056
+Hawaiian Acres,Laupahoehoe,Hawaii,32.56238109144409
+Hawaiian Acres,Eden Roc,Hawaii,4.103519852797826
+Hawaiian Acres,Naalehu,Hawaii,46.790208537287775
+Hawaiian Acres,Fern Forest,Hawaii,7.116868912001527
+Hawaiian Acres,Mauna Loa Estates,Hawaii,13.316594854703132
+Hawaiian Acres,Waikoloa Beach Resort,Hawaii,59.974582826963015
+Hawaiian Acres,Volcano,Hawaii,15.178383665715456
+Hawaiian Acres,Paukaa,Hawaii,16.07716859012027
+Hawaiian Acres,Paauilo,Hawaii,40.68201005095469
+Hawaiian Acres,Honomu,Hawaii,23.556128129094375
+Hawaiian Acres,Kukuihaele,Hawaii,52.511238788196174
+Hawaiian Acres,Tiki Gardens,Hawaii,3.0561687612247987
+Hawaiian Acres,Puako,Hawaii,59.30970729794415
+Hawaiian Acres,Seaview,Hawaii,12.038568665808512
+Hawaiian Acres,Waiohinu,Hawaii,48.63621608008864
+Hawaiian Acres,Black Sands,Hawaii,10.100451176979977
+Hawaiian Acres,Kamaili,Hawaii,10.68178547799112
+Hawaiian Acres,Kalapana,Hawaii,13.035206219661873
+Kilauea,Kekaha,Hawaii,26.323568972252758
+Kilauea,Lawai,Hawaii,21.06692471333293
+Kilauea,Anahola,Hawaii,6.884644753915482
+Kilauea,Wailua,Hawaii,11.306683416631111
+Kilauea,Koloa,Hawaii,21.572950297732856
+Kilauea,Eleele,Hawaii,23.89296708054377
+Kilauea,Hanapepe,Hawaii,23.80452298380142
+Kilauea,Princeville,Hawaii,5.37951899501478
+Kilauea,Kaumakani,Hawaii,24.835796828838888
+Kilauea,Omao,Hawaii,20.497280119385177
+Kilauea,Poipu,Hawaii,22.892021106001277
+Kilauea,Haena,Hawaii,10.5526925540042
+Kilauea,Pakala Village,Hawaii,24.224599671813625
+Kilauea,Hanalei,Hawaii,6.500290540252766
+Kilauea,Kalihiwai,Hawaii,2.8461249208106953
+Kilauea,Wainiha,Hawaii,9.603874720747198
+Helemano,Waialua,Hawaii,6.785740066701147
+Helemano,Kalaeloa,Hawaii,15.594020953509732
+Helemano,Kahuku,Hawaii,10.88357455997339
+Helemano,Wheeler AFB,Hawaii,4.291617352257067
+Helemano,Maunawili,Hawaii,19.782336629086636
+Helemano,Ko Olina,Hawaii,15.076985351256724
+Helemano,Mokuleia,Hawaii,10.179629667304058
+Helemano,Kaaawa,Hawaii,10.718539107007519
+Helemano,Punaluu,Hawaii,8.874324772910413
+Helemano,Kawela Bay,Hawaii,11.259745196092105
+Helemano,Maunaloa,Hawaii,58.94521280973147
+Helemano,Makaha Valley,Hawaii,11.198813639806467
+Lanai City,Keokea,Hawaii,36.47537116070772
+Lanai City,Paia,Hawaii,35.77751511241083
+Lanai City,Kualapuu,Hawaii,24.449489169456562
+Lanai City,Kaanapali,Hawaii,16.6911880231158
+Lanai City,Mahinahina,Hawaii,18.818233501634722
+Lanai City,Haliimaile,Hawaii,37.38586363092012
+Lanai City,Olinda,Hawaii,40.29478379921798
+Lanai City,Hana,Hawaii,58.60589896174572
+Lanai City,Launiupoko,Hawaii,17.702287345316957
+Lanai City,Ualapue,Hawaii,17.450529662647153
+Lanai City,Kapalua,Hawaii,21.08975328750239
+Lanai City,Maunaloa,Hawaii,28.486237315361905
+Lanai City,Maalaea,Hawaii,27.530071369653065
+Lanai City,Makena,Hawaii,34.4547245410453
+Lanai City,Olowalu,Hawaii,19.265452073155338
+Lanai City,Manele,Hawaii,5.980459625322026
+Kekaha,Lawai,Hawaii,14.096701173512876
+Kekaha,Anahola,Hawaii,28.344213976641736
+Kekaha,Wailua,Hawaii,24.725788878406103
+Kekaha,Koloa,Hawaii,16.850831485539665
+Kekaha,Eleele,Hawaii,9.526337775245924
+Kekaha,Hanapepe,Hawaii,8.950019657558155
+Kekaha,Princeville,Hawaii,22.810373623088463
+Kekaha,Kaumakani,Hawaii,6.718778205575515
+Kekaha,Omao,Hawaii,15.251375169174601
+Kekaha,Poipu,Hawaii,17.32924021444292
+Kekaha,Haena,Hawaii,19.81753435472004
+Kekaha,Pakala Village,Hawaii,4.814488453444028
+Kekaha,Hanalei,Hawaii,21.34401698747154
+Kekaha,Kalihiwai,Hawaii,24.47843163320574
+Kekaha,Wainiha,Hawaii,19.15503364382263
+Holualoa,Kurtistown,Hawaii,55.56499212548097
+Holualoa,Honaunau-Napoopoo,Hawaii,14.402905223060174
+Holualoa,Orchidlands Estates,Hawaii,59.47180601313563
+Holualoa,Honokaa,Hawaii,41.56526545970995
+Holualoa,Kealakekua,Hawaii,8.702770780344828
+Holualoa,Kapaau,Hawaii,40.573408220473624
+Holualoa,Pahala,Hawaii,42.65250034935932
+Holualoa,Fern Acres,Hawaii,55.81498077624679
+Holualoa,Kaloko,Hawaii,4.9882553377612044
+Holualoa,Pepeekeo,Hawaii,54.47586637090821
+Holualoa,Hawi,Hawaii,39.6708086904958
+Holualoa,Keaau,Hawaii,56.89692417776067
+Holualoa,Discovery Harbour,Hawaii,46.38171950858007
+Holualoa,Papaikou,Hawaii,54.518769922124235
+Holualoa,Wainaku,Hawaii,53.92766928757277
+Holualoa,Volcano Golf Course,Hawaii,44.32731298595753
+Holualoa,Honalo,Hawaii,5.278574571549782
+Holualoa,Halaula,Hawaii,40.254998572926866
+Holualoa,Royal Hawaiian Estates,Hawaii,50.227189128066605
+Holualoa,Laupahoehoe,Hawaii,49.72503801409893
+Holualoa,Eden Roc,Hawaii,54.93951655478771
+Holualoa,Naalehu,Hawaii,46.131873809589365
+Holualoa,Fern Forest,Hawaii,53.0353558128824
+Holualoa,Mauna Loa Estates,Hawaii,48.216184652495265
+Holualoa,Waikoloa Beach Resort,Hawaii,19.06902841311748
+Holualoa,Volcano,Hawaii,43.512716960863116
+Holualoa,Paukaa,Hawaii,54.419295799730726
+Holualoa,Paauilo,Hawaii,44.52384914848466
+Holualoa,Honomu,Hawaii,54.68034820063192
+Holualoa,Kukuihaele,Hawaii,39.450155910642444
+Holualoa,Puako,Hawaii,21.84543498979803
+Holualoa,Waiohinu,Hawaii,44.831414823809425
+Waialua,Kalaeloa,Hawaii,17.721518456262764
+Waialua,Kahuku,Hawaii,13.56684382531585
+Waialua,Wheeler AFB,Hawaii,8.271385641998709
+Waialua,Maunawili,Hawaii,26.306499914709065
+Waialua,Ko Olina,Hawaii,15.700331939399815
+Waialua,Mokuleia,Hawaii,3.4011348525471994
+Waialua,Kaaawa,Hawaii,17.19451334074966
+Waialua,Punaluu,Hawaii,14.824562378938658
+Waialua,Kawela Bay,Hawaii,11.865786354390568
+Waialua,Makaha Valley,Hawaii,6.978969039622004
+Kalaeloa,Kahuku,Hawaii,26.276883023920142
+Kalaeloa,Wheeler AFB,Hawaii,11.309715825289333
+Kalaeloa,Maunawili,Hawaii,19.280205441770317
+Kalaeloa,Ko Olina,Hawaii,3.847051323170726
+Kalaeloa,Mokuleia,Hawaii,19.38094077150431
+Kalaeloa,Kaaawa,Hawaii,21.141765484923223
+Kalaeloa,Punaluu,Hawaii,21.572207573574406
+Kalaeloa,Kawela Bay,Hawaii,26.82514842344325
+Kalaeloa,Maunaloa,Hawaii,56.38528293718785
+Kalaeloa,Makaha Valley,Hawaii,14.041701264470396
+Lawai,Anahola,Hawaii,19.531510153124827
+Lawai,Wailua,Hawaii,13.855294090588874
+Lawai,Koloa,Hawaii,2.8014942490674386
+Lawai,Eleele,Hawaii,5.1735319026110975
+Lawai,Hanapepe,Hawaii,5.589504206432471
+Lawai,Princeville,Hawaii,20.52545278551472
+Lawai,Kaumakani,Hawaii,7.923174350813099
+Lawai,Omao,Hawaii,1.2521331067029418
+Lawai,Poipu,Hawaii,3.6436884068760573
+Lawai,Haena,Hawaii,20.880162328268938
+Lawai,Pakala Village,Hawaii,9.328367255971681
+Lawai,Hanalei,Hawaii,19.520900143180448
+Lawai,Kalihiwai,Hawaii,20.734614572881938
+Lawai,Wainiha,Hawaii,19.34625692194347
+Kurtistown,Honaunau-Napoopoo,Hawaii,52.15911082136805
+Kurtistown,Orchidlands Estates,Hawaii,4.223593125118435
+Kurtistown,Honokaa,Hawaii,42.40587797961025
+Kurtistown,Kealakekua,Hawaii,54.90736785400328
+Kurtistown,Pahala,Hawaii,37.541711077836915
+Kurtistown,Fern Acres,Hawaii,5.38688421115376
+Kurtistown,Nanawale Estates,Hawaii,11.928518260339162
+Kurtistown,Leilani Estates,Hawaii,13.085202169461347
+Kurtistown,Kaloko,Hawaii,58.04784390028446
+Kurtistown,Pepeekeo,Hawaii,17.1023920580456
+Kurtistown,Pahoa,Hawaii,10.287686782568718
+Kurtistown,Keaau,Hawaii,2.9716316181068656
+Kurtistown,Discovery Harbour,Hawaii,52.07624425435011
+Kurtistown,Papaikou,Hawaii,14.242732051643985
+Kurtistown,Wainaku,Hawaii,11.071803470168645
+Kurtistown,Volcano Golf Course,Hawaii,16.760000690067805
+Kurtistown,Honalo,Hawaii,53.929517920482404
+Kurtistown,Royal Hawaiian Estates,Hawaii,12.377047037982116
+Kurtistown,Laupahoehoe,Hawaii,28.618447550254846
+Kurtistown,Eden Roc,Hawaii,6.680286764958638
+Kurtistown,Naalehu,Hawaii,48.402721410015545
+Kurtistown,Fern Forest,Hawaii,9.240094521408116
+Kurtistown,Mauna Loa Estates,Hawaii,14.653767965827967
+Kurtistown,Waikoloa Beach Resort,Hawaii,57.1078037643806
+Kurtistown,Volcano,Hawaii,15.085760009347151
+Kurtistown,Paukaa,Hawaii,12.223530408784939
+Kurtistown,Paauilo,Hawaii,36.80450616402191
+Kurtistown,Honomu,Hawaii,19.69657350614715
+Kurtistown,Kukuihaele,Hawaii,48.7944841463994
+Kurtistown,Tiki Gardens,Hawaii,5.942208893383835
+Kurtistown,Puako,Hawaii,56.30396568044738
+Kurtistown,Seaview,Hawaii,15.738823132354446
+Kurtistown,Waiohinu,Hawaii,50.108757027760085
+Kurtistown,Black Sands,Hawaii,13.945286082885032
+Kurtistown,Kamaili,Hawaii,14.173993950139467
+Kurtistown,Kalapana,Hawaii,16.97903095241705
+Keokea,Paia,Hawaii,12.738372433154854
+Keokea,Kualapuu,Hawaii,54.07165081605639
+Keokea,Kapaau,Hawaii,49.389242739193534
+Keokea,Hawi,Hawaii,48.07066539907856
+Keokea,Kaanapali,Hawaii,24.942605667582722
+Keokea,Mahinahina,Hawaii,24.859729628458535
+Keokea,Haliimaile,Hawaii,10.16730795906274
+Keokea,Olinda,Hawaii,8.553478625635709
+Keokea,Halaula,Hawaii,51.2711282960484
+Keokea,Hana,Hawaii,23.033621209432166
+Keokea,Launiupoko,Hawaii,20.28848456454482
+Keokea,Ualapue,Hawaii,38.89115985625213
+Keokea,Kapalua,Hawaii,26.14558815894552
+Keokea,Maalaea,Hawaii,10.04615369272461
+Keokea,Makena,Hawaii,7.409288264309051
+Keokea,Olowalu,Hawaii,17.8692786870799
+Keokea,Manele,Hawaii,34.893482807417975
+Anahola,Wailua,Hawaii,6.423244660286174
+Anahola,Koloa,Hawaii,19.128350476676488
+Anahola,Eleele,Hawaii,23.551807857310383
+Anahola,Hanapepe,Hawaii,23.63537604424703
+Anahola,Princeville,Hawaii,11.694137216859149
+Anahola,Kaumakani,Hawaii,25.222622868806383
+Anahola,Omao,Hawaii,18.625517748070813
+Anahola,Poipu,Hawaii,20.28887738791495
+Anahola,Haena,Hawaii,16.540993231115692
+Anahola,Pakala Village,Hawaii,25.204374299894678
+Anahola,Hanalei,Hawaii,12.377118343895749
+Anahola,Kalihiwai,Hawaii,9.404344023417643
+Anahola,Wainiha,Hawaii,15.226203137745433
+Honaunau-Napoopoo,Orchidlands Estates,Hawaii,55.54473966169993
+Honaunau-Napoopoo,Honokaa,Hawaii,50.008231431116315
+Honaunau-Napoopoo,Kealakekua,Hawaii,6.177001585637454
+Honaunau-Napoopoo,Kapaau,Hawaii,53.791450279892224
+Honaunau-Napoopoo,Pahala,Hawaii,30.451671661959452
+Honaunau-Napoopoo,Fern Acres,Hawaii,51.02629140371383
+Honaunau-Napoopoo,Kaloko,Hawaii,19.366470526748834
+Honaunau-Napoopoo,Pepeekeo,Hawaii,55.56958500743234
+Honaunau-Napoopoo,Hawi,Hawaii,53.15391739465713
+Honaunau-Napoopoo,Pahoa,Hawaii,59.665107040731016
+Honaunau-Napoopoo,Keaau,Hawaii,54.124952937988084
+Honaunau-Napoopoo,Discovery Harbour,Hawaii,32.1982302432239
+Honaunau-Napoopoo,Papaikou,Hawaii,54.864688555734645
+Honaunau-Napoopoo,Wainaku,Hawaii,53.46006456929555
+Honaunau-Napoopoo,Volcano Golf Course,Hawaii,37.84559504889808
+Honaunau-Napoopoo,Honalo,Hawaii,9.124505360123319
+Honaunau-Napoopoo,Halaula,Hawaii,53.21944898426371
+Honaunau-Napoopoo,Royal Hawaiian Estates,Hawaii,44.0315429308225
+Honaunau-Napoopoo,Laupahoehoe,Hawaii,54.09164223430362
+Honaunau-Napoopoo,Eden Roc,Hawaii,49.84510643119416
+Honaunau-Napoopoo,Naalehu,Hawaii,32.26542648415898
+Honaunau-Napoopoo,Fern Forest,Hawaii,47.39911571401744
+Honaunau-Napoopoo,Mauna Loa Estates,Hawaii,41.63729398509377
+Honaunau-Napoopoo,Waikoloa Beach Resort,Hawaii,32.62023459067751
+Honaunau-Napoopoo,Volcano,Hawaii,37.9964517028542
+Honaunau-Napoopoo,Paukaa,Hawaii,54.24043959790389
+Honaunau-Napoopoo,Paauilo,Hawaii,51.33146871961605
+Honaunau-Napoopoo,Honomu,Hawaii,56.432417788015854
+Honaunau-Napoopoo,Kukuihaele,Hawaii,49.61653597013532
+Honaunau-Napoopoo,Tiki Gardens,Hawaii,56.05538833027509
+Honaunau-Napoopoo,Puako,Hawaii,35.03617218151867
+Honaunau-Napoopoo,Waiohinu,Hawaii,30.765025809286183
+Honaunau-Napoopoo,Black Sands,Hawaii,58.79363836089731
+Honaunau-Napoopoo,Kalapana,Hawaii,58.05472556013017
+Wailua,Koloa,Hawaii,13.025766100479137
+Wailua,Eleele,Hawaii,18.408248183688926
+Wailua,Hanapepe,Hawaii,18.59996148635502
+Wailua,Princeville,Hawaii,14.363935557346906
+Wailua,Kaumakani,Hawaii,20.493104569406174
+Wailua,Omao,Hawaii,12.809146030127987
+Wailua,Poipu,Hawaii,14.098780796663132
+Wailua,Haena,Hawaii,18.085025121902166
+Wailua,Pakala Village,Hawaii,20.907869313774768
+Wailua,Hanalei,Hawaii,14.39361157606793
+Wailua,Kalihiwai,Hawaii,12.835404965771819
+Wailua,Wainiha,Hawaii,16.465363751193273
+Orchidlands Estates,Honokaa,Hawaii,46.27450098857683
+Orchidlands Estates,Kealakekua,Hawaii,58.52623400397003
+Orchidlands Estates,Pahala,Hawaii,38.971419155802565
+Orchidlands Estates,Fern Acres,Hawaii,5.3901057991842505
+Orchidlands Estates,Nanawale Estates,Hawaii,7.7049675474673345
+Orchidlands Estates,Leilani Estates,Hawaii,8.974408816944107
+Orchidlands Estates,Pepeekeo,Hawaii,19.86408000027576
+Orchidlands Estates,Pahoa,Hawaii,6.147877599227058
+Orchidlands Estates,Keaau,Hawaii,5.073429037244322
+Orchidlands Estates,Discovery Harbour,Hawaii,53.39024114166997
+Orchidlands Estates,Papaikou,Hawaii,17.00726214184272
+Orchidlands Estates,Wainaku,Hawaii,14.04134154213102
+Orchidlands Estates,Volcano Golf Course,Hawaii,18.980080154759737
+Orchidlands Estates,Honalo,Hawaii,57.67977320024709
+Orchidlands Estates,Royal Hawaiian Estates,Hawaii,13.64372468758126
+Orchidlands Estates,Laupahoehoe,Hawaii,31.966987404355155
+Orchidlands Estates,Eden Roc,Hawaii,6.96391589800143
+Orchidlands Estates,Naalehu,Hawaii,49.64461555019459
+Orchidlands Estates,Fern Forest,Hawaii,9.982725143011631
+Orchidlands Estates,Mauna Loa Estates,Hawaii,16.185429594226008
+Orchidlands Estates,Volcano,Hawaii,17.839290407217497
+Orchidlands Estates,Paukaa,Hawaii,15.041469899519107
+Orchidlands Estates,Paauilo,Hawaii,40.52107979478466
+Orchidlands Estates,Honomu,Hawaii,22.438666972683386
+Orchidlands Estates,Kukuihaele,Hawaii,52.76697721226649
+Orchidlands Estates,Tiki Gardens,Hawaii,2.076834724907217
+Orchidlands Estates,Seaview,Hawaii,11.980356262943852
+Orchidlands Estates,Waiohinu,Hawaii,51.500549452190114
+Orchidlands Estates,Black Sands,Hawaii,10.50490525806076
+Orchidlands Estates,Kamaili,Hawaii,10.218079740238526
+Orchidlands Estates,Kalapana,Hawaii,14.01726174270226
+Honokaa,Kealakekua,Hawaii,47.66845264039283
+Honokaa,Kapaau,Hawaii,24.474166856841702
+Honokaa,Fern Acres,Hawaii,46.538041406196626
+Honokaa,Nanawale Estates,Hawaii,53.48465593441139
+Honokaa,Leilani Estates,Hawaii,55.20043129284347
+Honokaa,Kaloko,Hawaii,40.0004839470563
+Honokaa,Pepeekeo,Hawaii,28.790531082328986
+Honokaa,Hawi,Hawaii,26.39124725688535
+Honokaa,Pahoa,Hawaii,52.37276367882528
+Honokaa,Keaau,Hawaii,41.352249395374024
+Honokaa,Papaikou,Hawaii,30.98633356432938
+Honokaa,Wainaku,Hawaii,33.026961071811186
+Honokaa,Volcano Golf Course,Hawaii,45.332448836310725
+Honokaa,Honalo,Hawaii,44.332433304383635
+Honokaa,Halaula,Hawaii,22.465580424746104
+Honokaa,Royal Hawaiian Estates,Hawaii,47.42277712078484
+Honokaa,Laupahoehoe,Hawaii,16.60947758939087
+Honokaa,Eden Roc,Hawaii,46.907185951978775
+Honokaa,Fern Forest,Hawaii,47.373159884183785
+Honokaa,Mauna Loa Estates,Hawaii,47.44446658986352
+Honokaa,Hana,Hawaii,59.47191386561075
+Honokaa,Waikoloa Beach Resort,Hawaii,28.336854938392868
+Honokaa,Volcano,Hawaii,42.45048440419214
+Honokaa,Paukaa,Hawaii,32.45473171972628
+Honokaa,Paauilo,Hawaii,6.6164057286560825
+Honokaa,Honomu,Hawaii,26.997851241739877
+Honokaa,Kukuihaele,Hawaii,7.168377653728958
+Honokaa,Tiki Gardens,Hawaii,48.24493039004559
+Honokaa,Puako,Hawaii,25.597209359127678
+Honokaa,Seaview,Hawaii,58.14134877877634
+Honokaa,Black Sands,Hawaii,56.306620527552205
+Honokaa,Kamaili,Hawaii,56.48874620151505
+Honokaa,Kalapana,Hawaii,58.95006968789572
+Koloa,Eleele,Hawaii,7.656679197785631
+Koloa,Hanapepe,Hawaii,8.144353797606616
+Koloa,Princeville,Hawaii,21.707840931937906
+Koloa,Kaumakani,Hawaii,10.513783671526879
+Koloa,Omao,Hawaii,1.9204424820027657
+Koloa,Poipu,Hawaii,1.3572722003012672
+Koloa,Haena,Hawaii,22.633838449176213
+Koloa,Pakala Village,Hawaii,12.057493111077529
+Koloa,Hanalei,Hawaii,20.842942171468078
+Koloa,Kalihiwai,Hawaii,21.603958478123822
+Koloa,Wainiha,Hawaii,21.03190544938768
+Kahuku,Wheeler AFB,Hawaii,15.113271210006307
+Kahuku,Maunawili,Hawaii,24.309027463493063
+Kahuku,Ko Olina,Hawaii,25.96055561267651
+Kahuku,Mokuleia,Hawaii,16.039747856792204
+Kahuku,Kaaawa,Hawaii,10.838905329280418
+Kahuku,Punaluu,Hawaii,7.699376214003595
+Kahuku,Kawela Bay,Hawaii,3.807968910565217
+Kahuku,Makaha Valley,Hawaii,20.307763785870875
+Eleele,Hanapepe,Hawaii,0.5930720125084477
+Eleele,Princeville,Hawaii,22.235286310393427
+Eleele,Kaumakani,Hawaii,2.895034445667736
+Eleele,Omao,Hawaii,6.425446025201325
+Eleele,Poipu,Hawaii,7.9120019345797
+Eleele,Haena,Hawaii,21.358239413971503
+Eleele,Pakala Village,Hawaii,4.757409632311756
+Eleele,Hanalei,Hawaii,21.002516782718487
+Eleele,Kalihiwai,Hawaii,22.995531372952826
+Eleele,Wainiha,Hawaii,20.054568441564317
+Hanapepe,Princeville,Hawaii,22.019710399593244
+Hanapepe,Kaumakani,Hawaii,2.371000060316769
+Hanapepe,Omao,Hawaii,6.8365783566102
+Hanapepe,Poipu,Hawaii,8.448609421506877
+Hanapepe,Haena,Hawaii,21.019474309928032
+Hanapepe,Pakala Village,Hawaii,4.170281451026216
+Hanapepe,Hanalei,Hawaii,20.76631305057015
+Hanapepe,Kalihiwai,Hawaii,22.840317107601056
+Hanapepe,Wainiha,Hawaii,19.742414071605015
+Wheeler AFB,Maunawili,Hawaii,18.578494907314237
+Wheeler AFB,Ko Olina,Hawaii,10.903772472336447
+Wheeler AFB,Mokuleia,Hawaii,11.208998384972194
+Wheeler AFB,Kaaawa,Hawaii,12.733877211627108
+Wheeler AFB,Punaluu,Hawaii,11.825143353750814
+Wheeler AFB,Kawela Bay,Hawaii,15.519489324012989
+Wheeler AFB,Maunaloa,Hawaii,58.04312779592473
+Wheeler AFB,Makaha Valley,Hawaii,9.620425388507064
+Paia,Kualapuu,Hawaii,47.860388062322755
+Paia,Kapaau,Hawaii,58.97286095620428
+Paia,Hawi,Hawaii,57.977616309704175
+Paia,Kaanapali,Hawaii,20.20246616592271
+Paia,Mahinahina,Hawaii,18.94744822519936
+Paia,Haliimaile,Hawaii,3.301199313898149
+Paia,Olinda,Hawaii,7.383483252070558
+Paia,Hana,Hawaii,24.865754949580783
+Paia,Launiupoko,Hawaii,18.11895201617032
+Paia,Ualapue,Hawaii,32.26621313741678
+Paia,Kapalua,Hawaii,18.757908138587585
+Paia,Maunaloa,Hawaii,56.752313133069855
+Paia,Maalaea,Hawaii,10.540447524798228
+Paia,Makena,Hawaii,19.294343669727375
+Paia,Olowalu,Hawaii,17.118755476645283
+Paia,Manele,Hawaii,36.31060006769549
+Kealakekua,Kapaau,Hawaii,49.032773959825654
+Kealakekua,Pahala,Hawaii,36.2734022094576
+Kealakekua,Fern Acres,Hawaii,54.31424112198756
+Kealakekua,Kaloko,Hawaii,13.520468110777411
+Kealakekua,Pepeekeo,Hawaii,56.49809288688802
+Kealakekua,Hawi,Hawaii,48.22311201065126
+Kealakekua,Keaau,Hawaii,56.634310146530346
+Kealakekua,Discovery Harbour,Hawaii,38.353189386252645
+Kealakekua,Papaikou,Hawaii,56.10052212110498
+Kealakekua,Wainaku,Hawaii,55.02193555809541
+Kealakekua,Volcano Golf Course,Hawaii,41.67099132206808
+Kealakekua,Honalo,Hawaii,3.6982432956541165
+Kealakekua,Halaula,Hawaii,48.614781601654045
+Kealakekua,Royal Hawaiian Estates,Hawaii,47.80988092917079
+Kealakekua,Laupahoehoe,Hawaii,53.60741201366788
+Kealakekua,Eden Roc,Hawaii,53.243689022698625
+Kealakekua,Naalehu,Hawaii,38.440621501884024
+Kealakekua,Fern Forest,Hawaii,50.98938069186711
+Kealakekua,Mauna Loa Estates,Hawaii,45.54164522766893
+Kealakekua,Waikoloa Beach Resort,Hawaii,27.594659777610772
+Kealakekua,Volcano,Hawaii,41.441061151106325
+Kealakekua,Paukaa,Hawaii,55.689380178738745
+Kealakekua,Paauilo,Hawaii,49.74539573631084
+Kealakekua,Honomu,Hawaii,57.09028807731911
+Kealakekua,Kukuihaele,Hawaii,46.46325286310078
+Kealakekua,Tiki Gardens,Hawaii,59.22261524563326
+Kealakekua,Puako,Hawaii,30.236005129516435
+Kealakekua,Waiohinu,Hawaii,36.93787270939252
+Kualapuu,Maunawili,Hawaii,48.15532236961522
+Kualapuu,Kaaawa,Hawaii,57.866124715635706
+Kualapuu,Kaanapali,Hawaii,29.136671116619524
+Kualapuu,Mahinahina,Hawaii,29.499656449635303
+Kualapuu,Haliimaile,Hawaii,50.65012092716244
+Kualapuu,Olinda,Hawaii,54.539266854907765
+Kualapuu,Launiupoko,Hawaii,34.017430214319994
+Kualapuu,Ualapue,Hawaii,15.600072979874364
+Kualapuu,Kapalua,Hawaii,29.120273764507687
+Kualapuu,Maunaloa,Hawaii,10.013592146872528
+Kualapuu,Maalaea,Hawaii,44.02816389542624
+Kualapuu,Makena,Hawaii,54.64375662757256
+Kualapuu,Olowalu,Hawaii,36.67234959963916
+Kualapuu,Manele,Hawaii,30.28676849277605
+Maunawili,Ko Olina,Hawaii,22.48494758646074
+Maunawili,Mokuleia,Hawaii,29.553828409524048
+Maunawili,Kaaawa,Hawaii,13.579615178631963
+Maunawili,Punaluu,Hawaii,16.61060740361426
+Maunawili,Kawela Bay,Hawaii,27.28913831563893
+Maunawili,Maunaloa,Hawaii,39.46464111991204
+Maunawili,Makaha Valley,Hawaii,27.810218650777614
+Princeville,Kaumakani,Hawaii,22.573020837953283
+Princeville,Omao,Hawaii,20.263302226709406
+Princeville,Poipu,Hawaii,23.065102728124277
+Princeville,Haena,Hawaii,5.1830078279900915
+Princeville,Pakala Village,Hawaii,21.54801633138113
+Princeville,Hanalei,Hawaii,1.4830474236068993
+Princeville,Kalihiwai,Hawaii,2.5393975984554746
+Princeville,Wainiha,Hawaii,4.42226083839007
+Kapaau,Kaloko,Hawaii,36.53250539777601
+Kapaau,Pepeekeo,Hawaii,53.077243558002166
+Kapaau,Hawi,Hawaii,2.4030641850959817
+Kapaau,Papaikou,Hawaii,55.09817821444511
+Kapaau,Haliimaile,Hawaii,55.67653114928046
+Kapaau,Wainaku,Hawaii,56.83444650969103
+Kapaau,Olinda,Hawaii,51.60321037212879
+Kapaau,Honalo,Hawaii,45.347888950595
+Kapaau,Halaula,Hawaii,2.0156820227303
+Kapaau,Laupahoehoe,Hawaii,41.08349002115387
+Kapaau,Hana,Hawaii,39.38707338344975
+Kapaau,Waikoloa Beach Resort,Hawaii,21.509799338295316
+Kapaau,Paukaa,Hawaii,56.40580665958138
+Kapaau,Paauilo,Hawaii,31.083380348158556
+Kapaau,Honomu,Hawaii,51.40649613652518
+Kapaau,Kukuihaele,Hawaii,17.31475748909323
+Kapaau,Puako,Hawaii,18.80255707056924
+Kapaau,Maalaea,Hawaii,59.3604790880324
+Kapaau,Makena,Hawaii,48.7313913620758
+Pahala,Fern Acres,Hawaii,33.58144924202627
+Pahala,Nanawale Estates,Hawaii,42.510532964552404
+Pahala,Leilani Estates,Hawaii,40.9929654737918
+Pahala,Kaloko,Hawaii,47.37326604696564
+Pahala,Pepeekeo,Hawaii,49.84354028901841
+Pahala,Pahoa,Hawaii,40.27952100972848
+Pahala,Keaau,Hawaii,40.42362424690142
+Pahala,Discovery Harbour,Hawaii,14.5492885188251
+Pahala,Papaikou,Hawaii,47.72533184887714
+Pahala,Wainaku,Hawaii,44.93446375620492
+Pahala,Volcano Golf Course,Hawaii,21.148753487333035
+Pahala,Honalo,Hawaii,38.01967623527601
+Pahala,Royal Hawaiian Estates,Hawaii,25.3649858936715
+Pahala,Laupahoehoe,Hawaii,55.475212639580455
+Pahala,Eden Roc,Hawaii,32.00900883574477
+Pahala,Naalehu,Hawaii,10.96808504577011
+Pahala,Fern Forest,Hawaii,28.988945106945895
+Pahala,Mauna Loa Estates,Hawaii,22.921787498510362
+Pahala,Waikoloa Beach Resort,Hawaii,56.29353319198944
+Pahala,Volcano,Hawaii,23.667359780864167
+Pahala,Paukaa,Hawaii,46.136537898543
+Pahala,Paauilo,Hawaii,58.22869803346886
+Pahala,Honomu,Hawaii,51.891306758983205
+Pahala,Tiki Gardens,Hawaii,38.357004579970955
+Pahala,Puako,Hawaii,57.56860674701781
+Pahala,Seaview,Hawaii,38.99982165227321
+Pahala,Waiohinu,Hawaii,12.567915525332788
+Pahala,Black Sands,Hawaii,36.923742757244234
+Pahala,Kamaili,Hawaii,40.01441998518198
+Pahala,Kalapana,Hawaii,34.5276165507889
+Ko Olina,Mokuleia,Hawaii,16.808790145654918
+Ko Olina,Kaaawa,Hawaii,22.41364534979052
+Ko Olina,Punaluu,Hawaii,22.291655477658477
+Ko Olina,Kawela Bay,Hawaii,25.95890846787434
+Ko Olina,Makaha Valley,Hawaii,10.933231605599842
+Mokuleia,Kaaawa,Hawaii,20.560512427289787
+Mokuleia,Punaluu,Hawaii,18.10413676885545
+Mokuleia,Kawela Bay,Hawaii,13.724268388626776
+Mokuleia,Makaha Valley,Hawaii,6.431658931389802
+Fern Acres,Nanawale Estates,Hawaii,10.981767620147341
+Fern Acres,Leilani Estates,Hawaii,11.020217796403887
+Fern Acres,Kaloko,Hawaii,58.693747678536404
+Fern Acres,Pepeekeo,Hawaii,22.389743291125093
+Fern Acres,Pahoa,Hawaii,8.740307502254717
+Fern Acres,Keaau,Hawaii,8.174860112561543
+Fern Acres,Discovery Harbour,Hawaii,48.00739399215601
+Fern Acres,Papaikou,Hawaii,19.548196389587023
+Fern Acres,Wainaku,Hawaii,16.345811324206345
+Fern Acres,Volcano Golf Course,Hawaii,13.818036153977566
+Fern Acres,Honalo,Hawaii,53.69413890348281
+Fern Acres,Royal Hawaiian Estates,Hawaii,8.266141538561081
+Fern Acres,Laupahoehoe,Hawaii,33.51082500764482
+Fern Acres,Eden Roc,Hawaii,1.5815069073115753
+Fern Acres,Naalehu,Hawaii,44.26690013549739
+Fern Acres,Fern Forest,Hawaii,4.5935653720952025
+Fern Acres,Mauna Loa Estates,Hawaii,10.82992791992896
+Fern Acres,Waikoloa Beach Resort,Hawaii,59.10843379146699
+Fern Acres,Volcano,Hawaii,13.045811517388026
+Fern Acres,Paukaa,Hawaii,17.531085922060292
+Fern Acres,Paauilo,Hawaii,41.23027692590582
+Fern Acres,Honomu,Hawaii,24.976036662631984
+Fern Acres,Kukuihaele,Hawaii,52.66133510688541
+Fern Acres,Tiki Gardens,Hawaii,5.132113730945342
+Fern Acres,Puako,Hawaii,58.568683507338726
+Fern Acres,Seaview,Hawaii,12.404819506256462
+Fern Acres,Waiohinu,Hawaii,46.11290808905848
+Fern Acres,Black Sands,Hawaii,10.166424521627125
+Fern Acres,Kamaili,Hawaii,11.451730483798771
+Fern Acres,Kalapana,Hawaii,12.412255239660379
+Nanawale Estates,Leilani Estates,Hawaii,2.6093042549396106
+Nanawale Estates,Pepeekeo,Hawaii,25.959972061326276
+Nanawale Estates,Pahoa,Hawaii,2.3341669006580728
+Nanawale Estates,Keaau,Hawaii,12.196300003467348
+Nanawale Estates,Discovery Harbour,Hawaii,56.48828827103381
+Nanawale Estates,Papaikou,Hawaii,23.232735848680125
+Nanawale Estates,Wainaku,Hawaii,20.63651581059508
+Nanawale Estates,Volcano Golf Course,Hawaii,24.404925012821572
+Nanawale Estates,Royal Hawaiian Estates,Hawaii,18.36121144769025
+Nanawale Estates,Laupahoehoe,Hawaii,38.54176186451749
+Nanawale Estates,Eden Roc,Hawaii,12.120568291910422
+Nanawale Estates,Naalehu,Hawaii,52.674445916576445
+Nanawale Estates,Fern Forest,Hawaii,14.724537884808901
+Nanawale Estates,Mauna Loa Estates,Hawaii,20.948070254461612
+Nanawale Estates,Volcano,Hawaii,23.968118820037265
+Nanawale Estates,Paukaa,Hawaii,21.428362504770163
+Nanawale Estates,Paauilo,Hawaii,47.536336225073114
+Nanawale Estates,Honomu,Hawaii,28.417289314252013
+Nanawale Estates,Tiki Gardens,Hawaii,6.289564823360806
+Nanawale Estates,Seaview,Hawaii,6.696886889361358
+Nanawale Estates,Waiohinu,Hawaii,54.75468007045133
+Nanawale Estates,Black Sands,Hawaii,6.943345876639976
+Nanawale Estates,Kamaili,Hawaii,4.46428986084038
+Nanawale Estates,Kalapana,Hawaii,10.953503062789519
+Leilani Estates,Pepeekeo,Hawaii,28.089812110090232
+Leilani Estates,Pahoa,Hawaii,2.8311159641987325
+Leilani Estates,Keaau,Hawaii,13.85588705503249
+Leilani Estates,Discovery Harbour,Hawaii,54.786125478120745
+Leilani Estates,Papaikou,Hawaii,25.3135047124484
+Leilani Estates,Wainaku,Hawaii,22.5860879090533
+Leilani Estates,Volcano Golf Course,Hawaii,23.752364843460356
+Leilani Estates,Royal Hawaiian Estates,Hawaii,17.59361028215528
+Leilani Estates,Laupahoehoe,Hawaii,40.55370953486617
+Leilani Estates,Eden Roc,Hawaii,11.882276389383856
+Leilani Estates,Naalehu,Hawaii,50.96539282833929
+Leilani Estates,Fern Forest,Hawaii,14.138013160324949
+Leilani Estates,Mauna Loa Estates,Hawaii,20.115135691190446
+Leilani Estates,Volcano,Hawaii,23.638341847134964
+Leilani Estates,Paukaa,Hawaii,23.450802531514118
+Leilani Estates,Paauilo,Hawaii,49.36436780630342
+Leilani Estates,Honomu,Hawaii,30.587561583103792
+Leilani Estates,Tiki Gardens,Hawaii,7.152674023580647
+Leilani Estates,Seaview,Hawaii,4.088972314586773
+Leilani Estates,Waiohinu,Hawaii,53.101689071296704
+Leilani Estates,Black Sands,Hawaii,4.566251979176
+Leilani Estates,Kamaili,Hawaii,1.8552043514627798
+Leilani Estates,Kalapana,Hawaii,8.461704892111266
+Kaloko,Pepeekeo,Hawaii,55.54257756615948
+Kaloko,Hawi,Hawaii,35.46797860472256
+Kaloko,Keaau,Hawaii,59.1731750362615
+Kaloko,Discovery Harbour,Hawaii,51.36796950316597
+Kaloko,Papaikou,Hawaii,55.83747189683751
+Kaloko,Wainaku,Hawaii,55.52334707508154
+Kaloko,Volcano Golf Course,Hawaii,47.811270282535865
+Kaloko,Honalo,Hawaii,10.247765628120801
+Kaloko,Halaula,Hawaii,36.37204504543057
+Kaloko,Royal Hawaiian Estates,Hawaii,53.55612995733308
+Kaloko,Laupahoehoe,Hawaii,49.69078906437994
+Kaloko,Eden Roc,Hawaii,57.91407118671448
+Kaloko,Naalehu,Hawaii,51.09175199282697
+Kaloko,Fern Forest,Hawaii,56.181057644007154
+Kaloko,Mauna Loa Estates,Hawaii,51.66973295657799
+Kaloko,Waikoloa Beach Resort,Hawaii,15.118407029082888
+Kaloko,Volcano,Hawaii,46.76410418385763
+Kaloko,Paukaa,Hawaii,55.91318113099817
+Kaloko,Paauilo,Hawaii,43.61330973709005
+Kaloko,Honomu,Hawaii,55.51630328588866
+Kaloko,Kukuihaele,Hawaii,37.105668437501436
+Kaloko,Puako,Hawaii,18.11193646080682
+Kaloko,Waiohinu,Hawaii,49.8106653325567
+Kaumakani,Omao,Hawaii,9.161059072841283
+Kaumakani,Poipu,Hawaii,10.80666718177701
+Kaumakani,Haena,Hawaii,21.02651770402109
+Kaumakani,Pakala Village,Hawaii,2.1758334396822523
+Kaumakani,Hanalei,Hawaii,21.24212481070296
+Kaumakani,Kalihiwai,Hawaii,23.629330237381655
+Kaumakani,Wainiha,Hawaii,19.887625141475812
+Pepeekeo,Hawi,Hawaii,54.83231414609019
+Pepeekeo,Pahoa,Hawaii,25.394161633589793
+Pepeekeo,Keaau,Hawaii,14.866237108247615
+Pepeekeo,Papaikou,Hawaii,2.8710728523530404
+Pepeekeo,Wainaku,Hawaii,6.043934482913921
+Pepeekeo,Volcano Golf Course,Hawaii,29.11334905424249
+Pepeekeo,Honalo,Hawaii,54.4728328757396
+Pepeekeo,Halaula,Hawaii,51.09226999458237
+Pepeekeo,Royal Hawaiian Estates,Hawaii,27.390972713016705
+Pepeekeo,Laupahoehoe,Hawaii,12.759954047923804
+Pepeekeo,Eden Roc,Hawaii,23.45091570559615
+Pepeekeo,Fern Forest,Hawaii,25.352748589812947
+Pepeekeo,Mauna Loa Estates,Hawaii,28.867353325149093
+Pepeekeo,Waikoloa Beach Resort,Hawaii,50.19912444103571
+Pepeekeo,Volcano,Hawaii,26.307635206459572
+Pepeekeo,Paukaa,Hawaii,4.883375766135038
+Pepeekeo,Paauilo,Hawaii,22.381994216017006
+Pepeekeo,Honomu,Hawaii,2.595778596190365
+Pepeekeo,Kukuihaele,Hawaii,35.832035725619754
+Pepeekeo,Tiki Gardens,Hawaii,21.938387613237797
+Pepeekeo,Puako,Hawaii,48.54785480998879
+Pepeekeo,Seaview,Hawaii,31.6541134895892
+Pepeekeo,Black Sands,Hawaii,30.361338878260007
+Pepeekeo,Kamaili,Hawaii,29.67006472668436
+Pepeekeo,Kalapana,Hawaii,33.82067649376596
+Omao,Poipu,Hawaii,3.08840671246804
+Omao,Haena,Hawaii,20.92964282833797
+Omao,Pakala Village,Hawaii,10.51105617081859
+Omao,Hanalei,Hawaii,19.328133636977864
+Omao,Kalihiwai,Hawaii,20.323022901301083
+Omao,Wainiha,Hawaii,19.353532379721354
+Hawi,Papaikou,Hawaii,56.790161199619256
+Hawi,Haliimaile,Hawaii,54.67683047665018
+Hawi,Wainaku,Hawaii,58.44211084249051
+Hawi,Olinda,Hawaii,50.63200903847992
+Hawi,Honalo,Hawaii,44.557772783094414
+Hawi,Halaula,Hawaii,4.2256144149735215
+Hawi,Laupahoehoe,Hawaii,42.98724158709152
+Hawi,Hana,Hawaii,39.15675853875906
+Hawi,Waikoloa Beach Resort,Hawaii,20.62849650283114
+Hawi,Paukaa,Hawaii,58.050140401045695
+Hawi,Paauilo,Hawaii,33.00760023771522
+Hawi,Honomu,Hawaii,53.22246151769341
+Hawi,Kukuihaele,Hawaii,19.223969306088918
+Hawi,Puako,Hawaii,18.125951864963625
+Hawi,Maalaea,Hawaii,57.98938029610959
+Hawi,Makena,Hawaii,47.122783823645754
+Pahoa,Keaau,Hawaii,11.035293606423936
+Pahoa,Discovery Harbour,Hawaii,54.32097254041539
+Pahoa,Papaikou,Hawaii,22.595364938555882
+Pahoa,Wainaku,Hawaii,19.816602195689587
+Pahoa,Volcano Golf Course,Hawaii,22.07408154376199
+Pahoa,Royal Hawaiian Estates,Hawaii,16.02722522439203
+Pahoa,Laupahoehoe,Hawaii,37.79183852124339
+Pahoa,Eden Roc,Hawaii,9.821567989441185
+Pahoa,Naalehu,Hawaii,50.511841458490856
+Pahoa,Fern Forest,Hawaii,12.392772419506468
+Pahoa,Mauna Loa Estates,Hawaii,18.615000084080354
+Pahoa,Volcano,Hawaii,21.673291004324962
+Pahoa,Paukaa,Hawaii,20.70826757356926
+Pahoa,Paauilo,Hawaii,46.5506844350256
+Pahoa,Honomu,Hawaii,27.91331792652149
+Pahoa,Kukuihaele,Hawaii,58.89986967405215
+Pahoa,Tiki Gardens,Hawaii,4.389880626504907
+Pahoa,Seaview,Hawaii,6.337288630988737
+Pahoa,Waiohinu,Hawaii,52.56727370494644
+Pahoa,Black Sands,Hawaii,5.735858173661317
+Pahoa,Kamaili,Hawaii,4.2760448741571775
+Pahoa,Kalapana,Hawaii,9.78500955966629
+Keaau,Discovery Harbour,Hawaii,54.966564425343286
+Keaau,Papaikou,Hawaii,11.998218887356215
+Keaau,Wainaku,Hawaii,8.9787394879338
+Keaau,Volcano Golf Course,Hawaii,19.51888496350368
+Keaau,Honalo,Hawaii,55.497818336856554
+Keaau,Royal Hawaiian Estates,Hawaii,15.334685902518197
+Keaau,Laupahoehoe,Hawaii,26.893942514622434
+Keaau,Eden Roc,Hawaii,9.567312532898242
+Keaau,Naalehu,Hawaii,51.30685300248148
+Keaau,Fern Forest,Hawaii,12.204036940600703
+Keaau,Mauna Loa Estates,Hawaii,17.574728903857647
+Keaau,Waikoloa Beach Resort,Hawaii,57.48633955246393
+Keaau,Volcano,Hawaii,17.65884510814299
+Keaau,Paukaa,Hawaii,10.009993047465871
+Keaau,Paauilo,Hawaii,35.51765232507873
+Keaau,Honomu,Hawaii,17.454003963111777
+Keaau,Kukuihaele,Hawaii,47.93149721531871
+Keaau,Tiki Gardens,Hawaii,7.14327175399449
+Keaau,Puako,Hawaii,56.524921909115385
+Keaau,Seaview,Hawaii,17.043344813296976
+Keaau,Waiohinu,Hawaii,52.98657160107172
+Keaau,Black Sands,Hawaii,15.560506987760697
+Keaau,Kamaili,Hawaii,15.223234348173959
+Keaau,Kalapana,Hawaii,18.954442871171825
+Kaaawa,Punaluu,Hawaii,3.2524768171239398
+Kaaawa,Kawela Bay,Hawaii,14.124042911252468
+Kaaawa,Maunaloa,Hawaii,50.23110862140769
+Kaaawa,Makaha Valley,Hawaii,21.75482474740515
+Discovery Harbour,Wainaku,Hawaii,59.363540023296395
+Discovery Harbour,Volcano Golf Course,Hawaii,35.67642462518485
+Discovery Harbour,Honalo,Hawaii,41.17157583018168
+Discovery Harbour,Royal Hawaiian Estates,Hawaii,39.842138955287844
+Discovery Harbour,Eden Roc,Hawaii,46.42858903904032
+Discovery Harbour,Naalehu,Hawaii,3.8225261330100357
+Discovery Harbour,Fern Forest,Hawaii,43.4156960312674
+Discovery Harbour,Mauna Loa Estates,Hawaii,37.43741007816462
+Discovery Harbour,Volcano,Hawaii,38.12068642877156
+Discovery Harbour,Tiki Gardens,Hawaii,52.677736991763645
+Discovery Harbour,Seaview,Hawaii,52.409345357382996
+Discovery Harbour,Waiohinu,Hawaii,2.176617019610991
+Discovery Harbour,Black Sands,Hawaii,50.51634782934372
+Discovery Harbour,Kamaili,Hawaii,53.64980982219265
+Discovery Harbour,Kalapana,Hawaii,47.697171063273906
+Kaanapali,Mahinahina,Hawaii,2.3416467550923983
+Kaanapali,Haliimaile,Hawaii,22.454851731727985
+Kaanapali,Olinda,Hawaii,26.0237443721664
+Kaanapali,Hana,Hawaii,44.55069250393001
+Kaanapali,Launiupoko,Hawaii,5.599962652023272
+Kaanapali,Ualapue,Hawaii,14.074123567174686
+Kaanapali,Kapalua,Hawaii,5.283697699758833
+Kaanapali,Maunaloa,Hawaii,37.21608468487032
+Kaanapali,Maalaea,Hawaii,14.896510610586565
+Kaanapali,Makena,Hawaii,26.212722336015457
+Kaanapali,Olowalu,Hawaii,8.307098690684589
+Kaanapali,Manele,Hawaii,19.213512146391075
+Mahinahina,Haliimaile,Hawaii,21.42665846001714
+Mahinahina,Olinda,Hawaii,25.166649224396824
+Mahinahina,Hana,Hawaii,43.58976858237607
+Mahinahina,Launiupoko,Hawaii,6.932014371658255
+Mahinahina,Ualapue,Hawaii,14.070674565556882
+Mahinahina,Kapalua,Hawaii,3.033003902675749
+Mahinahina,Maunaloa,Hawaii,37.96514331871264
+Mahinahina,Maalaea,Hawaii,14.883740342536909
+Mahinahina,Makena,Hawaii,26.785652506177293
+Mahinahina,Olowalu,Hawaii,9.420010526303168
+Mahinahina,Manele,Hawaii,21.52981250992034
+Papaikou,Wainaku,Hawaii,3.2221192644438683
+Papaikou,Volcano Golf Course,Hawaii,26.813094980990705
+Papaikou,Honalo,Hawaii,54.23753165609231
+Papaikou,Halaula,Hawaii,53.12807454807349
+Papaikou,Royal Hawaiian Estates,Hawaii,24.772540168570096
+Papaikou,Laupahoehoe,Hawaii,15.336467284660161
+Papaikou,Eden Roc,Hawaii,20.635735379094843
+Papaikou,Naalehu,Hawaii,58.66706996865669
+Papaikou,Fern Forest,Hawaii,22.608772746717804
+Papaikou,Mauna Loa Estates,Hawaii,26.34993475274447
+Papaikou,Waikoloa Beach Resort,Hawaii,51.243689877320435
+Papaikou,Volcano,Hawaii,24.089658555642572
+Papaikou,Paukaa,Hawaii,2.0193519533996547
+Papaikou,Paauilo,Hawaii,24.702051144080976
+Papaikou,Honomu,Hawaii,5.46554826774292
+Papaikou,Kukuihaele,Hawaii,37.93943631220001
+Papaikou,Tiki Gardens,Hawaii,19.082877274301723
+Papaikou,Puako,Hawaii,49.73718721113067
+Papaikou,Seaview,Hawaii,28.83236743405708
+Papaikou,Waiohinu,Hawaii,59.98470834092569
+Papaikou,Black Sands,Hawaii,27.5089187689812
+Papaikou,Kamaili,Hawaii,26.86914074540001
+Papaikou,Kalapana,Hawaii,30.95236424503951
+Poipu,Haena,Hawaii,23.956005396982682
+Poipu,Pakala Village,Hawaii,12.514832735274503
+Poipu,Hanalei,Hawaii,22.1978688636231
+Poipu,Kalihiwai,Hawaii,22.953056499223422
+Poipu,Wainiha,Hawaii,22.361434183430728
+Haliimaile,Olinda,Hawaii,4.118241447260539
+Haliimaile,Halaula,Hawaii,57.42848856839469
+Haliimaile,Hana,Hawaii,22.164314046681884
+Haliimaile,Launiupoko,Hawaii,19.697567373997526
+Haliimaile,Ualapue,Hawaii,35.05203372953396
+Haliimaile,Kapalua,Hawaii,21.536531115118173
+Haliimaile,Maunaloa,Hawaii,59.373939901563226
+Haliimaile,Maalaea,Hawaii,10.70917804686646
+Haliimaile,Makena,Hawaii,17.192514219317545
+Haliimaile,Olowalu,Hawaii,18.292901076309235
+Haliimaile,Manele,Hawaii,37.43022545594391
+Wainaku,Volcano Golf Course,Hawaii,23.904211120530544
+Wainaku,Honalo,Hawaii,53.34104584996888
+Wainaku,Halaula,Hawaii,54.88771270804772
+Wainaku,Royal Hawaiian Estates,Hawaii,21.617615062327012
+Wainaku,Laupahoehoe,Hawaii,17.976072760118374
+Wainaku,Eden Roc,Hawaii,17.41731808837385
+Wainaku,Naalehu,Hawaii,55.894736376048044
+Wainaku,Fern Forest,Hawaii,19.393849386780964
+Wainaku,Mauna Loa Estates,Hawaii,23.26266125273329
+Wainaku,Waikoloa Beach Resort,Hawaii,51.80334020514305
+Wainaku,Volcano,Hawaii,21.26720181216535
+Wainaku,Paukaa,Hawaii,1.2588865466702124
+Wainaku,Paauilo,Hawaii,26.93817862948213
+Wainaku,Honomu,Hawaii,8.632178250036858
+Wainaku,Kukuihaele,Hawaii,39.835876747541526
+Wainaku,Tiki Gardens,Hawaii,16.11632853866016
+Wainaku,Puako,Hawaii,50.47196550124935
+Wainaku,Seaview,Hawaii,25.96810980381749
+Wainaku,Waiohinu,Hawaii,57.2766423798075
+Wainaku,Black Sands,Hawaii,24.53877473798718
+Wainaku,Kamaili,Hawaii,24.070351931854653
+Wainaku,Kalapana,Hawaii,27.891207696968173
+Olinda,Halaula,Hawaii,53.34465955278046
+Olinda,Hana,Hawaii,18.555059793744217
+Olinda,Launiupoko,Hawaii,22.762385603332433
+Olinda,Ualapue,Hawaii,38.95584276691297
+Olinda,Kapalua,Hawaii,25.468277855969898
+Olinda,Maalaea,Hawaii,12.898059068853865
+Olinda,Makena,Hawaii,15.962315987820418
+Olinda,Olowalu,Hawaii,21.035506021285194
+Olinda,Manele,Hawaii,39.85578833642124
+Volcano Golf Course,Honalo,Hawaii,41.52133559161358
+Volcano Golf Course,Royal Hawaiian Estates,Hawaii,6.186238200451601
+Volcano Golf Course,Laupahoehoe,Hawaii,36.5643878420689
+Volcano Golf Course,Eden Roc,Hawaii,12.41757272630259
+Volcano Golf Course,Naalehu,Hawaii,32.11240599055075
+Volcano Golf Course,Fern Forest,Hawaii,9.681937136397087
+Volcano Golf Course,Mauna Loa Estates,Hawaii,3.8976467522726153
+Volcano Golf Course,Waikoloa Beach Resort,Hawaii,50.99441735671699
+Volcano Golf Course,Volcano,Hawaii,3.0280931204036046
+Volcano Golf Course,Paukaa,Hawaii,25.129512182183806
+Volcano Golf Course,Paauilo,Hawaii,41.52665254852394
+Volcano Golf Course,Honomu,Hawaii,31.33307723186402
+Volcano Golf Course,Kukuihaele,Hawaii,50.17260531721689
+Volcano Golf Course,Tiki Gardens,Hawaii,18.94533688233617
+Volcano Golf Course,Puako,Hawaii,51.11045666062413
+Volcano Golf Course,Seaview,Hawaii,23.45850275918215
+Volcano Golf Course,Waiohinu,Hawaii,33.642214287742895
+Volcano Golf Course,Black Sands,Hawaii,20.98227140898736
+Volcano Golf Course,Kamaili,Hawaii,23.49153752890086
+Volcano Golf Course,Kalapana,Hawaii,20.68170994649038
+Honalo,Halaula,Hawaii,44.91996199486983
+Honalo,Royal Hawaiian Estates,Hawaii,47.575828233247506
+Honalo,Laupahoehoe,Hawaii,50.930411337410774
+Honalo,Eden Roc,Hawaii,52.70553531987172
+Honalo,Naalehu,Hawaii,41.01580427348887
+Honalo,Fern Forest,Hawaii,50.5989935445028
+Honalo,Mauna Loa Estates,Hawaii,45.416890944436346
+Honalo,Waikoloa Beach Resort,Hawaii,23.93212823699249
+Honalo,Volcano,Hawaii,41.02374444287252
+Honalo,Paukaa,Hawaii,53.94311477613849
+Honalo,Paauilo,Hawaii,46.64994080659721
+Honalo,Honomu,Hawaii,54.92600767457032
+Honalo,Kukuihaele,Hawaii,42.92004299987837
+Honalo,Tiki Gardens,Hawaii,58.495676304114056
+Honalo,Puako,Hawaii,26.54797301008566
+Honalo,Waiohinu,Hawaii,39.655128592500034
+Halaula,Laupahoehoe,Hawaii,39.07427651996693
+Halaula,Hana,Hawaii,40.74768343637998
+Halaula,Waikoloa Beach Resort,Hawaii,21.266177190346426
+Halaula,Paukaa,Hawaii,54.448410144840274
+Halaula,Paauilo,Hawaii,29.072860137579355
+Halaula,Honomu,Hawaii,49.40945240891773
+Halaula,Kukuihaele,Hawaii,15.309977062072177
+Halaula,Puako,Hawaii,18.410716978758757
+Halaula,Makena,Hawaii,50.69909266392277
+Royal Hawaiian Estates,Laupahoehoe,Hawaii,36.672739838138746
+Royal Hawaiian Estates,Eden Roc,Hawaii,6.723448265691619
+Royal Hawaiian Estates,Naalehu,Hawaii,36.12945844231808
+Royal Hawaiian Estates,Fern Forest,Hawaii,3.740529232312151
+Royal Hawaiian Estates,Mauna Loa Estates,Hawaii,2.6089454048327094
+Royal Hawaiian Estates,Waikoloa Beach Resort,Hawaii,55.85434047086347
+Royal Hawaiian Estates,Volcano,Hawaii,6.831984105283122
+Royal Hawaiian Estates,Paukaa,Hawaii,22.876348045201627
+Royal Hawaiian Estates,Paauilo,Hawaii,42.926940245714704
+Royal Hawaiian Estates,Honomu,Hawaii,29.836973562333508
+Royal Hawaiian Estates,Kukuihaele,Hawaii,52.84655214719829
+Royal Hawaiian Estates,Tiki Gardens,Hawaii,13.249637857779083
+Royal Hawaiian Estates,Puako,Hawaii,55.735618103803624
+Royal Hawaiian Estates,Seaview,Hawaii,17.3076647238351
+Royal Hawaiian Estates,Waiohinu,Hawaii,37.91862274779529
+Royal Hawaiian Estates,Black Sands,Hawaii,14.825243426827237
+Royal Hawaiian Estates,Kamaili,Hawaii,17.305346132501036
+Royal Hawaiian Estates,Kalapana,Hawaii,14.827031244795116
+Laupahoehoe,Eden Roc,Hawaii,34.27089703035248
+Laupahoehoe,Fern Forest,Hawaii,35.536926403059546
+Laupahoehoe,Mauna Loa Estates,Hawaii,37.49143459891513
+Laupahoehoe,Waikoloa Beach Resort,Hawaii,41.474792618763836
+Laupahoehoe,Volcano,Hawaii,33.539899677476924
+Laupahoehoe,Paukaa,Hawaii,17.11580750714808
+Laupahoehoe,Paauilo,Hawaii,10.005192467729524
+Laupahoehoe,Honomu,Hawaii,10.630720843490554
+Laupahoehoe,Kukuihaele,Hawaii,23.774522664020086
+Laupahoehoe,Tiki Gardens,Hawaii,34.032306818155746
+Laupahoehoe,Puako,Hawaii,39.314376919288264
+Laupahoehoe,Seaview,Hawaii,43.9287884518868
+Laupahoehoe,Black Sands,Hawaii,42.421087635810665
+Laupahoehoe,Kamaili,Hawaii,42.04619744781582
+Laupahoehoe,Kalapana,Hawaii,45.59746690510395
+Eden Roc,Naalehu,Hawaii,42.686731851375505
+Eden Roc,Fern Forest,Hawaii,3.020674034835498
+Eden Roc,Mauna Loa Estates,Hawaii,9.306244805493867
+Eden Roc,Waikoloa Beach Resort,Hawaii,58.70639700532274
+Eden Roc,Volcano,Hawaii,11.851723292443602
+Eden Roc,Paukaa,Hawaii,18.627968224151
+Eden Roc,Paauilo,Hawaii,41.73888300883075
+Eden Roc,Honomu,Hawaii,26.02332238064032
+Eden Roc,Kukuihaele,Hawaii,52.911112377993874
+Eden Roc,Tiki Gardens,Hawaii,6.5600215757805715
+Eden Roc,Puako,Hawaii,58.248455798558346
+Eden Roc,Seaview,Hawaii,12.793364987008877
+Eden Roc,Waiohinu,Hawaii,44.53667421809643
+Eden Roc,Black Sands,Hawaii,10.42882912320527
+Eden Roc,Kamaili,Hawaii,12.095024505679591
+Eden Roc,Kalapana,Hawaii,12.177566969471242
+Punaluu,Kawela Bay,Hawaii,10.880749592274212
+Punaluu,Maunaloa,Hawaii,53.446739305615225
+Punaluu,Makaha Valley,Hawaii,20.07063643070729
+Naalehu,Fern Forest,Hawaii,39.67834106353621
+Naalehu,Mauna Loa Estates,Hawaii,33.75207145062776
+Naalehu,Volcano,Hawaii,34.62941262532744
+Naalehu,Paukaa,Hawaii,57.093408366233305
+Naalehu,Tiki Gardens,Hawaii,48.90578925231549
+Naalehu,Seaview,Hawaii,48.58900448767194
+Naalehu,Waiohinu,Hawaii,2.5790215550460607
+Naalehu,Black Sands,Hawaii,46.693824782832735
+Naalehu,Kamaili,Hawaii,49.82729650246565
+Naalehu,Kalapana,Hawaii,43.88234043644823
+Fern Forest,Mauna Loa Estates,Hawaii,6.345501254781271
+Fern Forest,Waikoloa Beach Resort,Hawaii,57.67456117785489
+Fern Forest,Volcano,Hawaii,9.575376530978387
+Fern Forest,Paukaa,Hawaii,20.63704227832481
+Fern Forest,Paauilo,Hawaii,42.49041301209853
+Fern Forest,Honomu,Hawaii,27.882186745785255
+Fern Forest,Kukuihaele,Hawaii,53.13126683381058
+Fern Forest,Tiki Gardens,Hawaii,9.510667486529606
+Fern Forest,Puako,Hawaii,57.37144317451407
+Fern Forest,Seaview,Hawaii,14.336685890340977
+Fern Forest,Waiohinu,Hawaii,41.51939071489651
+Fern Forest,Black Sands,Hawaii,11.862545347915946
+Fern Forest,Kamaili,Hawaii,14.041899299433572
+Fern Forest,Kalapana,Hawaii,12.674560771805876
+Mauna Loa Estates,Waikoloa Beach Resort,Hawaii,54.5335263188046
+Mauna Loa Estates,Volcano,Hawaii,5.465059881271221
+Mauna Loa Estates,Paukaa,Hawaii,24.51825604044593
+Mauna Loa Estates,Paauilo,Hawaii,43.23557371750613
+Mauna Loa Estates,Honomu,Hawaii,31.242157070355294
+Mauna Loa Estates,Kukuihaele,Hawaii,52.6166412704749
+Mauna Loa Estates,Tiki Gardens,Hawaii,15.848466087817654
+Mauna Loa Estates,Puako,Hawaii,54.545627556725066
+Mauna Loa Estates,Seaview,Hawaii,19.623404544474177
+Mauna Loa Estates,Waiohinu,Hawaii,35.48802347999393
+Mauna Loa Estates,Black Sands,Hawaii,17.15684913372667
+Mauna Loa Estates,Kamaili,Hawaii,19.749281295497088
+Mauna Loa Estates,Kalapana,Hawaii,16.785097762423344
+Hana,Waikoloa Beach Resort,Hawaii,58.77577525052709
+Hana,Launiupoko,Hawaii,41.249557252872194
+Hana,Ualapue,Hawaii,57.1291178049846
+Hana,Kapalua,Hawaii,43.61368427306467
+Hana,Kukuihaele,Hawaii,53.3709992607178
+Hana,Puako,Hawaii,56.77066164925303
+Hana,Maalaea,Hawaii,31.076816974918078
+Hana,Makena,Hawaii,28.53082664966101
+Hana,Olowalu,Hawaii,39.36750054140865
+Hana,Manele,Hawaii,57.65978782843726
+Waikoloa Beach Resort,Volcano,Hawaii,49.13839909377921
+Waikoloa Beach Resort,Paukaa,Hawaii,51.85635269261851
+Waikoloa Beach Resort,Paauilo,Hawaii,33.38900908619797
+Waikoloa Beach Resort,Honomu,Hawaii,49.488792176219896
+Waikoloa Beach Resort,Kukuihaele,Hawaii,23.81009539340767
+Waikoloa Beach Resort,Puako,Hawaii,3.156216868180464
+Launiupoko,Ualapue,Hawaii,19.420023536840684
+Launiupoko,Kapalua,Hawaii,9.755316830953946
+Launiupoko,Maunaloa,Hawaii,41.531642404375596
+Launiupoko,Maalaea,Hawaii,10.43847659265485
+Launiupoko,Makena,Hawaii,20.81179655569047
+Launiupoko,Olowalu,Hawaii,2.745157435307269
+Launiupoko,Manele,Hawaii,18.43563150578964
+Volcano,Paukaa,Hawaii,22.471701245162162
+Volcano,Paauilo,Hawaii,38.549377981097386
+Volcano,Honomu,Hawaii,28.475704597822492
+Volcano,Kukuihaele,Hawaii,47.41397630969926
+Volcano,Tiki Gardens,Hawaii,18.12612490722185
+Volcano,Puako,Hawaii,49.107413659018505
+Volcano,Seaview,Hawaii,23.86674854177902
+Volcano,Waiohinu,Hawaii,36.04993469496122
+Volcano,Black Sands,Hawaii,21.382473148737162
+Volcano,Kamaili,Hawaii,23.61460900009937
+Volcano,Kalapana,Hawaii,21.648080951750888
+Paukaa,Paauilo,Hawaii,26.273986541492693
+Paukaa,Honomu,Hawaii,7.479152930425245
+Paukaa,Kukuihaele,Hawaii,39.3310833190982
+Paukaa,Tiki Gardens,Hawaii,17.118254420635246
+Paukaa,Puako,Hawaii,50.45495054442869
+Paukaa,Seaview,Hawaii,26.912187375803267
+Paukaa,Waiohinu,Hawaii,58.45975899253362
+Paukaa,Black Sands,Hawaii,25.546351856145474
+Paukaa,Kamaili,Hawaii,24.975936392592235
+Paukaa,Kalapana,Hawaii,28.95886892118054
+Paauilo,Honomu,Hawaii,20.484372129692076
+Paauilo,Kukuihaele,Hawaii,13.784594290757429
+Paauilo,Tiki Gardens,Hawaii,42.534959665797764
+Paauilo,Puako,Hawaii,30.895215426588916
+Paauilo,Seaview,Hawaii,52.47254774310147
+Paauilo,Black Sands,Hawaii,50.74974736189898
+Paauilo,Kamaili,Hawaii,50.73082381695533
+Paauilo,Kalapana,Hawaii,53.597648675796854
+Haena,Pakala Village,Hawaii,19.5892607949592
+Haena,Hanalei,Hawaii,4.176460332238712
+Haena,Kalihiwai,Hawaii,7.721280635298506
+Haena,Wainiha,Hawaii,1.6971146390857996
+Ualapue,Kapalua,Hawaii,13.5202089439858
+Ualapue,Maunaloa,Hawaii,24.70939782848281
+Ualapue,Maalaea,Hawaii,28.86745873920009
+Ualapue,Makena,Hawaii,40.22167304679324
+Ualapue,Olowalu,Hawaii,22.16184388131751
+Ualapue,Manele,Hawaii,22.994982801154
+Honomu,Kukuihaele,Hawaii,34.10826755360286
+Honomu,Tiki Gardens,Hawaii,24.51116866571163
+Honomu,Puako,Hawaii,47.70365725803322
+Honomu,Seaview,Hawaii,34.19160256942051
+Honomu,Black Sands,Hawaii,32.9294388005952
+Honomu,Kamaili,Hawaii,32.18896149991719
+Honomu,Kalapana,Hawaii,36.40761069909687
+Kapalua,Maunaloa,Hawaii,38.03585593839935
+Kapalua,Maalaea,Hawaii,16.41880337403807
+Kapalua,Makena,Hawaii,28.748367434101308
+Kapalua,Olowalu,Hawaii,12.05772131337852
+Kapalua,Manele,Hawaii,24.22129719844383
+Kukuihaele,Tiki Gardens,Hawaii,54.69355126109785
+Kukuihaele,Puako,Hawaii,20.791967380013254
+Kawela Bay,Makaha Valley,Hawaii,18.838689411161894
+Tiki Gardens,Seaview,Hawaii,9.941376099970984
+Tiki Gardens,Waiohinu,Hawaii,50.82998265294023
+Tiki Gardens,Black Sands,Hawaii,8.42809879377876
+Tiki Gardens,Kamaili,Hawaii,8.255509837553568
+Tiki Gardens,Kalapana,Hawaii,11.976923248432518
+Pakala Village,Hanalei,Hawaii,20.16412893864697
+Pakala Village,Kalihiwai,Hawaii,22.801012600593836
+Pakala Village,Wainiha,Hawaii,18.56145286897318
+Hanalei,Kalihiwai,Hawaii,3.762758988813866
+Hanalei,Wainiha,Hawaii,3.1067753949276753
+Puako,Makena,Hawaii,59.672455110073734
+Maunaloa,Maalaea,Hawaii,51.87432700173922
+Maunaloa,Olowalu,Hawaii,44.02697779737973
+Maunaloa,Manele,Hawaii,33.610937426650885
+Kalihiwai,Wainiha,Hawaii,6.860595573456268
+Seaview,Waiohinu,Hawaii,50.81605290782432
+Seaview,Black Sands,Hawaii,2.4865675302560493
+Seaview,Kamaili,Hawaii,2.2345663136881155
+Seaview,Kalapana,Hawaii,4.920161992278135
+Maalaea,Makena,Hawaii,12.659938238431744
+Maalaea,Olowalu,Hawaii,8.309035281287922
+Maalaea,Manele,Hawaii,26.966415848467577
+Waiohinu,Black Sands,Hawaii,48.877427558563525
+Waiohinu,Kamaili,Hawaii,52.00427605166624
+Waiohinu,Kalapana,Hawaii,46.14942890029684
+Black Sands,Kamaili,Hawaii,3.1394310242119956
+Black Sands,Kalapana,Hawaii,4.0641873418036845
+Makena,Olowalu,Hawaii,18.081691145655657
+Makena,Manele,Hawaii,31.74572542294719
+Kamaili,Kalapana,Hawaii,6.760517230194139
+Olowalu,Manele,Hawaii,19.205151288599776

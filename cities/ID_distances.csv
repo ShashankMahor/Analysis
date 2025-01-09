@@ -1,0 +1,3872 @@
+City 1,City 2,State,Distance
+Boise,Nampa,Idaho,16.746088400052383
+Boise,Meridian,Idaho,8.407764638131466
+Boise,Caldwell,Idaho,21.716658796260095
+Boise,Eagle,Idaho,11.475391146596506
+Boise,Kuna,Idaho,11.265510634368546
+Boise,Mountain Home,Idaho,42.036108499339996
+Boise,Garden City,Idaho,4.206691481487085
+Boise,Star,Idaho,14.843844761042654
+Boise,Middleton,Idaho,20.754165942842867
+Boise,Payette,Idaho,47.91210484080105
+Boise,Emmett,Idaho,22.68982191998733
+Boise,Fruitland,Idaho,45.07554943278172
+Boise,Weiser,Idaho,58.278739617935585
+Boise,Hidden Springs,Idaho,8.317550736754338
+Boise,Mountain Home AFB,Idaho,42.25262140973247
+Boise,Homedale,Idaho,35.48634502407626
+Boise,Parma,Idaho,37.910115713558305
+Boise,Wilder,Idaho,34.32543191524496
+Boise,New Plymouth,Idaho,38.9583387988111
+Boise,Avimor,Idaho,12.173900776226478
+Boise,Marsing,Idaho,29.279252746136827
+Boise,Robie Creek,Idaho,11.51328551918024
+Boise,Greenleaf,Idaho,30.0397001249472
+Boise,Horseshoe Bend,Idaho,21.87176387084088
+Boise,Idaho City,Idaho,25.46220066653607
+Boise,Notus,Idaho,29.818611570083362
+Boise,Melba,Idaho,21.841645677155462
+Boise,Letha,Idaho,28.96665248366961
+Boise,Grand View,Idaho,43.14001606097412
+Boise,Garden Valley,Idaho,35.93279506955515
+Boise,Hammett,Idaho,59.530521495616384
+Boise,Crouch,Idaho,37.83820208875864
+Boise,Murphy,Idaho,31.21913503235008
+Boise,Smiths Ferry,Idaho,48.82156819681814
+Boise,Bruneau,Idaho,54.49573360391634
+Boise,Placerville,Idaho,27.589084442838846
+Boise,Lowman,Idaho,44.93684752660266
+Boise,Banks,Idaho,33.34552316000981
+Nampa,Meridian,Idaho,8.54268749396231
+Nampa,Caldwell,Idaho,6.377361295202931
+Nampa,Eagle,Idaho,13.020565574799843
+Nampa,Kuna,Idaho,10.845262600225556
+Nampa,Mountain Home,Idaho,53.66553992576699
+Nampa,Garden City,Idaho,15.26445870087115
+Nampa,Star,Idaho,8.93112584362396
+Nampa,Middleton,Idaho,9.139067589164334
+Nampa,Payette,Idaho,38.62463956474628
+Nampa,Emmett,Idaho,19.998503063827798
+Nampa,Fruitland,Idaho,34.985435559095826
+Nampa,Weiser,Idaho,50.50108091878248
+Nampa,Hidden Springs,Idaho,18.27414876878875
+Nampa,Mountain Home AFB,Idaho,51.00902402365517
+Nampa,Homedale,Idaho,18.890764144887427
+Nampa,Parma,Idaho,23.5630434924881
+Nampa,Wilder,Idaho,18.387903087462643
+Nampa,New Plymouth,Idaho,29.553125196298932
+Nampa,Avimor,Idaho,20.267088467043823
+Nampa,Marsing,Idaho,12.602281151313905
+Nampa,Robie Creek,Idaho,27.832610045155636
+Nampa,Greenleaf,Idaho,14.34338091497208
+Nampa,Horseshoe Bend,Idaho,29.286794733033044
+Nampa,Idaho City,Idaho,40.386985027212695
+Nampa,Notus,Idaho,15.376946344088065
+Nampa,Melba,Idaho,14.70778951097159
+Nampa,Letha,Idaho,21.71860802424339
+Nampa,Grand View,Idaho,47.80527120700219
+Nampa,Garden Valley,Idaho,45.73744233597094
+Nampa,Crouch,Idaho,47.07303083988454
+Nampa,Murphy,Idaho,25.71313719718281
+Nampa,Smiths Ferry,Idaho,54.96091086501891
+Nampa,Placerville,Idaho,39.590766183032116
+Nampa,Lowman,Idaho,58.191339578591815
+Nampa,Banks,Idaho,40.43184843224362
+Coeur d'Alene,Post Falls,Idaho,6.856557393328231
+Coeur d'Alene,Hayden,Idaho,4.448073121282772
+Coeur d'Alene,Rathdrum,Idaho,7.836527461525833
+Coeur d'Alene,Sandpoint,Idaho,41.37395862601762
+Coeur d'Alene,Dalton Gardens,Idaho,2.2887690034811117
+Coeur d'Alene,St. Maries,Idaho,28.82690756000015
+Coeur d'Alene,Spirit Lake,Idaho,18.432311359709278
+Coeur d'Alene,Kellogg,Idaho,32.54641720733087
+Coeur d'Alene,Priest River,Idaho,33.028859250493994
+Coeur d'Alene,Pinehurst,Idaho,28.643770045954724
+Coeur d'Alene,Osburn,Idaho,39.49884361883895
+Coeur d'Alene,Ponderay,Idaho,43.447811029299515
+Coeur d'Alene,Plummer,Idaho,26.181766405430675
+Coeur d'Alene,Kootenai,Idaho,43.90492023585808
+Coeur d'Alene,Wallace,Idaho,43.704811336985024
+Coeur d'Alene,Clark Fork,Idaho,41.928074968563195
+Coeur d'Alene,Hauser,Idaho,11.118063843592669
+Coeur d'Alene,Potlatch,Idaho,54.139545057304844
+Coeur d'Alene,Athol,Idaho,17.24874573661362
+Coeur d'Alene,Hayden Lake,Idaho,4.495910514856246
+Coeur d'Alene,Smelterville,Idaho,30.86066437971557
+Coeur d'Alene,Dover,Idaho,39.38935143203425
+Coeur d'Alene,Mullan,Idaho,49.36606082087414
+Coeur d'Alene,Silverton,Idaho,41.50504429872526
+Coeur d'Alene,Oldtown,Idaho,34.800674441739844
+Coeur d'Alene,Blanchard,Idaho,23.410486260705937
+Coeur d'Alene,Wardner,Idaho,33.289207577851805
+Coeur d'Alene,Rockford Bay,Idaho,14.181408412598548
+Coeur d'Alene,Laclede,Idaho,32.099461601923906
+Coeur d'Alene,Harrison,Idaho,16.345128999099373
+Coeur d'Alene,Worley,Idaho,21.762599752700606
+Coeur d'Alene,Onaway,Idaho,53.78337743783375
+Coeur d'Alene,East Hope,Idaho,43.82594373586976
+Coeur d'Alene,Huetter,Idaho,2.667591414304613
+Coeur d'Alene,Princeton,Idaho,54.52105397740869
+Coeur d'Alene,Fernwood,Idaho,44.94189809447509
+Coeur d'Alene,Fernan Lake Village,Idaho,3.0644757718364137
+Coeur d'Alene,Conkling Park,Idaho,21.04366293610851
+Coeur d'Alene,De Smet,Idaho,39.28351390025825
+Coeur d'Alene,Hope,Idaho,44.22429776007146
+Coeur d'Alene,Tensed,Idaho,38.10111196656635
+Coeur d'Alene,Parkline,Idaho,25.67703075392203
+Coeur d'Alene,State Line,Idaho,11.332394145796936
+Coeur d'Alene,Coolin,Idaho,53.38987218791695
+Meridian,Caldwell,Idaho,13.328297381559747
+Meridian,Eagle,Idaho,7.66271505803809
+Meridian,Kuna,Idaho,8.535769564745653
+Meridian,Mountain Home,Idaho,48.36888274540547
+Meridian,Garden City,Idaho,6.804524111903273
+Meridian,Star,Idaho,7.8439275461977624
+Meridian,Middleton,Idaho,12.913522221121971
+Meridian,Payette,Idaho,41.66438188308499
+Meridian,Emmett,Idaho,18.40166607102176
+Meridian,Fruitland,Idaho,38.48150399241443
+Meridian,Weiser,Idaho,52.7595138999321
+Meridian,Hidden Springs,Idaho,10.502869794671994
+Meridian,Mountain Home AFB,Idaho,47.16461213694803
+Meridian,Homedale,Idaho,27.097763251692854
+Meridian,Parma,Idaho,29.85610649169543
+Meridian,Wilder,Idaho,25.943931759222725
+Meridian,New Plymouth,Idaho,32.522276004475884
+Meridian,Avimor,Idaho,13.345876209627333
+Meridian,Marsing,Idaho,21.144355487452163
+Meridian,Robie Creek,Idaho,19.290566516153138
+Meridian,Greenleaf,Idaho,21.673104868631786
+Meridian,Horseshoe Bend,Idaho,23.264762110154543
+Meridian,Idaho City,Idaho,32.08475361225302
+Meridian,Notus,Idaho,21.660954515798824
+Meridian,Melba,Idaho,17.830703656188778
+Meridian,Letha,Idaho,23.063304706145164
+Meridian,Grand View,Idaho,45.997117802339424
+Meridian,Garden Valley,Idaho,39.17743127827926
+Meridian,Crouch,Idaho,40.75673266721166
+Meridian,Murphy,Idaho,28.604574235806243
+Meridian,Smiths Ferry,Idaho,50.06116422253428
+Meridian,Bruneau,Idaho,59.02496641478827
+Meridian,Placerville,Idaho,32.141779584128464
+Meridian,Lowman,Idaho,50.47001219194856
+Meridian,Banks,Idaho,34.89126784439552
+Idaho Falls,Pocatello,Idaho,47.63653026211403
+Idaho Falls,Rexburg,Idaho,26.200046627886547
+Idaho Falls,Ammon,Idaho,4.08514889435599
+Idaho Falls,Chubbuck,Idaho,44.29085236693704
+Idaho Falls,Blackfoot,Idaho,25.5367853354444
+Idaho Falls,Rigby,Idaho,14.266287329347628
+Idaho Falls,Shelley,Idaho,8.696773267182277
+Idaho Falls,St. Anthony,Idaho,37.395447027947505
+Idaho Falls,Lincoln,Idaho,3.9969200199684525
+Idaho Falls,Victor,Idaho,47.13638955547894
+Idaho Falls,Iona,Idaho,5.9639659516468795
+Idaho Falls,Aberdeen,Idaho,55.18621543319036
+Idaho Falls,Fort Hall,Idaho,38.93753544603677
+Idaho Falls,Driggs,Idaho,49.662140586825494
+Idaho Falls,Sugar City,Idaho,30.426847606043854
+Idaho Falls,Ucon,Idaho,8.302625844040232
+Idaho Falls,Tyhee,Idaho,42.39825777375952
+Idaho Falls,Ashton,Idaho,50.03513270366798
+Idaho Falls,Moreland,Idaho,27.39635363104244
+Idaho Falls,Groveland,Idaho,24.96556228221627
+Idaho Falls,Riverside,Idaho,28.415207594749226
+Idaho Falls,McCammon,Idaho,58.280746667497354
+Idaho Falls,Inkom,Idaho,48.89283472475564
+Idaho Falls,Teton,Idaho,33.090288308132315
+Idaho Falls,Ririe,Idaho,16.6418978404403
+Idaho Falls,Arbon Valley,Idaho,50.237223494837046
+Idaho Falls,Menan,Idaho,16.3506606926329
+Idaho Falls,Parker,Idaho,35.380211562626165
+Idaho Falls,Dubois,Idaho,48.30759245098219
+Idaho Falls,Firth,Idaho,14.55100684612557
+Idaho Falls,Newdale,Idaho,35.060091823223935
+Idaho Falls,Mud Lake,Idaho,33.14074494543724
+Idaho Falls,Roberts,Idaho,16.78393520973585
+Idaho Falls,Lewisville,Idaho,14.4064003690043
+Idaho Falls,Basalt,Idaho,13.56503741626773
+Idaho Falls,Tetonia,Idaho,49.466055298930975
+Idaho Falls,Bancroft,Idaho,53.504046847059236
+Idaho Falls,Lava Hot Springs,Idaho,59.885043816818
+Idaho Falls,Swan Valley,Idaho,35.696319781059834
+Idaho Falls,Rockford,Idaho,32.3037387905302
+Idaho Falls,Irwin,Idaho,38.941700034415426
+Idaho Falls,Hamer,Idaho,31.134694936644
+Idaho Falls,Atomic City,Idaho,39.14783386492442
+Idaho Falls,Drummond,Idaho,49.54450807572859
+Idaho Falls,Warm River,Idaho,56.43099590804669
+Pocatello,Ammon,Idaho,48.847294638467744
+Pocatello,Chubbuck,Idaho,3.7226350427047237
+Pocatello,Blackfoot,Idaho,23.007452125910657
+Pocatello,Shelley,Idaho,38.96821134363323
+Pocatello,American Falls,Idaho,20.729046655346682
+Pocatello,Lincoln,Idaho,51.13072324222997
+Pocatello,Soda Springs,Idaho,46.96791791060183
+Pocatello,Iona,Idaho,52.622008465372616
+Pocatello,Aberdeen,Idaho,19.59773430676224
+Pocatello,Fort Hall,Idaho,9.809514623715982
+Pocatello,Malad City,Idaho,48.37067285952714
+Pocatello,Ucon,Idaho,55.93890850349622
+Pocatello,Tyhee,Idaho,5.732215058328131
+Pocatello,Grace,Idaho,42.63584087071675
+Pocatello,Moreland,Idaho,23.999120770063723
+Pocatello,Groveland,Idaho,24.653714099597273
+Pocatello,Riverside,Idaho,22.42117833614649
+Pocatello,McCammon,Idaho,20.733992527487857
+Pocatello,Inkom,Idaho,12.36865319592892
+Pocatello,Downey,Idaho,35.215992934547785
+Pocatello,Arbon Valley,Idaho,6.628910083448105
+Pocatello,Clifton,Idaho,52.80058406339653
+Pocatello,Firth,Idaho,33.12434040377169
+Pocatello,Dayton,Idaho,58.09062823813077
+Pocatello,Basalt,Idaho,34.07732143348745
+Pocatello,Bancroft,Idaho,31.3810767622164
+Pocatello,Arimo,Idaho,26.175301699257975
+Pocatello,Lava Hot Springs,Idaho,28.976237340009874
+Pocatello,Rockford,Idaho,22.121944868180282
+Pocatello,Acequia,Idaho,59.26324364440244
+Pocatello,Minidoka,Idaho,52.74289505842297
+Pocatello,Rockland,Idaho,29.352995225520765
+Pocatello,Oxford,Idaho,48.04040891059102
+Pocatello,Atomic City,Idaho,43.137426339115144
+Caldwell,Eagle,Idaho,14.665141055654617
+Caldwell,Kuna,Idaho,17.21520744847854
+Caldwell,Garden City,Idaho,19.311903178126027
+Caldwell,Star,Idaho,9.301587302924593
+Caldwell,Middleton,Idaho,5.055327741115568
+Caldwell,Payette,Idaho,32.74798657658015
+Caldwell,Emmett,Idaho,17.597271518810523
+Caldwell,Fruitland,Idaho,28.98945849978976
+Caldwell,Weiser,Idaho,44.816508339463134
+Caldwell,Hidden Springs,Idaho,21.113189651116787
+Caldwell,Mountain Home AFB,Idaho,57.36608445351608
+Caldwell,Homedale,Idaho,14.11743634612645
+Caldwell,Parma,Idaho,17.217063553661376
+Caldwell,Wilder,Idaho,12.615876081201312
+Caldwell,New Plymouth,Idaho,23.825906260940837
+Caldwell,Avimor,Idaho,22.069669252695927
+Caldwell,Marsing,Idaho,10.15253127089895
+Caldwell,Robie Creek,Idaho,32.042959410601746
+Caldwell,Greenleaf,Idaho,8.360208963928208
+Caldwell,Horseshoe Bend,Idaho,29.653223860164733
+Caldwell,Idaho City,Idaho,43.35983108649601
+Caldwell,Notus,Idaho,9.003252897207007
+Caldwell,Melba,Idaho,19.881462716438158
+Caldwell,Letha,Idaho,17.14333945117518
+Caldwell,Grand View,Idaho,53.88509068496986
+Caldwell,Garden Valley,Idaho,46.14644524895149
+Caldwell,Midvale,Idaho,56.528589839708935
+Caldwell,Crouch,Idaho,47.201671068749675
+Caldwell,Murphy,Idaho,30.42203719271191
+Caldwell,Smiths Ferry,Idaho,53.632215015459636
+Caldwell,Placerville,Idaho,41.16323999124793
+Caldwell,Lowman,Idaho,59.896170541825676
+Caldwell,Banks,Idaho,39.95463814831193
+Twin Falls,Jerome,Idaho,10.947998100928327
+Twin Falls,Burley,Idaho,34.17597325428481
+Twin Falls,Rupert,Idaho,40.32844298322419
+Twin Falls,Kimberly,Idaho,5.112081223029913
+Twin Falls,Buhl,Idaho,15.395067517681923
+Twin Falls,Gooding,Idaho,28.751827620723567
+Twin Falls,Heyburn,Idaho,35.662995425599355
+Twin Falls,Wendell,Idaho,19.005082433356815
+Twin Falls,Filer,Idaho,7.667123737700262
+Twin Falls,Shoshone,Idaho,25.861840087325053
+Twin Falls,Hansen,Idaho,8.489349686170112
+Twin Falls,Paul,Idaho,34.62538503566525
+Twin Falls,Glenns Ferry,Idaho,50.583596328509
+Twin Falls,Carey,Idaho,57.73554206123025
+Twin Falls,Hagerman,Idaho,28.203877399673544
+Twin Falls,Hazelton,Idaho,16.69914761264954
+Twin Falls,Oakley,Idaho,37.059037873683074
+Twin Falls,Richfield,Idaho,37.070772072810264
+Twin Falls,Declo,Idaho,42.60504487854153
+Twin Falls,Fairfield,Idaho,56.81368060740848
+Twin Falls,Eden,Idaho,13.173587098742875
+Twin Falls,Hollister,Idaho,15.892726103503529
+Twin Falls,Albion,Idaho,46.24143022377924
+Twin Falls,Gannett,Idaho,56.59079782113448
+Twin Falls,Malta,Idaho,58.57681116795003
+Twin Falls,Dietrich,Idaho,26.010779368247853
+Twin Falls,Bliss,Idaho,35.06706174946217
+Twin Falls,Hammett,Idaho,57.405486445464824
+Twin Falls,Castleford,Idaho,21.16542138544111
+Twin Falls,Acequia,Idaho,44.65704228168896
+Twin Falls,Minidoka,Idaho,51.18340035750226
+Twin Falls,Murtaugh,Idaho,16.05883217442643
+Post Falls,Hayden,Idaho,7.045033483231367
+Post Falls,Rathdrum,Idaho,5.4760483798691775
+Post Falls,Sandpoint,Idaho,42.51298490059524
+Post Falls,Dalton Gardens,Idaho,7.909159829620299
+Post Falls,St. Maries,Idaho,32.908663923306214
+Post Falls,Spirit Lake,Idaho,17.189969940453356
+Post Falls,Kellogg,Idaho,39.30953998192628
+Post Falls,Priest River,Idaho,31.66871641077257
+Post Falls,Pinehurst,Idaho,35.34615639972392
+Post Falls,Osburn,Idaho,46.26779701925166
+Post Falls,Ponderay,Idaho,44.63893222546355
+Post Falls,Plummer,Idaho,27.141644092221096
+Post Falls,Kootenai,Idaho,45.229208849813055
+Post Falls,Wallace,Idaho,50.453465889322686
+Post Falls,Clark Fork,Idaho,46.00173547115664
+Post Falls,Hauser,Idaho,4.692546055680026
+Post Falls,Potlatch,Idaho,55.1471405056782
+Post Falls,Athol,Idaho,18.918406542582144
+Post Falls,Hayden Lake,Idaho,8.999397947876878
+Post Falls,Smelterville,Idaho,37.616597190670674
+Post Falls,Dover,Idaho,40.256482988537215
+Post Falls,Mullan,Idaho,56.15227247115722
+Post Falls,Silverton,Idaho,48.2743218629486
+Post Falls,Oldtown,Idaho,32.200494102248165
+Post Falls,Blanchard,Idaho,20.462097224281738
+Post Falls,Wardner,Idaho,40.01600086781557
+Post Falls,Rockford Bay,Idaho,14.89245339081204
+Post Falls,Laclede,Idaho,32.02781155671509
+Post Falls,Harrison,Idaho,18.63436705784456
+Post Falls,Worley,Idaho,22.166701028385777
+Post Falls,Onaway,Idaho,54.83709177032709
+Post Falls,East Hope,Idaho,46.81920633455041
+Post Falls,Huetter,Idaho,4.261677758196275
+Post Falls,Princeton,Idaho,55.9131367069367
+Post Falls,Fernwood,Idaho,49.230905881142355
+Post Falls,Fernan Lake Village,Idaho,9.531331234350509
+Post Falls,Conkling Park,Idaho,23.559295934284275
+Post Falls,De Smet,Idaho,40.10932464902685
+Post Falls,Hope,Idaho,47.06154035033976
+Post Falls,Tensed,Idaho,38.81034354992952
+Post Falls,Parkline,Idaho,28.81212993595214
+Post Falls,State Line,Idaho,4.711882579000607
+Post Falls,Coolin,Idaho,52.325786193815986
+Rexburg,Ammon,Idaho,25.414050100657104
+Rexburg,Blackfoot,Idaho,51.54310219878859
+Rexburg,Rigby,Idaho,11.956488262202058
+Rexburg,Shelley,Idaho,34.884031556616854
+Rexburg,St. Anthony,Idaho,11.196063582509026
+Rexburg,Lincoln,Idaho,22.809846800074435
+Rexburg,Victor,Idaho,37.37080575920797
+Rexburg,Iona,Idaho,21.558591617878363
+Rexburg,Driggs,Idaho,34.98721625716939
+Rexburg,Sugar City,Idaho,4.227295607225677
+Rexburg,Ucon,Idaho,17.89745037201593
+Rexburg,Ashton,Idaho,24.36699535098937
+Rexburg,Moreland,Idaho,52.78604462378871
+Rexburg,Groveland,Idaho,50.69602452463284
+Rexburg,Riverside,Idaho,53.98458728721796
+Rexburg,Teton,Idaho,7.451980251533814
+Rexburg,Ririe,Idaho,13.177304813848787
+Rexburg,Menan,Idaho,12.212438184302691
+Rexburg,Parker,Idaho,9.521127361222588
+Rexburg,Dubois,Idaho,32.549883533990446
+Rexburg,Firth,Idaho,40.739207217022305
+Rexburg,Newdale,Idaho,10.37846227154727
+Rexburg,Mud Lake,Idaho,34.40855687715064
+Rexburg,Roberts,Idaho,18.242764070113214
+Rexburg,Lewisville,Idaho,14.14209831152837
+Rexburg,Basalt,Idaho,39.764180620407565
+Rexburg,Tetonia,Idaho,31.662887939699917
+Rexburg,Swan Valley,Idaho,34.9404015993292
+Rexburg,Rockford,Idaho,57.35736583985225
+Rexburg,Irwin,Idaho,39.30949202529364
+Rexburg,Island Park,Idaho,53.246730091448406
+Rexburg,Hamer,Idaho,21.625812196098245
+Rexburg,Spencer,Idaho,43.09163052713704
+Rexburg,Atomic City,Idaho,57.48858945253409
+Rexburg,Drummond,Idaho,25.508241245428753
+Rexburg,Warm River,Idaho,31.174730585659045
+Lewiston,Moscow,Idaho,23.306614448367416
+Lewiston,Grangeville,Idaho,52.813133936453966
+Lewiston,Orofino,Idaho,35.73364621379712
+Lewiston,Lapwai,Idaho,9.067611998929818
+Lewiston,Cottonwood,Idaho,38.87118560580273
+Lewiston,Kamiah,Idaho,47.59838234165153
+Lewiston,Genesee,Idaho,11.357629997841723
+Lewiston,Troy,Idaho,26.011753457158225
+Lewiston,Potlatch,Idaho,36.89802224100581
+Lewiston,Kooskia,Idaho,51.71956777567408
+Lewiston,Juliaetta,Idaho,18.407421952506024
+Lewiston,Nezperce,Idaho,37.671949344609494
+Lewiston,Craigmont,Idaho,27.01020578780624
+Lewiston,Deary,Idaho,34.94407463826761
+Lewiston,Culdesac,Idaho,15.4919424652232
+Lewiston,Pierce,Idaho,57.41507196986637
+Lewiston,Weippe,Idaho,50.37420739420313
+Lewiston,Kendrick,Idaho,22.217047258428174
+Lewiston,Winchester,Idaho,20.566320791644475
+Lewiston,Onaway,Idaho,37.268637465351745
+Lewiston,Bovill,Idaho,42.97422398618272
+Lewiston,Ferdinand,Idaho,33.364638499469116
+Lewiston,Sweetwater,Idaho,9.526553734712639
+Lewiston,Peck,Idaho,27.65825512402963
+Lewiston,Elk River,Idaho,47.11428638429006
+Lewiston,Stites,Idaho,52.9981727880577
+Lewiston,Princeton,Idaho,36.85529045243355
+Lewiston,Fernwood,Idaho,57.57875752739819
+Lewiston,De Smet,Idaho,51.787319920876456
+Lewiston,Reubens,Idaho,22.082555788505832
+Lewiston,Tensed,Idaho,53.0284213740004
+Lewiston,Viola,Idaho,30.79644847477502
+Lewiston,White Bird,Idaho,54.854600144120575
+Eagle,Kuna,Idaho,16.17889786971366
+Eagle,Mountain Home,Idaho,53.50007737299717
+Eagle,Garden City,Idaho,7.403225725045835
+Eagle,Star,Idaho,5.4215274425494195
+Eagle,Middleton,Idaho,11.497118486412408
+Eagle,Payette,Idaho,36.46271778894665
+Eagle,Emmett,Idaho,11.426719334885448
+Eagle,Fruitland,Idaho,33.71432812288945
+Eagle,Weiser,Idaho,46.8362242838213
+Eagle,Hidden Springs,Idaho,6.8012826293454065
+Eagle,Mountain Home AFB,Idaho,53.338239066120565
+Eagle,Homedale,Idaho,28.59661442958687
+Eagle,Parma,Idaho,28.18840018621432
+Eagle,Wilder,Idaho,26.24297986382242
+Eagle,New Plymouth,Idaho,27.57185251826478
+Eagle,Avimor,Idaho,7.459736882889027
+Eagle,Marsing,Idaho,24.42514391448853
+Eagle,Robie Creek,Idaho,18.69697849720144
+Eagle,Cascade,Idaho,56.92940806462093
+Eagle,Greenleaf,Idaho,21.99935474323128
+Eagle,Horseshoe Bend,Idaho,16.341694003051053
+Eagle,Idaho City,Idaho,28.75244799972503
+Eagle,Notus,Idaho,20.69024423470069
+Eagle,Melba,Idaho,25.22485335067363
+Eagle,Letha,Idaho,17.51321841576908
+Eagle,Grand View,Idaho,53.09533996694817
+Eagle,Garden Valley,Idaho,32.727747863755866
+Eagle,Midvale,Idaho,54.05773287458029
+Eagle,Crouch,Idaho,34.10551625595264
+Eagle,Murphy,Idaho,36.15038377000279
+Eagle,Smiths Ferry,Idaho,42.6772742793482
+Eagle,Placerville,Idaho,26.766128138549004
+Eagle,Lowman,Idaho,45.46818244695162
+Eagle,Banks,Idaho,27.73055826923768
+Moscow,Orofino,Idaho,39.11632284381187
+Moscow,St. Maries,Idaho,45.07635426928883
+Moscow,Lapwai,Idaho,24.43915365769102
+Moscow,Cottonwood,Idaho,56.26885001944552
+Moscow,Kamiah,Idaho,57.92202601193713
+Moscow,Genesee,Idaho,12.820692379396073
+Moscow,Plummer,Idaho,41.745733308168255
+Moscow,Troy,Idaho,10.721139060450614
+Moscow,Potlatch,Idaho,14.146114080567505
+Moscow,Juliaetta,Idaho,17.500383817722213
+Moscow,Nezperce,Idaho,49.853589030918165
+Moscow,Craigmont,Idaho,42.05058700244879
+Moscow,Deary,Idaho,21.494150648043185
+Moscow,Culdesac,Idaho,29.13864574166913
+Moscow,Pierce,Idaho,59.39113241206732
+Moscow,Weippe,Idaho,56.015921360918995
+Moscow,Kendrick,Idaho,18.25053519784726
+Moscow,Rockford Bay,Idaho,53.98917789333846
+Moscow,Harrison,Idaho,51.71715970312651
+Moscow,Winchester,Idaho,38.26368654817907
+Moscow,Worley,Idaho,46.42724889451689
+Moscow,Onaway,Idaho,14.582014434524556
+Moscow,Bovill,Idaho,30.030441679962575
+Moscow,Ferdinand,Idaho,49.42980563037781
+Moscow,Sweetwater,Idaho,26.848934840572706
+Moscow,Peck,Idaho,32.48891199092996
+Moscow,Elk River,Idaho,38.979608042663784
+Moscow,Princeton,Idaho,15.000727403661523
+Moscow,Fernwood,Idaho,39.29581927928495
+Moscow,Conkling Park,Idaho,47.45255992403168
+Moscow,De Smet,Idaho,28.635108889765704
+Moscow,Reubens,Idaho,35.57799741119293
+Moscow,Tensed,Idaho,29.831128878100003
+Moscow,Viola,Idaho,7.5289553645796605
+Moscow,Parkline,Idaho,44.3755885305129
+Kuna,Mountain Home,Idaho,42.83363883386422
+Kuna,Garden City,Idaho,12.837778360739646
+Kuna,Star,Idaho,15.611613876290985
+Kuna,Middleton,Idaho,19.030423732215475
+Kuna,Payette,Idaho,48.706198168727255
+Kuna,Emmett,Idaho,26.781026311750978
+Kuna,Fruitland,Idaho,45.24908858675599
+Kuna,Hidden Springs,Idaho,17.54595151883577
+Kuna,Mountain Home AFB,Idaho,40.308890738009204
+Kuna,Homedale,Idaho,28.72477627107567
+Kuna,Parma,Idaho,34.4061655277957
+Kuna,Wilder,Idaho,28.93158070831138
+Kuna,New Plymouth,Idaho,39.54261554259979
+Kuna,Avimor,Idaho,21.010035154440512
+Kuna,Marsing,Idaho,21.292721630698654
+Kuna,Robie Creek,Idaho,22.448400008869974
+Kuna,Greenleaf,Idaho,25.058676474746356
+Kuna,Horseshoe Bend,Idaho,31.131564201656783
+Kuna,Idaho City,Idaho,36.69450996718526
+Kuna,Notus,Idaho,26.21835196154913
+Kuna,Melba,Idaho,10.597386164007544
+Kuna,Letha,Idaho,30.701367417795304
+Kuna,Grand View,Idaho,37.98314407713738
+Kuna,Garden Valley,Idaho,46.416729092847675
+Kuna,Crouch,Idaho,48.16621300503522
+Kuna,Murphy,Idaho,20.588873965883856
+Kuna,Smiths Ferry,Idaho,58.15859693348994
+Kuna,Bruneau,Idaho,51.762294433124865
+Kuna,Placerville,Idaho,38.5634356149789
+Kuna,Lowman,Idaho,56.18094120478073
+Kuna,Banks,Idaho,42.82360819336122
+Ammon,Chubbuck,Idaho,45.64901547675096
+Ammon,Blackfoot,Idaho,27.53950213502525
+Ammon,Rigby,Idaho,13.90470864347976
+Ammon,Shelley,Idaho,10.750502873141079
+Ammon,St. Anthony,Idaho,36.49985128402534
+Ammon,Lincoln,Idaho,3.087321141520915
+Ammon,Soda Springs,Idaho,59.311364370419135
+Ammon,Victor,Idaho,43.38218898049032
+Ammon,Iona,Idaho,3.8558120871636747
+Ammon,Aberdeen,Idaho,57.63915077824425
+Ammon,Fort Hall,Idaho,40.57745486050855
+Ammon,Driggs,Idaho,46.26121202694647
+Ammon,Sugar City,Idaho,29.5878170499584
+Ammon,Ucon,Idaho,8.223259768333653
+Ammon,Tyhee,Idaho,43.82504713535496
+Ammon,Ashton,Idaho,48.54866129666365
+Ammon,Moreland,Idaho,29.95227604426376
+Ammon,Groveland,Idaho,27.298220706271564
+Ammon,Riverside,Idaho,30.828873469031098
+Ammon,McCammon,Idaho,58.10070959965098
+Ammon,Inkom,Idaho,49.08164228087206
+Ammon,Teton,Idaho,31.85267874709379
+Ammon,Ririe,Idaho,14.322990251953737
+Ammon,Arbon Valley,Idaho,51.90941080212744
+Ammon,Menan,Idaho,17.166569631149343
+Ammon,Parker,Idaho,34.84933643332432
+Ammon,Dubois,Idaho,50.091003269963956
+Ammon,Firth,Idaho,16.307722106038888
+Ammon,Newdale,Idaho,33.488375906480734
+Ammon,Mud Lake,Idaho,36.534012671121424
+Ammon,Roberts,Idaho,19.059317354232704
+Ammon,Lewisville,Idaho,15.489402814269196
+Ammon,Basalt,Idaho,15.226902817629222
+Ammon,Tetonia,Idaho,46.400104860383756
+Ammon,Bancroft,Idaho,52.20374535449389
+Ammon,Lava Hot Springs,Idaho,59.061263212323524
+Ammon,Swan Valley,Idaho,31.653653041208713
+Ammon,Rockford,Idaho,34.98608923314557
+Ammon,Irwin,Idaho,34.8640591111194
+Ammon,Hamer,Idaho,33.23372811424471
+Ammon,Atomic City,Idaho,43.08130251085735
+Ammon,Drummond,Idaho,47.51119674315341
+Ammon,Warm River,Idaho,54.70570314527016
+Mountain Home,Garden City,Idaho,46.19856792624991
+Mountain Home,Star,Idaho,56.1030764979135
+Mountain Home,Gooding,Idaho,51.59642017817111
+Mountain Home,Hidden Springs,Idaho,49.21882686604994
+Mountain Home,Mountain Home AFB,Idaho,10.263640538484811
+Mountain Home,Wendell,Idaho,56.148308398888474
+Mountain Home,Glenns Ferry,Idaho,23.417555094077393
+Mountain Home,Avimor,Idaho,52.596083403701996
+Mountain Home,Robie Creek,Idaho,40.416309139688686
+Mountain Home,Hagerman,Idaho,46.02716875207144
+Mountain Home,Horseshoe Bend,Idaho,59.73152184057291
+Mountain Home,Idaho City,Idaho,48.49608982498431
+Mountain Home,Melba,Idaho,45.288056194388446
+Mountain Home,Grand View,Idaho,22.455771775829
+Mountain Home,Fairfield,Idaho,47.64492561993231
+Mountain Home,Bliss,Idaho,40.565819314725964
+Mountain Home,Hammett,Idaho,17.50674743364815
+Mountain Home,Castleford,Idaho,59.512879504786184
+Mountain Home,Murphy,Idaho,43.37259046297169
+Mountain Home,Bruneau,Idaho,18.41421348030322
+Mountain Home,Placerville,Idaho,57.32085157961196
+Hayden,Rathdrum,Idaho,4.598737862491193
+Hayden,Sandpoint,Idaho,37.26327593463812
+Hayden,Dalton Gardens,Idaho,2.9067965947672816
+Hayden,St. Maries,Idaho,33.145346512010505
+Hayden,Spirit Lake,Idaho,14.004972270172075
+Hayden,Kellogg,Idaho,34.776727585943576
+Hayden,Priest River,Idaho,28.58156577134328
+Hayden,Pinehurst,Idaho,31.10028585062521
+Hayden,Osburn,Idaho,41.65923276143469
+Hayden,Ponderay,Idaho,39.356425771690006
+Hayden,Plummer,Idaho,30.488044301439643
+Hayden,Kootenai,Idaho,39.8523731470284
+Hayden,Wallace,Idaho,45.914595369622496
+Hayden,Clark Fork,Idaho,39.16104952857076
+Hayden,Hauser,Idaho,9.749215991558957
+Hayden,Potlatch,Idaho,58.50549600751012
+Hayden,Athol,Idaho,13.142896401729878
+Hayden,Hayden Lake,Idaho,2.258303792307919
+Hayden,Smelterville,Idaho,33.13125838976611
+Hayden,Dover,Idaho,35.204549522578965
+Hayden,Mullan,Idaho,51.411572313384205
+Hayden,Silverton,Idaho,43.6530774830559
+Hayden,Oldtown,Idaho,30.45083789390666
+Hayden,Blanchard,Idaho,19.200298443459957
+Hayden,Wardner,Idaho,35.63306584972036
+Hayden,Rockford Bay,Idaho,18.33125871905789
+Hayden,Laclede,Idaho,27.72378092814347
+Hayden,Harrison,Idaho,20.760313858842448
+Hayden,Worley,Idaho,25.941057904535768
+Hayden,Onaway,Idaho,58.15457714710446
+Hayden,East Hope,Idaho,40.42721676323759
+Hayden,Huetter,Idaho,4.9489032580922965
+Hayden,Princeton,Idaho,58.92770187873662
+Hayden,Fernwood,Idaho,49.16796955751027
+Hayden,Fernan Lake Village,Idaho,7.102962977809729
+Hayden,Conkling Park,Idaho,25.48569130156368
+Hayden,De Smet,Idaho,43.60638253462644
+Hayden,Hope,Idaho,40.75002070619457
+Hayden,Tensed,Idaho,42.40374074337987
+Hayden,Parkline,Idaho,30.114709573887414
+Hayden,State Line,Idaho,11.676454373715256
+Hayden,Coolin,Idaho,48.952250380420004
+Chubbuck,Blackfoot,Idaho,19.403720369560002
+Chubbuck,Rigby,Idaho,58.535673505237845
+Chubbuck,Shelley,Idaho,35.60173816916232
+Chubbuck,American Falls,Idaho,22.22735454796425
+Chubbuck,Lincoln,Idaho,47.85194562999204
+Chubbuck,Soda Springs,Idaho,48.13365939910823
+Chubbuck,Iona,Idaho,49.39087926143187
+Chubbuck,Aberdeen,Idaho,19.115464813795327
+Chubbuck,Fort Hall,Idaho,6.086988605415098
+Chubbuck,Malad City,Idaho,51.97441637692485
+Chubbuck,Ucon,Idaho,52.590897459158356
+Chubbuck,Tyhee,Idaho,2.019569764512813
+Chubbuck,Grace,Idaho,44.42726778659577
+Chubbuck,Moreland,Idaho,20.277745011947864
+Chubbuck,Groveland,Idaho,20.980896911284287
+Chubbuck,Riverside,Idaho,18.700956841837325
+Chubbuck,McCammon,Idaho,23.541667388192153
+Chubbuck,Inkom,Idaho,14.265736066721148
+Chubbuck,Downey,Idaho,38.43645609513155
+Chubbuck,Ririe,Idaho,59.907310861264314
+Chubbuck,Arbon Valley,Idaho,7.283231272234404
+Chubbuck,Menan,Idaho,59.80315781307983
+Chubbuck,Clifton,Idaho,56.101850912486434
+Chubbuck,Firth,Idaho,29.746813728857255
+Chubbuck,Roberts,Idaho,57.37087241084684
+Chubbuck,Lewisville,Idaho,57.70180786501038
+Chubbuck,Basalt,Idaho,30.72694379664
+Chubbuck,Bancroft,Idaho,32.69309599120697
+Chubbuck,Arimo,Idaho,29.250640922339677
+Chubbuck,Lava Hot Springs,Idaho,31.258849515908285
+Chubbuck,Rockford,Idaho,18.474508968718183
+Chubbuck,Minidoka,Idaho,53.54274220275317
+Chubbuck,Rockland,Idaho,32.1543488251589
+Chubbuck,Oxford,Idaho,51.287031263102485
+Chubbuck,Atomic City,Idaho,39.818645302116366
+Jerome,Burley,Idaho,38.905059745826506
+Jerome,Hailey,Idaho,56.03561182820692
+Jerome,Rupert,Idaho,43.426230482220014
+Jerome,Kimberly,Idaho,14.702583378974175
+Jerome,Buhl,Idaho,14.906086855434623
+Jerome,Gooding,Idaho,18.167452602984515
+Jerome,Heyburn,Idaho,39.919044180562814
+Jerome,Wendell,Idaho,10.270525049278774
+Jerome,Filer,Idaho,11.442705916440287
+Jerome,Bellevue,Idaho,53.46133420511928
+Jerome,Shoshone,Idaho,16.12420368354766
+Jerome,Hansen,Idaho,16.8999120944264
+Jerome,Paul,Idaho,38.05403378091787
+Jerome,Glenns Ferry,Idaho,43.261972665090205
+Jerome,Carey,Idaho,50.06939399261506
+Jerome,Hagerman,Idaho,20.559172465680806
+Jerome,Hazelton,Idaho,21.096432554933696
+Jerome,Oakley,Idaho,46.129990437693735
+Jerome,Richfield,Idaho,29.439617753033556
+Jerome,Declo,Idaho,47.2495156512695
+Jerome,Fairfield,Idaho,45.88193580299435
+Jerome,Eden,Idaho,17.460122820166443
+Jerome,Hollister,Idaho,25.431840444014348
+Jerome,Albion,Idaho,52.24643007650021
+Jerome,Gannett,Idaho,47.36293446059871
+Jerome,Dietrich,Idaho,18.493695655939725
+Jerome,Bliss,Idaho,26.169771153225486
+Jerome,Hammett,Idaho,50.70381216215856
+Jerome,Castleford,Idaho,22.681815642320526
+Jerome,Acequia,Idaho,46.9214666731738
+Jerome,Minidoka,Idaho,52.26063175456541
+Jerome,Murtaugh,Idaho,23.8387714711387
+Blackfoot,Rigby,Idaho,39.59904972354245
+Blackfoot,Shelley,Idaho,16.920332057253894
+Blackfoot,American Falls,Idaho,38.34405254759087
+Blackfoot,Lincoln,Idaho,29.331404425571595
+Blackfoot,Soda Springs,Idaho,53.29886350779959
+Blackfoot,Iona,Idaho,31.05596336252579
+Blackfoot,Aberdeen,Idaho,30.33369519614185
+Blackfoot,Fort Hall,Idaho,13.62677716990228
+Blackfoot,Sugar City,Idaho,55.76110674047605
+Blackfoot,Ucon,Idaho,33.74319281399083
+Blackfoot,Tyhee,Idaho,17.410428275955443
+Blackfoot,Grace,Idaho,52.896304579899905
+Blackfoot,Moreland,Idaho,4.986940061673162
+Blackfoot,Groveland,Idaho,2.5411164268976933
+Blackfoot,Riverside,Idaho,4.558952139863692
+Blackfoot,McCammon,Idaho,38.342246550759995
+Blackfoot,Inkom,Idaho,27.97667918350176
+Blackfoot,Teton,Idaho,58.58467299816683
+Blackfoot,Downey,Idaho,54.0124168682153
+Blackfoot,Ririe,Idaho,41.82612153592917
+Blackfoot,Arbon Valley,Idaho,24.790627946320114
+Blackfoot,Menan,Idaho,40.52896058035296
+Blackfoot,Arco,Idaho,56.822570820429576
+Blackfoot,Firth,Idaho,11.237682948979634
+Blackfoot,Mud Lake,Idaho,45.31716469729616
+Blackfoot,Roberts,Idaho,37.96981523287176
+Blackfoot,Lewisville,Idaho,38.419938957484725
+Blackfoot,Basalt,Idaho,12.331009754025857
+Blackfoot,Bancroft,Idaho,40.240955120479725
+Blackfoot,Arimo,Idaho,44.62379069317879
+Blackfoot,Lava Hot Springs,Idaho,43.139675501253215
+Blackfoot,Swan Valley,Idaho,54.084517238011934
+Blackfoot,Rockford,Idaho,9.360222802244719
+Blackfoot,Irwin,Idaho,55.89582938109737
+Blackfoot,Rockland,Idaho,50.57708128211388
+Blackfoot,Butte City,Idaho,53.33195123715422
+Blackfoot,Hamer,Idaho,50.73935544327556
+Blackfoot,Atomic City,Idaho,29.15118497052328
+Garden City,Star,Idaho,11.41275209639695
+Garden City,Middleton,Idaho,17.578747946935863
+Garden City,Payette,Idaho,43.86164910977561
+Garden City,Emmett,Idaho,18.494568542495198
+Garden City,Fruitland,Idaho,41.11031754246883
+Garden City,Weiser,Idaho,54.113097200195675
+Garden City,Hidden Springs,Idaho,4.806498324696637
+Garden City,Mountain Home AFB,Idaho,46.4431715928422
+Garden City,Homedale,Idaho,33.37387131890675
+Garden City,Parma,Idaho,34.729054350339695
+Garden City,Wilder,Idaho,31.758192340538052
+Garden City,New Plymouth,Idaho,34.97177898571925
+Garden City,Avimor,Idaho,8.549039975090235
+Garden City,Marsing,Idaho,27.826339793173425
+Garden City,Robie Creek,Idaho,12.745718422123913
+Garden City,Greenleaf,Idaho,27.444379000124584
+Garden City,Horseshoe Bend,Idaho,18.597638831290865
+Garden City,Idaho City,Idaho,25.294874176526022
+Garden City,Notus,Idaho,26.818299105121906
+Garden City,Melba,Idaho,23.271415988852425
+Garden City,Letha,Idaho,24.913263317473955
+Garden City,Grand View,Idaho,47.071383161343164
+Garden City,Garden Valley,Idaho,33.57897144955937
+Garden City,Crouch,Idaho,35.33941053386369
+Garden City,Murphy,Idaho,33.39262032909333
+Garden City,Smiths Ferry,Idaho,45.68584951829391
+Garden City,Bruneau,Idaho,58.66842010650376
+Garden City,Placerville,Idaho,25.897084644718422
+Garden City,Lowman,Idaho,43.94513088702921
+Garden City,Banks,Idaho,30.247554255463577
+Star,Middleton,Idaho,6.254158209796313
+Star,Payette,Idaho,33.82850327141442
+Star,Emmett,Idaho,11.508863980336208
+Star,Fruitland,Idaho,30.691527282863305
+Star,Weiser,Idaho,44.9409298088244
+Star,Hidden Springs,Idaho,12.109376486036338
+Star,Mountain Home AFB,Idaho,55.00480314945117
+Star,Homedale,Idaho,23.17516305069959
+Star,Parma,Idaho,23.32690646257998
+Star,Wilder,Idaho,20.88801158756965
+Star,New Plymouth,Idaho,24.69735062768671
+Star,Avimor,Idaho,12.770503249539756
+Star,Marsing,Idaho,19.24389360392147
+Star,Robie Creek,Idaho,23.692253803853813
+Star,Cascade,Idaho,59.968893236042106
+Star,Greenleaf,Idaho,16.61932447101359
+Star,Horseshoe Bend,Idaho,20.75515784299538
+Star,Idaho City,Idaho,34.17385481951408
+Star,Notus,Idaho,15.532814506555402
+Star,Melba,Idaho,22.87395794190361
+Star,Letha,Idaho,15.253604348290235
+Star,Grand View,Idaho,53.54589841372698
+Star,Garden Valley,Idaho,37.28912404960589
+Star,Midvale,Idaho,53.89801738771465
+Star,Crouch,Idaho,38.49603008660411
+Star,Murphy,Idaho,33.983382556643654
+Star,Smiths Ferry,Idaho,46.03643419611004
+Star,Placerville,Idaho,31.906261426212794
+Star,Lowman,Idaho,50.638079486908396
+Star,Banks,Idaho,31.626570109345334
+Burley,Rupert,Idaho,8.237864515210013
+Burley,Kimberly,Idaho,29.47033695667568
+Burley,Buhl,Idaho,49.51305824917263
+Burley,American Falls,Idaho,50.712267599742276
+Burley,Gooding,Idaho,54.36135965390565
+Burley,Heyburn,Idaho,2.163687622879195
+Burley,Wendell,Idaho,49.155358497955234
+Burley,Filer,Idaho,41.8420482209681
+Burley,Aberdeen,Idaho,56.063640261803734
+Burley,Shoshone,Idaho,41.60625476098357
+Burley,Hansen,Idaho,25.961688937194054
+Burley,Paul,Idaho,4.66280995852666
+Burley,Carey,Idaho,53.83015058749354
+Burley,Hagerman,Idaho,59.461918604801056
+Burley,Hazelton,Idaho,17.993133505973283
+Burley,Oakley,Idaho,20.954388065502386
+Burley,Richfield,Idaho,40.00408591677685
+Burley,Declo,Idaho,8.457290068884106
+Burley,Eden,Idaho,21.74722290057119
+Burley,Hollister,Idaho,42.419034628833714
+Burley,Albion,Idaho,13.983033478082206
+Burley,Gannett,Idaho,59.78435654474553
+Burley,Malta,Idaho,26.856553127577858
+Burley,Dietrich,Idaho,35.36380471973257
+Burley,Castleford,Idaho,55.10308846291681
+Burley,Acequia,Idaho,13.465598821455552
+Burley,Minidoka,Idaho,21.45374983619512
+Burley,Murtaugh,Idaho,19.154708891131367
+Burley,Rockland,Idaho,46.919294565541186
+Middleton,Payette,Idaho,29.715048760716098
+Middleton,Emmett,Idaho,12.550352948064353
+Middleton,Fruitland,Idaho,26.218907669465604
+Middleton,Weiser,Idaho,41.44357269640655
+Middleton,Hidden Springs,Idaho,18.28251503448509
+Middleton,Mountain Home AFB,Idaho,59.27534537662672
+Middleton,Homedale,Idaho,17.452789691515974
+Middleton,Parma,Idaho,17.176756320555196
+Middleton,Wilder,Idaho,14.769821691715514
+Middleton,New Plymouth,Idaho,20.575265520301933
+Middleton,Avimor,Idaho,18.492763951591762
+Middleton,Marsing,Idaho,14.954603602202043
+Middleton,Robie Creek,Idaho,29.946409875624855
+Middleton,Greenleaf,Idaho,10.580316088800922
+Middleton,Horseshoe Bend,Idaho,25.16394769707788
+Middleton,Idaho City,Idaho,40.092820925093704
+Middleton,Notus,Idaho,9.279441439050046
+Middleton,Melba,Idaho,23.755653890234075
+Middleton,Letha,Idaho,12.65834195015791
+Middleton,Grand View,Idaho,56.73162491621823
+Middleton,Garden Valley,Idaho,41.54763103766197
+Middleton,Cambridge,Idaho,59.499136764656434
+Middleton,Midvale,Idaho,52.20560343728996
+Middleton,Crouch,Idaho,42.50647373026648
+Middleton,Murphy,Idaho,34.627756916444504
+Middleton,Smiths Ferry,Idaho,48.61667407179544
+Middleton,Placerville,Idaho,37.09004033368864
+Middleton,Lowman,Idaho,55.77816500047771
+Middleton,Banks,Idaho,35.11780706688438
+Rathdrum,Sandpoint,Idaho,37.04145833664049
+Rathdrum,Dalton Gardens,Idaho,7.216894961696766
+Rathdrum,St. Maries,Idaho,36.434480158078365
+Rathdrum,Spirit Lake,Idaho,11.868970047224515
+Rathdrum,Kellogg,Idaho,39.36880152902549
+Rathdrum,Priest River,Idaho,26.493783123024915
+Rathdrum,Pinehurst,Idaho,35.66935846464702
+Rathdrum,Osburn,Idaho,46.256076999230515
+Rathdrum,Ponderay,Idaho,39.16831365786217
+Rathdrum,Plummer,Idaho,32.106951992104264
+Rathdrum,Kootenai,Idaho,39.7644634476038
+Rathdrum,Wallace,Idaho,50.51027507228666
+Rathdrum,Clark Fork,Idaho,41.24615945864735
+Rathdrum,Hauser,Idaho,5.867209823237721
+Rathdrum,Athol,Idaho,13.623077215140961
+Rathdrum,Hayden Lake,Idaho,6.793718091615917
+Rathdrum,Smelterville,Idaho,37.72002275142624
+Rathdrum,Dover,Idaho,34.780458389722
+Rathdrum,Mullan,Idaho,56.01018946113165
+Rathdrum,Silverton,Idaho,48.25052027716878
+Rathdrum,Oldtown,Idaho,27.52437205059329
+Rathdrum,Blanchard,Idaho,15.898609971669375
+Rathdrum,Wardner,Idaho,40.217181848044824
+Rathdrum,Rockford Bay,Idaho,19.7758373092929
+Rathdrum,Laclede,Idaho,26.593395569339563
+Rathdrum,Harrison,Idaho,23.007718559029087
+Rathdrum,Worley,Idaho,27.251485400249084
+Rathdrum,Onaway,Idaho,59.867523886475404
+Rathdrum,East Hope,Idaho,41.63709370096963
+Rathdrum,Huetter,Idaho,6.613605008940079
+Rathdrum,Fernwood,Idaho,52.64452917033233
+Rathdrum,Fernan Lake Village,Idaho,10.878629627130142
+Rathdrum,Conkling Park,Idaho,27.897214772464842
+Rathdrum,De Smet,Idaho,45.17407336000537
+Rathdrum,Hope,Idaho,41.834581423887954
+Rathdrum,Tensed,Idaho,43.90384300601345
+Rathdrum,Parkline,Idaho,32.88667366900482
+Rathdrum,State Line,Idaho,9.067398509508472
+Rathdrum,Coolin,Idaho,47.122990333511666
+Hailey,Gooding,Idaho,44.95288113656443
+Hailey,Ketchum,Idaho,12.464487060932303
+Hailey,Wendell,Idaho,54.96015077176068
+Hailey,Bellevue,Idaho,3.881912621850539
+Hailey,Shoshone,Idaho,40.19926284723922
+Hailey,Sun Valley,Idaho,11.83769091890385
+Hailey,Carey,Idaho,22.794151064507272
+Hailey,Hagerman,Idaho,56.838801574732564
+Hailey,Arco,Idaho,50.76561412476733
+Hailey,Mackay,Idaho,44.036463736611616
+Hailey,Richfield,Idaho,32.71538296055446
+Hailey,Fairfield,Idaho,27.642937859010598
+Hailey,Gannett,Idaho,12.524064981137778
+Hailey,Dietrich,Idaho,41.544463460510286
+Hailey,Bliss,Idaho,52.2239136528581
+Hailey,Stanley,Idaho,57.91764653847177
+Hailey,Moore,Idaho,49.18141708148161
+Hailey,Butte City,Idaho,53.56624782633449
+Hailey,Clayton,Idaho,51.62214070134613
+Hailey,Lost River,Idaho,40.172343853321
+Sandpoint,Bonners Ferry,Idaho,30.487449633097018
+Sandpoint,Dalton Gardens,Idaho,39.15974589157427
+Sandpoint,Spirit Lake,Idaho,26.10640421055443
+Sandpoint,Kellogg,Idaho,55.0412471644333
+Sandpoint,Priest River,Idaho,16.526933050581473
+Sandpoint,Pinehurst,Idaho,53.74131035686085
+Sandpoint,Osburn,Idaho,59.64920285690581
+Sandpoint,Moyie Springs,Idaho,34.89156283941423
+Sandpoint,Ponderay,Idaho,2.1323194553892137
+Sandpoint,Kootenai,Idaho,2.887085168810066
+Sandpoint,Clark Fork,Idaho,20.06022079441944
+Sandpoint,Hauser,Idaho,41.318106396548345
+Sandpoint,Athol,Idaho,24.137716717627114
+Sandpoint,Hayden Lake,Idaho,36.92700396176802
+Sandpoint,Smelterville,Idaho,54.12026216445349
+Sandpoint,Dover,Idaho,2.68541396244722
+Sandpoint,Oldtown,Idaho,22.245490850381746
+Sandpoint,Blanchard,Idaho,27.16933812962402
+Sandpoint,Wardner,Idaho,56.322240918704836
+Sandpoint,Rockford Bay,Idaho,55.542059123547524
+Sandpoint,Laclede,Idaho,11.859328658341802
+Sandpoint,Harrison,Idaho,57.39967339667476
+Sandpoint,East Hope,Idaho,12.83018501391646
+Sandpoint,Huetter,Idaho,42.161926460443375
+Sandpoint,Fernan Lake Village,Idaho,42.99026569795618
+Sandpoint,Hope,Idaho,11.920968229771193
+Sandpoint,State Line,Idaho,45.550752223971635
+Sandpoint,Coolin,Idaho,18.671701919372847
+Payette,Emmett,Idaho,26.023890231619923
+Payette,Fruitland,Idaho,4.0841348524697345
+Payette,Weiser,Idaho,12.334876475820208
+Payette,Hidden Springs,Idaho,41.8064405126992
+Payette,Homedale,Idaho,31.999177099344895
+Payette,Parma,Idaho,20.206284645451902
+Payette,Wilder,Idaho,27.673039461398545
+Payette,New Plymouth,Idaho,9.171212497866552
+Payette,Avimor,Idaho,39.36977885303719
+Payette,Marsing,Idaho,37.19853837295299
+Payette,Robie Creek,Idaho,53.33937798435148
+Payette,Cascade,Idaho,52.900774392086454
+Payette,Greenleaf,Idaho,28.342436812847254
+Payette,Horseshoe Bend,Idaho,37.86937091193471
+Payette,Idaho City,Idaho,57.28214112457965
+Payette,Council,Idaho,51.20836588851775
+Payette,Notus,Idaho,25.106033796378135
+Payette,Melba,Idaho,52.58122308492555
+Payette,Letha,Idaho,18.949595977611995
+Payette,Garden Valley,Idaho,47.993860041115575
+Payette,Cambridge,Idaho,36.19242191286612
+Payette,Midvale,Idaho,27.943289629745994
+Payette,Crouch,Idaho,47.412724820322445
+Payette,Smiths Ferry,Idaho,44.749945651182536
+Payette,Placerville,Idaho,49.70331534855466
+Payette,Banks,Idaho,39.703257539069355
+Emmett,Fruitland,Idaho,23.84932119060996
+Emmett,Weiser,Idaho,35.67496432225076
+Emmett,Hidden Springs,Idaho,15.846751594975053
+Emmett,Homedale,Idaho,28.394984297853927
+Emmett,Parma,Idaho,23.271488734505407
+Emmett,Wilder,Idaho,24.61541950385203
+Emmett,New Plymouth,Idaho,17.765454342616856
+Emmett,Avimor,Idaho,13.381664694826904
+Emmett,Marsing,Idaho,27.379820465429894
+Emmett,Robie Creek,Idaho,27.341013115593366
+Emmett,Cascade,Idaho,49.464197898059915
+Emmett,Greenleaf,Idaho,21.2356368535272
+Emmett,Horseshoe Bend,Idaho,14.933676520860535
+Emmett,Idaho City,Idaho,33.14359373380314
+Emmett,Council,Idaho,59.68096675006024
+Emmett,Notus,Idaho,18.288101594471907
+Emmett,Melba,Idaho,34.351255007271
+Emmett,Letha,Idaho,7.8487189509272275
+Emmett,Garden Valley,Idaho,30.28194218764748
+Emmett,Cambridge,Idaho,49.38385791254599
+Emmett,Midvale,Idaho,42.78122800343703
+Emmett,Crouch,Idaho,30.918264964804997
+Emmett,Murphy,Idaho,45.46060191818703
+Emmett,Smiths Ferry,Idaho,36.100480372251006
+Emmett,Placerville,Idaho,27.70181146792041
+Emmett,Lowman,Idaho,45.76850976688543
+Emmett,Banks,Idaho,23.152672744472163
+Fruitland,Weiser,Idaho,16.391976375964248
+Fruitland,Hidden Springs,Idaho,39.391639036934436
+Fruitland,Homedale,Idaho,27.924078735442976
+Fruitland,Parma,Idaho,16.140964914376745
+Fruitland,Wilder,Idaho,23.589107588031922
+Fruitland,New Plymouth,Idaho,6.159944067789235
+Fruitland,Avimor,Idaho,37.22074233025437
+Fruitland,Marsing,Idaho,33.14452019341034
+Fruitland,Robie Creek,Idaho,51.15257722469821
+Fruitland,Cascade,Idaho,55.17340265774174
+Fruitland,Greenleaf,Idaho,24.30703612839112
+Fruitland,Horseshoe Bend,Idaho,36.71500332179898
+Fruitland,Idaho City,Idaho,56.04061286958275
+Fruitland,Council,Idaho,54.769513313231066
+Fruitland,Notus,Idaho,21.12945611055534
+Fruitland,Melba,Idaho,48.75510482810716
+Fruitland,Letha,Idaho,16.328486963767023
+Fruitland,Garden Valley,Idaho,48.04177909849387
+Fruitland,Cambridge,Idaho,40.0038234680342
+Fruitland,Midvale,Idaho,31.7845491997273
+Fruitland,Crouch,Idaho,47.65908814601535
+Fruitland,Murphy,Idaho,58.81759716768377
+Fruitland,Smiths Ferry,Idaho,46.15653117490712
+Fruitland,Placerville,Idaho,48.94633082822524
+Fruitland,Banks,Idaho,39.7508628584084
+Rupert,Kimberly,Idaho,35.9785444428144
+Rupert,Buhl,Idaho,55.36981773768101
+Rupert,American Falls,Idaho,43.248741754429965
+Rupert,Gooding,Idaho,57.23967646974419
+Rupert,Heyburn,Idaho,6.0756281255494855
+Rupert,Wendell,Idaho,53.46151137726743
+Rupert,Filer,Idaho,47.94168098222869
+Rupert,Aberdeen,Idaho,48.05235724046962
+Rupert,Shoshone,Idaho,43.18994960928814
+Rupert,Hansen,Idaho,32.55647741495796
+Rupert,Paul,Idaho,5.7226895757742255
+Rupert,Carey,Idaho,49.616708116089946
+Rupert,Hazelton,Idaho,23.643592060083062
+Rupert,Oakley,Idaho,28.1317455146967
+Rupert,Arbon Valley,Idaho,57.912737147236705
+Rupert,Richfield,Idaho,38.63638146395463
+Rupert,Declo,Idaho,7.231690055716364
+Rupert,Eden,Idaho,27.2929518801874
+Rupert,Hollister,Idaho,49.97881376311392
+Rupert,Albion,Idaho,15.200528921304867
+Rupert,Gannett,Idaho,56.93951660106898
+Rupert,Malta,Idaho,26.538882002299555
+Rupert,Dietrich,Idaho,36.313843780919676
+Rupert,Acequia,Idaho,5.228790239634339
+Rupert,Minidoka,Idaho,13.219708467383597
+Rupert,Murtaugh,Idaho,26.427276213084156
+Rupert,Rockland,Idaho,40.90012002914643
+Weiser,Hidden Springs,Idaho,51.41640965075864
+Weiser,Homedale,Idaho,44.165101874730816
+Weiser,Parma,Idaho,32.35839687120364
+Weiser,Wilder,Idaho,39.921951792913916
+Weiser,New Plymouth,Idaho,20.992879926817942
+Weiser,Avimor,Idaho,48.48721845192364
+Weiser,Marsing,Idaho,49.531893764035495
+Weiser,Cascade,Idaho,49.110561600991616
+Weiser,Greenleaf,Idaho,40.67685548415519
+Weiser,Horseshoe Bend,Idaho,44.839454799699645
+Weiser,Council,Idaho,42.18125525481753
+Weiser,Notus,Idaho,37.415836458830874
+Weiser,Letha,Idaho,29.696271992464016
+Weiser,Garden Valley,Idaho,51.462582800587526
+Weiser,Cambridge,Idaho,26.215168229576946
+Weiser,New Meadows,Idaho,59.858737992504274
+Weiser,Midvale,Idaho,18.142382504106678
+Weiser,Donnelly,Idaho,55.094185161678745
+Weiser,Crouch,Idaho,50.34645726420526
+Weiser,Smiths Ferry,Idaho,44.284187526120334
+Weiser,Placerville,Idaho,55.26507588565916
+Weiser,Banks,Idaho,43.5509321714335
+Preston,Soda Springs,Idaho,41.45415189275358
+Preston,Montpelier,Idaho,33.69853375127766
+Preston,Malad City,Idaho,19.991422438064262
+Preston,Grace,Idaho,33.78972268043175
+Preston,McCammon,Idaho,41.23757864553074
+Preston,Inkom,Idaho,51.5673555364566
+Preston,Franklin,Idaho,7.153019844973124
+Preston,Downey,Idaho,25.957719328239566
+Preston,Georgetown,Idaho,37.26051674998634
+Preston,Clifton,Idaho,8.834965276776712
+Preston,Paris,Idaho,26.047544756451963
+Preston,Weston,Idaho,6.615311595169225
+Preston,Dayton,Idaho,5.099718997563821
+Preston,Bancroft,Idaho,42.8840331669142
+Preston,Arimo,Idaho,35.18796805516233
+Preston,Lava Hot Springs,Idaho,36.56055189560497
+Preston,Bloomington,Idaho,25.258671171745313
+Preston,Bennington,Idaho,34.65409453424824
+Preston,St. Charles,Idaho,25.19419434946389
+Preston,Oxford,Idaho,13.161530064977804
+Rigby,Shelley,Idaho,22.935667794903786
+Rigby,St. Anthony,Idaho,23.14950171892998
+Rigby,Lincoln,Idaho,11.070166762228729
+Rigby,Victor,Idaho,40.53833825222448
+Rigby,Iona,Idaho,10.139531902615744
+Rigby,Fort Hall,Idaho,53.111727436887236
+Rigby,Driggs,Idaho,40.70244644616911
+Rigby,Sugar City,Idaho,16.18247065660271
+Rigby,Ucon,Idaho,5.976452893007905
+Rigby,Tyhee,Idaho,56.63095018240789
+Rigby,Ashton,Idaho,36.08307060289433
+Rigby,Moreland,Idaho,40.965030409278015
+Rigby,Groveland,Idaho,38.798464259059365
+Rigby,Riverside,Idaho,42.125902614275915
+Rigby,Teton,Idaho,19.049329935093514
+Rigby,Ririe,Idaho,7.644177314580596
+Rigby,Menan,Idaho,5.190696481382354
+Rigby,Parker,Idaho,21.137945649596457
+Rigby,Dubois,Idaho,37.909713724616296
+Rigby,Firth,Idaho,28.789124711504336
+Rigby,Newdale,Idaho,21.348887936474878
+Rigby,Mud Lake,Idaho,30.677718572646803
+Rigby,Roberts,Idaho,11.265276776069955
+Rigby,Lewisville,Idaho,5.224525384569981
+Rigby,Basalt,Idaho,27.821802489488775
+Rigby,Tetonia,Idaho,39.00822669237419
+Rigby,Swan Valley,Idaho,33.329369351162
+Rigby,Rockford,Idaho,45.63098299342753
+Rigby,Irwin,Idaho,37.44628741207823
+Rigby,Hamer,Idaho,22.432382322944132
+Rigby,Spencer,Idaho,50.49314117608312
+Rigby,Atomic City,Idaho,47.86285074845219
+Rigby,Drummond,Idaho,36.308577225907165
+Rigby,Warm River,Idaho,42.69255829074842
+Shelley,American Falls,Idaho,55.259342232681895
+Shelley,St. Anthony,Idaho,46.08006667796176
+Shelley,Lincoln,Idaho,12.413430254682474
+Shelley,Soda Springs,Idaho,56.719156170294966
+Shelley,Victor,Idaho,53.28066719445924
+Shelley,Iona,Idaho,14.145922612882961
+Shelley,Aberdeen,Idaho,46.89380107639386
+Shelley,Fort Hall,Idaho,30.24654873865411
+Shelley,Driggs,Idaho,56.720118972041334
+Shelley,Sugar City,Idaho,39.11132566829202
+Shelley,Ucon,Idaho,16.990482587377276
+Shelley,Tyhee,Idaho,33.70398085427307
+Shelley,Grace,Idaho,59.012728579113364
+Shelley,Ashton,Idaho,58.709734273163896
+Shelley,Moreland,Idaho,19.20919140246158
+Shelley,Groveland,Idaho,16.555731695302157
+Shelley,Riverside,Idaho,20.079981982629285
+Shelley,McCammon,Idaho,50.43407689366336
+Shelley,Inkom,Idaho,40.75890547121301
+Shelley,Teton,Idaho,41.78311712011567
+Shelley,Ririe,Idaho,24.937912772379654
+Shelley,Arbon Valley,Idaho,41.55442427262989
+Shelley,Menan,Idaho,24.564916145532376
+Shelley,Parker,Idaho,44.00310427030381
+Shelley,Dubois,Idaho,55.00471016543764
+Shelley,Firth,Idaho,5.855859392052121
+Shelley,Newdale,Idaho,43.710028182520134
+Shelley,Mud Lake,Idaho,36.5943304518981
+Shelley,Roberts,Idaho,23.562437385514293
+Shelley,Lewisville,Idaho,22.514869980793218
+Shelley,Basalt,Idaho,4.896528412610904
+Shelley,Tetonia,Idaho,57.088259163128846
+Shelley,Bancroft,Idaho,47.14639361619643
+Shelley,Arimo,Idaho,56.61268027946043
+Shelley,Lava Hot Springs,Idaho,52.77196231411477
+Shelley,Swan Valley,Idaho,40.38097446005931
+Shelley,Rockford,Idaho,24.264056545834126
+Shelley,Irwin,Idaho,43.0123632739248
+Shelley,Butte City,Idaho,58.1841068635255
+Shelley,Hamer,Idaho,37.62181162457499
+Shelley,Atomic City,Idaho,34.81790714148608
+Shelley,Drummond,Idaho,58.056558356640934
+Kimberly,Buhl,Idaho,20.371117580055575
+Kimberly,Gooding,Idaho,32.8588828453861
+Kimberly,Heyburn,Idaho,31.056093448060388
+Kimberly,Wendell,Idaho,23.716323513267543
+Kimberly,Filer,Idaho,12.547438021348587
+Kimberly,Shoshone,Idaho,27.855983498431108
+Kimberly,Hansen,Idaho,3.5175117382703736
+Kimberly,Paul,Idaho,30.2559874772131
+Kimberly,Glenns Ferry,Idaho,55.65110539456177
+Kimberly,Carey,Idaho,57.7200139882814
+Kimberly,Hagerman,Idaho,33.185501602758094
+Kimberly,Hazelton,Idaho,12.628761965121063
+Kimberly,Oakley,Idaho,32.09042162482908
+Kimberly,Richfield,Idaho,37.37234916365895
+Kimberly,Declo,Idaho,37.84956416712842
+Kimberly,Eden,Idaho,9.564137731496446
+Kimberly,Hollister,Idaho,16.621762743774543
+Kimberly,Albion,Idaho,41.236057456643366
+Kimberly,Gannett,Idaho,57.64550057945802
+Kimberly,Malta,Idaho,53.504808867875404
+Kimberly,Dietrich,Idaho,26.661011675779324
+Kimberly,Bliss,Idaho,39.877808038829485
+Kimberly,Castleford,Idaho,25.635947882794895
+Kimberly,Acequia,Idaho,40.50281791901024
+Kimberly,Minidoka,Idaho,47.33550353351163
+Kimberly,Murtaugh,Idaho,10.987903736097504
+Buhl,Gooding,Idaho,23.510956403696152
+Buhl,Heyburn,Idaho,50.9378681329347
+Buhl,Wendell,Idaho,12.497250882906645
+Buhl,Filer,Idaho,7.842201829656101
+Buhl,Shoshone,Idaho,29.50022422051964
+Buhl,Hansen,Idaho,23.8468529760756
+Buhl,Paul,Idaho,49.715176588143834
+Buhl,Glenns Ferry,Idaho,36.93751056806276
+Buhl,Hagerman,Idaho,16.60252689738513
+Buhl,Hazelton,Idaho,31.771904767205843
+Buhl,Oakley,Idaho,51.172585137175204
+Buhl,Richfield,Idaho,43.847891819066284
+Buhl,Declo,Idaho,57.957862120617115
+Buhl,Fairfield,Idaho,51.84831139783825
+Buhl,Eden,Idaho,28.080803434376985
+Buhl,Hollister,Idaho,19.176495473642017
+Buhl,Dietrich,Idaho,33.17956830097179
+Buhl,Bliss,Idaho,24.449779158015062
+Buhl,Hammett,Idaho,43.10142628811073
+Buhl,Castleford,Idaho,7.845934625035717
+Buhl,Acequia,Idaho,59.463098399113136
+Buhl,Murtaugh,Idaho,31.351206745794308
+Buhl,Bruneau,Idaho,56.317668666141145
+American Falls,Heyburn,Idaho,48.75648565383997
+American Falls,Aberdeen,Idaho,11.162749576207675
+American Falls,Fort Hall,Idaho,25.716077949429724
+American Falls,Malad City,Idaho,51.26542422556311
+American Falls,Tyhee,Idaho,23.45199641425465
+American Falls,Grace,Idaho,59.00932979252866
+American Falls,Moreland,Idaho,36.791577534273046
+American Falls,Paul,Idaho,48.944030927295664
+American Falls,Groveland,Idaho,38.9027372146536
+American Falls,Riverside,Idaho,35.571027002747954
+American Falls,McCammon,Idaho,35.01097304151901
+American Falls,Inkom,Idaho,30.989214792339336
+American Falls,Downey,Idaho,44.560084167609034
+American Falls,Arbon Valley,Idaho,14.960538295869274
+American Falls,Clifton,Idaho,59.77408641046182
+American Falls,Firth,Idaho,49.55841975425764
+American Falls,Declo,Idaho,43.45308853494643
+American Falls,Basalt,Idaho,50.63816826692048
+American Falls,Albion,Idaho,45.116888449152924
+American Falls,Bancroft,Idaho,49.5890859884974
+American Falls,Arimo,Idaho,37.945671636587406
+American Falls,Malta,Idaho,42.04783208654291
+American Falls,Lava Hot Springs,Idaho,44.43284685046198
+American Falls,Rockford,Idaho,32.49284079582347
+American Falls,Acequia,Idaho,38.60772701810393
+American Falls,Minidoka,Idaho,32.400990173312636
+American Falls,Rockland,Idaho,14.511614813158692
+American Falls,Oxford,Idaho,55.91464122144034
+American Falls,Atomic City,Idaho,45.630057683200015
+McCall,Cascade,Idaho,27.75848023249566
+McCall,Council,Idaho,20.028106062788186
+McCall,Garden Valley,Idaho,57.42517213128533
+McCall,Yellow Pine,Idaho,30.85788967678032
+McCall,Cambridge,Idaho,36.21596682915192
+McCall,New Meadows,Idaho,9.56705715259795
+McCall,Midvale,Idaho,43.74986934850623
+McCall,Riggins,Idaho,36.80085759111432
+McCall,Donnelly,Idaho,12.025368197334346
+McCall,Crouch,Idaho,55.07771179123763
+McCall,Smiths Ferry,Idaho,42.05703757707055
+McCall,White Bird,Idaho,59.71936240968565
+McCall,Banks,Idaho,57.30792751305683
+St. Anthony,Lincoln,Idaho,33.968647399813186
+St. Anthony,Victor,Idaho,38.10178525380434
+St. Anthony,Iona,Idaho,32.647316812587434
+St. Anthony,Driggs,Idaho,33.20027113632838
+St. Anthony,Sugar City,Idaho,6.9688091509581644
+St. Anthony,Ucon,Idaho,29.09301971542801
+St. Anthony,Ashton,Idaho,13.941009309665906
+St. Anthony,Teton,Idaho,5.396707543047554
+St. Anthony,Ririe,Idaho,23.36891701212292
+St. Anthony,Menan,Idaho,22.7801849099329
+St. Anthony,Parker,Idaho,3.746446762678118
+St. Anthony,Dubois,Idaho,30.702132051878355
+St. Anthony,Firth,Idaho,51.93516254068396
+St. Anthony,Newdale,Idaho,6.734569706472697
+St. Anthony,Mud Lake,Idaho,40.598665994530656
+St. Anthony,Roberts,Idaho,27.868883948277723
+St. Anthony,Lewisville,Idaho,24.84128995435306
+St. Anthony,Basalt,Idaho,50.959953832439055
+St. Anthony,Tetonia,Idaho,28.21049660792578
+St. Anthony,Swan Valley,Idaho,40.08896135305635
+St. Anthony,Irwin,Idaho,44.33342395796572
+St. Anthony,Island Park,Idaho,42.1050826031831
+St. Anthony,Hamer,Idaho,26.041853705826163
+St. Anthony,Spencer,Idaho,37.96379544468849
+St. Anthony,Drummond,Idaho,17.15883969508794
+St. Anthony,Warm River,Idaho,21.020530262505453
+Gooding,Heyburn,Idaho,54.947762831183326
+Gooding,Ketchum,Idaho,54.50523175211906
+Gooding,Mountain Home AFB,Idaho,58.891836869768056
+Gooding,Wendell,Idaho,11.251148649486305
+Gooding,Filer,Idaho,26.020069955880327
+Gooding,Bellevue,Idaho,43.3568882510861
+Gooding,Shoshone,Idaho,15.616352895013923
+Gooding,Hansen,Idaho,35.00214087006161
+Gooding,Sun Valley,Idaho,54.96988218087938
+Gooding,Paul,Idaho,52.49781544151774
+Gooding,Glenns Ferry,Idaho,30.101736274930047
+Gooding,Carey,Idaho,46.61408953675579
+Gooding,Hagerman,Idaho,12.52632103475432
+Gooding,Hazelton,Idaho,37.65438042315712
+Gooding,Richfield,Idaho,29.354439864396408
+Gooding,Fairfield,Idaho,28.753262560085602
+Gooding,Eden,Idaho,34.39708606701449
+Gooding,Hollister,Idaho,40.87471417741099
+Gooding,Gannett,Idaho,39.72844158683126
+Gooding,Dietrich,Idaho,22.748820775853076
+Gooding,Bliss,Idaho,11.928583594037233
+Gooding,Hammett,Idaho,38.14112277403817
+Gooding,Castleford,Idaho,29.87014563261763
+Gooding,Acequia,Idaho,59.704334924879696
+Gooding,Murtaugh,Idaho,41.6166318330573
+Gooding,Bruneau,Idaho,55.30163708104805
+Heyburn,Wendell,Idaho,50.1316939997235
+Heyburn,Filer,Idaho,43.32786606792424
+Heyburn,Aberdeen,Idaho,53.969185417085235
+Heyburn,Shoshone,Idaho,41.803899584065476
+Heyburn,Hansen,Idaho,27.564908107760335
+Heyburn,Paul,Idaho,3.32729894276016
+Heyburn,Carey,Idaho,52.57468873853164
+Heyburn,Hazelton,Idaho,19.24476052685617
+Heyburn,Oakley,Idaho,22.804765746543243
+Heyburn,Richfield,Idaho,39.41712534181243
+Heyburn,Declo,Idaho,7.364951775951769
+Heyburn,Eden,Idaho,22.9950397864871
+Heyburn,Hollister,Idaho,44.352295356057546
+Heyburn,Albion,Idaho,13.91413598175722
+Heyburn,Gannett,Idaho,58.87637934421673
+Heyburn,Malta,Idaho,26.59464158355864
+Heyburn,Dietrich,Idaho,35.36282598220074
+Heyburn,Castleford,Idaho,56.68689599374375
+Heyburn,Acequia,Idaho,11.304123108461598
+Heyburn,Minidoka,Idaho,19.290130598922566
+Heyburn,Murtaugh,Idaho,20.960955480016413
+Heyburn,Rockland,Idaho,45.316435680734465
+Lincoln,Victor,Idaho,43.47574779749653
+Lincoln,Iona,Idaho,2.012868583979644
+Lincoln,Aberdeen,Idaho,59.127869580063944
+Lincoln,Fort Hall,Idaho,42.61578005391424
+Lincoln,Driggs,Idaho,45.76952881483707
+Lincoln,Sugar City,Idaho,27.018193033061138
+Lincoln,Ucon,Idaho,5.22168707286574
+Lincoln,Tyhee,Idaho,45.98874228104148
+Lincoln,Ashton,Idaho,46.34136765035001
+Lincoln,Moreland,Idaho,31.344076833513842
+Lincoln,Groveland,Idaho,28.85928617240621
+Lincoln,Riverside,Idaho,32.33364585851145
+Lincoln,Inkom,Idaho,51.80359023440679
+Lincoln,Teton,Idaho,29.48575117084876
+Lincoln,Ririe,Idaho,12.661164346904675
+Lincoln,Arbon Valley,Idaho,53.937821054579956
+Lincoln,Menan,Idaho,14.097616760326206
+Lincoln,Parker,Idaho,32.15911141786726
+Lincoln,Dubois,Idaho,47.011870559024096
+Lincoln,Firth,Idaho,18.210408685994345
+Lincoln,Newdale,Idaho,31.317125741347038
+Lincoln,Mud Lake,Idaho,34.019274511546165
+Lincoln,Roberts,Idaho,16.099605439224263
+Lincoln,Lewisville,Idaho,12.402859198978511
+Lincoln,Basalt,Idaho,17.176558252640397
+Lincoln,Tetonia,Idaho,45.48649254661137
+Lincoln,Bancroft,Idaho,55.26602353684132
+Lincoln,Swan Valley,Idaho,32.598358890267605
+Lincoln,Rockford,Idaho,36.276078375042296
+Lincoln,Irwin,Idaho,36.051166628962285
+Lincoln,Hamer,Idaho,30.198355913109662
+Lincoln,Atomic City,Idaho,42.704576606197854
+Lincoln,Drummond,Idaho,45.661985815548505
+Lincoln,Warm River,Idaho,52.64942153571177
+Hidden Springs,Mountain Home AFB,Idaho,50.1884413925238
+Hidden Springs,Homedale,Idaho,35.18445123657172
+Hidden Springs,Parma,Idaho,34.936424614920995
+Hidden Springs,Wilder,Idaho,32.995332118776545
+Hidden Springs,New Plymouth,Idaho,33.23609160650061
+Hidden Springs,Avimor,Idaho,3.858370966494345
+Hidden Springs,Marsing,Idaho,30.463793692830937
+Hidden Springs,Robie Creek,Idaho,12.062992034743445
+Hidden Springs,Cascade,Idaho,55.424608656929365
+Hidden Springs,Greenleaf,Idaho,28.728331145041082
+Hidden Springs,Horseshoe Bend,Idaho,13.797926497388167
+Hidden Springs,Idaho City,Idaho,22.299600996668016
+Hidden Springs,Notus,Idaho,27.491478657467947
+Hidden Springs,Melba,Idaho,27.842492248909515
+Hidden Springs,Letha,Idaho,23.065479977085378
+Hidden Springs,Grand View,Idaho,51.45098207268406
+Hidden Springs,Garden Valley,Idaho,28.926560055850267
+Hidden Springs,Midvale,Idaho,56.77553821275506
+Hidden Springs,Crouch,Idaho,30.631894507395437
+Hidden Springs,Murphy,Idaho,38.13102408828442
+Hidden Springs,Smiths Ferry,Idaho,40.88226603068357
+Hidden Springs,Placerville,Idaho,21.638917954334218
+Hidden Springs,Lowman,Idaho,40.02979302766597
+Hidden Springs,Banks,Idaho,25.4410984208094
+Ketchum,Bellevue,Idaho,16.190822371005698
+Ketchum,Shoshone,Idaho,51.787315566232856
+Ketchum,Sun Valley,Idaho,1.969135192747624
+Ketchum,Carey,Idaho,33.78358815253103
+Ketchum,Challis,Idaho,56.990367095356135
+Ketchum,Arco,Idaho,53.83015466871001
+Ketchum,Mackay,Idaho,41.07316155787802
+Ketchum,Richfield,Idaho,45.15656689130268
+Ketchum,Fairfield,Idaho,31.706969601971636
+Ketchum,Gannett,Idaho,24.82764380170927
+Ketchum,Dietrich,Idaho,53.695671202579945
+Ketchum,Stanley,Idaho,46.06613948598226
+Ketchum,Moore,Idaho,50.46215853487327
+Ketchum,Butte City,Idaho,57.02560525502123
+Ketchum,Clayton,Idaho,39.526498268251686
+Ketchum,Lost River,Idaho,40.95301591339499
+Grangeville,Orofino,Idaho,39.25580119220436
+Grangeville,Lapwai,Idaho,46.44861777727587
+Grangeville,Cottonwood,Idaho,13.942295519057645
+Grangeville,Kamiah,Idaho,21.268819160104975
+Grangeville,Genesee,Idaho,57.95813550025126
+Grangeville,Kooskia,Idaho,16.455606698922523
+Grangeville,Juliaetta,Idaho,52.8658305027243
+Grangeville,Nezperce,Idaho,22.023674967758037
+Grangeville,Craigmont,Idaho,27.577891063385632
+Grangeville,Culdesac,Idaho,40.657104786737406
+Grangeville,Pierce,Idaho,42.11808823696654
+Grangeville,Weippe,Idaho,32.47498793799542
+Grangeville,Kendrick,Idaho,53.91840033609903
+Grangeville,Winchester,Idaho,32.47543925654418
+Grangeville,Riggins,Idaho,36.18467728437732
+Grangeville,Elk City,Idaho,33.73138016534286
+Grangeville,Ferdinand,Idaho,20.226255227065963
+Grangeville,Sweetwater,Idaho,44.508442955177394
+Grangeville,Peck,Idaho,40.60217175443676
+Grangeville,Elk River,Idaho,59.245946093751265
+Grangeville,Stites,Idaho,13.457695091785723
+Grangeville,Reubens,Idaho,34.04834214673535
+Grangeville,White Bird,Idaho,14.222699637252529
+Orofino,St. Maries,Idaho,59.109434964591706
+Orofino,Lapwai,Idaho,26.737193001841277
+Orofino,Cottonwood,Idaho,30.411859162473036
+Orofino,Kamiah,Idaho,21.013999851425336
+Orofino,Genesee,Idaho,32.31701576898229
+Orofino,Troy,Idaho,30.076127929776316
+Orofino,Potlatch,Idaho,42.85753054235298
+Orofino,Kooskia,Idaho,27.36127449606868
+Orofino,Juliaetta,Idaho,22.39557895333816
+Orofino,Nezperce,Idaho,17.458600858794103
+Orofino,Craigmont,Idaho,19.77987139823499
+Orofino,Deary,Idaho,25.946196241167613
+Orofino,Culdesac,Idaho,21.183966208951723
+Orofino,Pierce,Idaho,21.84005069944934
+Orofino,Weippe,Idaho,16.899700975717217
+Orofino,Kendrick,Idaho,20.86942091755353
+Orofino,Winchester,Idaho,24.41235982220486
+Orofino,Onaway,Idaho,42.81821245354964
+Orofino,Bovill,Idaho,26.493599495799277
+Orofino,Ferdinand,Idaho,23.9754002629047
+Orofino,Sweetwater,Idaho,27.080902053533073
+Orofino,Peck,Idaho,8.105613786622751
+Orofino,Elk River,Idaho,20.778453461012013
+Orofino,Stites,Idaho,30.38886745086432
+Orofino,Princeton,Idaho,40.26552736446191
+Orofino,Fernwood,Idaho,43.844639730154
+Orofino,De Smet,Idaho,54.82239803841989
+Orofino,Reubens,Idaho,17.725665031833014
+Orofino,Tensed,Idaho,56.214649003057616
+Orofino,Viola,Idaho,43.63791515847129
+Orofino,White Bird,Idaho,50.08336342500519
+Mountain Home AFB,Glenns Ferry,Idaho,29.129105793857587
+Mountain Home AFB,Avimor,Idaho,53.867530932903676
+Mountain Home AFB,Marsing,Idaho,58.66992914816429
+Mountain Home AFB,Robie Creek,Idaho,43.40920315489899
+Mountain Home AFB,Hagerman,Idaho,51.675082554556
+Mountain Home AFB,Idaho City,Idaho,53.772360973819254
+Mountain Home AFB,Melba,Idaho,40.37847978128839
+Mountain Home AFB,Grand View,Idaho,12.322741271855161
+Mountain Home AFB,Fairfield,Idaho,57.6125593558097
+Mountain Home AFB,Bliss,Idaho,47.299367723518465
+Mountain Home AFB,Hammett,Idaho,21.54134703250042
+Mountain Home AFB,Murphy,Idaho,36.30835380212502
+Mountain Home AFB,Bruneau,Idaho,12.39381405551003
+Salmon,Challis,Idaho,49.000686055690586
+Salmon,Leadore,Idaho,43.059962104867125
+Soda Springs,Montpelier,Idaho,27.317424158968112
+Soda Springs,Fort Hall,Idaho,50.52214854086876
+Soda Springs,Malad City,Idaho,46.84047506146473
+Soda Springs,Tyhee,Idaho,48.6375556616819
+Soda Springs,Grace,Idaho,9.257094804705153
+Soda Springs,Moreland,Idaho,57.92530477970464
+Soda Springs,Groveland,Idaho,55.805480146360914
+Soda Springs,Riverside,Idaho,56.798634222966015
+Soda Springs,McCammon,Idaho,30.69286345350585
+Soda Springs,Inkom,Idaho,34.7373364523784
+Soda Springs,Franklin,Idaho,45.97730099955901
+Soda Springs,Downey,Idaho,31.61504488350239
+Soda Springs,Arbon Valley,Idaho,53.498038353524144
+Soda Springs,Georgetown,Idaho,16.87776869831074
+Soda Springs,Clifton,Idaho,38.91438431649559
+Soda Springs,Paris,Idaho,31.255977342068615
+Soda Springs,Weston,Idaho,47.36500193847953
+Soda Springs,Firth,Idaho,53.8889274666442
+Soda Springs,Dayton,Idaho,42.71927911151967
+Soda Springs,Basalt,Idaho,53.880183891938564
+Soda Springs,Bancroft,Idaho,15.614323279561043
+Soda Springs,Arimo,Idaho,30.60840348173337
+Soda Springs,Lava Hot Springs,Idaho,21.675694406248045
+Soda Springs,Swan Valley,Idaho,55.78728592679629
+Soda Springs,Irwin,Idaho,53.36121423917425
+Soda Springs,Bloomington,Idaho,33.6526998495057
+Soda Springs,Bennington,Idaho,23.383617432054653
+Soda Springs,St. Charles,Idaho,39.11101724141536
+Soda Springs,Oxford,Idaho,35.24493651131592
+Homedale,Parma,Idaho,11.808208497577418
+Homedale,Wilder,Idaho,4.604000357898686
+Homedale,New Plymouth,Idaho,25.227898975461198
+Homedale,Avimor,Idaho,35.855318042919556
+Homedale,Marsing,Idaho,8.009387685938169
+Homedale,Robie Creek,Idaho,46.11886331028018
+Homedale,Greenleaf,Idaho,7.172736705854245
+Homedale,Horseshoe Bend,Idaho,42.38243490250768
+Homedale,Idaho City,Idaho,57.3490174905203
+Homedale,Notus,Idaho,10.340993817838179
+Homedale,Melba,Idaho,26.39545510362943
+Homedale,Letha,Idaho,24.14361826254349
+Homedale,Garden Valley,Idaho,58.51099934576657
+Homedale,Midvale,Idaho,59.23410890497967
+Homedale,Crouch,Idaho,59.27072141500727
+Homedale,Murphy,Idaho,34.04695951517109
+Homedale,Placerville,Idaho,54.51988112952562
+Homedale,Banks,Idaho,51.54699949095706
+Wendell,Filer,Idaho,14.996705457393047
+Wendell,Bellevue,Idaho,52.976692521621
+Wendell,Shoshone,Idaho,18.7969916779596
+Wendell,Hansen,Idaho,26.458620439344052
+Wendell,Paul,Idaho,48.17912071825722
+Wendell,Glenns Ferry,Idaho,32.991740550584
+Wendell,Carey,Idaho,53.27899422562122
+Wendell,Hagerman,Idaho,10.316370136859812
+Wendell,Hazelton,Idaho,31.365687396099187
+Wendell,Oakley,Idaho,55.740006261154655
+Wendell,Richfield,Idaho,33.726367789189524
+Wendell,Declo,Idaho,57.47558611606887
+Wendell,Fairfield,Idaho,39.96022480507233
+Wendell,Eden,Idaho,27.715616922452845
+Wendell,Hollister,Idaho,29.724318661901055
+Wendell,Gannett,Idaho,48.25248753170664
+Wendell,Dietrich,Idaho,24.1353986828873
+Wendell,Bliss,Idaho,16.19103005038688
+Wendell,Hammett,Idaho,40.46727103902303
+Wendell,Castleford,Idaho,19.529265377391077
+Wendell,Acequia,Idaho,56.750575053961754
+Wendell,Murtaugh,Idaho,33.74220362401673
+Wendell,Bruneau,Idaho,56.207497191397565
+Victor,Iona,Idaho,41.4930523130094
+Victor,Driggs,Idaho,8.877347977800502
+Victor,Sugar City,Idaho,37.24047387772621
+Victor,Ucon,Idaho,42.58045060906057
+Victor,Ashton,Idaho,36.690534743582106
+Victor,Teton,Idaho,34.33467130205747
+Victor,Ririe,Idaho,33.21251320567856
+Victor,Menan,Idaho,44.96569909530846
+Victor,Parker,Idaho,40.71614061833876
+Victor,Firth,Idaho,57.67699020763898
+Victor,Newdale,Idaho,31.55979502632147
+Victor,Roberts,Idaho,51.664231939268724
+Victor,Lewisville,Idaho,45.693454120873795
+Victor,Basalt,Idaho,56.593431070648776
+Victor,Tetonia,Idaho,14.919202836201384
+Victor,Swan Valley,Idaho,15.39962064492906
+Victor,Irwin,Idaho,16.303485697883282
+Victor,Hamer,Idaho,58.93764611918721
+Victor,Drummond,Idaho,29.848745434916083
+Victor,Warm River,Idaho,37.21869300248817
+Filer,Shoshone,Idaho,27.542334016534504
+Filer,Hansen,Idaho,16.040550012539445
+Filer,Paul,Idaho,42.24977794020738
+Filer,Glenns Ferry,Idaho,44.130396717674536
+Filer,Hagerman,Idaho,22.49788700273579
+Filer,Hazelton,Idaho,24.298159228385728
+Filer,Oakley,Idaho,43.56495123300975
+Filer,Richfield,Idaho,40.66881059375475
+Filer,Declo,Idaho,50.267865995227666
+Filer,Fairfield,Idaho,54.757744628300614
+Filer,Eden,Idaho,20.691388034777038
+Filer,Hollister,Idaho,14.90689867082909
+Filer,Albion,Idaho,53.78206951324718
+Filer,Gannett,Idaho,58.7830549846805
+Filer,Dietrich,Idaho,29.587992367405736
+Filer,Bliss,Idaho,29.96859774384099
+Filer,Hammett,Idaho,50.60570466263675
+Filer,Castleford,Idaho,13.676040870176978
+Filer,Acequia,Idaho,52.195479892449725
+Filer,Minidoka,Idaho,58.5604679227546
+Filer,Murtaugh,Idaho,23.516368712312364
+Iona,Fort Hall,Idaho,44.240631744331566
+Iona,Driggs,Idaho,43.75722812014058
+Iona,Sugar City,Idaho,25.73232322785375
+Iona,Ucon,Idaho,4.807244349263926
+Iona,Tyhee,Idaho,47.549340402056906
+Iona,Ashton,Idaho,44.781133889032304
+Iona,Moreland,Idaho,33.200840367489825
+Iona,Groveland,Idaho,30.664499150852684
+Iona,Riverside,Idaho,34.15916240602989
+Iona,Inkom,Idaho,52.9346117219994
+Iona,Teton,Idaho,28.02812857404906
+Iona,Ririe,Idaho,10.804933508558761
+Iona,Arbon Valley,Idaho,55.571000197043254
+Iona,Menan,Idaho,13.790899293883959
+Iona,Parker,Idaho,31.000160962192624
+Iona,Dubois,Idaho,46.99799965198459
+Iona,Firth,Idaho,19.873171639580715
+Iona,Newdale,Idaho,29.729511086314826
+Iona,Mud Lake,Idaho,35.09869146017929
+Iona,Roberts,Idaho,16.63828944562086
+Iona,Lewisville,Idaho,12.307720849165523
+Iona,Basalt,Idaho,18.816395340049755
+Iona,Tetonia,Idaho,43.50210150680441
+Iona,Bancroft,Idaho,55.75422749702296
+Iona,Swan Valley,Idaho,30.80760394729369
+Iona,Rockford,Idaho,38.16203031955559
+Iona,Irwin,Idaho,34.33818927533123
+Iona,Hamer,Idaho,30.443987643325254
+Iona,Atomic City,Idaho,44.68283006140871
+Iona,Drummond,Idaho,43.91821253728996
+Iona,Warm River,Idaho,51.00517763478799
+Montpelier,Malad City,Idaho,49.65157172732862
+Montpelier,Grace,Idaho,27.975423506204706
+Montpelier,McCammon,Idaho,50.74007945023638
+Montpelier,Inkom,Idaho,58.13993028220927
+Montpelier,Franklin,Idaho,33.76772913462088
+Montpelier,Downey,Idaho,42.78666946242787
+Montpelier,Georgetown,Idaho,11.073101365404685
+Montpelier,Clifton,Idaho,37.433646689442384
+Montpelier,Paris,Idaho,8.662835233278832
+Montpelier,Weston,Idaho,40.18551619621073
+Montpelier,Dayton,Idaho,37.8475389881955
+Montpelier,Bancroft,Idaho,40.373495323313
+Montpelier,Arimo,Idaho,47.52229739709391
+Montpelier,Lava Hot Springs,Idaho,41.60708349873486
+Montpelier,Bloomington,Idaho,10.783475903813086
+Montpelier,Bennington,Idaho,4.101887841978157
+Montpelier,St. Charles,Idaho,15.52471268230926
+Montpelier,Oxford,Idaho,37.12678674071361
+Aberdeen,Fort Hall,Idaho,19.920929503260016
+Aberdeen,Tyhee,Idaho,19.401002149781856
+Aberdeen,Moreland,Idaho,27.79036439596269
+Aberdeen,Paul,Idaho,53.50560445373501
+Aberdeen,Groveland,Idaho,30.34104871647451
+Aberdeen,Riverside,Idaho,26.8167296305092
+Aberdeen,McCammon,Idaho,38.69172141503122
+Aberdeen,Inkom,Idaho,31.837101565000534
+Aberdeen,Downey,Idaho,50.90415802438702
+Aberdeen,Arbon Valley,Idaho,13.050931753783503
+Aberdeen,Arco,Idaho,52.89945327536091
+Aberdeen,Firth,Idaho,41.47270439143671
+Aberdeen,Declo,Idaho,49.76234257737508
+Aberdeen,Basalt,Idaho,42.579433167328276
+Aberdeen,Albion,Idaho,52.81184042641969
+Aberdeen,Bancroft,Idaho,50.93983050228226
+Aberdeen,Arimo,Idaho,42.9922051234089
+Aberdeen,Malta,Idaho,51.60860302566307
+Aberdeen,Lava Hot Springs,Idaho,47.70850263735901
+Aberdeen,Rockford,Idaho,22.999008878752395
+Aberdeen,Acequia,Idaho,42.975911371262804
+Aberdeen,Minidoka,Idaho,35.6018663774271
+Aberdeen,Rockland,Idaho,25.674364384309484
+Aberdeen,Butte City,Idaho,50.06120848244911
+Aberdeen,Atomic City,Idaho,34.4720747144487
+Fort Hall,Malad City,Idaho,57.88632921620864
+Fort Hall,Ucon,Idaho,47.208014114900635
+Fort Hall,Tyhee,Idaho,4.086935031846277
+Fort Hall,Grace,Idaho,47.79116457636358
+Fort Hall,Moreland,Idaho,14.192258016164077
+Fort Hall,Groveland,Idaho,15.014071888594952
+Fort Hall,Riverside,Idaho,12.617951930043152
+Fort Hall,McCammon,Idaho,28.556305942754236
+Fort Hall,Inkom,Idaho,18.560561108841483
+Fort Hall,Downey,Idaho,43.84877219027205
+Fort Hall,Ririe,Idaho,54.89544612045838
+Fort Hall,Arbon Valley,Idaho,11.332241469729922
+Fort Hall,Menan,Idaho,54.153149836184674
+Fort Hall,Firth,Idaho,24.409432058185406
+Fort Hall,Mud Lake,Idaho,57.2206196088852
+Fort Hall,Roberts,Idaho,51.50063975696911
+Fort Hall,Lewisville,Idaho,52.04480248925455
+Fort Hall,Basalt,Idaho,25.439863267540037
+Fort Hall,Bancroft,Idaho,35.53111886814646
+Fort Hall,Arimo,Idaho,34.527774917491044
+Fort Hall,Lava Hot Springs,Idaho,35.47992509171661
+Fort Hall,Rockford,Idaho,12.624919216021004
+Fort Hall,Minidoka,Idaho,55.42261578169126
+Fort Hall,Rockland,Idaho,37.11776471197868
+Fort Hall,Butte City,Idaho,56.867669134691546
+Fort Hall,Oxford,Idaho,56.69626222783924
+Fort Hall,Atomic City,Idaho,34.60206745319867
+Bonners Ferry,Spirit Lake,Idaho,56.292439103250764
+Bonners Ferry,Priest River,Idaho,44.04604191819737
+Bonners Ferry,Moyie Springs,Idaho,6.045688700232056
+Bonners Ferry,Ponderay,Idaho,28.375135461031604
+Bonners Ferry,Kootenai,Idaho,27.86350630730038
+Bonners Ferry,Clark Fork,Idaho,38.25689703784557
+Bonners Ferry,Athol,Idaho,54.573447326986134
+Bonners Ferry,Dover,Idaho,32.72669821708847
+Bonners Ferry,Oldtown,Idaho,47.71884254740163
+Bonners Ferry,Blanchard,Idaho,56.18259428041516
+Bonners Ferry,Laclede,Idaho,41.413335007609774
+Bonners Ferry,East Hope,Idaho,31.258116360397405
+Bonners Ferry,Hope,Idaho,30.31059957944716
+Bonners Ferry,Coolin,Idaho,28.376439593361688
+Bellevue,Shoshone,Idaho,37.46852960636339
+Bellevue,Sun Valley,Idaho,15.387499113302795
+Bellevue,Carey,Idaho,19.097636186813904
+Bellevue,Hagerman,Idaho,55.49698201816533
+Bellevue,Arco,Idaho,49.18064114510049
+Bellevue,Mackay,Idaho,44.42118083915504
+Bellevue,Richfield,Idaho,29.17358148568042
+Bellevue,Fairfield,Idaho,28.667667336934766
+Bellevue,Eden,Idaho,59.62573850967374
+Bellevue,Gannett,Idaho,8.668984475807846
+Bellevue,Dietrich,Idaho,38.35835143248582
+Bellevue,Bliss,Idaho,51.332866407911574
+Bellevue,Moore,Idaho,48.168665821269535
+Bellevue,Butte City,Idaho,51.83183627173461
+Bellevue,Clayton,Idaho,54.99230650843157
+Bellevue,Lost River,Idaho,39.457775899704785
+Driggs,Sugar City,Idaho,33.877193476357746
+Driggs,Ucon,Idaho,43.87831810073384
+Driggs,Ashton,Idaho,29.277031660935346
+Driggs,Teton,Idaho,30.40186439961247
+Driggs,Ririe,Idaho,34.106500694848116
+Driggs,Menan,Idaho,44.472568810196755
+Driggs,Parker,Idaho,36.305544990850855
+Driggs,Newdale,Idaho,27.211066185826525
+Driggs,Roberts,Idaho,51.277282697870476
+Driggs,Lewisville,Idaho,45.57388524308273
+Driggs,Tetonia,Idaho,6.454062433973728
+Driggs,Swan Valley,Idaho,22.694043178516395
+Driggs,Irwin,Idaho,24.50989935043257
+Driggs,Island Park,Idaho,56.548369649467475
+Driggs,Hamer,Idaho,56.47404779714427
+Driggs,Drummond,Idaho,22.118584502261392
+Driggs,Warm River,Idaho,28.927154805970936
+Dalton Gardens,St. Maries,Idaho,30.337152602232887
+Dalton Gardens,Spirit Lake,Idaho,16.753176458958794
+Dalton Gardens,Kellogg,Idaho,32.27762012531964
+Dalton Gardens,Priest River,Idaho,31.218910884621664
+Dalton Gardens,Pinehurst,Idaho,28.510677964129144
+Dalton Gardens,Osburn,Idaho,39.19666232648596
+Dalton Gardens,Ponderay,Idaho,41.22660638706422
+Dalton Gardens,Plummer,Idaho,28.34543852770521
+Dalton Gardens,Kootenai,Idaho,41.67235313003376
+Dalton Gardens,Wallace,Idaho,43.43662126033122
+Dalton Gardens,Clark Fork,Idaho,39.70714421062182
+Dalton Gardens,Hauser,Idaho,11.592533691384846
+Dalton Gardens,Potlatch,Idaho,56.23749394598125
+Dalton Gardens,Athol,Idaho,15.060900350594201
+Dalton Gardens,Hayden Lake,Idaho,2.234818908829401
+Dalton Gardens,Smelterville,Idaho,30.613970226202234
+Dalton Gardens,Dover,Idaho,37.204462702695444
+Dalton Gardens,Mullan,Idaho,49.00459205355939
+Dalton Gardens,Silverton,Idaho,41.1975530794864
+Dalton Gardens,Oldtown,Idaho,33.27523990916091
+Dalton Gardens,Blanchard,Idaho,22.091564897433614
+Dalton Gardens,Wardner,Idaho,33.091914945609005
+Dalton Gardens,Rockford Bay,Idaho,16.431378812117217
+Dalton Gardens,Laclede,Idaho,30.057177313821295
+Dalton Gardens,Harrison,Idaho,18.403222016014105
+Dalton Gardens,Worley,Idaho,23.99375094587167
+Dalton Gardens,Onaway,Idaho,55.87552675062766
+Dalton Gardens,East Hope,Idaho,41.53995603699848
+Dalton Gardens,Huetter,Idaho,4.289660649152828
+Dalton Gardens,Princeton,Idaho,56.563358517696216
+Dalton Gardens,Fernwood,Idaho,46.30682555390169
+Dalton Gardens,Fernan Lake Village,Idaho,4.294917536758343
+Dalton Gardens,Conkling Park,Idaho,23.012316508102288
+Dalton Gardens,De Smet,Idaho,41.4264902511884
+Dalton Gardens,Hope,Idaho,41.936145003772374
+Dalton Gardens,Tensed,Idaho,40.259565973945826
+Dalton Gardens,Parkline,Idaho,27.475662128224986
+Dalton Gardens,State Line,Idaho,12.594112741112076
+Dalton Gardens,Coolin,Idaho,51.457674495642316
+St. Maries,Spirit Lake,Idaho,47.085787289208284
+St. Maries,Kellogg,Idaho,25.36204462165343
+St. Maries,Pinehurst,Idaho,22.096873397959556
+St. Maries,Osburn,Idaho,29.870072977761723
+St. Maries,Genesee,Idaho,55.33390527429669
+St. Maries,Plummer,Idaho,14.723058134542136
+St. Maries,Wallace,Idaho,32.392094387155446
+St. Maries,Troy,Idaho,40.94448308532501
+St. Maries,Hauser,Idaho,37.43135222676727
+St. Maries,Potlatch,Idaho,31.067829869300216
+St. Maries,Athol,Idaho,44.13966447852412
+St. Maries,Hayden Lake,Idaho,32.206242530240814
+St. Maries,Smelterville,Idaho,24.30315999550041
+St. Maries,Mullan,Idaho,37.92859373483602
+St. Maries,Juliaetta,Idaho,51.56960266544105
+St. Maries,Silverton,Idaho,31.309588944126354
+St. Maries,Deary,Idaho,35.53450821369292
+St. Maries,Blanchard,Idaho,52.22879585919483
+St. Maries,Wardner,Idaho,24.86582869636297
+St. Maries,Kendrick,Idaho,48.551095880191546
+St. Maries,Rockford Bay,Idaho,19.921258375886026
+St. Maries,Laclede,Idaho,59.54306533746467
+St. Maries,Harrison,Idaho,15.136481536000185
+St. Maries,Worley,Idaho,17.341102850703727
+St. Maries,Onaway,Idaho,30.59938835624943
+St. Maries,Bovill,Idaho,32.61697635234671
+St. Maries,Peck,Idaho,58.42881189777426
+St. Maries,Elk River,Idaho,41.120370332722274
+St. Maries,Huetter,Idaho,29.874956472361237
+St. Maries,Princeton,Idaho,30.17677971532
+St. Maries,Fernwood,Idaho,16.324797309237038
+St. Maries,Fernan Lake Village,Idaho,26.052693405986975
+St. Maries,Conkling Park,Idaho,11.005566341917438
+St. Maries,De Smet,Idaho,19.957536359499763
+St. Maries,Tensed,Idaho,19.701619526820824
+St. Maries,Viola,Idaho,39.03864760238856
+St. Maries,Parkline,Idaho,5.9499522606041335
+St. Maries,State Line,Idaho,34.64766552810372
+Spirit Lake,Kellogg,Idaho,45.02641182780648
+Spirit Lake,Priest River,Idaho,14.68910753598656
+Spirit Lake,Pinehurst,Idaho,41.970030227964045
+Spirit Lake,Osburn,Idaho,51.497040102474394
+Spirit Lake,Ponderay,Idaho,28.233195356033193
+Spirit Lake,Plummer,Idaho,43.923682796109404
+Spirit Lake,Kootenai,Idaho,28.940091896849736
+Spirit Lake,Wallace,Idaho,55.73385592758559
+Spirit Lake,Clark Fork,Idaho,34.46350697919911
+Spirit Lake,Hauser,Idaho,15.285941869171209
+Spirit Lake,Athol,Idaho,7.630835596498102
+Spirit Lake,Hayden Lake,Idaho,14.921969790995037
+Spirit Lake,Smelterville,Idaho,43.53681133445633
+Spirit Lake,Dover,Idaho,23.657823078192248
+Spirit Lake,Silverton,Idaho,53.3986976130605
+Spirit Lake,Oldtown,Idaho,16.614661745505387
+Spirit Lake,Blanchard,Idaho,6.643653053111928
+Spirit Lake,Wardner,Idaho,46.08513138419855
+Spirit Lake,Rockford Bay,Idaho,31.596293890423834
+Spirit Lake,Laclede,Idaho,14.971299783549776
+Spirit Lake,Harrison,Idaho,34.56539971471338
+Spirit Lake,Worley,Idaho,39.108818961282964
+Spirit Lake,East Hope,Idaho,32.87002504265756
+Spirit Lake,Huetter,Idaho,18.12987088533215
+Spirit Lake,Fernan Lake Village,Idaho,21.045919963930846
+Spirit Lake,Conkling Park,Idaho,39.377590782874975
+Spirit Lake,De Smet,Idaho,57.01424232933277
+Spirit Lake,Hope,Idaho,32.81597377789779
+Spirit Lake,Tensed,Idaho,55.75345983396113
+Spirit Lake,Parkline,Idaho,44.10879509381896
+Spirit Lake,State Line,Idaho,19.603344049191673
+Spirit Lake,Coolin,Idaho,35.27143684223517
+Kellogg,Priest River,Idaho,56.13795408786494
+Kellogg,Pinehurst,Idaho,4.243551721802059
+Kellogg,Osburn,Idaho,6.959073135981836
+Kellogg,Ponderay,Idaho,56.439836640186684
+Kellogg,Plummer,Idaho,37.64534271925288
+Kellogg,Kootenai,Idaho,56.28798434543101
+Kellogg,Wallace,Idaho,11.163808769638509
+Kellogg,Clark Fork,Idaho,42.18199112222528
+Kellogg,Hauser,Idaho,43.656569430754
+Kellogg,Potlatch,Idaho,55.325085487211346
+Kellogg,Athol,Idaho,38.69110469760143
+Kellogg,Hayden Lake,Idaho,32.661893343340495
+Kellogg,Smelterville,Idaho,1.7036344898672287
+Kellogg,Dover,Idaho,54.50646375686918
+Kellogg,Mullan,Idaho,16.85925999312484
+Kellogg,Silverton,Idaho,8.96531487095948
+Kellogg,Deary,Idaho,54.527275744195386
+Kellogg,Blanchard,Idaho,51.583738452477206
+Kellogg,Wardner,Idaho,1.291436791982965
+Kellogg,Rockford Bay,Idaho,34.89975428878264
+Kellogg,Laclede,Idaho,52.016283066819106
+Kellogg,Harrison,Idaho,31.333979829001667
+Kellogg,Worley,Idaho,37.61117195424703
+Kellogg,Onaway,Idaho,54.833495494250826
+Kellogg,East Hope,Idaho,49.10397293619899
+Kellogg,Bovill,Idaho,48.350637075172735
+Kellogg,Elk River,Idaho,52.139656998881016
+Kellogg,Huetter,Idaho,35.050916999530955
+Kellogg,Princeton,Idaho,53.83743770428498
+Kellogg,Fernwood,Idaho,31.33147317414177
+Kellogg,Fernan Lake Village,Idaho,29.78591828115269
+Kellogg,Conkling Park,Idaho,30.927332986383288
+Kellogg,De Smet,Idaho,45.31885338986664
+Kellogg,Hope,Idaho,50.12922518843287
+Kellogg,Tensed,Idaho,45.02681273698231
+Kellogg,Parkline,Idaho,29.285681252955552
+Kellogg,State Line,Idaho,43.36896882337905
+Malad City,Tyhee,Idaho,53.863792973181305
+Malad City,Grace,Idaho,37.62904115950288
+Malad City,McCammon,Idaho,31.930811397500655
+Malad City,Inkom,Idaho,41.8014958033145
+Malad City,Franklin,Idaho,25.99680638037153
+Malad City,Downey,Idaho,17.71518636076003
+Malad City,Arbon Valley,Idaho,51.080332760699775
+Malad City,Georgetown,Idaho,49.55684119718067
+Malad City,Clifton,Idaho,12.581959422405797
+Malad City,Paris,Idaho,43.512568515320694
+Malad City,Weston,Idaho,17.49382316884377
+Malad City,Dayton,Idaho,14.964055719890599
+Malad City,Bancroft,Idaho,41.12265061087808
+Malad City,Arimo,Idaho,25.85178795138387
+Malad City,Malta,Idaho,57.988791867268375
+Malad City,Lava Hot Springs,Idaho,32.11026556504944
+Malad City,Bloomington,Idaho,43.39715323928784
+Malad City,Rockland,Idaho,41.490561575284104
+Malad City,Bennington,Idaho,49.33172563489846
+Malad City,St. Charles,Idaho,44.46767505634187
+Malad City,Oxford,Idaho,12.837401068040636
+Priest River,Pinehurst,Idaho,53.69027057424845
+Priest River,Moyie Springs,Idaho,49.267922440086345
+Priest River,Ponderay,Idaho,18.306987583710146
+Priest River,Plummer,Idaho,58.59312217622439
+Priest River,Kootenai,Idaho,19.2729741374457
+Priest River,Clark Fork,Idaho,32.750404989729006
+Priest River,Hauser,Idaho,29.058477205585238
+Priest River,Athol,Idaho,17.93747481210578
+Priest River,Hayden Lake,Idaho,29.232644209923574
+Priest River,Smelterville,Idaho,54.83342680703845
+Priest River,Dover,Idaho,13.873415841403613
+Priest River,Oldtown,Idaho,6.32509060978689
+Priest River,Blanchard,Idaho,12.340257430164655
+Priest River,Wardner,Idaho,57.31618841202118
+Priest River,Rockford Bay,Idaho,46.26188927642778
+Priest River,Laclede,Idaho,6.092042868070242
+Priest River,Harrison,Idaho,49.24335994288391
+Priest River,Worley,Idaho,53.74127577652909
+Priest River,East Hope,Idaho,27.74810776837475
+Priest River,Huetter,Idaho,32.81885973363688
+Priest River,Fernan Lake Village,Idaho,35.50293383254117
+Priest River,Conkling Park,Idaho,54.036566071132995
+Priest River,Hope,Idaho,27.17411368666277
+Priest River,Parkline,Idaho,58.682716870501714
+Priest River,State Line,Idaho,33.44040491054233
+Priest River,Coolin,Idaho,20.657464266153045
+Sugar City,Ucon,Idaho,22.12433721108383
+Sugar City,Ashton,Idaho,20.329663149456323
+Sugar City,Moreland,Idaho,56.96232275956962
+Sugar City,Groveland,Idaho,54.8971588801738
+Sugar City,Riverside,Idaho,58.17242077185556
+Sugar City,Teton,Idaho,4.001425929536851
+Sugar City,Ririe,Idaho,16.870130305573205
+Sugar City,Menan,Idaho,16.10801011948278
+Sugar City,Parker,Idaho,5.688161183428124
+Sugar City,Dubois,Idaho,31.41357564783813
+Sugar City,Firth,Idaho,44.96649861254977
+Sugar City,Newdale,Idaho,7.384391117204482
+Sugar City,Mud Lake,Idaho,36.478843591973416
+Sugar City,Roberts,Idaho,21.70873736145961
+Sugar City,Lewisville,Idaho,18.11579578876342
+Sugar City,Basalt,Idaho,43.99121757736193
+Sugar City,Tetonia,Idaho,29.9033608786188
+Sugar City,Swan Valley,Idaho,36.554829765784376
+Sugar City,Irwin,Idaho,40.906575040273076
+Sugar City,Island Park,Idaho,49.03849511651509
+Sugar City,Hamer,Idaho,22.766705898801458
+Sugar City,Spencer,Idaho,40.88458648856751
+Sugar City,Drummond,Idaho,22.052246399940373
+Sugar City,Warm River,Idaho,27.239269549199882
+Pinehurst,Osburn,Idaho,11.060342851779419
+Pinehurst,Ponderay,Idaho,55.254536380045494
+Pinehurst,Plummer,Idaho,33.7308845309124
+Pinehurst,Kootenai,Idaho,55.176959406728166
+Pinehurst,Wallace,Idaho,15.146325062028705
+Pinehurst,Clark Fork,Idaho,42.27930312370559
+Pinehurst,Hauser,Idaho,39.76135907555417
+Pinehurst,Potlatch,Idaho,52.645204869355865
+Pinehurst,Athol,Idaho,35.981829145498985
+Pinehurst,Hayden Lake,Idaho,29.044314205397157
+Pinehurst,Smelterville,Idaho,2.6176039293658873
+Pinehurst,Dover,Idaho,53.013100716415444
+Pinehurst,Mullan,Idaho,20.95814688025038
+Pinehurst,Silverton,Idaho,13.049183846221439
+Pinehurst,Deary,Idaho,53.09819021269613
+Pinehurst,Oldtown,Idaho,57.824823183187114
+Pinehurst,Blanchard,Idaho,48.44822985010476
+Pinehurst,Wardner,Idaho,4.6970552696271906
+Pinehurst,Rockford Bay,Idaho,30.66023060177357
+Pinehurst,Laclede,Idaho,49.88069471420714
+Pinehurst,Harrison,Idaho,27.137720767088044
+Pinehurst,Worley,Idaho,33.50153111588229
+Pinehurst,Onaway,Idaho,52.15969318508646
+Pinehurst,East Hope,Idaho,48.73992161305136
+Pinehurst,Bovill,Idaho,47.43789758057864
+Pinehurst,Elk River,Idaho,52.1158673044583
+Pinehurst,Huetter,Idaho,31.098625264250973
+Pinehurst,Princeton,Idaho,51.33782060593561
+Pinehurst,Fernwood,Idaho,29.986395804932815
+Pinehurst,Fernan Lake Village,Idaho,25.815035111405745
+Pinehurst,Conkling Park,Idaho,26.89805374377886
+Pinehurst,De Smet,Idaho,41.97123419139761
+Pinehurst,Hope,Idaho,49.71030568463584
+Pinehurst,Tensed,Idaho,41.59841012803667
+Pinehurst,Parkline,Idaho,25.58167070786975
+Pinehurst,State Line,Idaho,39.31821920524763
+Parma,Wilder,Idaho,7.683140190331055
+Parma,New Plymouth,Idaho,14.138594097393883
+Parma,Avimor,Idaho,34.3118933420751
+Parma,Marsing,Idaho,17.856096063334657
+Parma,Robie Creek,Idaho,46.877140195129144
+Parma,Greenleaf,Idaho,9.801730777003227
+Parma,Horseshoe Bend,Idaho,38.20254269684337
+Parma,Idaho City,Idaho,55.68280479098896
+Parma,Notus,Idaho,8.262330771723146
+Parma,Melba,Idaho,35.227293693539295
+Parma,Letha,Idaho,16.60973682019006
+Parma,Garden Valley,Idaho,53.08735073447139
+Parma,Cambridge,Idaho,55.810748438751084
+Parma,Midvale,Idaho,47.67472617017773
+Parma,Crouch,Idaho,53.41943280261079
+Parma,Murphy,Idaho,44.32551955175163
+Parma,Smiths Ferry,Idaho,55.73630926434945
+Parma,Placerville,Idaho,50.95166721968065
+Parma,Banks,Idaho,45.369940751642886
+Shoshone,Hansen,Idaho,28.489955206390732
+Shoshone,Sun Valley,Idaho,51.68736122412407
+Shoshone,Paul,Idaho,38.99918321426942
+Shoshone,Glenns Ferry,Idaho,45.712273268304784
+Shoshone,Carey,Idaho,34.726153909344724
+Shoshone,Hagerman,Idaho,26.321772079899937
+Shoshone,Hazelton,Idaho,27.25855425702896
+Shoshone,Oakley,Idaho,54.903966062145976
+Shoshone,Richfield,Idaho,14.95278443731702
+Shoshone,Declo,Idaho,48.90807835725399
+Shoshone,Fairfield,Idaho,34.752996079960255
+Shoshone,Eden,Idaho,24.97562873146853
+Shoshone,Hollister,Idaho,41.323255513620516
+Shoshone,Albion,Idaho,55.57927706663221
+Shoshone,Gannett,Idaho,31.241738124501353
+Shoshone,Dietrich,Idaho,7.259717206866488
+Shoshone,Bliss,Idaho,27.526500013811464
+Shoshone,Hammett,Idaho,53.75590465416159
+Shoshone,Castleford,Idaho,37.263844018087845
+Shoshone,Acequia,Idaho,45.07888344252898
+Shoshone,Minidoka,Idaho,48.18502374305316
+Shoshone,Murtaugh,Idaho,33.119956019855145
+Wilder,New Plymouth,Idaho,20.65521655326713
+Wilder,Avimor,Idaho,33.22801902076834
+Wilder,Marsing,Idaho,10.320406198592117
+Wilder,Robie Creek,Idaho,44.40826308431965
+Wilder,Greenleaf,Idaho,4.313901936639648
+Wilder,Horseshoe Bend,Idaho,39.008944767505774
+Wilder,Idaho City,Idaho,54.84710577352101
+Wilder,Notus,Idaho,6.327737132740435
+Wilder,Melba,Idaho,28.276714114818077
+Wilder,Letha,Idaho,19.804053729328633
+Wilder,Garden Valley,Idaho,54.879678858929836
+Wilder,Midvale,Idaho,54.71066666189331
+Wilder,Crouch,Idaho,55.52984392910103
+Wilder,Murphy,Idaho,36.88555476794028
+Wilder,Smiths Ferry,Idaho,59.526410037586516
+Wilder,Placerville,Idaho,51.39917048112934
+Wilder,Banks,Idaho,47.696402277816595
+New Plymouth,Avimor,Idaho,31.112115313638203
+New Plymouth,Marsing,Idaho,29.2695001807851
+New Plymouth,Robie Creek,Idaho,45.0238536348109
+New Plymouth,Cascade,Idaho,53.53491810158241
+New Plymouth,Greenleaf,Idaho,20.380818724232057
+New Plymouth,Horseshoe Bend,Idaho,31.11295193311091
+New Plymouth,Idaho City,Idaho,50.30271306230986
+New Plymouth,Council,Idaho,55.92104067709086
+New Plymouth,Notus,Idaho,16.85901034793612
+New Plymouth,Melba,Idaho,43.70655179236363
+New Plymouth,Letha,Idaho,10.170889599420683
+New Plymouth,Garden Valley,Idaho,43.42673468768856
+New Plymouth,Cambridge,Idaho,42.10967550662683
+New Plymouth,Midvale,Idaho,34.12759445442486
+New Plymouth,Crouch,Idaho,43.26127097922318
+New Plymouth,Murphy,Idaho,54.08708391171096
+New Plymouth,Smiths Ferry,Idaho,43.25007141070838
+New Plymouth,Placerville,Idaho,43.57721487251402
+New Plymouth,Banks,Idaho,35.21541485098093
+Ucon,Tyhee,Idaho,50.69433476289226
+Ucon,Ashton,Idaho,41.8328211071719
+Ucon,Moreland,Idaho,35.30941971098612
+Ucon,Groveland,Idaho,33.035867843256355
+Ucon,Riverside,Idaho,36.41678386529707
+Ucon,Inkom,Idaho,56.94896683796213
+Ucon,Teton,Idaho,24.84148534389189
+Ucon,Ririe,Idaho,9.79172044894055
+Ucon,Arbon Valley,Idaho,58.49165026525504
+Ucon,Menan,Idaho,9.004803419420837
+Ucon,Parker,Idaho,27.112918109834162
+Ucon,Dubois,Idaho,42.19181940519889
+Ucon,Firth,Idaho,22.846339023824804
+Ucon,Newdale,Idaho,26.93415663532975
+Ucon,Mud Lake,Idaho,31.23645801306859
+Ucon,Roberts,Idaho,12.201360328988656
+Ucon,Lewisville,Idaho,7.506703727910565
+Ucon,Basalt,Idaho,21.866968543030083
+Ucon,Tetonia,Idaho,42.914162194397015
+Ucon,Swan Valley,Idaho,33.31540432156024
+Ucon,Rockford,Idaho,40.07898451053333
+Ucon,Irwin,Idaho,37.125949792656385
+Ucon,Hamer,Idaho,25.710130161077455
+Ucon,Spencer,Idaho,55.29224117112066
+Ucon,Atomic City,Idaho,44.0953561032304
+Ucon,Drummond,Idaho,41.65220073544232
+Ucon,Warm River,Idaho,48.323028496914404
+Osburn,Plummer,Idaho,43.189224380236865
+Osburn,Wallace,Idaho,4.269767937787607
+Osburn,Clark Fork,Idaho,45.083829259834026
+Osburn,Hauser,Idaho,50.60509790830403
+Osburn,Potlatch,Idaho,58.29418829093436
+Osburn,Athol,Idaho,44.903997015160094
+Osburn,Hayden Lake,Idaho,39.5217712644178
+Osburn,Smelterville,Idaho,8.65678795571985
+Osburn,Dover,Idaho,59.35172760865643
+Osburn,Mullan,Idaho,9.9079976842444
+Osburn,Silverton,Idaho,2.006560994212117
+Osburn,Deary,Idaho,55.32289671439467
+Osburn,Blanchard,Idaho,58.098615229249596
+Osburn,Wardner,Idaho,6.3815599930194145
+Osburn,Rockford Bay,Idaho,41.464674927062994
+Osburn,Laclede,Idaho,57.59859632553603
+Osburn,Harrison,Idaho,37.6758127727798
+Osburn,Worley,Idaho,43.643502027076686
+Osburn,Onaway,Idaho,57.796291275484386
+Osburn,East Hope,Idaho,52.55311398438545
+Osburn,Bovill,Idaho,48.37065733460819
+Osburn,Elk River,Idaho,50.641426039682116
+Osburn,Huetter,Idaho,42.0087145489853
+Osburn,Princeton,Idaho,56.49697202583907
+Osburn,Fernwood,Idaho,32.48988549094869
+Osburn,Fernan Lake Village,Idaho,36.7449087464283
+Osburn,Conkling Park,Idaho,36.7939297041251
+Osburn,De Smet,Idaho,49.63069468494757
+Osburn,Hope,Idaho,53.641437972182
+Osburn,Tensed,Idaho,49.49807464047896
+Osburn,Parkline,Idaho,34.48786411508866
+Osburn,State Line,Idaho,50.32291996881695
+Tyhee,Grace,Idaho,45.28036975374494
+Tyhee,Moreland,Idaho,18.26834108720888
+Tyhee,Groveland,Idaho,18.964597361816857
+Tyhee,Riverside,Idaho,16.68939160056816
+Tyhee,McCammon,Idaho,25.00930632690802
+Tyhee,Inkom,Idaho,15.381991784775506
+Tyhee,Downey,Idaho,40.09260565257534
+Tyhee,Ririe,Idaho,58.10473839219679
+Tyhee,Arbon Valley,Idaho,8.530546041955477
+Tyhee,Menan,Idaho,57.84748865488006
+Tyhee,Clifton,Idaho,57.792666914931004
+Tyhee,Firth,Idaho,27.848167593136306
+Tyhee,Roberts,Idaho,55.3716099045276
+Tyhee,Lewisville,Idaho,55.74434834726804
+Tyhee,Basalt,Idaho,28.840495125839073
+Tyhee,Bancroft,Idaho,33.327733692409545
+Tyhee,Arimo,Idaho,30.840741098797437
+Tyhee,Lava Hot Springs,Idaho,32.41693190119529
+Tyhee,Rockford,Idaho,16.587354203701004
+Tyhee,Minidoka,Idaho,54.31346906468243
+Tyhee,Rockland,Idaho,33.886120146216975
+Tyhee,Butte City,Idaho,59.92395008145196
+Tyhee,Oxford,Idaho,52.94738820807277
+Tyhee,Atomic City,Idaho,38.18620056723027
+Hansen,Paul,Idaho,26.83485550150848
+Hansen,Glenns Ferry,Idaho,58.772671305067
+Hansen,Carey,Idaho,56.690823746327155
+Hansen,Hagerman,Idaho,36.18644310589051
+Hansen,Hazelton,Idaho,9.481841456803776
+Hansen,Oakley,Idaho,29.305678905571877
+Hansen,Richfield,Idaho,36.69574606731914
+Hansen,Declo,Idaho,34.334076312637826
+Hansen,Eden,Idaho,6.93540078764892
+Hansen,Hollister,Idaho,18.995259595625292
+Hansen,Albion,Idaho,37.762013811185625
+Hansen,Gannett,Idaho,57.34472530802152
+Hansen,Malta,Idaho,50.091834059746574
+Hansen,Dietrich,Idaho,26.386544519733373
+Hansen,Bliss,Idaho,42.64918787869821
+Hansen,Castleford,Idaho,29.14142524118142
+Hansen,Acequia,Idaho,37.14643531038236
+Hansen,Minidoka,Idaho,44.09673984646006
+Hansen,Murtaugh,Idaho,7.587289789329294
+Grace,Moreland,Idaho,57.14803886708962
+Grace,Groveland,Idaho,55.43738346773056
+Grace,Riverside,Idaho,55.854705119007654
+Grace,McCammon,Idaho,24.01919870522366
+Grace,Inkom,Idaho,30.293152742334545
+Grace,Franklin,Idaho,39.05531608394922
+Grace,Downey,Idaho,22.49841459435736
+Grace,Arbon Valley,Idaho,48.879818522052204
+Grace,Georgetown,Idaho,19.84451148749811
+Grace,Clifton,Idaho,30.26166838597449
+Grace,Paris,Idaho,29.281943159649575
+Grace,Weston,Idaho,39.29779133955371
+Grace,Firth,Idaho,55.39583705469779
+Grace,Dayton,Idaho,34.43698808521861
+Grace,Basalt,Idaho,55.57147078393618
+Grace,Bancroft,Idaho,12.665026385058521
+Grace,Arimo,Idaho,22.627513644182837
+Grace,Lava Hot Springs,Idaho,14.591336214113905
+Grace,Rockford,Idaho,58.69986194194332
+Grace,Bloomington,Idaho,31.35855844497502
+Grace,Rockland,Idaho,58.38199809204886
+Grace,Bennington,Idaho,24.700795929697012
+Grace,St. Charles,Idaho,36.44461796700063
+Grace,Oxford,Idaho,26.301562024544644
+Sun Valley,Carey,Idaho,32.406467443889476
+Sun Valley,Challis,Idaho,56.97642636374279
+Sun Valley,Arco,Idaho,51.86244463723209
+Sun Valley,Mackay,Idaho,39.35110787288875
+Sun Valley,Richfield,Idaho,44.52388262976526
+Sun Valley,Fairfield,Idaho,32.92896871991341
+Sun Valley,Gannett,Idaho,23.92158489209008
+Sun Valley,Dietrich,Idaho,53.33412539652667
+Sun Valley,Stanley,Idaho,47.436272466037686
+Sun Valley,Moore,Idaho,48.52359456479583
+Sun Valley,Butte City,Idaho,55.056612044976966
+Sun Valley,Clayton,Idaho,39.811123918589445
+Sun Valley,Lost River,Idaho,39.0187779060748
+Ashton,Teton,Idaho,17.03714319204104
+Ashton,Ririe,Idaho,34.47429246146049
+Ashton,Menan,Idaho,36.436799599304834
+Ashton,Parker,Idaho,17.3889971801456
+Ashton,Dubois,Idaho,39.447962614565675
+Ashton,Newdale,Idaho,15.062053927427103
+Ashton,Mud Lake,Idaho,53.8492497874499
+Ashton,Roberts,Idaho,41.78227392010491
+Ashton,Lewisville,Idaho,38.442586199397006
+Ashton,Tetonia,Idaho,22.97208773186346
+Ashton,Swan Valley,Idaho,43.82845677739107
+Ashton,Irwin,Idaho,47.55646788430735
+Ashton,Island Park,Idaho,31.704367135131005
+Ashton,Hamer,Idaho,39.03723844190114
+Ashton,Spencer,Idaho,42.36393443126931
+Ashton,Drummond,Idaho,7.297992135007141
+Ashton,Warm River,Idaho,7.107434555824038
+Moreland,Groveland,Idaho,3.1573027238964606
+Moreland,Riverside,Idaho,1.5916255908787384
+Moreland,McCammon,Idaho,41.24442805721415
+Moreland,Inkom,Idaho,30.858635671450678
+Moreland,Downey,Idaho,56.87135009342144
+Moreland,Ririe,Idaho,43.99670849040705
+Moreland,Arbon Valley,Idaho,24.430006757693075
+Moreland,Menan,Idaho,41.27618240424651
+Moreland,Arco,Idaho,51.94991582022347
+Moreland,Firth,Idaho,14.147074335195915
+Moreland,Mud Lake,Idaho,43.10266799844551
+Moreland,Roberts,Idaho,37.94304322248741
+Moreland,Lewisville,Idaho,39.16858261421728
+Moreland,Basalt,Idaho,15.244734992056308
+Moreland,Bancroft,Idaho,44.48445412895877
+Moreland,Arimo,Idaho,47.460255010487394
+Moreland,Lava Hot Springs,Idaho,46.74560327518711
+Moreland,Swan Valley,Idaho,58.00914515487453
+Moreland,Moore,Idaho,58.71997824178571
+Moreland,Rockford,Idaho,5.131916821024147
+Moreland,Rockland,Idaho,49.81895620633103
+Moreland,Butte City,Idaho,48.463527629659886
+Moreland,Hamer,Idaho,49.88653587867635
+Moreland,Atomic City,Idaho,24.385082550581
+Paul,Carey,Idaho,49.3006017683797
+Paul,Hagerman,Idaho,58.486596557072474
+Paul,Hazelton,Idaho,17.957932555320113
+Paul,Oakley,Idaho,25.58242160161094
+Paul,Richfield,Idaho,36.14888865995963
+Paul,Declo,Idaho,9.909077312252341
+Paul,Eden,Idaho,21.635184239041983
+Paul,Hollister,Idaho,44.39182353394736
+Paul,Albion,Idaho,17.045610277262693
+Paul,Gannett,Idaho,55.54935906779667
+Paul,Malta,Idaho,29.543115285598496
+Paul,Dietrich,Idaho,32.413701807789046
+Paul,Castleford,Idaho,55.77019646228576
+Paul,Acequia,Idaho,10.534523029718505
+Paul,Minidoka,Idaho,18.186900292467204
+Paul,Murtaugh,Idaho,20.809800978005388
+Paul,Rockland,Idaho,46.481080641995966
+Glenns Ferry,Hagerman,Idaho,22.74317190448727
+Glenns Ferry,Richfield,Idaho,58.7423681933352
+Glenns Ferry,Grand View,Idaho,39.861926905258066
+Glenns Ferry,Fairfield,Idaho,37.56453065839241
+Glenns Ferry,Hollister,Idaho,55.29242725471851
+Glenns Ferry,Dietrich,Idaho,52.841113179197464
+Glenns Ferry,Bliss,Idaho,18.286807447900046
+Glenns Ferry,Hammett,Idaho,8.059501413794067
+Glenns Ferry,Castleford,Idaho,37.0148292911911
+Glenns Ferry,Bruneau,Idaho,25.547273915787
+Avimor,Marsing,Idaho,31.884873234661516
+Avimor,Robie Creek,Idaho,13.969699084674414
+Avimor,Cascade,Idaho,51.714677360336054
+Avimor,Greenleaf,Idaho,29.07277850555273
+Avimor,Horseshoe Bend,Idaho,10.128496433776286
+Avimor,Idaho City,Idaho,21.624960502780596
+Avimor,Notus,Idaho,27.370401293395457
+Avimor,Melba,Idaho,31.072199714689706
+Avimor,Letha,Idaho,21.026461204625324
+Avimor,Grand View,Idaho,55.299100805163725
+Avimor,Garden Valley,Idaho,25.842357612285436
+Avimor,Cambridge,Idaho,58.80704149270658
+Avimor,Midvale,Idaho,53.1844345254565
+Avimor,Crouch,Idaho,27.412198877433326
+Avimor,Murphy,Idaho,41.58006950438521
+Avimor,Smiths Ferry,Idaho,37.20448923661608
+Avimor,Placerville,Idaho,19.34687913897147
+Avimor,Lowman,Idaho,38.023191355366365
+Avimor,Banks,Idaho,21.81922586045229
+Lapwai,Cottonwood,Idaho,32.660019399996806
+Lapwai,Kamiah,Idaho,39.07929706234489
+Lapwai,Genesee,Idaho,11.83071399815772
+Lapwai,Troy,Idaho,23.1590054920194
+Lapwai,Potlatch,Idaho,36.19963521456964
+Lapwai,Kooskia,Idaho,43.57143553244099
+Lapwai,Juliaetta,Idaho,12.61671252916045
+Lapwai,Nezperce,Idaho,29.39750615033772
+Lapwai,Craigmont,Idaho,19.372785728969113
+Lapwai,Deary,Idaho,29.828961196968596
+Lapwai,Culdesac,Idaho,6.691080907271899
+Lapwai,Pierce,Idaho,48.361094865927974
+Lapwai,Weippe,Idaho,41.35226597338537
+Lapwai,Kendrick,Idaho,16.206229026615702
+Lapwai,Winchester,Idaho,14.145224858365005
+Lapwai,Onaway,Idaho,36.477481858516086
+Lapwai,Bovill,Idaho,37.01224712254033
+Lapwai,Ferdinand,Idaho,26.364023686252757
+Lapwai,Sweetwater,Idaho,2.4859291654801217
+Lapwai,Peck,Idaho,18.70516474916241
+Lapwai,Elk River,Idaho,39.58614041836281
+Lapwai,Stites,Idaho,45.123142305331505
+Lapwai,Princeton,Idaho,35.37619730318705
+Lapwai,Fernwood,Idaho,53.00898423409265
+Lapwai,De Smet,Idaho,51.203529717684724
+Lapwai,Reubens,Idaho,13.671665267450138
+Lapwai,Tensed,Idaho,52.54293498772713
+Lapwai,Viola,Idaho,31.771162868529622
+Lapwai,White Bird,Idaho,50.46735865651344
+Moyie Springs,Ponderay,Idaho,32.759273485799966
+Moyie Springs,Kootenai,Idaho,32.12943042179894
+Moyie Springs,Clark Fork,Idaho,39.911847377355414
+Moyie Springs,Athol,Idaho,58.70076128434205
+Moyie Springs,Dover,Idaho,37.292338016311035
+Moyie Springs,Oldtown,Idaho,53.229082111672305
+Moyie Springs,Laclede,Idaho,46.23473248701095
+Moyie Springs,East Hope,Idaho,33.71926518134056
+Moyie Springs,Hope,Idaho,32.90786738916486
+Moyie Springs,Coolin,Idaho,34.34268264795413
+Marsing,Robie Creek,Idaho,40.43476947553412
+Marsing,Greenleaf,Idaho,8.904124516484812
+Marsing,Horseshoe Bend,Idaho,39.79677918142321
+Marsing,Idaho City,Idaho,52.74228799705215
+Marsing,Notus,Idaho,12.44297483345123
+Marsing,Melba,Idaho,18.40134950261542
+Marsing,Letha,Idaho,25.31487906927575
+Marsing,Grand View,Idaho,53.102060584667974
+Marsing,Garden Valley,Idaho,56.297819468141974
+Marsing,Crouch,Idaho,57.35072368140857
+Marsing,Murphy,Idaho,26.567499670379565
+Marsing,Placerville,Idaho,51.139340857858286
+Marsing,Banks,Idaho,50.05629899948389
+Carey,Hagerman,Idaho,59.04464717754619
+Carey,Hazelton,Idaho,50.26822588796708
+Carey,Arco,Idaho,39.21774135939592
+Carey,Mackay,Idaho,44.784650298024296
+Carey,Richfield,Idaho,20.737872094883027
+Carey,Declo,Idaho,56.841574564167864
+Carey,Fairfield,Idaho,43.23346095832857
+Carey,Eden,Idaho,50.440978016008
+Carey,Gannett,Idaho,12.099655336931017
+Carey,Dietrich,Idaho,31.867793144555872
+Carey,Bliss,Idaho,57.29831434805283
+Carey,Moore,Idaho,41.22543223028276
+Carey,Acequia,Idaho,47.61883657471571
+Carey,Minidoka,Idaho,44.732530564680715
+Carey,Murtaugh,Idaho,57.53314793056815
+Carey,Butte City,Idaho,40.904827741256554
+Carey,Atomic City,Idaho,57.742554733214654
+Carey,Lost River,Idaho,35.06788288700146
+Cottonwood,Kamiah,Idaho,19.643629797738278
+Cottonwood,Genesee,Idaho,44.302450289829856
+Cottonwood,Troy,Idaho,51.58378641867414
+Cottonwood,Kooskia,Idaho,18.994908186110585
+Cottonwood,Juliaetta,Idaho,40.0182194226877
+Cottonwood,Nezperce,Idaho,13.691812615781313
+Cottonwood,Craigmont,Idaho,14.465797056293226
+Cottonwood,Deary,Idaho,52.69462950611617
+Cottonwood,Culdesac,Idaho,27.141032456027062
+Cottonwood,Pierce,Idaho,40.33779314706724
+Cottonwood,Weippe,Idaho,29.98512884981115
+Cottonwood,Kendrick,Idaho,41.52590582897736
+Cottonwood,Winchester,Idaho,18.58919714775661
+Cottonwood,Riggins,Idaho,43.585356517584714
+Cottonwood,Elk City,Idaho,46.598546406413206
+Cottonwood,Bovill,Idaho,55.81443139248967
+Cottonwood,Ferdinand,Idaho,7.23160151218105
+Cottonwood,Sweetwater,Idaho,30.648675898628465
+Cottonwood,Peck,Idaho,29.49268232877792
+Cottonwood,Elk River,Idaho,51.18549148063242
+Cottonwood,Stites,Idaho,18.182404565614554
+Cottonwood,Reubens,Idaho,20.940022342032606
+Cottonwood,White Bird,Idaho,20.09228260463164
+Robie Creek,Cascade,Idaho,58.04751446783912
+Robie Creek,Greenleaf,Idaho,40.09737940926919
+Robie Creek,Horseshoe Bend,Idaho,19.340658764881802
+Robie Creek,Idaho City,Idaho,14.581950809094083
+Robie Creek,Notus,Idaho,39.224467458844266
+Robie Creek,Melba,Idaho,32.80173858775677
+Robie Creek,Letha,Idaho,34.88737205522996
+Robie Creek,Grand View,Idaho,47.36749170248737
+Robie Creek,Garden Valley,Idaho,28.799624366919073
+Robie Creek,Hammett,Idaho,57.291325005709716
+Robie Creek,Crouch,Idaho,31.018715702898238
+Robie Creek,Murphy,Idaho,41.17488534435966
+Robie Creek,Smiths Ferry,Idaho,43.65232294660057
+Robie Creek,Bruneau,Idaho,55.76326488737166
+Robie Creek,Placerville,Idaho,19.324626040477632
+Robie Creek,Lowman,Idaho,34.68297549639877
+Robie Creek,Banks,Idaho,28.778528450609272
+Kamiah,Genesee,Idaho,48.51468632481437
+Kamiah,Troy,Idaho,50.091041784808695
+Kamiah,Kooskia,Idaho,6.400548956403191
+Kamiah,Juliaetta,Idaho,40.430800387432534
+Kamiah,Nezperce,Idaho,10.183571654006856
+Kamiah,Craigmont,Idaho,21.330904861407063
+Kamiah,Deary,Idaho,46.95456600834402
+Kamiah,Culdesac,Idaho,32.38907316166375
+Kamiah,Pierce,Idaho,21.395740764227117
+Kamiah,Weippe,Idaho,11.311962216178063
+Kamiah,Kendrick,Idaho,40.11277906442471
+Kamiah,Winchester,Idaho,28.577926891555546
+Kamiah,Riggins,Idaho,57.43526480893561
+Kamiah,Elk City,Idaho,39.64133415513648
+Kamiah,Bovill,Idaho,46.970267193982636
+Kamiah,Ferdinand,Idaho,18.107143778259715
+Kamiah,Sweetwater,Idaho,38.087759804340635
+Kamiah,Peck,Idaho,25.595279514640566
+Kamiah,Elk River,Idaho,39.081867001178495
+Kamiah,Stites,Idaho,9.640332457021492
+Kamiah,Reubens,Idaho,25.522822834166274
+Kamiah,White Bird,Idaho,34.6785862509394
+Genesee,Plummer,Idaho,53.81630651484745
+Genesee,Troy,Idaho,14.84438206898501
+Genesee,Potlatch,Idaho,25.73066522026799
+Genesee,Kooskia,Idaho,53.622675867771726
+Genesee,Juliaetta,Idaho,10.538510093039298
+Genesee,Nezperce,Idaho,39.51876135394868
+Genesee,Craigmont,Idaho,30.507827811262604
+Genesee,Deary,Idaho,24.628685317392584
+Genesee,Culdesac,Idaho,17.341367434144928
+Genesee,Pierce,Idaho,53.975271623007245
+Genesee,Weippe,Idaho,48.68119196323524
+Genesee,Kendrick,Idaho,13.747325106815538
+Genesee,Winchester,Idaho,25.920626410418308
+Genesee,Worley,Idaho,58.65576580027434
+Genesee,Onaway,Idaho,26.07889181730661
+Genesee,Bovill,Idaho,33.097518982174016
+Genesee,Ferdinand,Idaho,37.752339710082204
+Genesee,Sweetwater,Idaho,14.155902474618493
+Genesee,Peck,Idaho,24.530133719712424
+Genesee,Elk River,Idaho,38.96308848552197
+Genesee,Stites,Idaho,55.529185063465256
+Genesee,Princeton,Idaho,25.533868373588366
+Genesee,Fernwood,Idaho,46.639780860976856
+Genesee,Conkling Park,Idaho,59.06627578781571
+Genesee,De Smet,Idaho,40.72175121667065
+Genesee,Reubens,Idaho,24.25724168735164
+Genesee,Tensed,Idaho,41.99914299026919
+Genesee,Viola,Idaho,20.305913895555936
+Genesee,Parkline,Idaho,55.4766911398192
+Ponderay,Kootenai,Idaho,1.020719221942129
+Ponderay,Clark Fork,Idaho,20.121552854550718
+Ponderay,Hauser,Idaho,43.44956819658211
+Ponderay,Athol,Idaho,26.222832807809585
+Ponderay,Hayden Lake,Idaho,38.99276869030343
+Ponderay,Smelterville,Idaho,55.56048036595172
+Ponderay,Dover,Idaho,4.683521730001806
+Ponderay,Oldtown,Idaho,23.838132132779325
+Ponderay,Blanchard,Idaho,29.200004307342372
+Ponderay,Wardner,Idaho,57.72498351645085
+Ponderay,Rockford Bay,Idaho,57.621293464492446
+Ponderay,Laclede,Idaho,13.889559666864884
+Ponderay,Harrison,Idaho,59.43601681984764
+Ponderay,East Hope,Idaho,12.406227008841212
+Ponderay,Huetter,Idaho,44.261585352743126
+Ponderay,Fernan Lake Village,Idaho,45.030320292364976
+Ponderay,Hope,Idaho,11.38006414873819
+Ponderay,State Line,Idaho,47.68306461500443
+Ponderay,Coolin,Idaho,18.16434088486559
+Hagerman,Hazelton,Idaho,41.629218925600426
+Hagerman,Richfield,Idaho,40.99195930580771
+Hagerman,Fairfield,Idaho,37.083792981403136
+Hagerman,Eden,Idaho,37.951104590619366
+Hagerman,Hollister,Idaho,35.766608774658984
+Hagerman,Gannett,Idaho,52.21413229963314
+Hagerman,Dietrich,Idaho,32.73466862707969
+Hagerman,Bliss,Idaho,7.877141310167979
+Hagerman,Hammett,Idaho,30.152017325138967
+Hagerman,Castleford,Idaho,20.459761075082017
+Hagerman,Murtaugh,Idaho,43.63497799854097
+Hagerman,Bruneau,Idaho,46.03867316016688
+Cascade,Horseshoe Bend,Idaho,41.626689362218535
+Cascade,Idaho City,Idaho,48.155708941919954
+Cascade,Council,Idaho,24.88143963502397
+Cascade,Letha,Idaho,51.9702937689403
+Cascade,Garden Valley,Idaho,29.667889136026012
+Cascade,Yellow Pine,Idaho,41.54319727400675
+Cascade,Cambridge,Idaho,31.675184912856146
+Cascade,New Meadows,Idaho,34.105177588437215
+Cascade,Midvale,Idaho,34.801200916834475
+Cascade,Stanley,Idaho,58.411557357385554
+Cascade,Donnelly,Idaho,15.734963660744972
+Cascade,Crouch,Idaho,27.319240784952733
+Cascade,Smiths Ferry,Idaho,14.587157539215605
+Cascade,Placerville,Idaho,39.371878014443354
+Cascade,Lowman,Idaho,36.32666414502926
+Cascade,Banks,Idaho,30.057762056698436
+Groveland,Riverside,Idaho,3.5613873775837113
+Groveland,McCammon,Idaho,40.66272187721154
+Groveland,Inkom,Idaho,30.27763882239583
+Groveland,Teton,Idaho,57.838567922226645
+Groveland,Downey,Idaho,56.33304703582302
+Groveland,Ririe,Idaho,41.4688785991391
+Groveland,Arbon Valley,Idaho,25.875593564486508
+Groveland,Menan,Idaho,39.423064708260085
+Groveland,Arco,Idaho,54.45503908013692
+Groveland,Parker,Idaho,59.430134199056845
+Groveland,Firth,Idaho,11.230375843372581
+Groveland,Newdale,Idaho,59.963036510895115
+Groveland,Mud Lake,Idaho,43.09446801129029
+Groveland,Roberts,Idaho,36.51006741292735
+Groveland,Lewisville,Idaho,37.31067872471505
+Groveland,Basalt,Idaho,12.337847485376228
+Groveland,Bancroft,Idaho,42.78175426918982
+Groveland,Arimo,Idaho,46.93273092564833
+Groveland,Lava Hot Springs,Idaho,45.615796155162656
+Groveland,Swan Valley,Idaho,54.911745756823464
+Groveland,Rockford,Idaho,8.182226971790058
+Groveland,Irwin,Idaho,56.89149411947453
+Groveland,Rockland,Idaho,51.54338087786385
+Groveland,Butte City,Idaho,50.96198973419825
+Groveland,Hamer,Idaho,48.96879823820051
+Groveland,Atomic City,Idaho,26.730929549726024
+Plummer,Wallace,Idaho,46.20619426277669
+Plummer,Troy,Idaho,41.24094292845341
+Plummer,Hauser,Idaho,30.754586271982305
+Plummer,Potlatch,Idaho,28.094266544773635
+Plummer,Athol,Idaho,43.406334844529084
+Plummer,Hayden Lake,Idaho,30.570446821237994
+Plummer,Smelterville,Idaho,36.26212412902722
+Plummer,Mullan,Idaho,51.95103642032443
+Plummer,Juliaetta,Idaho,52.8837746797851
+Plummer,Silverton,Idaho,44.83867427107482
+Plummer,Deary,Idaho,39.73250684218629
+Plummer,Oldtown,Idaho,59.33745262079697
+Plummer,Blanchard,Idaho,47.598191722302666
+Plummer,Wardner,Idaho,37.468292014386634
+Plummer,Kendrick,Idaho,50.65415071046014
+Plummer,Rockford Bay,Idaho,12.331651394061199
+Plummer,Laclede,Idaho,58.200406863000254
+Plummer,Harrison,Idaho,10.232928997760485
+Plummer,Worley,Idaho,5.137550468388532
+Plummer,Onaway,Idaho,27.76410536828795
+Plummer,Bovill,Idaho,39.9839643380903
+Plummer,Elk River,Idaho,50.33479366907822
+Plummer,Huetter,Idaho,25.85930674158339
+Plummer,Princeton,Idaho,28.771607624793813
+Plummer,Fernwood,Idaho,27.766691124638726
+Plummer,Fernan Lake Village,Idaho,24.52383998023097
+Plummer,Conkling Park,Idaho,7.21574000197381
+Plummer,De Smet,Idaho,13.122179932282597
+Plummer,Tensed,Idaho,11.919674779187183
+Plummer,Viola,Idaho,34.515824948953856
+Plummer,Parkline,Idaho,8.984076499469229
+Plummer,State Line,Idaho,26.86859169038825
+Kootenai,Clark Fork,Idaho,19.397812813044883
+Kootenai,Hauser,Idaho,44.122048752296955
+Kootenai,Athol,Idaho,26.710133492244783
+Kootenai,Hayden Lake,Idaho,39.4375866752835
+Kootenai,Smelterville,Idaho,55.43515468735177
+Kootenai,Dover,Idaho,5.545097462992275
+Kootenai,Oldtown,Idaho,24.84107273759278
+Kootenai,Blanchard,Idaho,30.053905271732617
+Kootenai,Wardner,Idaho,57.57518419804838
+Kootenai,Rockford Bay,Idaho,58.08466671671802
+Kootenai,Laclede,Idaho,14.742339704763989
+Kootenai,Harrison,Idaho,59.828713128255096
+Kootenai,East Hope,Idaho,11.557803759754295
+Kootenai,Huetter,Idaho,44.770327629839855
+Kootenai,Fernan Lake Village,Idaho,45.43242500801844
+Kootenai,Hope,Idaho,10.504332592675812
+Kootenai,State Line,Idaho,48.335557196547015
+Kootenai,Coolin,Idaho,18.841394330533873
+Hazelton,Oakley,Idaho,27.652910338070352
+Hazelton,Richfield,Idaho,31.5466255837134
+Hazelton,Declo,Idaho,26.434204414205112
+Hazelton,Eden,Idaho,3.755963395095456
+Hazelton,Hollister,Idaho,28.325219078385874
+Hazelton,Albion,Idaho,31.15017500006373
+Hazelton,Gannett,Idaho,52.61694353210142
+Hazelton,Malta,Idaho,43.95997412764069
+Hazelton,Dietrich,Idaho,22.886111754905695
+Hazelton,Bliss,Idaho,47.10197291918117
+Hazelton,Castleford,Idaho,37.863933984670815
+Hazelton,Acequia,Idaho,27.97659254136201
+Hazelton,Minidoka,Idaho,34.707673259505455
+Hazelton,Murtaugh,Idaho,7.2652951334283795
+Wallace,Clark Fork,Idaho,48.016730818914674
+Wallace,Hauser,Idaho,54.817606860316815
+Wallace,Potlatch,Idaho,59.59010329575475
+Wallace,Athol,Idaho,49.088619611157654
+Wallace,Hayden Lake,Idaho,43.782551666021575
+Wallace,Smelterville,Idaho,12.844257353884442
+Wallace,Mullan,Idaho,5.930492474701424
+Wallace,Silverton,Idaho,2.3386088159669494
+Wallace,Deary,Idaho,55.29766548092742
+Wallace,Wardner,Idaho,10.452095809425554
+Wallace,Rockford Bay,Idaho,45.198308536055826
+Wallace,Harrison,Idaho,41.25611813629601
+Wallace,Worley,Idaho,46.98316536194884
+Wallace,Onaway,Idaho,59.09139550183715
+Wallace,East Hope,Idaho,55.69249213912116
+Wallace,Bovill,Idaho,47.93188982320251
+Wallace,Elk River,Idaho,49.24963734723422
+Wallace,Huetter,Idaho,46.19777128724546
+Wallace,Princeton,Idaho,57.612119798679615
+Wallace,Fernwood,Idaho,32.98924720422969
+Wallace,Fernan Lake Village,Idaho,40.924497931010514
+Wallace,Conkling Park,Idaho,40.0594247275336
+Wallace,De Smet,Idaho,51.82309517219635
+Wallace,Hope,Idaho,56.80429167192892
+Wallace,Tensed,Idaho,51.79164725479132
+Wallace,Parkline,Idaho,37.35823784806531
+Wallace,State Line,Idaho,54.462813808473186
+Riverside,McCammon,Idaho,39.70067197296377
+Riverside,Inkom,Idaho,29.32067440281668
+Riverside,Downey,Idaho,55.31805127845729
+Riverside,Ririe,Idaho,44.96373136595344
+Riverside,Arbon Valley,Idaho,22.972949259792287
+Riverside,Menan,Idaho,42.562959541391116
+Riverside,Arco,Idaho,52.93397829312741
+Riverside,Firth,Idaho,14.791245563926916
+Riverside,Mud Lake,Idaho,44.69395008614752
+Riverside,Roberts,Idaho,39.35418560806172
+Riverside,Lewisville,Idaho,40.452648749758616
+Riverside,Basalt,Idaho,15.8989259396405
+Riverside,Bancroft,Idaho,43.19691709840368
+Riverside,Arimo,Idaho,45.90788782216129
+Riverside,Lava Hot Springs,Idaho,45.294130063236054
+Riverside,Swan Valley,Idaho,58.35834361942044
+Riverside,Moore,Idaho,59.788060800299064
+Riverside,Rockford,Idaho,4.824693451875657
+Riverside,Rockland,Idaho,48.45518496190151
+Riverside,Butte City,Idaho,49.454637643407466
+Riverside,Hamer,Idaho,51.40586537253457
+Riverside,Atomic City,Idaho,25.504973579054866
+McCammon,Inkom,Idaho,10.395443480161541
+McCammon,Franklin,Idaho,48.27980956485535
+McCammon,Downey,Idaho,15.671213773383045
+McCammon,Arbon Valley,Idaho,26.15212238848946
+McCammon,Georgetown,Idaho,43.78400114470724
+McCammon,Clifton,Idaho,33.342544098683604
+McCammon,Paris,Idaho,49.7126004329825
+McCammon,Weston,Idaho,43.71154643658146
+McCammon,Firth,Idaho,45.23634583059977
+McCammon,Dayton,Idaho,38.728858984134746
+McCammon,Basalt,Idaho,45.86021280783536
+McCammon,Bancroft,Idaho,16.36439754564842
+McCammon,Arimo,Idaho,6.293654363704534
+McCammon,Lava Hot Springs,Idaho,9.428790894890964
+McCammon,Rockford,Idaho,41.00858610616088
+McCammon,Bloomington,Idaho,51.202075454207396
+McCammon,Rockland,Idaho,35.294602313721846
+McCammon,Bennington,Idaho,47.9864639927223
+McCammon,St. Charles,Idaho,55.29998072090637
+McCammon,Oxford,Idaho,28.36237324117329
+Greenleaf,Horseshoe Bend,Idaho,35.251188130122095
+Greenleaf,Idaho City,Idaho,50.66970392689055
+Greenleaf,Notus,Idaho,3.704035434225873
+Greenleaf,Melba,Idaho,25.439489800429442
+Greenleaf,Letha,Idaho,17.436941535931282
+Greenleaf,Garden Valley,Idaho,51.34078628018457
+Greenleaf,Midvale,Idaho,54.4390126990479
+Greenleaf,Crouch,Idaho,52.098708485706304
+Greenleaf,Murphy,Idaho,34.79101282268262
+Greenleaf,Smiths Ferry,Idaho,56.788102116928236
+Greenleaf,Placerville,Idaho,47.48315277370745
+Greenleaf,Banks,Idaho,44.38798249861249
+Clark Fork,Hauser,Idaho,46.88401508270544
+Clark Fork,Athol,Idaho,28.22947944088605
+Clark Fork,Hayden Lake,Idaho,37.73070373313044
+Clark Fork,Smelterville,Idaho,41.77097271830728
+Clark Fork,Dover,Idaho,21.478990998760846
+Clark Fork,Mullan,Idaho,50.10973352480536
+Clark Fork,Silverton,Idaho,46.1167153607948
+Clark Fork,Oldtown,Idaho,39.07544111891046
+Clark Fork,Blanchard,Idaho,38.86357635300263
+Clark Fork,Wardner,Idaho,43.45035374130457
+Clark Fork,Rockford Bay,Idaho,55.10901689594971
+Clark Fork,Laclede,Idaho,26.67031310782307
+Clark Fork,Harrison,Idaho,55.277701534970184
+Clark Fork,East Hope,Idaho,8.325546301852969
+Clark Fork,Huetter,Idaho,43.80006589425755
+Clark Fork,Fernan Lake Village,Idaho,42.15639162046323
+Clark Fork,Conkling Park,Idaho,58.570593896702356
+Clark Fork,Hope,Idaho,9.512634848197914
+Clark Fork,State Line,Idaho,50.26489673067869
+Clark Fork,Coolin,Idaho,38.236437459280864
+Inkom,Franklin,Idaho,58.57403886095812
+Inkom,Downey,Idaho,26.058511172541035
+Inkom,Arbon Valley,Idaho,18.786619296198587
+Inkom,Georgetown,Idaho,49.927376338157416
+Inkom,Clifton,Idaho,43.73658428664479
+Inkom,Paris,Idaho,58.182352851883635
+Inkom,Weston,Idaho,54.10550227374716
+Inkom,Firth,Idaho,35.356232800272
+Inkom,Dayton,Idaho,49.123422489398926
+Inkom,Basalt,Idaho,36.05384400423951
+Inkom,Bancroft,Idaho,19.123129191582894
+Inkom,Arimo,Idaho,16.65511592194855
+Inkom,Lava Hot Springs,Idaho,17.035298884120287
+Inkom,Rockford,Idaho,30.794948180336757
+Inkom,Bloomington,Idaho,59.881693768412454
+Inkom,Rockland,Idaho,35.54835507296269
+Inkom,Bennington,Idaho,54.98359024544889
+Inkom,Oxford,Idaho,38.749784624389775
+Inkom,Atomic City,Idaho,53.125637146123694
+Troy,Potlatch,Idaho,14.107684388735175
+Troy,Kooskia,Idaho,56.07473427822692
+Troy,Juliaetta,Idaho,11.7238500421948
+Troy,Nezperce,Idaho,43.09398117229627
+Troy,Craigmont,Idaho,37.12176340411891
+Troy,Deary,Idaho,11.114041198257617
+Troy,Culdesac,Idaho,25.554241257492997
+Troy,Pierce,Idaho,49.33096138174378
+Troy,Weippe,Idaho,46.830303202717275
+Troy,Kendrick,Idaho,10.259896252715563
+Troy,Rockford Bay,Idaho,53.50123680195712
+Troy,Harrison,Idaho,50.41383166549766
+Troy,Winchester,Idaho,35.06287713052253
+Troy,Worley,Idaho,46.29588729040714
+Troy,Onaway,Idaho,14.25189683002789
+Troy,Bovill,Idaho,19.837632390508748
+Troy,Ferdinand,Idaho,44.42332255983594
+Troy,Sweetwater,Idaho,25.604121179929745
+Troy,Peck,Idaho,24.565929909309045
+Troy,Elk River,Idaho,28.276677469592
+Troy,Stites,Idaho,58.64774640784187
+Troy,Princeton,Idaho,12.549570240380092
+Troy,Fernwood,Idaho,31.83462640853637
+Troy,Conkling Park,Idaho,45.71678744600477
+Troy,De Smet,Idaho,28.595838979914927
+Troy,Reubens,Idaho,30.70036951789889
+Troy,Tensed,Idaho,29.982946311298722
+Troy,Viola,Idaho,13.5860279563811
+Troy,Parkline,Idaho,41.64968116654012
+Hauser,Potlatch,Idaho,58.503153598607405
+Hauser,Athol,Idaho,18.8852338087053
+Hauser,Hayden Lake,Idaho,11.99123993340651
+Hauser,Smelterville,Idaho,41.973452719820074
+Hauser,Dover,Idaho,38.914239233421
+Hauser,Silverton,Idaho,52.61073841096709
+Hauser,Oldtown,Idaho,28.84011612389612
+Hauser,Blanchard,Idaho,17.195058740029257
+Hauser,Wardner,Idaho,44.40671061845158
+Hauser,Rockford Bay,Idaho,18.7869313741935
+Hauser,Laclede,Idaho,30.231404696343613
+Hauser,Harrison,Idaho,22.878008952991042
+Hauser,Worley,Idaho,25.66416399596332
+Hauser,Onaway,Idaho,58.21614749028419
+Hauser,East Hope,Idaho,46.86900621038668
+Hauser,Huetter,Idaho,8.735203192711888
+Hauser,Princeton,Idaho,59.439922799742355
+Hauser,Fernwood,Idaho,53.75503432366912
+Hauser,Fernan Lake Village,Idaho,14.005965850358823
+Hauser,Conkling Park,Idaho,27.774036045995206
+Hauser,De Smet,Idaho,43.48918427457555
+Hauser,Hope,Idaho,46.994086747401404
+Hauser,Tensed,Idaho,42.14994196417521
+Hauser,Parkline,Idaho,33.13778005841339
+Hauser,State Line,Idaho,4.385442021407907
+Hauser,Coolin,Idaho,49.6280275634764
+Teton,Ririe,Idaho,18.279427284482015
+Teton,Menan,Idaho,19.661404361956937
+Teton,Parker,Idaho,6.543841046342817
+Teton,Dubois,Idaho,34.03872153132733
+Teton,Firth,Idaho,47.63055075880886
+Teton,Newdale,Idaho,3.420718794974855
+Teton,Mud Lake,Idaho,40.44917623087066
+Teton,Roberts,Idaho,25.532705867558143
+Teton,Lewisville,Idaho,21.59198141432512
+Teton,Basalt,Idaho,46.62281341464324
+Teton,Tetonia,Idaho,26.147876470698428
+Teton,Swan Valley,Idaho,35.07428686619495
+Teton,Irwin,Idaho,39.36684747710932
+Teton,Island Park,Idaho,46.91124001588697
+Teton,Hamer,Idaho,26.58328786006267
+Teton,Spencer,Idaho,42.49761514578216
+Teton,Drummond,Idaho,18.157347503503853
+Teton,Warm River,Idaho,23.751859426750006
+Potlatch,Hayden Lake,Idaho,58.436936165685495
+Potlatch,Smelterville,Idaho,54.5629118532835
+Potlatch,Juliaetta,Idaho,25.73916242544022
+Potlatch,Silverton,Idaho,59.239190377399375
+Potlatch,Nezperce,Idaho,56.98270956728726
+Potlatch,Craigmont,Idaho,51.22396641295078
+Potlatch,Deary,Idaho,18.235891902069614
+Potlatch,Culdesac,Idaho,39.40629821159185
+Potlatch,Weippe,Idaho,59.097250844397934
+Potlatch,Wardner,Idaho,54.56613972594027
+Potlatch,Kendrick,Idaho,24.298208945505102
+Potlatch,Rockford Bay,Idaho,40.42259478877201
+Potlatch,Harrison,Idaho,37.840762952611016
+Potlatch,Winchester,Idaho,48.914269889405205
+Potlatch,Worley,Idaho,32.980980756023165
+Potlatch,Onaway,Idaho,0.49873917451797145
+Potlatch,Bovill,Idaho,24.290216608261485
+Potlatch,Ferdinand,Idaho,58.5309187542672
+Potlatch,Sweetwater,Idaho,38.68553826595767
+Potlatch,Peck,Idaho,38.248026612933046
+Potlatch,Elk River,Idaho,35.321781906064146
+Potlatch,Huetter,Idaho,53.942725827060265
+Potlatch,Princeton,Idaho,3.1806201078246032
+Potlatch,Fernwood,Idaho,27.53906936673889
+Potlatch,Fernan Lake Village,Idaho,52.22973863389027
+Potlatch,Conkling Park,Idaho,33.44430963453294
+Potlatch,De Smet,Idaho,15.038554698992392
+Potlatch,Reubens,Idaho,44.788344119379126
+Potlatch,Tensed,Idaho,16.356379094847494
+Potlatch,Viola,Idaho,8.195039612420256
+Potlatch,Parkline,Idaho,30.232294665723078
+Potlatch,State Line,Idaho,54.39492581538529
+Franklin,Downey,Idaho,33.090767620405785
+Franklin,Georgetown,Idaho,39.314244592953116
+Franklin,Clifton,Idaho,15.888947499225829
+Franklin,Paris,Idaho,25.3632429231183
+Franklin,Weston,Idaho,9.147909394751501
+Franklin,Dayton,Idaho,11.288328844681844
+Franklin,Bancroft,Idaho,49.022629093583404
+Franklin,Arimo,Idaho,42.27832618989266
+Franklin,Lava Hot Springs,Idaho,43.233817052744634
+Franklin,Bloomington,Idaho,23.93823959736645
+Franklin,Bennington,Idaho,35.52584002283019
+Franklin,St. Charles,Idaho,22.33186774726717
+Franklin,Oxford,Idaho,20.313793305103754
+Challis,Mackay,Idaho,51.11664888707677
+Challis,Stanley,Idaho,40.400544386319766
+Challis,Leadore,Idaho,44.5350977963821
+Challis,Clayton,Idaho,18.765253185218572
+Downey,Arbon Valley,Idaho,39.57105937612358
+Downey,Georgetown,Idaho,38.969882408312024
+Downey,Clifton,Idaho,17.743344482808038
+Downey,Paris,Idaho,39.415576651002304
+Downey,Weston,Idaho,28.053022107007838
+Downey,Dayton,Idaho,23.114386554974754
+Downey,Bancroft,Idaho,23.55518131168936
+Downey,Arimo,Idaho,9.411673760518395
+Downey,Lava Hot Springs,Idaho,14.400968787526423
+Downey,Rockford,Idaho,56.42282180624549
+Downey,Bloomington,Idaho,40.33628537847547
+Downey,Rockland,Idaho,39.63441466092409
+Downey,Bennington,Idaho,41.07105485532624
+Downey,St. Charles,Idaho,43.48822562881773
+Downey,Oxford,Idaho,12.854782616775053
+Ririe,Menan,Idaho,12.676557613408816
+Ririe,Parker,Idaho,22.523009819715067
+Ririe,Dubois,Idaho,43.749601941353816
+Ririe,Firth,Idaho,30.611663228699797
+Ririe,Newdale,Idaho,19.448686339412635
+Ririe,Mud Lake,Idaho,38.32112896735228
+Ririe,Roberts,Idaho,18.89361658466639
+Ririe,Lewisville,Idaho,12.85668705207011
+Ririe,Basalt,Idaho,29.538739512365275
+Ririe,Tetonia,Idaho,33.174876759981984
+Ririe,Swan Valley,Idaho,25.746182771916295
+Ririe,Rockford,Idaho,48.93723308023981
+Ririe,Irwin,Idaho,29.91331587288087
+Ririe,Hamer,Idaho,29.393620590563867
+Ririe,Spencer,Idaho,55.476647267419224
+Ririe,Atomic City,Idaho,53.8790500393347
+Ririe,Drummond,Idaho,33.18861729660792
+Ririe,Warm River,Idaho,40.457683386893386
+Oakley,Richfield,Idaho,57.64446944009841
+Oakley,Declo,Idaho,23.158947757058044
+Oakley,Eden,Idaho,30.14615097730423
+Oakley,Hollister,Idaho,36.7555476931793
+Oakley,Albion,Idaho,19.32750160061007
+Oakley,Malta,Idaho,26.685206823527505
+Oakley,Dietrich,Idaho,50.290039400725696
+Oakley,Castleford,Idaho,54.161206520007305
+Oakley,Acequia,Idaho,32.89605027047077
+Oakley,Minidoka,Idaho,40.64604014949439
+Oakley,Murtaugh,Idaho,22.43954372832298
+Oakley,Rockland,Idaho,56.40623974886797
+Horseshoe Bend,Idaho City,Idaho,19.41381694484046
+Horseshoe Bend,Council,Idaho,57.58233049451948
+Horseshoe Bend,Notus,Idaho,32.7342304872861
+Horseshoe Bend,Melba,Idaho,41.08333480187657
+Horseshoe Bend,Letha,Idaho,22.29525005891391
+Horseshoe Bend,Garden Valley,Idaho,16.535762596721774
+Horseshoe Bend,Cambridge,Idaho,51.096097126414
+Horseshoe Bend,Midvale,Idaho,46.33924649258849
+Horseshoe Bend,Donnelly,Idaho,56.837716818147754
+Horseshoe Bend,Crouch,Idaho,17.78671790120184
+Horseshoe Bend,Murphy,Idaho,51.685694611425376
+Horseshoe Bend,Smiths Ferry,Idaho,27.090789339322328
+Horseshoe Bend,Placerville,Idaho,12.787376395165492
+Horseshoe Bend,Lowman,Idaho,30.956081854221946
+Horseshoe Bend,Banks,Idaho,11.69224338728289
+Athol,Hayden Lake,Idaho,12.838733556152565
+Athol,Smelterville,Idaho,37.2968106991426
+Athol,Dover,Idaho,22.144405038594748
+Athol,Mullan,Idaho,53.836976861750934
+Athol,Silverton,Idaho,46.75043345369062
+Athol,Oldtown,Idaho,21.863818021924878
+Athol,Blanchard,Idaho,14.032858718630335
+Athol,Wardner,Idaho,39.8195304665921
+Athol,Rockford Bay,Idaho,31.405696877101715
+Athol,Laclede,Idaho,15.403905404051311
+Athol,Harrison,Idaho,33.41831840652629
+Athol,Worley,Idaho,39.00300847989506
+Athol,East Hope,Idaho,28.034608789811347
+Athol,Huetter,Idaho,18.069882958657995
+Athol,Fernwood,Idaho,59.40080597187426
+Athol,Fernan Lake Village,Idaho,19.03894169742183
+Athol,Conkling Park,Idaho,37.90957157777071
+Athol,De Smet,Idaho,56.482620190781454
+Athol,Hope,Idaho,28.21444508282315
+Athol,Tensed,Idaho,55.319933719223876
+Athol,Parkline,Idaho,42.0370182127802
+Athol,State Line,Idaho,22.643300168322543
+Athol,Coolin,Idaho,37.094235343784106
+Arbon Valley,Clifton,Idaho,56.77160444710285
+Arbon Valley,Firth,Idaho,35.727899886935354
+Arbon Valley,Declo,Idaho,58.39065156859154
+Arbon Valley,Basalt,Idaho,36.764778610104926
+Arbon Valley,Bancroft,Idaho,37.89102094343997
+Arbon Valley,Arimo,Idaho,31.009057236221267
+Arbon Valley,Malta,Idaho,56.12629534540557
+Arbon Valley,Lava Hot Springs,Idaho,34.9017118760289
+Arbon Valley,Rockford,Idaho,21.264997181765658
+Arbon Valley,Acequia,Idaho,53.11561656068527
+Arbon Valley,Minidoka,Idaho,46.40561780769828
+Arbon Valley,Rockland,Idaho,25.805929146331117
+Arbon Valley,Butte City,Idaho,59.589854061564296
+Arbon Valley,Oxford,Idaho,52.20343585423729
+Arbon Valley,Atomic City,Idaho,40.093287604896446
+Hayden Lake,Smelterville,Idaho,31.027753425840757
+Hayden Lake,Dover,Idaho,34.979286609264236
+Hayden Lake,Mullan,Idaho,49.246446850095545
+Hayden Lake,Silverton,Idaho,41.51139334176955
+Hayden Lake,Oldtown,Idaho,31.51846335098767
+Hayden Lake,Blanchard,Idaho,20.557925617638006
+Hayden Lake,Wardner,Idaho,33.541251223267366
+Hayden Lake,Rockford Bay,Idaho,18.66371735711814
+Hayden Lake,Laclede,Idaho,27.90581847894539
+Hayden Lake,Harrison,Idaho,20.596902422452537
+Hayden Lake,Worley,Idaho,26.228513783355538
+Hayden Lake,Onaway,Idaho,58.07256036189484
+Hayden Lake,East Hope,Idaho,39.391883378827664
+Hayden Lake,Huetter,Idaho,6.071374163673782
+Hayden Lake,Princeton,Idaho,58.73766548973427
+Hayden Lake,Fernwood,Idaho,48.05081960774444
+Hayden Lake,Fernan Lake Village,Idaho,6.320676103346062
+Hayden Lake,Conkling Park,Idaho,25.163125849971205
+Hayden Lake,De Smet,Idaho,43.64405319595118
+Hayden Lake,Hope,Idaho,39.7718727032217
+Hayden Lake,Tensed,Idaho,42.48201993119363
+Hayden Lake,Parkline,Idaho,29.531026281804436
+Hayden Lake,State Line,Idaho,13.696835167755651
+Hayden Lake,Coolin,Idaho,49.36924867294041
+Menan,Parker,Idaho,20.083007809565853
+Menan,Dubois,Idaho,33.29630092549786
+Menan,Firth,Idaho,30.28482563254743
+Menan,Newdale,Idaho,22.513969801768233
+Menan,Mud Lake,Idaho,25.772989073751205
+Menan,Roberts,Idaho,6.804932448910331
+Menan,Lewisville,Idaho,2.112391595227863
+Menan,Basalt,Idaho,29.423598150740872
+Menan,Tetonia,Idaho,42.21110000787899
+Menan,Swan Valley,Idaho,38.42183639131072
+Menan,Rockford,Idaho,45.65325173521801
+Menan,Irwin,Idaho,42.57278924449664
+Menan,Hamer,Idaho,17.340125455757942
+Menan,Spencer,Idaho,46.290198253763265
+Menan,Atomic City,Idaho,45.42345987764322
+Menan,Drummond,Idaho,37.67705988275342
+Menan,Warm River,Idaho,43.33093234392013
+Georgetown,Clifton,Idaho,38.495886945232506
+Georgetown,Paris,Idaho,17.48895502377495
+Georgetown,Weston,Idaho,43.857271794887474
+Georgetown,Dayton,Idaho,40.40098331822402
+Georgetown,Bancroft,Idaho,31.271663369879462
+Georgetown,Arimo,Idaho,41.69015391733302
+Georgetown,Lava Hot Springs,Idaho,34.366765343604165
+Georgetown,Bloomington,Idaho,19.998847008810586
+Georgetown,Bennington,Idaho,6.971216964467104
+Georgetown,St. Charles,Idaho,25.394484948865216
+Georgetown,Oxford,Idaho,36.72885407682056
+Arco,Mackay,Idaho,24.839204473586125
+Arco,Richfield,Idaho,58.74873818176475
+Arco,Mud Lake,Idaho,43.65604296043816
+Arco,Roberts,Idaho,59.11291850641473
+Arco,Gannett,Idaho,47.83766455340951
+Arco,Moore,Idaho,7.825441636510179
+Arco,Rockford,Idaho,49.384309502666504
+Arco,Butte City,Idaho,3.494857149971518
+Arco,Hamer,Idaho,58.50847609145464
+Arco,Atomic City,Idaho,27.8072179705987
+Arco,Lost River,Idaho,14.599212395083754
+Clifton,Paris,Idaho,30.98321073267989
+Clifton,Weston,Idaho,10.46809117346512
+Clifton,Dayton,Idaho,5.388393830216976
+Clifton,Bancroft,Idaho,37.30389934881372
+Clifton,Arimo,Idaho,27.136461048326307
+Clifton,Lava Hot Springs,Idaho,29.8534647275128
+Clifton,Bloomington,Idaho,30.818464060218734
+Clifton,Rockland,Idaho,51.86764585065323
+Clifton,Bennington,Idaho,37.45499429368888
+Clifton,St. Charles,Idaho,31.98032752987965
+Clifton,Oxford,Idaho,5.049592766035169
+Smelterville,Dover,Idaho,53.517292762335366
+Smelterville,Mullan,Idaho,18.56040686387291
+Smelterville,Silverton,Idaho,10.662139873107872
+Smelterville,Deary,Idaho,54.30829157946809
+Smelterville,Oldtown,Idaho,59.16034165841098
+Smelterville,Blanchard,Idaho,50.07497827430476
+Smelterville,Wardner,Idaho,2.5506577121559233
+Smelterville,Rockford Bay,Idaho,33.26423001257705
+Smelterville,Laclede,Idaho,50.8093111537047
+Smelterville,Harrison,Idaho,29.755250025776025
+Smelterville,Worley,Idaho,36.10324235429091
+Smelterville,Onaway,Idaho,54.07385745804222
+Smelterville,East Hope,Idaho,48.52196064433074
+Smelterville,Bovill,Idaho,48.33995514472389
+Smelterville,Elk River,Idaho,52.48749322209039
+Smelterville,Huetter,Idaho,33.358901320815825
+Smelterville,Princeton,Idaho,53.15587420388253
+Smelterville,Fernwood,Idaho,31.119884668203323
+Smelterville,Fernan Lake Village,Idaho,28.091030749864053
+Smelterville,Conkling Park,Idaho,29.472572732226958
+Smelterville,De Smet,Idaho,44.23742214440782
+Smelterville,Hope,Idaho,49.527293820380116
+Smelterville,Tensed,Idaho,43.90522869904835
+Smelterville,Parkline,Idaho,28.014774989107053
+Smelterville,State Line,Idaho,41.667703131744545
+Paris,Weston,Idaho,32.33606380211649
+Paris,Dayton,Idaho,30.565305543837084
+Paris,Bancroft,Idaho,41.93471891612045
+Paris,Arimo,Idaho,45.593834671105675
+Paris,Lava Hot Springs,Idaho,41.18495366699796
+Paris,Bloomington,Idaho,2.519762077635721
+Paris,Bennington,Idaho,11.48972443042332
+Paris,St. Charles,Idaho,8.013009848088416
+Paris,Oxford,Idaho,31.598982736186446
+Dover,Oldtown,Idaho,19.680616613477344
+Dover,Blanchard,Idaho,24.519448858950785
+Dover,Wardner,Idaho,55.77823366768818
+Dover,Rockford Bay,Idaho,53.523700839418574
+Dover,Laclede,Idaho,9.207483225509588
+Dover,Harrison,Idaho,55.528625597675756
+Dover,East Hope,Idaho,14.806632812783555
+Dover,Huetter,Idaho,40.06739658464589
+Dover,Fernan Lake Village,Idaho,41.12214020515081
+Dover,Conkling Park,Idaho,59.93874569372921
+Dover,Hope,Idaho,14.00551907523731
+Dover,State Line,Idaho,43.178500569979185
+Dover,Coolin,Idaho,18.38103559163211
+Mullan,Silverton,Idaho,7.909900739378443
+Mullan,Deary,Idaho,58.46763277413106
+Mullan,Wardner,Idaho,16.265336244019537
+Mullan,Rockford Bay,Idaho,51.128770292118105
+Mullan,Harrison,Idaho,47.17701338033913
+Mullan,Worley,Idaho,52.84861587874472
+Mullan,East Hope,Idaho,58.078793946517955
+Mullan,Bovill,Idaho,50.68040384817525
+Mullan,Elk River,Idaho,50.73466787032281
+Mullan,Huetter,Idaho,51.89150491239004
+Mullan,Fernwood,Idaho,36.95845776165766
+Mullan,Fernan Lake Village,Idaho,46.63580489705416
+Mullan,Conkling Park,Idaho,45.90779973791677
+Mullan,De Smet,Idaho,57.07422894230313
+Mullan,Hope,Idaho,59.22487383567197
+Mullan,Tensed,Idaho,57.11263533016605
+Mullan,Parkline,Idaho,43.05365646414571
+Idaho City,Notus,Idaho,48.98059795523506
+Idaho City,Melba,Idaho,47.196776606710856
+Idaho City,Letha,Idaho,40.936556490519806
+Idaho City,Grand View,Idaho,59.741270450103244
+Idaho City,Garden Valley,Idaho,18.763672431896975
+Idaho City,Stanley,Idaho,51.96163887629275
+Idaho City,Crouch,Idaho,21.12876922204705
+Idaho City,Murphy,Idaho,55.75660901101071
+Idaho City,Smiths Ferry,Idaho,34.77049689073221
+Idaho City,Placerville,Idaho,9.785066357289763
+Idaho City,Lowman,Idaho,20.22186311243227
+Idaho City,Banks,Idaho,22.72782409891911
+Parker,Dubois,Idaho,27.708792910864506
+Parker,Firth,Idaho,49.839680551620425
+Parker,Newdale,Idaho,9.190330709488897
+Parker,Mud Lake,Idaho,36.86742711995771
+Parker,Roberts,Idaho,24.70620873230809
+Parker,Lewisville,Idaho,22.184032769406933
+Parker,Basalt,Idaho,48.89895988816819
+Parker,Tetonia,Idaho,31.564229827715092
+Parker,Swan Valley,Idaho,41.50413312333062
+Parker,Irwin,Idaho,45.818357840596356
+Parker,Island Park,Idaho,44.05216141935242
+Parker,Hamer,Idaho,22.295489029111188
+Parker,Spencer,Idaho,35.97361466822268
+Parker,Drummond,Idaho,20.904342004216737
+Parker,Warm River,Idaho,24.495881526448503
+Council,Letha,Idaho,58.86362919838409
+Council,Garden Valley,Idaho,50.68515623800718
+Council,Yellow Pine,Idaho,49.26518900828566
+Council,Cambridge,Idaho,16.235722953473978
+Council,New Meadows,Idaho,18.0739778248008
+Council,Midvale,Idaho,24.039680219139264
+Council,Riggins,Idaho,47.83518713033633
+Council,Donnelly,Idaho,17.660603511733576
+Council,Crouch,Idaho,48.36702049754619
+Council,Smiths Ferry,Idaho,34.81773686611548
+Council,Placerville,Idaho,59.74507204899808
+Council,Banks,Idaho,47.761051104334044
+Notus,Melba,Idaho,27.895348127188278
+Notus,Letha,Idaho,13.863601046672121
+Notus,Garden Valley,Idaho,48.553130358012616
+Notus,Cambridge,Idaho,58.67008261617532
+Notus,Midvale,Idaho,50.83082726514223
+Notus,Crouch,Idaho,49.20401252924678
+Notus,Murphy,Idaho,37.705711563101865
+Notus,Smiths Ferry,Idaho,53.41938265623986
+Notus,Placerville,Idaho,45.20008223617279
+Notus,Banks,Idaho,41.38316415435522
+Kooskia,Juliaetta,Idaho,46.05935656074151
+Kooskia,Nezperce,Idaho,14.187549376365808
+Kooskia,Craigmont,Idaho,24.80111237131353
+Kooskia,Deary,Idaho,53.27889471541474
+Kooskia,Culdesac,Idaho,36.942099238407906
+Kooskia,Pierce,Idaho,25.719962541595876
+Kooskia,Weippe,Idaho,16.478354952328903
+Kooskia,Kendrick,Idaho,45.98882410696306
+Kooskia,Winchester,Idaho,31.817892613145585
+Kooskia,Riggins,Idaho,52.46954640206539
+Kooskia,Elk City,Idaho,33.84863119915163
+Kooskia,Bovill,Idaho,53.36948363442249
+Kooskia,Ferdinand,Idaho,19.863490968640633
+Kooskia,Sweetwater,Idaho,42.32476918651086
+Kooskia,Peck,Idaho,31.51150828818625
+Kooskia,Elk River,Idaho,45.35844180721251
+Kooskia,Stites,Idaho,3.411972094071691
+Kooskia,Reubens,Idaho,29.90009534480841
+Kooskia,White Bird,Idaho,30.50745629288496
+Melba,Letha,Idaho,36.398464777550906
+Melba,Grand View,Idaho,34.860298821453185
+Melba,Garden Valley,Idaho,56.76795954069287
+Melba,Crouch,Idaho,58.440840705551324
+Melba,Murphy,Idaho,11.110301218998085
+Melba,Bruneau,Idaho,50.42489481562638
+Melba,Placerville,Idaho,49.1160055650895
+Melba,Banks,Idaho,52.72178864312948
+Mackay,Mud Lake,Idaho,56.78139963074455
+Mackay,Gannett,Idaho,47.586375909001816
+Mackay,Moore,Idaho,17.340313689848077
+Mackay,Leadore,Idaho,54.51116689205442
+Mackay,Butte City,Idaho,28.10489585999829
+Mackay,Atomic City,Idaho,51.53983455778633
+Mackay,Clayton,Idaho,45.41587658585685
+Mackay,Lost River,Idaho,12.688276761583419
+Juliaetta,Nezperce,Idaho,32.458960077150316
+Juliaetta,Craigmont,Idaho,25.55835361182996
+Juliaetta,Deary,Idaho,17.22858946902897
+Juliaetta,Culdesac,Idaho,13.879518926387489
+Juliaetta,Pierce,Idaho,43.741445222831224
+Juliaetta,Weippe,Idaho,39.14124498666722
+Juliaetta,Kendrick,Idaho,3.8167158833773307
+Juliaetta,Winchester,Idaho,23.366617547639347
+Juliaetta,Worley,Idaho,57.960805282320806
+Juliaetta,Onaway,Idaho,25.916071098123478
+Juliaetta,Bovill,Idaho,24.732893092722872
+Juliaetta,Ferdinand,Idaho,32.91730719734666
+Juliaetta,Sweetwater,Idaho,14.854175668433378
+Juliaetta,Peck,Idaho,15.152803157984149
+Juliaetta,Elk River,Idaho,28.97512263269446
+Juliaetta,Stites,Idaho,48.36387378953068
+Juliaetta,Princeton,Idaho,24.268844445712727
+Juliaetta,Fernwood,Idaho,40.39436842468508
+Juliaetta,Conkling Park,Idaho,57.11712580207757
+Juliaetta,De Smet,Idaho,40.31565918860158
+Juliaetta,Reubens,Idaho,19.08277844344494
+Juliaetta,Tensed,Idaho,41.704784374544204
+Juliaetta,Viola,Idaho,23.4694639586556
+Juliaetta,White Bird,Idaho,59.40864481470021
+Juliaetta,Parkline,Idaho,52.8151528961326
+Silverton,Deary,Idaho,55.67207269080125
+Silverton,Wardner,Idaho,8.359493980537353
+Silverton,Rockford Bay,Idaho,43.36822538313483
+Silverton,Laclede,Idaho,59.28437905540808
+Silverton,Harrison,Idaho,39.528093259669006
+Silverton,Worley,Idaho,45.41369309986062
+Silverton,Onaway,Idaho,58.74064482837184
+Silverton,East Hope,Idaho,53.70729685534466
+Silverton,Bovill,Idaho,48.5216021250452
+Silverton,Elk River,Idaho,50.339647467167765
+Silverton,Huetter,Idaho,44.01526825770035
+Silverton,Princeton,Idaho,57.36158994131012
+Silverton,Fernwood,Idaho,33.05073329290577
+Silverton,Fernan Lake Village,Idaho,38.75123046917691
+Silverton,Conkling Park,Idaho,38.53361359824061
+Silverton,De Smet,Idaho,50.952882234396604
+Silverton,Hope,Idaho,54.8095690247095
+Silverton,Tensed,Idaho,50.862078268933075
+Silverton,Parkline,Idaho,36.0739365044765
+Silverton,State Line,Idaho,52.326470421552
+Letha,Garden Valley,Idaho,36.52219973716654
+Letha,Cambridge,Idaho,46.87481996740509
+Letha,Midvale,Idaho,39.54744890919487
+Letha,Crouch,Idaho,36.81303647691538
+Letha,Murphy,Idaho,47.284517478039646
+Letha,Smiths Ferry,Idaho,39.7474210498062
+Letha,Placerville,Idaho,35.06003380239159
+Letha,Lowman,Idaho,52.65163027974263
+Letha,Banks,Idaho,28.76023269268773
+Dubois,Firth,Idaho,59.90070096026597
+Dubois,Newdale,Idaho,36.89905660820289
+Dubois,Mud Lake,Idaho,25.955032270393616
+Dubois,Roberts,Idaho,31.603119494467972
+Dubois,Lewisville,Idaho,34.693550166377925
+Dubois,Basalt,Idaho,59.33646751973273
+Dubois,Tetonia,Idaho,58.812335282169535
+Dubois,Island Park,Idaho,49.6068330471062
+Dubois,Hamer,Idaho,17.38710813178318
+Dubois,Spencer,Idaho,14.242081248310646
+Dubois,Atomic City,Idaho,58.19947589044345
+Dubois,Drummond,Idaho,45.68311190259894
+Dubois,Warm River,Idaho,45.35912639622895
+Weston,Dayton,Idaho,5.16953674675692
+Weston,Bancroft,Idaho,47.41441874453054
+Weston,Arimo,Idaho,37.464648960044244
+Weston,Lava Hot Springs,Idaho,40.26508265694188
+Weston,Bloomington,Idaho,31.356383927711317
+Weston,Rockland,Idaho,58.969959963880044
+Weston,Bennington,Idaho,41.24225991048017
+Weston,St. Charles,Idaho,30.67200799259796
+Weston,Oxford,Idaho,15.517644664914378
+Nezperce,Craigmont,Idaho,11.147379196176564
+Nezperce,Deary,Idaho,41.923031001970294
+Nezperce,Culdesac,Idaho,22.756612850654722
+Nezperce,Pierce,Idaho,27.653216850877868
+Nezperce,Weippe,Idaho,17.527180843195534
+Nezperce,Kendrick,Idaho,32.85108871870338
+Nezperce,Winchester,Idaho,18.39560951890934
+Nezperce,Riggins,Idaho,56.328485553888235
+Nezperce,Elk City,Idaho,47.78332333580254
+Nezperce,Onaway,Idaho,57.046191842610774
+Nezperce,Bovill,Idaho,43.741099278705136
+Nezperce,Ferdinand,Idaho,9.146306760626002
+Nezperce,Sweetwater,Idaho,28.216124363791224
+Nezperce,Peck,Idaho,18.842621972286505
+Nezperce,Elk River,Idaho,38.006098627874564
+Nezperce,Stites,Idaho,16.033721330118144
+Nezperce,Princeton,Idaho,54.82458354709317
+Nezperce,Reubens,Idaho,15.727576214639809
+Nezperce,Viola,Idaho,55.87267944198476
+Nezperce,White Bird,Idaho,32.72820757610668
+Firth,Newdale,Idaho,49.52658185215566
+Firth,Mud Lake,Idaho,39.97198441715289
+Firth,Roberts,Idaho,28.789788513329395
+Firth,Lewisville,Idaho,28.211979969563714
+Firth,Basalt,Idaho,1.108803608904668
+Firth,Bancroft,Idaho,43.18674540809946
+Firth,Arimo,Idaho,51.47073630028254
+Firth,Lava Hot Springs,Idaho,48.158266653911085
+Firth,Swan Valley,Idaho,44.09437810943593
+Firth,Rockford,Idaho,19.278484312633267
+Firth,Irwin,Idaho,46.33496360948617
+Firth,Butte City,Idaho,57.10007648642614
+Firth,Hamer,Idaho,42.53106788072856
+Firth,Atomic City,Idaho,33.06510916562209
+Richfield,Declo,Idaho,45.480091807869826
+Richfield,Fairfield,Idaho,38.48160701220407
+Richfield,Eden,Idaho,30.960704890922724
+Richfield,Hollister,Idaho,52.96011467618884
+Richfield,Albion,Idaho,53.12059914150581
+Richfield,Gannett,Idaho,21.072166688369755
+Richfield,Dietrich,Idaho,11.130337202115001
+Richfield,Bliss,Idaho,41.108891064425755
+Richfield,Castleford,Idaho,51.68680801395015
+Richfield,Acequia,Idaho,38.79796301997934
+Richfield,Minidoka,Idaho,39.55131077646472
+Richfield,Murtaugh,Idaho,38.677457038310195
+Richfield,Butte City,Idaho,59.939278510052205
+Richfield,Lost River,Idaho,55.7936362017339
+Dayton,Bancroft,Idaho,42.27299891758077
+Dayton,Arimo,Idaho,32.515440162857544
+Dayton,Lava Hot Springs,Idaho,35.10125157584653
+Dayton,Bloomington,Idaho,29.964824753839167
+Dayton,Rockland,Idaho,55.86534084537794
+Dayton,Bennington,Idaho,38.44703124863244
+Dayton,St. Charles,Idaho,30.19726299975821
+Dayton,Oxford,Idaho,10.418257648442298
+Craigmont,Deary,Idaho,38.75885455262651
+Craigmont,Culdesac,Idaho,13.16716061232924
+Craigmont,Pierce,Idaho,36.56084707920918
+Craigmont,Weippe,Idaho,27.206582193123506
+Craigmont,Kendrick,Idaho,27.1043296990042
+Craigmont,Winchester,Idaho,7.256184542221253
+Craigmont,Riggins,Idaho,57.25433168576135
+Craigmont,Elk City,Idaho,57.46838046993946
+Craigmont,Onaway,Idaho,51.37365583519261
+Craigmont,Bovill,Idaho,42.7370274084607
+Craigmont,Ferdinand,Idaho,7.393910992461241
+Craigmont,Sweetwater,Idaho,17.796588003086647
+Craigmont,Peck,Idaho,16.212794687053407
+Craigmont,Elk River,Idaho,39.84898316450958
+Craigmont,Stites,Idaho,25.98828516998706
+Craigmont,Princeton,Idaho,49.52619513708286
+Craigmont,Reubens,Idaho,6.506737595601071
+Craigmont,Viola,Idaho,48.74620199308283
+Craigmont,White Bird,Idaho,34.17651247002471
+Deary,Culdesac,Idaho,29.87333726337041
+Deary,Pierce,Idaho,41.82559051980218
+Deary,Weippe,Idaho,41.38811566761982
+Deary,Wardner,Idaho,53.466297454515605
+Deary,Kendrick,Idaho,13.670751642896896
+Deary,Rockford Bay,Idaho,51.332476093621885
+Deary,Harrison,Idaho,47.5289067600524
+Deary,Winchester,Idaho,38.77101021136053
+Deary,Worley,Idaho,44.85458216560575
+Deary,Onaway,Idaho,18.05753024001505
+Deary,Bovill,Idaho,8.740348613700515
+Deary,Ferdinand,Idaho,45.49139302929899
+Deary,Sweetwater,Idaho,31.99761770868709
+Deary,Peck,Idaho,23.33811457610962
+Deary,Elk River,Idaho,17.88873804184478
+Deary,Stites,Idaho,56.234185428492026
+Deary,Princeton,Idaho,15.22922583399821
+Deary,Fernwood,Idaho,23.197680594936326
+Deary,Conkling Park,Idaho,42.61676070883555
+Deary,De Smet,Idaho,28.88310129970156
+Deary,Reubens,Idaho,32.98250777824299
+Deary,Tensed,Idaho,30.272121728182494
+Deary,Viola,Idaho,22.054552815641358
+Deary,Parkline,Idaho,37.734895079223335
+Declo,Eden,Idaho,30.189978651051682
+Declo,Hollister,Idaho,50.169255489831805
+Declo,Albion,Idaho,7.969019201212037
+Declo,Malta,Idaho,19.757122010246505
+Declo,Dietrich,Idaho,42.299000508130696
+Declo,Acequia,Idaho,10.427023274013758
+Declo,Minidoka,Idaho,17.658364428815695
+Declo,Murtaugh,Idaho,27.32425148839126
+Declo,Rockland,Idaho,38.679886113094746
+Newdale,Mud Lake,Idaho,43.85877251300255
+Newdale,Roberts,Idaho,28.614229226038074
+Newdale,Lewisville,Idaho,24.36096962517813
+Newdale,Basalt,Idaho,48.49315166164868
+Newdale,Tetonia,Idaho,22.78754774606137
+Newdale,Swan Valley,Idaho,33.478520476383295
+Newdale,Irwin,Idaho,37.68898712908885
+Newdale,Island Park,Idaho,45.94225424753703
+Newdale,Hamer,Idaho,29.994500752289905
+Newdale,Spencer,Idaho,44.678930726059534
+Newdale,Drummond,Idaho,15.164292893655077
+Newdale,Warm River,Idaho,21.38893847607338
+Grand View,Bliss,Idaho,58.14155842198726
+Grand View,Hammett,Idaho,31.869956787805954
+Grand View,Murphy,Idaho,27.966537684817837
+Grand View,Bruneau,Idaho,16.54211966198259
+Oldtown,Blanchard,Idaho,11.739283111622832
+Oldtown,Rockford Bay,Idaho,47.082358915802686
+Oldtown,Laclede,Idaho,12.412939366983283
+Oldtown,Harrison,Idaho,50.52760140666327
+Oldtown,Worley,Idaho,54.32776172584621
+Oldtown,East Hope,Idaho,33.942243280121076
+Oldtown,Huetter,Idaho,34.111658912618466
+Oldtown,Fernan Lake Village,Idaho,37.547212950121455
+Oldtown,Conkling Park,Idaho,55.42152047647574
+Oldtown,Hope,Idaho,33.32150616009316
+Oldtown,State Line,Idaho,33.09564657914539
+Oldtown,Coolin,Idaho,21.742901096583438
+Mud Lake,Roberts,Idaho,19.49983413594668
+Mud Lake,Lewisville,Idaho,25.487086891212332
+Mud Lake,Basalt,Idaho,39.76615796774848
+Mud Lake,Moore,Idaho,45.027252522600946
+Mud Lake,Rockford,Idaho,45.214780160755815
+Mud Lake,Butte City,Idaho,41.44129055798362
+Mud Lake,Hamer,Idaho,14.860822606717377
+Mud Lake,Spencer,Idaho,39.58631011330852
+Mud Lake,Atomic City,Idaho,32.25903195016113
+Mud Lake,Lost River,Idaho,54.44791785358131
+Mud Lake,Drummond,Idaho,57.73499760932358
+Fairfield,Eden,Idaho,59.446691241244096
+Fairfield,Gannett,Idaho,31.490038207149187
+Fairfield,Dietrich,Idaho,40.45119842423144
+Fairfield,Bliss,Idaho,30.2419214833489
+Fairfield,Hammett,Idaho,43.703933163913824
+Fairfield,Castleford,Idaho,57.29035789733301
+Roberts,Lewisville,Idaho,6.04085442313042
+Roberts,Basalt,Idaho,28.109571182446995
+Roberts,Tetonia,Idaho,48.951718622175726
+Roberts,Swan Valley,Idaho,44.43573217120436
+Roberts,Rockford,Idaho,41.90422240545578
+Roberts,Irwin,Idaho,48.4711915759981
+Roberts,Butte City,Idaho,56.30198950886351
+Roberts,Hamer,Idaho,14.352076188065237
+Roberts,Spencer,Idaho,45.408429210671976
+Roberts,Atomic City,Idaho,39.3180698563346
+Roberts,Drummond,Idaho,43.68801024548523
+Roberts,Warm River,Idaho,48.811751990019545
+Lewisville,Basalt,Idaho,27.361329369736247
+Lewisville,Tetonia,Idaho,43.55103088306605
+Lewisville,Swan Valley,Idaho,38.46463634221262
+Lewisville,Rockford,Idaho,43.55879336863954
+Lewisville,Irwin,Idaho,42.53868859781039
+Lewisville,Hamer,Idaho,18.28642103087467
+Lewisville,Spencer,Idaho,47.89460461419881
+Lewisville,Atomic City,Idaho,43.73168295878874
+Lewisville,Drummond,Idaho,39.52173340724042
+Lewisville,Warm River,Idaho,45.3057011355128
+Blanchard,Wardner,Idaho,52.62520725359067
+Blanchard,Rockford Bay,Idaho,35.34766054426129
+Blanchard,Laclede,Idaho,15.312476920521595
+Blanchard,Harrison,Idaho,38.85486751490178
+Blanchard,Worley,Idaho,42.59203828788179
+Blanchard,East Hope,Idaho,36.0392131612213
+Blanchard,Huetter,Idaho,22.511135412635003
+Blanchard,Fernan Lake Village,Idaho,26.281842174154534
+Blanchard,Conkling Park,Idaho,43.76263316104907
+Blanchard,Hope,Idaho,35.78323436982429
+Blanchard,Tensed,Idaho,59.19743227731585
+Blanchard,Parkline,Idaho,48.785280340360174
+Blanchard,State Line,Idaho,21.514120652027426
+Blanchard,Coolin,Idaho,32.5694046079467
+Basalt,Bancroft,Idaho,43.440112487791474
+Basalt,Arimo,Idaho,52.077109313719525
+Basalt,Lava Hot Springs,Idaho,48.59584401656083
+Basalt,Swan Valley,Idaho,43.05674209483743
+Basalt,Rockford,Idaho,20.375243656989408
+Basalt,Irwin,Idaho,45.33364775463549
+Basalt,Butte City,Idaho,57.743919158132265
+Basalt,Hamer,Idaho,41.95518454932585
+Basalt,Atomic City,Idaho,33.78684842060148
+Garden Valley,Cambridge,Idaho,48.99906514799937
+Garden Valley,Midvale,Idaho,46.79934905672973
+Garden Valley,Stanley,Idaho,51.758908892594164
+Garden Valley,Donnelly,Idaho,45.400128842611416
+Garden Valley,Crouch,Idaho,2.372406379179589
+Garden Valley,Smiths Ferry,Idaho,16.007953795228936
+Garden Valley,Placerville,Idaho,9.716170247283788
+Garden Valley,Lowman,Idaho,16.954416979244744
+Garden Valley,Banks,Idaho,8.299836062963879
+Eden,Hollister,Idaho,25.892350975558678
+Eden,Albion,Idaho,34.81384421468586
+Eden,Gannett,Idaho,51.91715273064915
+Eden,Malta,Idaho,47.58185047981634
+Eden,Dietrich,Idaho,21.424248415662436
+Eden,Bliss,Idaho,43.556095990995125
+Eden,Castleford,Idaho,34.31575133387923
+Eden,Acequia,Idaho,31.506709737837056
+Eden,Minidoka,Idaho,38.0295915353943
+Eden,Murtaugh,Idaho,8.185828386450904
+Culdesac,Pierce,Idaho,42.379307162156664
+Culdesac,Weippe,Idaho,34.932477635905286
+Culdesac,Kendrick,Idaho,16.532796819894617
+Culdesac,Winchester,Idaho,9.514783184881786
+Culdesac,Onaway,Idaho,39.61658970068003
+Culdesac,Bovill,Idaho,35.90813811899957
+Culdesac,Ferdinand,Idaho,20.433721084257893
+Culdesac,Sweetwater,Idaho,6.101792885447089
+Culdesac,Peck,Idaho,13.544489252745935
+Culdesac,Elk River,Idaho,36.56413814239475
+Culdesac,Stites,Idaho,38.57864807839943
+Culdesac,Princeton,Idaho,38.10037806530233
+Culdesac,Fernwood,Idaho,52.87665305688212
+Culdesac,De Smet,Idaho,54.14119555272867
+Culdesac,Reubens,Idaho,7.073282845309127
+Culdesac,Tensed,Idaho,55.522862773333145
+Culdesac,Viola,Idaho,36.09150226696493
+Culdesac,White Bird,Idaho,45.900645489430616
+Tetonia,Swan Valley,Idaho,26.94352891162212
+Tetonia,Irwin,Idaho,29.427447130204193
+Tetonia,Island Park,Idaho,50.25359819369099
+Tetonia,Hamer,Idaho,52.670041960145845
+Tetonia,Drummond,Idaho,15.746699967679195
+Tetonia,Warm River,Idaho,22.485265966432678
+Pierce,Weippe,Idaho,10.353686677702422
+Pierce,Kendrick,Idaho,41.579272029014525
+Pierce,Winchester,Idaho,43.108385028602406
+Pierce,Elk City,Idaho,49.19823368990806
+Pierce,Onaway,Idaho,59.88190083627428
+Pierce,Bovill,Idaho,37.876074459903386
+Pierce,Ferdinand,Idaho,36.794672053369894
+Pierce,Sweetwater,Idaho,48.44363466877857
+Pierce,Peck,Idaho,29.928117605970613
+Pierce,Elk River,Idaho,27.016195183560114
+Pierce,Stites,Idaho,28.960268193339036
+Pierce,Princeton,Idaho,57.051942959148434
+Pierce,Fernwood,Idaho,51.194768880245746
+Pierce,Reubens,Idaho,37.413262671382626
+Pierce,White Bird,Idaho,55.93393027723262
+Hollister,Albion,Idaho,51.49111269807933
+Hollister,Dietrich,Idaho,41.90230913624828
+Hollister,Bliss,Idaho,43.58574748571841
+Hollister,Castleford,Idaho,18.721652871502204
+Hollister,Acequia,Idaho,54.92183743045535
+Hollister,Murtaugh,Idaho,23.586435855917486
+Albion,Malta,Idaho,12.913026669514668
+Albion,Dietrich,Idaho,49.24813743311987
+Albion,Acequia,Idaho,17.896395529155022
+Albion,Minidoka,Idaho,24.20362748108667
+Albion,Murtaugh,Idaho,30.278111835149684
+Albion,Rockland,Idaho,37.79461181903897
+Weippe,Kendrick,Idaho,37.767786428313364
+Weippe,Winchester,Idaho,34.12195415529535
+Weippe,Elk City,Idaho,45.11394274569578
+Weippe,Onaway,Idaho,59.011141434501404
+Weippe,Bovill,Idaho,39.56060983457307
+Weippe,Ferdinand,Idaho,26.662474003753353
+Weippe,Sweetwater,Idaho,41.02202974223518
+Weippe,Peck,Idaho,24.168416403862807
+Weippe,Elk River,Idaho,30.187623508054916
+Weippe,Stites,Idaho,19.872773184438575
+Weippe,Princeton,Idaho,56.33204879933269
+Weippe,Fernwood,Idaho,55.113488347421125
+Weippe,Reubens,Idaho,29.111042145848987
+Weippe,White Bird,Idaho,45.99042395323856
+Bancroft,Arimo,Idaho,18.453742525062914
+Bancroft,Lava Hot Springs,Idaho,9.473363971889176
+Bancroft,Swan Valley,Idaho,57.328113515391486
+Bancroft,Rockford,Idaho,46.11193781990327
+Bancroft,Irwin,Idaho,55.997565867342324
+Bancroft,Bloomington,Idaho,43.97871848236715
+Bancroft,Rockland,Idaho,51.528303585317445
+Bancroft,Bennington,Idaho,36.87860454600666
+Bancroft,St. Charles,Idaho,48.98541212069664
+Bancroft,Oxford,Idaho,32.51600755732169
+Wardner,Rockford Bay,Idaho,35.152262574176376
+Wardner,Laclede,Idaho,53.23406799842562
+Wardner,Harrison,Idaho,31.464208278433752
+Wardner,Worley,Idaho,37.6102269721035
+Wardner,Onaway,Idaho,54.0730328144277
+Wardner,East Hope,Idaho,50.390261760266554
+Wardner,Bovill,Idaho,47.20852402599909
+Wardner,Elk River,Idaho,50.894714215733245
+Wardner,Huetter,Idaho,35.763788081176045
+Wardner,Princeton,Idaho,53.02557800370695
+Wardner,Fernwood,Idaho,30.279720319550854
+Wardner,Fernan Lake Village,Idaho,30.485045550187525
+Wardner,Conkling Park,Idaho,30.854429575265126
+Wardner,De Smet,Idaho,44.81616362600496
+Wardner,Hope,Idaho,51.41679235244361
+Wardner,Tensed,Idaho,44.56107542102939
+Wardner,Parkline,Idaho,28.98852190969664
+Wardner,State Line,Idaho,44.01071806919502
+Yellow Pine,New Meadows,Idaho,39.10910582810203
+Yellow Pine,Riggins,Idaho,51.404822763017634
+Yellow Pine,Elk City,Idaho,59.737536962537064
+Yellow Pine,Stanley,Idaho,58.31365324182717
+Yellow Pine,Donnelly,Idaho,32.990273185004234
+Yellow Pine,Smiths Ferry,Idaho,54.26605835231066
+Cambridge,New Meadows,Idaho,33.64794314538716
+Cambridge,Midvale,Idaho,8.26611741681182
+Cambridge,Donnelly,Idaho,31.600701728056055
+Cambridge,Crouch,Idaho,46.973407243698475
+Cambridge,Smiths Ferry,Idaho,35.137839148693764
+Cambridge,Placerville,Idaho,56.62072208547943
+Cambridge,Banks,Idaho,43.674653582366574
+Arimo,Lava Hot Springs,Idaho,9.287849989006231
+Arimo,Rockford,Idaho,47.0680116797797
+Arimo,Bloomington,Idaho,46.880136850656285
+Arimo,Rockland,Idaho,35.7978773725797
+Arimo,Bennington,Idaho,45.137051961799656
+Arimo,St. Charles,Idaho,50.643762875457476
+Arimo,Oxford,Idaho,22.195654814818116
+Gannett,Dietrich,Idaho,31.00397848851802
+Gannett,Bliss,Idaho,49.15657878034513
+Gannett,Moore,Idaho,48.22372843467293
+Gannett,Acequia,Idaho,55.82549154037268
+Gannett,Minidoka,Idaho,54.19541894570657
+Gannett,Murtaugh,Idaho,59.72751146126538
+Gannett,Butte City,Idaho,50.06059818191599
+Gannett,Lost River,Idaho,40.43718763877385
+Kendrick,Harrison,Idaho,59.37769823513078
+Kendrick,Winchester,Idaho,25.81061222636302
+Kendrick,Worley,Idaho,55.76790463369616
+Kendrick,Onaway,Idaho,24.40808037545946
+Kendrick,Bovill,Idaho,20.94368161312153
+Kendrick,Ferdinand,Idaho,34.326972698254444
+Kendrick,Sweetwater,Idaho,18.332856389628887
+Kendrick,Peck,Idaho,14.517573245690093
+Kendrick,Elk River,Idaho,25.335627067558924
+Kendrick,Stites,Idaho,48.48905891241165
+Kendrick,Princeton,Idaho,22.441364347017586
+Kendrick,Fernwood,Idaho,36.868025777102616
+Kendrick,Conkling Park,Idaho,54.55834358149579
+Kendrick,De Smet,Idaho,38.38489393007586
+Kendrick,Reubens,Idaho,20.79786338142359
+Kendrick,Tensed,Idaho,39.79081342126926
+Kendrick,Viola,Idaho,23.264984550864
+Kendrick,Parkline,Idaho,50.08224586054049
+Rockford Bay,Laclede,Idaho,45.96577332167488
+Rockford Bay,Harrison,Idaho,4.820872387119675
+Rockford Bay,Worley,Idaho,7.609993981278523
+Rockford Bay,Onaway,Idaho,40.09486355621037
+Rockford Bay,East Hope,Idaho,57.68219668139676
+Rockford Bay,Bovill,Idaho,50.558348773500555
+Rockford Bay,Huetter,Idaho,13.582007233803582
+Rockford Bay,Princeton,Idaho,41.07458812587338
+Rockford Bay,Fernwood,Idaho,35.933942424419094
+Rockford Bay,Fernan Lake Village,Idaho,13.069582880836583
+Rockford Bay,Conkling Park,Idaho,9.281205464313523
+Rockford Bay,De Smet,Idaho,25.421139954049707
+Rockford Bay,Hope,Idaho,58.14338795704301
+Rockford Bay,Tensed,Idaho,24.172973357487074
+Rockford Bay,Viola,Idaho,46.68103561102003
+Rockford Bay,Parkline,Idaho,14.81982651099494
+Rockford Bay,State Line,Idaho,15.283713335637561
+Malta,Acequia,Idaho,27.511205352921415
+Malta,Minidoka,Idaho,31.428222552805316
+Malta,Murtaugh,Idaho,42.52040763947235
+Malta,Rockland,Idaho,31.24907914538043
+Dietrich,Bliss,Idaho,34.59443795334753
+Dietrich,Castleford,Idaho,41.021089271421246
+Dietrich,Acequia,Idaho,37.97108900171934
+Dietrich,Minidoka,Idaho,40.92897226671544
+Dietrich,Murtaugh,Idaho,29.535714637563544
+Lava Hot Springs,Rockford,Idaho,47.36359255916658
+Lava Hot Springs,Bloomington,Idaho,42.85359441917197
+Lava Hot Springs,Rockland,Idaho,44.209937922906434
+Lava Hot Springs,Bennington,Idaho,38.717263402728854
+Lava Hot Springs,St. Charles,Idaho,47.2847785305968
+Lava Hot Springs,Oxford,Idaho,24.851663731312307
+New Meadows,Midvale,Idaho,41.77616539354957
+New Meadows,Riggins,Idaho,31.053081552088624
+New Meadows,Donnelly,Idaho,19.211261034244068
+New Meadows,Smiths Ferry,Idaho,47.52814069325368
+New Meadows,White Bird,Idaho,54.623342913655016
+Laclede,Harrison,Idaho,48.439537734896
+Laclede,Worley,Idaho,53.56063621343236
+Laclede,East Hope,Idaho,21.95317855612124
+Laclede,Huetter,Idaho,32.38506643373097
+Laclede,Fernan Lake Village,Idaho,34.21414357574752
+Laclede,Conkling Park,Idaho,53.06572375443883
+Laclede,Hope,Idaho,21.466375770302022
+Laclede,Parkline,Idaho,57.359920899228584
+Laclede,State Line,Idaho,34.5684490091384
+Laclede,Coolin,Idaho,21.70560516149636
+Bliss,Hammett,Idaho,26.283760857850208
+Bliss,Castleford,Idaho,28.1345538524265
+Bliss,Murtaugh,Idaho,49.89757910656299
+Bliss,Bruneau,Idaho,43.37320924613928
+Harrison,Worley,Idaho,7.128219907460949
+Harrison,Onaway,Idaho,37.47567160526349
+Harrison,East Hope,Idaho,58.51153455843769
+Harrison,Bovill,Idaho,46.29074898762506
+Harrison,Elk River,Idaho,55.66226499252321
+Harrison,Huetter,Idaho,16.467693367936985
+Harrison,Princeton,Idaho,38.17619614753938
+Harrison,Fernwood,Idaho,31.253673845268295
+Harrison,Fernan Lake Village,Idaho,14.410956214854012
+Harrison,Conkling Park,Idaho,4.926135256674764
+Harrison,De Smet,Idaho,23.118128969141914
+Harrison,Hope,Idaho,59.060017532588894
+Harrison,Tensed,Idaho,22.009694461715647
+Harrison,Viola,Idaho,44.595415871114135
+Harrison,Parkline,Idaho,10.283361992379284
+Harrison,State Line,Idaho,19.709666642662064
+Midvale,Donnelly,Idaho,37.83448563654505
+Midvale,Crouch,Idaho,45.012906115476234
+Midvale,Smiths Ferry,Idaho,34.80461961744095
+Midvale,Placerville,Idaho,53.418194438944234
+Midvale,Banks,Idaho,40.451839983665124
+Winchester,Riggins,Idaho,58.571529206351
+Winchester,Onaway,Idaho,49.12775385963717
+Winchester,Bovill,Idaho,44.053231391836455
+Winchester,Ferdinand,Idaho,12.804877466909286
+Winchester,Sweetwater,Idaho,12.063247139551274
+Winchester,Peck,Idaho,18.719995686430913
+Winchester,Elk River,Idaho,42.98502087867321
+Winchester,Stites,Idaho,32.75098616183033
+Winchester,Princeton,Idaho,47.611089909997254
+Winchester,Reubens,Idaho,6.872818193512162
+Winchester,Viola,Idaho,45.387742969151645
+Winchester,White Bird,Idaho,36.549221485650065
+Worley,Onaway,Idaho,32.67044448285538
+Worley,Bovill,Idaho,44.91481786991283
+Worley,Elk River,Idaho,55.0918915722168
+Worley,Huetter,Idaho,21.176511790273317
+Worley,Princeton,Idaho,33.79266517468
+Worley,Fernwood,Idaho,31.896704903587715
+Worley,Fernan Lake Village,Idaho,20.43699845363508
+Worley,Conkling Park,Idaho,6.984419117336054
+Worley,De Smet,Idaho,17.944444892834152
+Worley,Tensed,Idaho,16.65695403044368
+Worley,Viola,Idaho,39.09216490416676
+Worley,Parkline,Idaho,11.413547574735729
+Worley,State Line,Idaho,21.739970250478695
+Riggins,Elk City,Idaho,51.051066998779454
+Riggins,Donnelly,Idaho,48.74113305469366
+Riggins,Ferdinand,Idaho,50.64690360335371
+Riggins,Stites,Idaho,49.249645188336984
+Riggins,White Bird,Idaho,23.619696705492593
+Swan Valley,Irwin,Idaho,4.369473050829014
+Swan Valley,Hamer,Idaho,54.7939298018581
+Swan Valley,Drummond,Idaho,38.330284433091016
+Swan Valley,Warm River,Idaho,46.5552326151919
+Hammett,Castleford,Idaho,42.038812832808865
+Hammett,Murphy,Idaho,57.845700090508934
+Hammett,Bruneau,Idaho,17.61052032432968
+Elk City,Ferdinand,Idaho,51.05070748564659
+Elk City,Stites,Idaho,31.76176889391693
+Elk City,White Bird,Idaho,41.92988816068011
+Stanley,Crouch,Idaho,52.02094860367809
+Stanley,Smiths Ferry,Idaho,56.95614964726224
+Stanley,Placerville,Idaho,53.660476043893134
+Stanley,Lowman,Idaho,35.30162421573143
+Stanley,Clayton,Idaho,27.388566691358932
+Stanley,Banks,Idaho,59.98804087825209
+Onaway,Bovill,Idaho,23.98007120774682
+Onaway,Ferdinand,Idaho,58.67048823392152
+Onaway,Sweetwater,Idaho,38.96310803074184
+Onaway,Peck,Idaho,38.2911843496837
+Onaway,Elk River,Idaho,35.047715579895666
+Onaway,Huetter,Idaho,53.60423414952661
+Onaway,Princeton,Idaho,2.892676668636449
+Onaway,Fernwood,Idaho,27.050892286000316
+Onaway,Fernan Lake Village,Idaho,51.85818882292759
+Onaway,Conkling Park,Idaho,33.0587936196084
+Onaway,De Smet,Idaho,14.735646135000835
+Onaway,Reubens,Idaho,44.947830096556295
+Onaway,Tensed,Idaho,16.066225177019707
+Onaway,Viola,Idaho,8.692111937173618
+Onaway,Parkline,Idaho,29.80565247008461
+Onaway,State Line,Idaho,54.119259356677475
+East Hope,Huetter,Idaho,45.312539103876794
+East Hope,Fernan Lake Village,Idaho,44.617303692154486
+East Hope,Hope,Idaho,1.1871063650254452
+East Hope,State Line,Idaho,50.676605356470674
+East Hope,Coolin,Idaho,30.239217646056357
+Donnelly,Crouch,Idaho,43.05357208567207
+Donnelly,Smiths Ferry,Idaho,30.111939468075445
+Donnelly,Placerville,Idaho,55.1064076292509
+Donnelly,Lowman,Idaho,50.68589869641033
+Donnelly,Banks,Idaho,45.45616293598043
+Moore,Rockford,Idaho,56.45939782889595
+Moore,Butte City,Idaho,10.847711732657793
+Moore,Hamer,Idaho,59.635278408484616
+Moore,Atomic City,Idaho,34.356104959248135
+Moore,Lost River,Idaho,9.52228809920107
+Crouch,Smiths Ferry,Idaho,13.649316421942036
+Crouch,Placerville,Idaho,12.05290888398326
+Crouch,Lowman,Idaho,17.773440402911994
+Crouch,Banks,Idaho,8.098824909228151
+Rockford,Minidoka,Idaho,57.16251464663471
+Rockford,Rockland,Idaho,45.970180249472286
+Rockford,Butte City,Idaho,45.93453635281729
+Rockford,Hamer,Idaho,53.175008844431346
+Rockford,Atomic City,Idaho,22.560751942159655
+Bovill,Ferdinand,Idaho,48.80681349245061
+Bovill,Sweetwater,Idaho,38.97544158007465
+Bovill,Peck,Idaho,26.556284620213304
+Bovill,Elk River,Idaho,11.352122964712777
+Bovill,Stites,Idaho,56.558110487132325
+Bovill,Princeton,Idaho,21.109602925822138
+Bovill,Fernwood,Idaho,17.728642767482526
+Bovill,Fernan Lake Village,Idaho,58.647070969693864
+Bovill,Conkling Park,Idaho,41.39997801297082
+Bovill,De Smet,Idaho,31.29911835806039
+Bovill,Reubens,Idaho,37.67350886343402
+Bovill,Tensed,Idaho,32.56494577910179
+Bovill,Viola,Idaho,29.669940497692323
+Bovill,Parkline,Idaho,36.06100827859257
+Castleford,Murtaugh,Idaho,36.27399394101027
+Castleford,Bruneau,Idaho,53.27410236344243
+Irwin,Hamer,Idaho,59.07417036663463
+Irwin,Drummond,Idaho,41.789444075747745
+Irwin,Warm River,Idaho,49.924444755041335
+Bloomington,Bennington,Idaho,13.8865924861011
+Bloomington,St. Charles,Idaho,5.512768399396708
+Bloomington,Oxford,Idaho,31.83527352578419
+Acequia,Minidoka,Idaho,8.008891424396179
+Acequia,Murtaugh,Idaho,31.336415116465407
+Acequia,Rockland,Idaho,37.41381490699006
+Ferdinand,Sweetwater,Idaho,24.561857203285985
+Ferdinand,Peck,Idaho,22.36302116046647
+Ferdinand,Elk River,Idaho,44.70445770749561
+Ferdinand,Stites,Idaho,20.29842568337549
+Ferdinand,Princeton,Idaho,56.76820053649567
+Ferdinand,Reubens,Idaho,13.899489357918611
+Ferdinand,Viola,Idaho,56.13992273649649
+Ferdinand,White Bird,Idaho,27.26254570295232
+Minidoka,Murtaugh,Idaho,38.765306993432226
+Minidoka,Rockland,Idaho,33.754777624590716
+Minidoka,Atomic City,Idaho,58.63193022175555
+Sweetwater,Peck,Idaho,19.2140888909224
+Sweetwater,Elk River,Idaho,41.04141790457552
+Sweetwater,Stites,Idaho,43.728222432959726
+Sweetwater,Princeton,Idaho,37.85259565361774
+Sweetwater,Fernwood,Idaho,55.19421631091524
+Sweetwater,De Smet,Idaho,53.68850005432784
+Sweetwater,Reubens,Idaho,12.565288108649348
+Sweetwater,Tensed,Idaho,55.028401977337694
+Sweetwater,Viola,Idaho,34.211587629962445
+Sweetwater,White Bird,Idaho,48.16350263351929
+Murphy,Bruneau,Idaho,44.40894659389202
+Murphy,Placerville,Idaho,58.80820673949715
+Peck,Elk River,Idaho,24.27030857599774
+Peck,Stites,Idaho,34.09832981470727
+Peck,Princeton,Idaho,36.01212643229353
+Peck,Fernwood,Idaho,44.27646184631213
+Peck,De Smet,Idaho,51.45528342987121
+Peck,Reubens,Idaho,11.875785480850697
+Peck,Tensed,Idaho,52.86784126567541
+Peck,Viola,Idaho,37.78207307357368
+Peck,White Bird,Idaho,49.58476576621944
+Elk River,Stites,Idaho,48.69973531192377
+Elk River,Princeton,Idaho,32.15637882613381
+Elk River,Fernwood,Idaho,24.926185042440935
+Elk River,Conkling Park,Idaho,50.8903532384955
+Elk River,De Smet,Idaho,42.486269246986424
+Elk River,Reubens,Idaho,36.14566312975378
+Elk River,Tensed,Idaho,43.715822765958784
+Elk River,Viola,Idaho,39.92616008723878
+Elk River,Parkline,Idaho,45.387151947790436
+Stites,Reubens,Idaho,31.5054861299558
+Stites,White Bird,Idaho,27.644285916437827
+Huetter,Princeton,Idaho,54.478788437993636
+Huetter,Fernwood,Idaho,46.12735739733174
+Huetter,Fernan Lake Village,Idaho,5.288910524575358
+Huetter,Conkling Park,Idaho,21.32903230080019
+Huetter,De Smet,Idaho,38.976621051244095
+Huetter,Hope,Idaho,45.654596250517955
+Huetter,Tensed,Idaho,37.74382256747536
+Huetter,Parkline,Idaho,26.275124196354938
+Huetter,State Line,Idaho,8.665265317294306
+Huetter,Coolin,Idaho,53.360303851648645
+Rockland,Oxford,Idaho,48.85606745922743
+Princeton,Fernwood,Idaho,25.157507458961817
+Princeton,Fernan Lake Village,Idaho,52.472429756994146
+Princeton,Conkling Park,Idaho,33.59986699524816
+Princeton,De Smet,Idaho,16.046935715126413
+Princeton,Reubens,Idaho,43.15647423427777
+Princeton,Tensed,Idaho,17.436497025408137
+Princeton,Viola,Idaho,10.323438851459828
+Princeton,Parkline,Idaho,29.951481401258693
+Princeton,State Line,Idaho,55.419072274093274
+Fernwood,Fernan Lake Village,Idaho,42.06866740889959
+Fernwood,Conkling Park,Idaho,26.701574250678966
+Fernwood,De Smet,Idaho,24.811470101712757
+Fernwood,Reubens,Idaho,55.223892567696886
+Fernwood,Tensed,Idaho,25.51761992572226
+Fernwood,Viola,Idaho,35.47206784325759
+Fernwood,Parkline,Idaho,21.15892168795931
+Fernwood,State Line,Idaho,50.90760029983047
+Island Park,Hamer,Idaho,59.22637200351273
+Island Park,Spencer,Idaho,42.38329477066437
+Island Park,Drummond,Idaho,36.4987804422017
+Island Park,Warm River,Idaho,28.326849414411118
+Bennington,St. Charles,Idaho,19.028997822646527
+Bennington,Oxford,Idaho,36.59541834380787
+Fernan Lake Village,Conkling Park,Idaho,18.877576522872385
+Fernan Lake Village,De Smet,Idaho,37.522399039411006
+Fernan Lake Village,Hope,Idaho,45.08899044642559
+Fernan Lake Village,Tensed,Idaho,36.39436587965091
+Fernan Lake Village,Viola,Idaho,58.99376458169496
+Fernan Lake Village,Parkline,Idaho,23.215085466193482
+Fernan Lake Village,State Line,Idaho,13.686545199029654
+Fernan Lake Village,Coolin,Idaho,55.68902721116167
+Leadore,Clayton,Idaho,58.589934387231935
+Conkling Park,De Smet,Idaho,19.066371229712953
+Conkling Park,Tensed,Idaho,18.092791311013862
+Conkling Park,Viola,Idaho,40.47985257459513
+Conkling Park,Parkline,Idaho,5.548890102340701
+Conkling Park,State Line,Idaho,24.49800793052071
+St. Charles,Oxford,Idaho,33.795311879763574
+De Smet,Reubens,Idaho,59.15694569290205
+De Smet,Tensed,Idaho,1.4134920397798394
+De Smet,Viola,Idaho,21.479364893805766
+De Smet,Parkline,Idaho,17.048838162605595
+De Smet,State Line,Idaho,39.417115900255276
+Hope,State Line,Idaho,50.853064723185796
+Hope,Coolin,Idaho,29.116200692357673
+Smiths Ferry,Placerville,Idaho,25.464996146876626
+Smiths Ferry,Lowman,Idaho,27.360458913228307
+Smiths Ferry,Banks,Idaho,15.476116407180662
+Reubens,Viola,Idaho,42.240705767077394
+Reubens,White Bird,Idaho,40.44501168197081
+Butte City,Hamer,Idaho,56.298784890410374
+Butte City,Atomic City,Idaho,24.31341958815481
+Butte City,Lost River,Idaho,18.093988166142754
+Tensed,Viola,Idaho,22.604726319146646
+Tensed,Parkline,Idaho,16.418962755503163
+Tensed,State Line,Idaho,38.06108198334263
+Viola,Parkline,Idaho,37.763155239871324
+Viola,State Line,Idaho,59.851222480543555
+Parkline,State Line,Idaho,29.98031118397921
+Placerville,Lowman,Idaho,18.733413791198945
+Placerville,Banks,Idaho,12.997680441282927
+Hamer,Spencer,Idaho,31.449168150808834
+Hamer,Atomic City,Idaho,44.99371714731902
+Hamer,Drummond,Idaho,43.19575224261737
+Hamer,Warm River,Idaho,46.03601512673345
+Spencer,Drummond,Idaho,49.467851435226606
+Spencer,Warm River,Idaho,46.69943915253247
+Lowman,Banks,Idaho,25.244574638358465
+Atomic City,Lost River,Idaho,42.405292262417575
+State Line,Coolin,Idaho,53.99602068903763
+Clayton,Lost River,Idaho,55.0806141964919
+Drummond,Warm River,Idaho,8.311243488462685

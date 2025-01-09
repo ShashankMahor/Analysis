@@ -1,0 +1,801 @@
+City 1,City 2,State,Distance
+Portland,Lewiston,Maine,29.058967739191576
+Portland,South Portland,Maine,3.321352082912854
+Portland,Auburn,Maine,28.17673208722562
+Portland,Biddeford,Maine,17.071973596530928
+Portland,Sanford,Maine,29.997444037137107
+Portland,Saco,Maine,13.522912226331965
+Portland,Westbrook,Maine,4.313186265893035
+Portland,Augusta,Maine,52.71969795901227
+Portland,Bath,Maine,28.155903170640403
+Portland,Gardiner,Maine,42.777965205324286
+Portland,North Windham,Maine,12.804976767919582
+Portland,Lisbon Falls,Maine,25.257625625618985
+Portland,South Eliot,Maine,46.14290432273654
+Portland,York Harbor,Maine,41.46003397241162
+Portland,Lisbon,Maine,25.618428291935775
+Portland,South Berwick,Maine,40.51171620961114
+Portland,Cumberland Center,Maine,8.392107530195535
+Portland,Lake Arrowhead,Maine,23.4073508279725
+Portland,Hallowell,Maine,48.08854788723448
+Portland,Cape Neddick,Maine,39.17437465545113
+Portland,South Paris,Maine,39.265886055715804
+Portland,Steep Falls,Maine,19.459633626850668
+Portland,Falmouth Foreside,Maine,4.869208678334325
+Portland,Dunstan,Maine,9.495829409765339
+Portland,West Kennebunk,Maine,23.90531624775336
+Portland,Cornish,Maine,27.759591876958872
+Portland,Chisholm,Maine,56.3596792102876
+Portland,Kittery Point,Maine,46.00249479716532
+Portland,Greene,Maine,35.970447408029436
+Portland,Little Falls,Maine,8.771842238182003
+Portland,South Windham,Maine,8.694076059534682
+Portland,Kezar Falls,Maine,31.91434442971896
+Portland,Sabattus,Maine,31.71501436056104
+Portland,Bethel,Maine,56.331896950378336
+Portland,Turner,Maine,40.10498493454052
+Portland,Cousins Island,Maine,8.823305981034418
+Portland,Littlejohn Island,Maine,9.157649299131748
+Lewiston,South Portland,Maine,32.36624139847022
+Lewiston,Auburn,Maine,4.059965534973173
+Lewiston,Biddeford,Maine,45.35980282288565
+Lewiston,Sanford,Maine,54.684437992341614
+Lewiston,Saco,Maine,40.883435143184485
+Lewiston,Westbrook,Maine,28.87748679694884
+Lewiston,Augusta,Maine,27.38214730223092
+Lewiston,Waterville,Maine,40.06200283902121
+Lewiston,Bath,Maine,19.836333108873347
+Lewiston,Rockland,Maine,51.357697016367524
+Lewiston,Gardiner,Maine,19.916785614573964
+Lewiston,North Windham,Maine,22.640143098907345
+Lewiston,Lisbon Falls,Maine,7.956848292427903
+Lewiston,Lisbon,Maine,5.268137405951597
+Lewiston,Cumberland Center,Maine,20.699246135159317
+Lewiston,Lake Arrowhead,Maine,41.03837371740214
+Lewiston,Hallowell,Maine,22.320819619821638
+Lewiston,South Paris,Maine,19.19703115131275
+Lewiston,Steep Falls,Maine,30.937090797407354
+Lewiston,Falmouth Foreside,Maine,24.738828763058013
+Lewiston,Dunstan,Maine,37.70962941225
+Lewiston,West Kennebunk,Maine,51.12197173747972
+Lewiston,Cornish,Maine,37.35408486280675
+Lewiston,Chisholm,Maine,27.651155461184622
+Lewiston,Greene,Maine,6.9118126094234915
+Lewiston,Little Falls,Maine,28.103216013690115
+Lewiston,South Windham,Maine,27.536463728474356
+Lewiston,Kezar Falls,Maine,40.68195168184332
+Lewiston,Sabattus,Maine,3.658952410711315
+Lewiston,Kingfield,Maine,59.845790392814166
+Lewiston,Bethel,Maine,37.500403023257334
+Lewiston,Turner,Maine,12.339744076113194
+Lewiston,Cousins Island,Maine,22.71367205039677
+Lewiston,North Anson,Maine,54.817169830857296
+Lewiston,Littlejohn Island,Maine,22.979559439701614
+Bangor,Augusta,Maine,57.80082838363728
+Bangor,Waterville,Maine,47.32981589447625
+Bangor,Brewer,Maine,4.33258282837584
+Bangor,Ellsworth,Maine,22.694852626446476
+Bangor,Old Town,Maine,8.686221492147023
+Bangor,Rockland,Maine,51.594488974150224
+Bangor,Belfast,Maine,30.36432422435634
+Bangor,Veazie,Maine,3.837106702525388
+Bangor,Bradley,Maine,9.862024657428599
+Bangor,Corinna,Maine,24.002368566534617
+Bangor,Milbridge,Maine,48.89142730850047
+Bangor,Brownville Junction,Maine,37.94780182662562
+Bangor,North Anson,Maine,54.4114882895853
+Bangor,Mattawamkeag,Maine,51.947325522972356
+Bangor,Northeast Harbor,Maine,44.618645316784026
+South Portland,Auburn,Maine,31.415739497475965
+South Portland,Biddeford,Maine,13.912731328155557
+South Portland,Sanford,Maine,27.48809053599114
+South Portland,Saco,Maine,10.752994393595388
+South Portland,Westbrook,Maine,5.494088826901367
+South Portland,Augusta,Maine,55.938532818710385
+South Portland,Bath,Maine,30.936444889859832
+South Portland,Gardiner,Maine,45.94721148745293
+South Portland,North Windham,Maine,15.008128367058273
+South Portland,Lisbon Falls,Maine,28.54074635831009
+South Portland,South Eliot,Maine,43.021190733937196
+South Portland,York Harbor,Maine,38.21279729249366
+South Portland,Lisbon,Maine,28.936232606881845
+South Portland,South Berwick,Maine,37.52955061689091
+South Portland,Cumberland Center,Maine,11.678557298950048
+South Portland,Lake Arrowhead,Maine,22.60522284683055
+South Portland,Hallowell,Maine,51.33756262261733
+South Portland,Cape Neddick,Maine,35.920942515433715
+South Portland,South Paris,Maine,42.07779647765592
+South Portland,Steep Falls,Maine,20.19335534218257
+South Portland,Falmouth Foreside,Maine,8.075371100888404
+South Portland,Dunstan,Maine,6.548499494719545
+South Portland,West Kennebunk,Maine,20.939177044163863
+South Portland,Cornish,Maine,28.087071748835946
+South Portland,Chisholm,Maine,59.614863227397684
+South Portland,Kittery Point,Maine,42.76273870439839
+South Portland,Greene,Maine,39.2780513875276
+South Portland,Little Falls,Maine,9.873196652186387
+South Portland,South Windham,Maine,9.985388456750023
+South Portland,Kezar Falls,Maine,32.13657370297026
+South Portland,Sabattus,Maine,35.036059131570525
+South Portland,Bethel,Maine,58.8172844639628
+South Portland,Turner,Maine,43.32428731343515
+South Portland,Cousins Island,Maine,11.771952416191677
+South Portland,Littlejohn Island,Maine,12.0131068997844
+Auburn,Biddeford,Maine,43.83191401190243
+Auburn,Sanford,Maine,52.22191165664908
+Auburn,Saco,Maine,39.18025246767044
+Auburn,Westbrook,Maine,27.408276009429724
+Auburn,Augusta,Maine,30.911910041393067
+Auburn,Waterville,Maine,43.018391909483874
+Auburn,Bath,Maine,23.125221841892184
+Auburn,Rockland,Maine,55.41217426973895
+Auburn,Gardiner,Maine,23.87509930050361
+Auburn,North Windham,Maine,20.18403165955757
+Auburn,Lisbon Falls,Maine,10.927536990447516
+Auburn,Lisbon,Maine,8.047501337902972
+Auburn,Cumberland Center,Maine,19.809439571926344
+Auburn,Lake Arrowhead,Maine,38.000953902838376
+Auburn,Hallowell,Maine,25.85691197749917
+Auburn,South Paris,Maine,15.975794560159148
+Auburn,Steep Falls,Maine,27.74699518888659
+Auburn,Falmouth Foreside,Maine,24.24447767429823
+Auburn,Dunstan,Maine,36.29759677969763
+Auburn,West Kennebunk,Maine,49.20476147951868
+Auburn,Cornish,Maine,33.75534349189989
+Auburn,Chisholm,Maine,28.208483993905713
+Auburn,Greene,Maine,8.987452881407657
+Auburn,Little Falls,Maine,26.048614070910794
+Auburn,South Windham,Maine,25.496017953514286
+Auburn,Kezar Falls,Maine,36.95746993096274
+Auburn,Sabattus,Maine,7.496299411131391
+Auburn,Bethel,Maine,34.5662955630491
+Auburn,Turner,Maine,11.952619380002705
+Auburn,Cousins Island,Maine,22.878658126936326
+Auburn,North Anson,Maine,56.351307822683296
+Auburn,Littlejohn Island,Maine,23.247315361085295
+Biddeford,Sanford,Maine,15.683806356765569
+Biddeford,Saco,Maine,4.9823404528820845
+Biddeford,Westbrook,Maine,16.48557467017382
+Biddeford,Bath,Maine,44.65752671433685
+Biddeford,Gardiner,Maine,59.84327343390753
+Biddeford,North Windham,Maine,24.601689218932524
+Biddeford,Lisbon Falls,Maine,42.255489321090636
+Biddeford,South Eliot,Maine,29.110130749474628
+Biddeford,York Harbor,Maine,24.478629840564324
+Biddeford,Lisbon,Maine,42.41257943224627
+Biddeford,South Berwick,Maine,23.792270106519254
+Biddeford,Cumberland Center,Maine,24.888819503856396
+Biddeford,Lake Arrowhead,Maine,19.773682288603545
+Biddeford,Cape Neddick,Maine,22.21995876292465
+Biddeford,South Paris,Maine,51.98450345882913
+Biddeford,Steep Falls,Maine,24.002428049281605
+Biddeford,Falmouth Foreside,Maine,21.934391272389593
+Biddeford,Dunstan,Maine,7.701529944669494
+Biddeford,West Kennebunk,Maine,7.492437862022553
+Biddeford,Cornish,Maine,28.88200929449621
+Biddeford,Kittery Point,Maine,28.993450996397037
+Biddeford,Greene,Maine,52.22181340214179
+Biddeford,Little Falls,Maine,18.249327038033524
+Biddeford,South Windham,Maine,18.739206765439558
+Biddeford,Kezar Falls,Maine,31.975215004150396
+Biddeford,Sabattus,Maine,48.30042175293898
+Biddeford,Turner,Maine,55.442538829989935
+Biddeford,Cousins Island,Maine,25.673229142297476
+Biddeford,Littlejohn Island,Maine,25.88547965841003
+Sanford,Saco,Maine,16.803487424577135
+Sanford,Westbrook,Maine,27.57149600871579
+Sanford,Bath,Maine,58.12068419997202
+Sanford,North Windham,Maine,32.07781508640208
+Sanford,Lisbon Falls,Maine,53.44158406229388
+Sanford,South Eliot,Maine,20.50242528547393
+Sanford,York Harbor,Maine,20.145979401566365
+Sanford,Lisbon,Maine,52.91254777190658
+Sanford,South Berwick,Maine,13.419910360728725
+Sanford,Cumberland Center,Maine,36.098204191082516
+Sanford,Lake Arrowhead,Maine,16.527558704684193
+Sanford,Cape Neddick,Maine,18.80200069703837
+Sanford,South Paris,Maine,56.220212302349644
+Sanford,Steep Falls,Maine,26.0997975838429
+Sanford,Falmouth Foreside,Maine,34.63266357012513
+Sanford,Dunstan,Maine,21.0597930497501
+Sanford,West Kennebunk,Maine,8.89954820512476
+Sanford,Cornish,Maine,26.05064343495255
+Sanford,Kittery Point,Maine,23.388964039879845
+Sanford,Little Falls,Maine,26.801061554348028
+Sanford,South Windham,Maine,27.371404248217704
+Sanford,Kezar Falls,Maine,27.224025783305827
+Sanford,Sabattus,Maine,58.06246437107789
+Sanford,Cousins Island,Maine,38.772890757913686
+Sanford,Littlejohn Island,Maine,39.144570085365714
+Saco,Westbrook,Maine,12.09133588950995
+Saco,Bath,Maine,41.63550177128661
+Saco,Gardiner,Maine,56.10057211885983
+Saco,North Windham,Maine,19.697466234685237
+Saco,Lisbon Falls,Maine,38.238848562945286
+Saco,South Eliot,Maine,32.916964811924515
+Saco,York Harbor,Maine,28.876400711713945
+Saco,Lisbon,Maine,38.195325057868985
+Saco,South Berwick,Maine,27.04631859775206
+Saco,Cumberland Center,Maine,20.716808139876893
+Saco,Lake Arrowhead,Maine,16.285565851521763
+Saco,Cape Neddick,Maine,26.67269981051002
+Saco,South Paris,Maine,47.01099173046025
+Saco,Steep Falls,Maine,19.233829191128205
+Saco,Falmouth Foreside,Maine,18.339967431932056
+Saco,Dunstan,Maine,4.25712240285441
+Saco,West Kennebunk,Maine,10.477613387639433
+Saco,Cornish,Maine,24.72116320125181
+Saco,Kittery Point,Maine,33.31741585253116
+Saco,Greene,Maine,47.69991521445633
+Saco,Little Falls,Maine,13.367488281926077
+Saco,South Windham,Maine,13.875528609469423
+Saco,Kezar Falls,Maine,28.094693493061534
+Saco,Sabattus,Maine,43.93219999741375
+Saco,Turner,Maine,50.68493539882245
+Saco,Cousins Island,Maine,22.340583906975333
+Saco,Littlejohn Island,Maine,22.647724981353118
+Westbrook,Augusta,Maine,53.897964714201855
+Westbrook,Bath,Maine,30.76837284242986
+Westbrook,Gardiner,Maine,44.228998939068845
+Westbrook,North Windham,Maine,9.602367954829935
+Westbrook,Lisbon Falls,Maine,26.21936237738318
+Westbrook,South Eliot,Maine,44.986407991854406
+Westbrook,York Harbor,Maine,40.891899145025654
+Westbrook,Lisbon,Maine,26.10594494003176
+Westbrook,South Berwick,Maine,38.95960919490543
+Westbrook,Cumberland Center,Maine,8.678673223372257
+Westbrook,Lake Arrowhead,Maine,19.381805031420555
+Westbrook,Hallowell,Maine,49.11497136402525
+Westbrook,Cape Neddick,Maine,38.65887211046778
+Westbrook,South Paris,Maine,36.992589460816454
+Westbrook,Steep Falls,Maine,15.186906821956715
+Westbrook,Falmouth Foreside,Maine,7.459151288604318
+Westbrook,Dunstan,Maine,8.889397963983495
+Westbrook,West Kennebunk,Maine,22.514051311174153
+Westbrook,Cornish,Maine,23.447444096466285
+Westbrook,Chisholm,Maine,55.55706735500263
+Westbrook,Kittery Point,Maine,45.365279097899425
+Westbrook,Greene,Maine,35.736254760430334
+Westbrook,Little Falls,Maine,4.5463873464507545
+Westbrook,South Windham,Maine,4.5641084856674095
+Westbrook,Kezar Falls,Maine,27.601199900789357
+Westbrook,Sabattus,Maine,31.86349842549195
+Westbrook,Bethel,Maine,53.43933409122212
+Westbrook,Turner,Maine,39.14285256789817
+Westbrook,Cousins Island,Maine,11.642935918074256
+Westbrook,Littlejohn Island,Maine,12.136166284853482
+Augusta,Waterville,Maine,14.901954699830688
+Augusta,Brewer,Maine,58.17149456531692
+Augusta,Bath,Maine,28.051660440648185
+Augusta,Rockland,Maine,32.8052251037391
+Augusta,Belfast,Maine,35.23300081811702
+Augusta,Gardiner,Maine,10.321990204195247
+Augusta,North Windham,Maine,49.48312340143621
+Augusta,Lisbon Falls,Maine,27.680916017038335
+Augusta,Lisbon,Maine,28.151197336731748
+Augusta,Cumberland Center,Maine,45.21936713895114
+Augusta,Hallowell,Maine,5.062477893124693
+Augusta,South Paris,Maine,39.470863458029484
+Augusta,Steep Falls,Maine,58.28067298138649
+Augusta,Falmouth Foreside,Maine,47.869984729361775
+Augusta,Chisholm,Maine,25.247682728845408
+Augusta,Greene,Maine,22.64763867069992
+Augusta,Little Falls,Maine,54.24140469737532
+Augusta,South Windham,Maine,53.67232284720051
+Augusta,Sabattus,Maine,23.733581957079767
+Augusta,Kingfield,Maine,47.96594393542227
+Augusta,Bethel,Maine,52.443172669317946
+Augusta,Corinna,Maine,46.739602298368716
+Augusta,Turner,Maine,26.611374272599377
+Augusta,Cousins Island,Maine,44.3733846412595
+Augusta,North Anson,Maine,37.31496286386585
+Augusta,Littlejohn Island,Maine,44.28903899801558
+Waterville,Brewer,Maine,48.58931973374642
+Waterville,Bath,Maine,42.9420789767378
+Waterville,Ellsworth,Maine,58.06373962764781
+Waterville,Old Town,Maine,53.94701832515474
+Waterville,Rockland,Maine,38.80657904766537
+Waterville,Belfast,Maine,32.15252323235156
+Waterville,Gardiner,Maine,25.212391408978622
+Waterville,Lisbon Falls,Maine,41.837809015948395
+Waterville,Lisbon,Maine,41.86797320412722
+Waterville,Cumberland Center,Maine,59.30258064750543
+Waterville,Hallowell,Maine,19.049799318547773
+Waterville,South Paris,Maine,47.652893769747244
+Waterville,Veazie,Maine,51.03205561532343
+Waterville,Chisholm,Maine,26.42802518205708
+Waterville,Greene,Maine,34.09161304820169
+Waterville,Bradley,Maine,57.07354121504659
+Waterville,Sabattus,Maine,36.59093896294867
+Waterville,Kingfield,Maine,37.61863448412678
+Waterville,Rangeley,Maine,56.45574907112831
+Waterville,Bethel,Maine,56.40257859961916
+Waterville,Corinna,Maine,32.6929774244451
+Waterville,Turner,Maine,35.48490165297905
+Waterville,Cousins Island,Maine,58.93591179243969
+Waterville,North Anson,Maine,24.780579303810388
+Waterville,Littlejohn Island,Maine,58.89120448603411
+Brewer,Ellsworth,Maine,18.366445977703982
+Brewer,Old Town,Maine,11.446268554824549
+Brewer,Rockland,Maine,49.46633905765663
+Brewer,Belfast,Maine,28.600020228858593
+Brewer,Veazie,Maine,4.092531929382104
+Brewer,Bradley,Maine,10.445613287895087
+Brewer,Jonesport,Maine,57.82679662444816
+Brewer,Corinna,Maine,27.630367706697424
+Brewer,Milbridge,Maine,45.05423785816567
+Brewer,Brownville Junction,Maine,42.06597052673642
+Brewer,North Anson,Maine,57.37255637915464
+Brewer,Mattawamkeag,Maine,54.04285869398163
+Brewer,Northeast Harbor,Maine,40.306291266196084
+Bath,Rockland,Maine,37.21562693533799
+Bath,Belfast,Maine,52.42385738780716
+Bath,Gardiner,Maine,17.828549460521536
+Bath,North Windham,Maine,30.676660390697013
+Bath,Lisbon Falls,Maine,12.214085062446273
+Bath,Lisbon,Maine,15.086989502079591
+Bath,Cumberland Center,Maine,22.97265055382097
+Bath,Lake Arrowhead,Maine,48.91051113730705
+Bath,Hallowell,Maine,24.593871406092823
+Bath,South Paris,Maine,38.9872706107334
+Bath,Steep Falls,Maine,40.837692115834145
+Bath,Falmouth Foreside,Maine,23.496177922439724
+Bath,Dunstan,Maine,37.48129421304582
+Bath,West Kennebunk,Maine,51.861579335082645
+Bath,Cornish,Maine,49.07134777910328
+Bath,Chisholm,Maine,42.36176185168534
+Bath,Greene,Maine,23.33160396295638
+Bath,Little Falls,Maine,32.90809621141956
+Bath,South Windham,Maine,32.41372232605265
+Bath,Kezar Falls,Maine,53.09180215233327
+Bath,Sabattus,Maine,18.701700158869947
+Bath,Bethel,Maine,57.32600268124023
+Bath,Turner,Maine,30.703285300626728
+Bath,Cousins Island,Maine,19.349594570748742
+Bath,Littlejohn Island,Maine,18.999279604379762
+Presque Isle,Caribou,Maine,12.394093945956113
+Presque Isle,Oakfield,Maine,41.149707249910556
+Presque Isle,Patten,Maine,51.92786700522939
+Presque Isle,Island Falls,Maine,48.71959202391135
+Presque Isle,Grand Isle,Maine,43.536209787509456
+Ellsworth,Old Town,Maine,27.740130386923777
+Ellsworth,Rockland,Maine,45.076449991410044
+Ellsworth,Belfast,Maine,29.02439756086339
+Ellsworth,Veazie,Maine,20.885131712201755
+Ellsworth,Bradley,Maine,23.632115259199125
+Ellsworth,Jonesport,Maine,43.206073187517084
+Ellsworth,Corinna,Maine,44.705611386344806
+Ellsworth,Milbridge,Maine,29.68664163774482
+Ellsworth,Brownville Junction,Maine,59.65971348507831
+Ellsworth,Northeast Harbor,Maine,22.31818809360963
+Old Town,Belfast,Maine,39.048402089620254
+Old Town,Veazie,Maine,7.50657620478263
+Old Town,Bradley,Maine,5.524802405070803
+Old Town,Corinna,Maine,26.447652830669522
+Old Town,Milbridge,Maine,50.07324087145165
+Old Town,Brownville Junction,Maine,31.981771072844765
+Old Town,North Anson,Maine,57.8612427079329
+Old Town,Mattawamkeag,Maine,43.27033916970785
+Old Town,Northeast Harbor,Maine,50.05636088491103
+Caribou,Oakfield,Maine,53.33266339101926
+Caribou,Grand Isle,Maine,31.37522553904203
+Rockland,Belfast,Maine,21.384655927775622
+Rockland,Gardiner,Maine,32.8609240833987
+Rockland,Lisbon Falls,Maine,46.53662608926848
+Rockland,Lisbon,Maine,48.79001521242575
+Rockland,Hallowell,Maine,35.46192250808713
+Rockland,Veazie,Maine,53.51587311822036
+Rockland,Chisholm,Maine,58.05288831191574
+Rockland,Greene,Maine,50.133566544530694
+Rockland,Bradley,Maine,59.83848450598451
+Rockland,Sabattus,Maine,48.248441368424935
+Rockland,Corinna,Maine,55.237688151533554
+Rockland,Turner,Maine,56.41787896590364
+Rockland,Cousins Island,Maine,56.043463771852764
+Rockland,Northeast Harbor,Maine,43.528187751944685
+Rockland,Littlejohn Island,Maine,55.588627297021766
+Belfast,Gardiner,Maine,41.05811023839305
+Belfast,Lisbon Falls,Maine,58.53582283392088
+Belfast,Hallowell,Maine,39.857829826184066
+Belfast,Veazie,Maine,32.55730897079599
+Belfast,Chisholm,Maine,57.52160400177207
+Belfast,Greene,Maine,57.40146554804249
+Belfast,Bradley,Maine,39.04549222456868
+Belfast,Sabattus,Maine,57.36015695160303
+Belfast,Corinna,Maine,35.97463198768907
+Belfast,Milbridge,Maine,56.93822777629249
+Belfast,North Anson,Maine,52.09726633318332
+Belfast,Northeast Harbor,Maine,37.86317619255761
+Gardiner,North Windham,Maine,40.65356383843499
+Gardiner,Lisbon Falls,Maine,18.232812464167182
+Gardiner,Lisbon,Maine,19.276506421829858
+Gardiner,Cumberland Center,Maine,35.57690651837903
+Gardiner,Lake Arrowhead,Maine,59.627849083834334
+Gardiner,Hallowell,Maine,6.955431859034232
+Gardiner,South Paris,Maine,35.771876428147316
+Gardiner,Steep Falls,Maine,49.985212898420144
+Gardiner,Falmouth Foreside,Maine,37.910733351961476
+Gardiner,Dunstan,Maine,52.251532274568355
+Gardiner,Cornish,Maine,56.98581737685379
+Gardiner,Chisholm,Maine,28.70577077075365
+Gardiner,Greene,Maine,17.372638119900575
+Gardiner,Little Falls,Maine,44.945264057046884
+Gardiner,South Windham,Maine,44.38306230907286
+Gardiner,Sabattus,Maine,16.38190201575442
+Gardiner,Kingfield,Maine,55.98679261820903
+Gardiner,Bethel,Maine,51.443060815906804
+Gardiner,Corinna,Maine,56.85579960031887
+Gardiner,Turner,Maine,23.591037364874246
+Gardiner,Cousins Island,Maine,34.281125051137145
+Gardiner,North Anson,Maine,46.5818442599037
+Gardiner,Littlejohn Island,Maine,34.16176569310271
+North Windham,Lisbon Falls,Maine,22.55497304867242
+North Windham,South Eliot,Maine,51.35932437978242
+North Windham,York Harbor,Maine,48.21234974113628
+North Windham,Lisbon,Maine,21.428525185965004
+North Windham,South Berwick,Maine,44.784321016283045
+North Windham,Cumberland Center,Maine,8.929058776718293
+North Windham,Lake Arrowhead,Maine,18.99766749536939
+North Windham,Hallowell,Maine,44.48628328552574
+North Windham,Cape Neddick,Maine,46.08863601277771
+North Windham,South Paris,Maine,27.62374687710167
+North Windham,Steep Falls,Maine,10.16527136080457
+North Windham,Falmouth Foreside,Maine,12.33009934953788
+North Windham,Dunstan,Maine,17.66870598094262
+North Windham,West Kennebunk,Maine,29.250077888992866
+North Windham,Cornish,Maine,18.56996931417478
+North Windham,Chisholm,Maine,47.62199043057008
+North Windham,Kittery Point,Maine,52.51983962274364
+North Windham,Greene,Maine,29.078199739806678
+North Windham,Little Falls,Maine,6.3586403437387995
+North Windham,South Windham,Maine,5.895949103040746
+North Windham,Kezar Falls,Maine,22.71086107523551
+North Windham,Sabattus,Maine,26.090307270717403
+North Windham,Bethel,Maine,43.837413276017735
+North Windham,Turner,Maine,31.20837476090038
+North Windham,Cousins Island,Maine,15.00993169355014
+North Windham,Littlejohn Island,Maine,15.672227774893626
+Lisbon Falls,Lisbon,Maine,2.8800522562841637
+Lisbon Falls,Cumberland Center,Maine,17.541844219262273
+Lisbon Falls,Lake Arrowhead,Maine,41.551790360430765
+Lisbon Falls,Hallowell,Maine,22.910123335417225
+Lisbon Falls,South Paris,Maine,26.860133859708384
+Lisbon Falls,Steep Falls,Maine,32.211469887660186
+Lisbon Falls,Falmouth Foreside,Maine,20.486204378246757
+Lisbon Falls,Dunstan,Maine,34.57218603359171
+Lisbon Falls,West Kennebunk,Maine,48.706328478730846
+Lisbon Falls,Cornish,Maine,39.741616733659754
+Lisbon Falls,Chisholm,Maine,34.01700476975013
+Lisbon Falls,Greene,Maine,13.20133341128236
+Lisbon Falls,Little Falls,Maine,26.718309214510366
+Lisbon Falls,South Windham,Maine,26.15487035375905
+Lisbon Falls,Kezar Falls,Maine,43.49313566467804
+Lisbon Falls,Sabattus,Maine,8.14831840865502
+Lisbon Falls,Bethel,Maine,45.344123921733214
+Lisbon Falls,Turner,Maine,19.9134766111757
+Lisbon Falls,Cousins Island,Maine,17.458330100675173
+Lisbon Falls,North Anson,Maine,59.41045545836797
+Lisbon Falls,Littlejohn Island,Maine,17.535620140421493
+South Eliot,York Harbor,Maine,7.4614516062599225
+South Eliot,South Berwick,Maine,7.138126193420847
+South Eliot,Cumberland Center,Maine,53.63316989459006
+South Eliot,Lake Arrowhead,Maine,37.02416887740773
+South Eliot,Cape Neddick,Maine,9.219690107425206
+South Eliot,Steep Falls,Maine,46.45940504729046
+South Eliot,Falmouth Foreside,Maine,51.01203200554048
+South Eliot,Dunstan,Maine,36.66511257229179
+South Eliot,West Kennebunk,Maine,22.4764394222189
+South Eliot,Cornish,Maine,46.37849905501572
+South Eliot,Kittery Point,Maine,5.616967916835077
+South Eliot,Little Falls,Maine,45.469108376516736
+South Eliot,South Windham,Maine,46.03037247864594
+South Eliot,Kezar Falls,Maine,47.10361043783864
+South Eliot,Cousins Island,Maine,54.782852081484194
+South Eliot,Littlejohn Island,Maine,54.988146451019304
+York Harbor,South Berwick,Maine,9.631696191259092
+York Harbor,Cumberland Center,Maine,49.36623207558584
+York Harbor,Lake Arrowhead,Maine,36.17087971567796
+York Harbor,Cape Neddick,Maine,2.3155283264341935
+York Harbor,Steep Falls,Maine,44.6790378589126
+York Harbor,Falmouth Foreside,Maine,46.28721098360333
+York Harbor,Dunstan,Maine,32.180159785153585
+York Harbor,West Kennebunk,Maine,18.99941662337182
+York Harbor,Cornish,Maine,45.98235067202243
+York Harbor,Kittery Point,Maine,4.567584465354364
+York Harbor,Little Falls,Maine,42.03979149073315
+York Harbor,South Windham,Maine,42.578779074034
+York Harbor,Kezar Falls,Maine,47.3597663856314
+York Harbor,Cousins Island,Maine,49.8258781919701
+York Harbor,Littlejohn Island,Maine,49.96325742732173
+Lisbon,Cumberland Center,Maine,17.52584846719417
+Lisbon,Lake Arrowhead,Maine,40.3676949706124
+Lisbon,Hallowell,Maine,23.220417390351898
+Lisbon,South Paris,Maine,23.987025142501544
+Lisbon,Steep Falls,Maine,30.729524621757246
+Lisbon,Falmouth Foreside,Maine,21.003721597475177
+Lisbon,Dunstan,Maine,34.711203025131
+Lisbon,West Kennebunk,Maine,48.60872833028938
+Lisbon,Cornish,Maine,37.957494949867126
+Lisbon,Chisholm,Maine,32.22242298325773
+Lisbon,Greene,Maine,11.238583292726538
+Lisbon,Little Falls,Maine,26.11149575446146
+Lisbon,South Windham,Maine,25.541230273078945
+Lisbon,Kezar Falls,Maine,41.59848612905638
+Lisbon,Sabattus,Maine,6.358917138445216
+Lisbon,Bethel,Maine,42.494832299623404
+Lisbon,Turner,Maine,17.502505215625312
+Lisbon,Cousins Island,Maine,18.426165840975347
+Lisbon,North Anson,Maine,58.41372916161122
+Lisbon,Littlejohn Island,Maine,18.6009493351918
+South Berwick,Cumberland Center,Maine,47.63826391373206
+South Berwick,Lake Arrowhead,Maine,29.917963640118625
+South Berwick,Cape Neddick,Maine,9.772736441176567
+South Berwick,Steep Falls,Maine,39.471659121125306
+South Berwick,Falmouth Foreside,Maine,45.36113882104363
+South Berwick,Dunstan,Maine,31.029325650774215
+South Berwick,West Kennebunk,Maine,16.60667393261032
+South Berwick,Cornish,Maine,39.240417418789065
+South Berwick,Kittery Point,Maine,11.082326718587753
+South Berwick,Little Falls,Maine,39.064928657932455
+South Berwick,South Windham,Maine,39.632530680603296
+South Berwick,Kezar Falls,Maine,39.996320069631174
+South Berwick,Cousins Island,Maine,49.28177565216386
+South Berwick,Littlejohn Island,Maine,49.54171530329488
+Calais,Eastport,Maine,18.24567515421713
+Calais,Jonesport,Maine,45.685237990176645
+Calais,Milbridge,Maine,52.78801915162058
+Calais,Danforth,Maine,47.95138679291518
+Calais,Vanceboro,Maine,31.555205865719945
+Cumberland Center,Lake Arrowhead,Maine,25.960676315607678
+Cumberland Center,Hallowell,Maine,40.4431531408408
+Cumberland Center,Cape Neddick,Maine,47.10841912723688
+Cumberland Center,South Paris,Maine,31.754192968831568
+Cumberland Center,Steep Falls,Maine,18.681148268948196
+Cumberland Center,Falmouth Foreside,Maine,4.790284422273828
+Cumberland Center,Dunstan,Maine,17.188388712834264
+Cumberland Center,West Kennebunk,Maine,31.172572684512243
+Cumberland Center,Cornish,Maine,27.268394761753804
+Cumberland Center,Chisholm,Maine,47.973390076607856
+Cumberland Center,Kittery Point,Maine,53.87154004131003
+Cumberland Center,Greene,Maine,27.610112271175353
+Cumberland Center,Little Falls,Maine,9.946997083926705
+Cumberland Center,South Windham,Maine,9.444035228702319
+Cumberland Center,Kezar Falls,Maine,31.458672912122005
+Cumberland Center,Sabattus,Maine,23.462944841953483
+Cumberland Center,Bethel,Maine,49.4912160639984
+Cumberland Center,Turner,Maine,31.753142561577754
+Cumberland Center,Cousins Island,Maine,6.159128667740137
+Cumberland Center,Littlejohn Island,Maine,6.821174339296275
+Lake Arrowhead,Cape Neddick,Maine,34.51926890203536
+Lake Arrowhead,South Paris,Maine,39.99450821698826
+Lake Arrowhead,Steep Falls,Maine,10.37854375803083
+Lake Arrowhead,Falmouth Foreside,Maine,26.65623361206717
+Lake Arrowhead,Dunstan,Maine,18.714102213436274
+Lake Arrowhead,West Kennebunk,Maine,18.928877934536825
+Lake Arrowhead,Cornish,Maine,9.948708113387214
+Lake Arrowhead,Kittery Point,Maine,39.751215511357024
+Lake Arrowhead,Greene,Maine,46.97289485078886
+Lake Arrowhead,Little Falls,Maine,16.127099029613955
+Lake Arrowhead,South Windham,Maine,16.577878810122225
+Lake Arrowhead,Kezar Falls,Maine,12.339901788869465
+Lake Arrowhead,Sabattus,Maine,44.62351755346303
+Lake Arrowhead,Bethel,Maine,51.17506970677803
+Lake Arrowhead,Turner,Maine,47.53229154423415
+Lake Arrowhead,Cousins Island,Maine,30.69280200076069
+Lake Arrowhead,Littlejohn Island,Maine,31.256093354900997
+Hallowell,South Paris,Maine,34.95314087772436
+Hallowell,Steep Falls,Maine,53.227486394293095
+Hallowell,Falmouth Foreside,Maine,43.26220068520413
+Hallowell,Dunstan,Maine,57.4634336182057
+Hallowell,Cornish,Maine,59.60338889154064
+Hallowell,Chisholm,Maine,23.31498898925611
+Hallowell,Greene,Maine,17.694064070273242
+Hallowell,Little Falls,Maine,49.33114371256333
+Hallowell,South Windham,Maine,48.76104882007416
+Hallowell,Sabattus,Maine,18.67400977222613
+Hallowell,Kingfield,Maine,49.14638955210169
+Hallowell,Bethel,Maine,48.804616246488536
+Hallowell,Corinna,Maine,51.40423802625211
+Hallowell,Turner,Maine,22.13907570061251
+Hallowell,Cousins Island,Maine,39.88835813463698
+Hallowell,North Anson,Maine,39.63485074598048
+Hallowell,Littlejohn Island,Maine,39.841432676353165
+Cape Neddick,Steep Falls,Maine,42.796091050587854
+Cape Neddick,Falmouth Foreside,Maine,43.99610086186662
+Cape Neddick,Dunstan,Maine,29.92012196843055
+Cape Neddick,West Kennebunk,Maine,16.943142086197252
+Cape Neddick,Cornish,Maine,44.39044207575767
+Cape Neddick,Kittery Point,Maine,6.8815078440064585
+Cape Neddick,Little Falls,Maine,39.88649966298369
+Cape Neddick,South Windham,Maine,40.42149025135155
+Cape Neddick,Kezar Falls,Maine,45.91867143403826
+Cape Neddick,Cousins Island,Maine,47.52119536367376
+Cape Neddick,Littlejohn Island,Maine,47.655796628678644
+South Paris,Steep Falls,Maine,30.14588005664308
+South Paris,Falmouth Foreside,Maine,36.544430870598646
+South Paris,Dunstan,Maine,45.28711497040219
+South Paris,West Kennebunk,Maine,55.67230751431925
+South Paris,Cornish,Maine,32.263882324854265
+South Paris,Chisholm,Maine,24.576479474266698
+South Paris,Greene,Maine,18.462130165121067
+South Paris,Little Falls,Maine,33.920973972389106
+South Paris,South Windham,Maine,33.495643179233326
+South Paris,Kezar Falls,Maine,33.88809131775203
+South Paris,Sabattus,Maine,21.200531730763842
+South Paris,Kingfield,Maine,53.91673011319419
+South Paris,Rangeley,Maine,51.894104172997885
+South Paris,Bethel,Maine,18.672990591062792
+South Paris,Turner,Maine,12.859785437789236
+South Paris,Cousins Island,Maine,36.491279702098986
+South Paris,North Anson,Maine,53.7240104847155
+South Paris,Littlejohn Island,Maine,36.99978588857281
+Steep Falls,Falmouth Foreside,Maine,20.985190251101066
+Steep Falls,Dunstan,Maine,19.42046793434575
+Steep Falls,West Kennebunk,Maine,26.083204086061777
+Steep Falls,Cornish,Maine,8.624168966142554
+Steep Falls,Chisholm,Maine,53.02233769741412
+Steep Falls,Kittery Point,Maine,48.60898328256125
+Steep Falls,Greene,Maine,36.689799708553515
+Steep Falls,Little Falls,Maine,10.69225043839142
+Steep Falls,South Windham,Maine,10.82680801556476
+Steep Falls,Kezar Falls,Maine,12.838390177947968
+Steep Falls,Sabattus,Maine,34.56261563378446
+Steep Falls,Bethel,Maine,43.07499849294464
+Steep Falls,Turner,Maine,37.16311159892781
+Steep Falls,Cousins Island,Maine,24.41516764388676
+Steep Falls,Littlejohn Island,Maine,25.056957905437113
+Falmouth Foreside,Dunstan,Maine,14.361193329649508
+Falmouth Foreside,West Kennebunk,Maine,28.757272937211475
+Falmouth Foreside,Cornish,Maine,29.578426719034816
+Falmouth Foreside,Chisholm,Maine,52.264399104107355
+Falmouth Foreside,Kittery Point,Maine,50.83565777632346
+Falmouth Foreside,Greene,Maine,31.626413732926725
+Falmouth Foreside,Little Falls,Maine,10.760927063714384
+Falmouth Foreside,South Windham,Maine,10.434410549119209
+Falmouth Foreside,Kezar Falls,Maine,33.794124264688314
+Falmouth Foreside,Sabattus,Maine,27.204768059641594
+Falmouth Foreside,Bethel,Maine,54.237110428245025
+Falmouth Foreside,Turner,Maine,36.19254600414249
+Falmouth Foreside,Cousins Island,Maine,4.20056971302114
+Falmouth Foreside,Littlejohn Island,Maine,4.677098749637515
+Veazie,Bradley,Maine,6.612676194131792
+Veazie,Jonesport,Maine,58.09823999805719
+Veazie,Corinna,Maine,27.554482006084253
+Veazie,Milbridge,Maine,45.732654874421804
+Veazie,Brownville Junction,Maine,38.87258174808505
+Veazie,North Anson,Maine,58.1799464652177
+Veazie,Mattawamkeag,Maine,49.96683376168307
+Veazie,Northeast Harbor,Maine,43.13879092958544
+Dunstan,West Kennebunk,Maine,14.424378404638485
+Dunstan,Cornish,Maine,26.061844591894847
+Dunstan,Kittery Point,Maine,36.692925607316326
+Dunstan,Greene,Maine,44.58773892338905
+Dunstan,Little Falls,Maine,11.384574848608812
+Dunstan,South Windham,Maine,11.793218946628842
+Dunstan,Kezar Falls,Maine,29.76972704447757
+Dunstan,Sabattus,Maine,40.614716878045925
+Dunstan,Turner,Maine,48.012316147627025
+Dunstan,Cousins Island,Maine,18.254754804531355
+Dunstan,Littlejohn Island,Maine,18.52860837623399
+West Kennebunk,Cornish,Maine,28.831813189329047
+West Kennebunk,Kittery Point,Maine,23.26982901963793
+West Kennebunk,Greene,Maine,57.87542149727948
+West Kennebunk,Little Falls,Maine,23.158311609980647
+West Kennebunk,South Windham,Maine,23.709019930297654
+West Kennebunk,Kezar Falls,Maine,31.124997956887096
+West Kennebunk,Sabattus,Maine,54.254148304926616
+West Kennebunk,Cousins Island,Maine,32.67882775069023
+West Kennebunk,Littlejohn Island,Maine,32.9459827353785
+Eastport,Jonesport,Maine,39.389744203401676
+Eastport,Milbridge,Maine,50.28895487644319
+Eastport,Vanceboro,Maine,49.395397878571515
+Cornish,Chisholm,Maine,56.46014054728948
+Cornish,Kittery Point,Maine,49.426576454437914
+Cornish,Greene,Maine,42.38718250522382
+Cornish,Little Falls,Maine,19.086689888366873
+Cornish,South Windham,Maine,19.29025421960778
+Cornish,Kezar Falls,Maine,4.217025564449582
+Cornish,Sabattus,Maine,41.011852310681974
+Cornish,Bethel,Maine,41.65885257274421
+Cornish,Turner,Maine,41.53878196986712
+Cornish,Cousins Island,Maine,33.039199542147514
+Cornish,Littlejohn Island,Maine,33.68112671511305
+Chisholm,Greene,Maine,20.98781728502079
+Chisholm,Little Falls,Maine,53.81661351752393
+Chisholm,South Windham,Maine,53.2878444813285
+Chisholm,Kezar Falls,Maine,58.36900122980377
+Chisholm,Sabattus,Maine,25.93546691344291
+Chisholm,Kingfield,Maine,32.26025246630883
+Chisholm,Rangeley,Maine,39.56874887396799
+Chisholm,Bethel,Maine,29.999017677156935
+Chisholm,Corinna,Maine,54.58354951027175
+Chisholm,Turner,Maine,16.44738958042926
+Chisholm,Cousins Island,Maine,50.363091677119165
+Chisholm,North Anson,Maine,29.376407362363736
+Chisholm,Littlejohn Island,Maine,50.61895781405797
+Kittery Point,Little Falls,Maine,46.39698416243907
+Kittery Point,South Windham,Maine,46.941512402447884
+Kittery Point,Kezar Falls,Maine,50.54198245853643
+Kittery Point,Cousins Island,Maine,54.38847228138739
+Kittery Point,Littlejohn Island,Maine,54.52815462486436
+Greene,Little Falls,Maine,34.77390642222299
+Greene,South Windham,Maine,34.21224541220115
+Greene,Kezar Falls,Maine,45.38500921828338
+Greene,Sabattus,Maine,5.05537675909499
+Greene,Kingfield,Maine,53.064133777817325
+Greene,Rangeley,Maine,58.99835424652707
+Greene,Bethel,Maine,35.210074227529
+Greene,Turner,Maine,7.451403586884313
+Greene,Cousins Island,Maine,29.46011081543063
+Greene,North Anson,Maine,47.91718668983065
+Greene,Littlejohn Island,Maine,29.68851997340842
+Little Falls,South Windham,Maine,0.5712023317365634
+Little Falls,Kezar Falls,Maine,23.27564693250543
+Little Falls,Sabattus,Maine,31.371958530922193
+Little Falls,Bethel,Maine,49.708308264887044
+Little Falls,Turner,Maine,37.37577736904279
+Little Falls,Cousins Island,Maine,14.640749255618173
+Little Falls,Littlejohn Island,Maine,15.229615038098341
+Bradley,Jonesport,Maine,56.15750158202247
+Bradley,Corinna,Maine,31.319203164465296
+Bradley,Milbridge,Maine,44.602515478366314
+Bradley,Brownville Junction,Maine,36.75006983024431
+Bradley,Mattawamkeag,Maine,43.84231628818663
+Bradley,Northeast Harbor,Maine,45.79938759178203
+South Windham,Kezar Falls,Maine,23.490081538772085
+South Windham,Sabattus,Maine,30.802110810086834
+South Windham,Bethel,Maine,49.38701083390826
+South Windham,Turner,Maine,36.84497322470919
+South Windham,Cousins Island,Maine,14.25376689549291
+South Windham,Littlejohn Island,Maine,14.851172621553427
+Kezar Falls,Sabattus,Maine,44.326356060616625
+Kezar Falls,Bethel,Maine,41.416871664309646
+Kezar Falls,Turner,Maine,43.99047831448828
+Kezar Falls,Cousins Island,Maine,37.25167202543434
+Kezar Falls,Littlejohn Island,Maine,37.894468854536576
+Jonesport,Milbridge,Maine,13.586843686617495
+Jonesport,Northeast Harbor,Maine,37.3493976340556
+Sabattus,Kingfield,Maine,57.86484534915745
+Sabattus,Bethel,Maine,38.95244344401414
+Sabattus,Turner,Maine,12.07795741720501
+Sabattus,Cousins Island,Maine,24.767663784025277
+Sabattus,North Anson,Maine,52.161078634828456
+Sabattus,Littlejohn Island,Maine,24.95363371305961
+Kingfield,Rangeley,Maine,23.90393063928155
+Kingfield,Bethel,Maine,49.191964674387194
+Kingfield,Corinna,Maine,44.032694535412624
+Kingfield,Turner,Maine,48.58645021664287
+Kingfield,North Anson,Maine,14.47711562780265
+Rangeley,Bethel,Maine,39.30886507094102
+Rangeley,Turner,Maine,52.39602387347953
+Rangeley,North Anson,Maine,37.441539661518874
+Bethel,Turner,Maine,28.04860593042372
+Bethel,Cousins Island,Maine,54.66689717727332
+Bethel,North Anson,Maine,54.02526714608001
+Bethel,Littlejohn Island,Maine,55.21295397627051
+Corinna,Brownville Junction,Maine,31.14639302384161
+Corinna,North Anson,Maine,31.436853810270456
+Turner,Cousins Island,Maine,34.67035071420438
+Turner,North Anson,Maine,45.29930578238186
+Turner,Littlejohn Island,Maine,34.997733854507466
+Cousins Island,Littlejohn Island,Maine,0.6633336679715197
+Milbridge,Northeast Harbor,Maine,25.88915391269987
+Brownville Junction,North Anson,Maine,53.18177256728235
+Brownville Junction,Mattawamkeag,Maine,36.12602577183177
+Brownville Junction,Patten,Maine,54.12508474943788
+Brownville Junction,Island Falls,Maine,59.484761242476594
+Danforth,Mattawamkeag,Maine,25.434283092541172
+Danforth,Oakfield,Maine,33.483154106913425
+Danforth,Patten,Maine,36.55630945216914
+Danforth,Island Falls,Maine,30.760982541765674
+Danforth,Vanceboro,Maine,22.202937506092173
+Mattawamkeag,Oakfield,Maine,41.499650779077506
+Mattawamkeag,Patten,Maine,33.889138672257694
+Mattawamkeag,Island Falls,Maine,34.131742897022235
+Mattawamkeag,Vanceboro,Maine,44.92293677734709
+Oakfield,Patten,Maine,15.531068429669393
+Oakfield,Island Falls,Maine,8.460796042267031
+Oakfield,Vanceboro,Maine,50.79145876288778
+Patten,Island Falls,Maine,8.566006280437675
+Patten,Vanceboro,Maine,57.51591909481962
+Island Falls,Vanceboro,Maine,50.55669275111815

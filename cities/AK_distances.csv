@@ -1,0 +1,1768 @@
+City 1,City 2,State,Distance
+Anchorage,Knik-Fairview,Alaska,30.121043323314638
+Anchorage,North Lakes,Alaska,33.11247328834871
+Anchorage,Tanaina,Alaska,36.63767789584475
+Anchorage,Wasilla,Alaska,31.80572521950357
+Anchorage,Meadow Lakes,Alaska,37.58245967998503
+Anchorage,South Lakes,Alaska,31.00323752384088
+Anchorage,Gateway,Alaska,29.14016515254892
+Anchorage,Palmer,Alaska,30.9035925758537
+Anchorage,Fishhook,Alaska,39.73159390380496
+Anchorage,Butte,Alaska,28.13158187863632
+Anchorage,Big Lake,Alaska,38.71579399608214
+Anchorage,Farm Loop,Alaska,33.52394067247214
+Anchorage,Willow,Alaska,50.735894832706535
+Anchorage,Point MacKenzie,Alaska,34.777336215288045
+Anchorage,Lazy Mountain,Alaska,35.358544600901496
+Anchorage,Houston,Alaska,39.54983351969299
+Anchorage,Sutton-Alpine,Alaska,41.84974821840579
+Anchorage,Buffalo Soapstone,Alaska,38.52002186424944
+Anchorage,Knik River,Alaska,22.39881368864215
+Anchorage,Whittier,Alaska,29.735499079150717
+Anchorage,Chickaloon,Alaska,50.80533060660991
+Anchorage,Cooper Landing,Alaska,51.73984205356433
+Anchorage,Moose Pass,Alaska,46.499782852592446
+Anchorage,Hope,Alaska,25.150178843077953
+Anchorage,Primrose,Alaska,55.92311462338543
+Anchorage,Crown Point,Alaska,50.80916094550017
+Anchorage,Sunrise,Alaska,22.8707938292711
+Anchorage,Susitna,Alaska,54.84743164970488
+Anchorage,Point Possession,Alaska,55.35650562071499
+Fairbanks,Badger,Alaska,8.1989340751435
+Fairbanks,College,Alaska,5.494449704687639
+Fairbanks,Steele Creek,Alaska,10.009938370046301
+Fairbanks,Chena Ridge,Alaska,11.642341470969692
+Fairbanks,Farmers Loop,Alaska,5.061321782973458
+Fairbanks,Eielson AFB,Alaska,20.789972360710536
+Fairbanks,Ester,Alaska,13.078586765907867
+Fairbanks,North Pole,Alaska,10.377736227423618
+Fairbanks,Goldstream,Alaska,12.485399402428138
+Fairbanks,Salcha,Alaska,30.800457119041447
+Fairbanks,Pleasant Valley,Alaska,22.511354199233548
+Fairbanks,Moose Creek,Alaska,16.730191109701217
+Fairbanks,Nenana,Alaska,47.19285089894067
+Fairbanks,South Van Horn,Alaska,4.299891423722063
+Fairbanks,Two Rivers,Alaska,17.04488062559149
+Fairbanks,Harding-Birch Lakes,Alaska,44.89926398866975
+Fairbanks,Fox,Alaska,9.75853380448624
+Fairbanks,Anderson,Alaska,57.79720375084021
+Fairbanks,Minto,Alaska,58.85583695213752
+Fairbanks,Livengood,Alaska,50.007523697560146
+Fairbanks,Four Mile Road,Alaska,46.355250080358495
+Juneau,Hoonah,Alaska,51.40070734517957
+Juneau,Gustavus,Alaska,57.197985408391276
+Juneau,Tenakee Springs,Alaska,59.21393991449456
+Juneau,Excursion Inlet,Alaska,43.54173806616199
+Juneau,Game Creek,Alaska,55.96763179802525
+Juneau,Whitestone Logging Camp,Alaska,52.84208024961114
+Badger,College,Alaska,13.656246167413109
+Badger,Steele Creek,Alaska,8.93276568265382
+Badger,Chena Ridge,Alaska,19.14415396310709
+Badger,Farmers Loop,Alaska,11.654503422004042
+Badger,Eielson AFB,Alaska,13.061559837894317
+Badger,Ester,Alaska,21.230813374486235
+Badger,North Pole,Alaska,3.4051081796392753
+Badger,Goldstream,Alaska,20.48200038655866
+Badger,Salcha,Alaska,23.75148252585541
+Badger,Pleasant Valley,Alaska,15.577253569183094
+Badger,Moose Creek,Alaska,8.933844963568708
+Badger,Nenana,Alaska,53.55757558078952
+Badger,South Van Horn,Alaska,11.757701709747169
+Badger,Two Rivers,Alaska,10.781316137420779
+Badger,Harding-Birch Lakes,Alaska,37.88305563283479
+Badger,Fox,Alaska,13.720118556460015
+Badger,Livengood,Alaska,55.922561775874314
+Badger,Four Mile Road,Alaska,53.1745725006315
+Knik-Fairview,North Lakes,Alaska,12.908551191185671
+Knik-Fairview,Tanaina,Alaska,12.25203478710708
+Knik-Fairview,Wasilla,Alaska,7.0973801545902315
+Knik-Fairview,Meadow Lakes,Alaska,9.005884837601489
+Knik-Fairview,South Lakes,Alaska,11.594977493750912
+Knik-Fairview,Gateway,Alaska,13.30878949613117
+Knik-Fairview,Palmer,Alaska,17.94965513111136
+Knik-Fairview,Fishhook,Alaska,18.926261292010114
+Knik-Fairview,Butte,Alaska,20.794323421968112
+Knik-Fairview,Big Lake,Alaska,11.538994480864899
+Knik-Fairview,Farm Loop,Alaska,17.627113005577037
+Knik-Fairview,Willow,Alaska,21.70465272738779
+Knik-Fairview,Point MacKenzie,Alaska,18.287247522224316
+Knik-Fairview,Lazy Mountain,Alaska,25.855477690913446
+Knik-Fairview,Houston,Alaska,9.436948912821606
+Knik-Fairview,Susitna North,Alaska,43.60566614116187
+Knik-Fairview,Sutton-Alpine,Alaska,30.142387744450396
+Knik-Fairview,Talkeetna,Alaska,55.87010141253277
+Knik-Fairview,Buffalo Soapstone,Alaska,21.888751115448496
+Knik-Fairview,Knik River,Alaska,23.72641905001345
+Knik-Fairview,Whittier,Alaska,59.840184453179326
+Knik-Fairview,Chickaloon,Alaska,44.93909133171017
+Knik-Fairview,Hope,Alaska,42.63985667093567
+Knik-Fairview,Skwentna,Alaska,59.738369007719285
+Knik-Fairview,Sunrise,Alaska,44.494565162254275
+Knik-Fairview,Beluga,Alaska,55.78864436314795
+Knik-Fairview,Susitna,Alaska,32.106688331462415
+Knik-Fairview,Point Possession,Alaska,53.89781812278872
+College,Steele Creek,Alaska,13.210655322530119
+College,Chena Ridge,Alaska,8.191294934389312
+College,Farmers Loop,Alaska,4.4943279001118235
+College,Eielson AFB,Alaska,26.254897488287863
+College,Ester,Alaska,7.960921422199542
+College,North Pole,Alaska,15.83978005094081
+College,Goldstream,Alaska,7.080883777983952
+College,Salcha,Alaska,36.06725271671179
+College,Pleasant Valley,Alaska,27.205843076735988
+College,Moose Creek,Alaska,22.212510601945503
+College,Nenana,Alaska,43.92136892231719
+College,South Van Horn,Alaska,4.311634511623942
+College,Two Rivers,Alaska,21.601492385106393
+College,Harding-Birch Lakes,Alaska,50.10568347344915
+College,Fox,Alaska,9.61680439888951
+College,Anderson,Alaska,55.618132222813905
+College,Minto,Alaska,53.39788393893582
+College,Livengood,Alaska,45.827385583539375
+College,Four Mile Road,Alaska,42.65122580707256
+North Lakes,Tanaina,Alaska,4.64063239370425
+North Lakes,Wasilla,Alaska,5.885650398435137
+North Lakes,Meadow Lakes,Alaska,9.874576229468161
+North Lakes,South Lakes,Alaska,2.20125338147872
+North Lakes,Gateway,Alaska,4.282849929394805
+North Lakes,Palmer,Alaska,6.646855522087004
+North Lakes,Fishhook,Alaska,7.163094984239614
+North Lakes,Butte,Alaska,11.106274169904433
+North Lakes,Big Lake,Alaska,22.757615711534932
+North Lakes,Farm Loop,Alaska,5.041376261923559
+North Lakes,Willow,Alaska,19.906825162265235
+North Lakes,Point MacKenzie,Alaska,31.195798410062228
+North Lakes,Lazy Mountain,Alaska,13.663141220554008
+North Lakes,Houston,Alaska,16.131848907662835
+North Lakes,Susitna North,Alaska,39.54327683162344
+North Lakes,Sutton-Alpine,Alaska,17.280666278224928
+North Lakes,Talkeetna,Alaska,51.64406109432202
+North Lakes,Buffalo Soapstone,Alaska,9.01193792205245
+North Lakes,Knik River,Alaska,17.06749116271563
+North Lakes,Trapper Creek,Alaska,59.99852201617581
+North Lakes,Chickaloon,Alaska,32.25245457833772
+North Lakes,Glacier View,Alaska,52.89503569302534
+North Lakes,Hope,Alaska,51.46613861892922
+North Lakes,Sunrise,Alaska,52.12489435139282
+North Lakes,Susitna,Alaska,43.29391439406742
+Tanaina,Wasilla,Alaska,5.732558964569775
+Tanaina,Meadow Lakes,Alaska,6.136082558306921
+Tanaina,South Lakes,Alaska,6.0701677322909315
+Tanaina,Gateway,Alaska,8.750927761642359
+Tanaina,Palmer,Alaska,11.087609024031648
+Tanaina,Fishhook,Alaska,6.91211121591009
+Tanaina,Butte,Alaska,15.683736813225826
+Tanaina,Big Lake,Alaska,20.182167357217413
+Tanaina,Farm Loop,Alaska,8.872653778471246
+Tanaina,Willow,Alaska,15.32835024567501
+Tanaina,Point MacKenzie,Alaska,30.04654535960129
+Tanaina,Lazy Mountain,Alaska,17.268255075920663
+Tanaina,Houston,Alaska,12.65550382937903
+Tanaina,Susitna North,Alaska,35.51998100763807
+Tanaina,Sutton-Alpine,Alaska,19.694289082003213
+Tanaina,Talkeetna,Alaska,47.725342602776614
+Tanaina,Buffalo Soapstone,Alaska,10.977277415375468
+Tanaina,Knik River,Alaska,21.695685994478023
+Tanaina,Trapper Creek,Alaska,55.63789803545877
+Tanaina,Chickaloon,Alaska,34.87663763554157
+Tanaina,Glacier View,Alaska,55.78215951611852
+Tanaina,Hope,Alaska,53.439169919914555
+Tanaina,Chase,Alaska,58.15083790090125
+Tanaina,Sunrise,Alaska,54.545274219312866
+Tanaina,Susitna,Alaska,40.21769549237253
+Wasilla,Meadow Lakes,Alaska,6.306306752271755
+Wasilla,South Lakes,Alaska,5.002663744875893
+Wasilla,Gateway,Alaska,7.438795841885378
+Wasilla,Palmer,Alaska,11.672364272288602
+Wasilla,Fishhook,Alaska,11.95854795186632
+Wasilla,Butte,Alaska,15.355963232110936
+Wasilla,Big Lake,Alaska,17.08853751066534
+Wasilla,Farm Loop,Alaska,10.800538884525276
+Wasilla,Willow,Alaska,19.033342081671705
+Wasilla,Point MacKenzie,Alaska,25.36044747241071
+Wasilla,Lazy Mountain,Alaska,19.300800440335756
+Wasilla,Houston,Alaska,11.352267023346014
+Wasilla,Susitna North,Alaska,40.272989997022
+Wasilla,Sutton-Alpine,Alaska,23.16625912883318
+Wasilla,Talkeetna,Alaska,52.557745609824046
+Wasilla,Buffalo Soapstone,Alaska,14.805886017364495
+Wasilla,Knik River,Alaska,19.90995009107454
+Wasilla,Trapper Creek,Alaska,59.66785478964865
+Wasilla,Chickaloon,Alaska,38.11229448606478
+Wasilla,Glacier View,Alaska,58.678530281485386
+Wasilla,Hope,Alaska,47.73765025283105
+Wasilla,Sunrise,Alaska,48.94659952021536
+Wasilla,Susitna,Alaska,37.76230892100511
+Meadow Lakes,South Lakes,Alaska,10.245366533904615
+Meadow Lakes,Gateway,Alaska,13.048640172741804
+Meadow Lakes,Palmer,Alaska,16.50368487414836
+Meadow Lakes,Fishhook,Alaska,12.715183949964533
+Meadow Lakes,Butte,Alaska,20.774738468574615
+Meadow Lakes,Big Lake,Alaska,14.302014318922572
+Meadow Lakes,Farm Loop,Alaska,14.71605259548526
+Meadow Lakes,Willow,Alaska,13.19480345092899
+Meadow Lakes,Point MacKenzie,Alaska,25.068436797134883
+Meadow Lakes,Lazy Mountain,Alaska,23.272836800750976
+Meadow Lakes,Houston,Alaska,6.519613715500806
+Meadow Lakes,Susitna North,Alaska,34.91802710220254
+Meadow Lakes,Sutton-Alpine,Alaska,25.81267423408034
+Meadow Lakes,Talkeetna,Alaska,47.21670418055948
+Meadow Lakes,Buffalo Soapstone,Alaska,17.09432435054527
+Meadow Lakes,Knik River,Alaska,25.968224081512993
+Meadow Lakes,Trapper Creek,Alaska,53.69527158020772
+Meadow Lakes,Chickaloon,Alaska,40.99556888005416
+Meadow Lakes,Hope,Alaska,51.634476778622656
+Meadow Lakes,Skwentna,Alaska,56.30509731391756
+Meadow Lakes,Chase,Alaska,58.082747776258906
+Meadow Lakes,Sunrise,Alaska,53.37569009263324
+Meadow Lakes,Susitna,Alaska,34.09288971775939
+Sitka,Kake,Alaska,55.87723439719442
+Sitka,Angoon,Alaska,34.002442123292816
+Sitka,Tenakee Springs,Alaska,38.403859779404044
+Sitka,Pelican,Alaska,59.91105115119346
+Sitka,Game Creek,Alaska,56.86595427205758
+Sitka,Whitestone Logging Camp,Alaska,57.27481754103135
+Kalifornsky,Kenai,Alaska,8.322004108289043
+Kalifornsky,Sterling,Alaska,14.923252890101724
+Kalifornsky,Homer,Alaska,55.77123612746124
+Kalifornsky,Nikiski,Alaska,18.972060332726873
+Kalifornsky,Soldotna,Alaska,5.407626224984323
+Kalifornsky,Ridgeway,Alaska,8.389564930412284
+Kalifornsky,Anchor Point,Alaska,49.68575743801195
+Kalifornsky,Fritz Creek,Alaska,48.19711383833837
+Kalifornsky,Cohoe,Alaska,12.384448652131535
+Kalifornsky,Diamond Ridge,Alaska,52.65336610373253
+Kalifornsky,Salamatof,Alaska,12.689518127273422
+Kalifornsky,Funny River,Alaska,14.57172835994453
+Kalifornsky,Ninilchik,Alaska,26.22383625831302
+Kalifornsky,Kachemak,Alaska,53.753252128678355
+Kalifornsky,Happy Valley,Alaska,39.192757274721856
+Kalifornsky,Fox River,Alaska,40.018846634266104
+Kalifornsky,Clam Gulch,Alaska,18.044911560960006
+Kalifornsky,Kasilof,Alaska,7.742567590996708
+Kalifornsky,Tyonek,Alaska,43.97784430401123
+Kalifornsky,Cooper Landing,Alaska,46.50006700166698
+Kalifornsky,Nikolaevsk,Alaska,44.567606065014935
+Kalifornsky,Moose Pass,Alaska,59.97303466979012
+Kalifornsky,Beluga,Alaska,51.600856099039376
+Kalifornsky,Point Possession,Alaska,37.512052747928436
+Ketchikan,Metlakatla,Alaska,16.899773553955384
+Ketchikan,Craig,Alaska,57.692408343168175
+Ketchikan,Klawock,Alaska,57.39683852507711
+Ketchikan,Thorne Bay,Alaska,40.1110966127758
+Ketchikan,Saxman,Alaska,3.8887652353660664
+Ketchikan,Hydaburg,Alaska,46.60946089860366
+Ketchikan,Hollis,Alaska,42.0162568818852
+Ketchikan,Kasaan,Alaska,32.39532385509112
+Ketchikan,Loring,Alaska,17.38816697050379
+Kenai,Sterling,Alaska,13.365427221444804
+Kenai,Nikiski,Alaska,10.67360257894632
+Kenai,Soldotna,Alaska,6.895018156270267
+Kenai,Ridgeway,Alaska,6.140071168646877
+Kenai,Anchor Point,Alaska,57.5224848780207
+Kenai,Fritz Creek,Alaska,56.50095460410505
+Kenai,Cohoe,Alaska,20.55160223126879
+Kenai,Salamatof,Alaska,5.450151932739474
+Kenai,Funny River,Alaska,15.139759535503375
+Kenai,Ninilchik,Alaska,34.34139219821048
+Kenai,Happy Valley,Alaska,47.028895585909595
+Kenai,Fox River,Alaska,48.243230424516
+Kenai,Clam Gulch,Alaska,25.934744859058966
+Kenai,Kasilof,Alaska,16.020593071353506
+Kenai,Tyonek,Alaska,35.705500756186524
+Kenai,Cooper Landing,Alaska,46.54926207960759
+Kenai,Nikolaevsk,Alaska,52.526168314713956
+Kenai,Moose Pass,Alaska,59.92705927972906
+Kenai,Hope,Alaska,57.73576403833384
+Kenai,Beluga,Alaska,43.282475025114856
+Kenai,Point Possession,Alaska,30.371612147595137
+Steele Creek,Chena Ridge,Alaska,21.0667816496963
+Steele Creek,Farmers Loop,Alaska,8.974565664608154
+Steele Creek,Eielson AFB,Alaska,20.270986542838717
+Steele Creek,Ester,Alaska,20.971156625388666
+Steele Creek,North Pole,Alaska,12.279237653955345
+Steele Creek,Goldstream,Alaska,18.011684527722203
+Steele Creek,Salcha,Alaska,31.425597247468875
+Steele Creek,Pleasant Valley,Alaska,14.93354105661833
+Steele Creek,Moose Creek,Alaska,16.419015256952363
+Steele Creek,Nenana,Alaska,56.89711677441014
+Steele Creek,South Van Horn,Alaska,14.194338225185078
+Steele Creek,Two Rivers,Alaska,9.385248156247695
+Steele Creek,Harding-Birch Lakes,Alaska,45.32678347067535
+Steele Creek,Fox,Alaska,7.014299807240152
+Steele Creek,Livengood,Alaska,48.44068111669523
+Steele Creek,Four Mile Road,Alaska,55.80034122918918
+South Lakes,Gateway,Alaska,2.837232086340822
+South Lakes,Palmer,Alaska,6.672093901931251
+South Lakes,Fishhook,Alaska,9.345116387130007
+South Lakes,Butte,Alaska,10.575047583126631
+South Lakes,Big Lake,Alaska,22.08454271636423
+South Lakes,Farm Loop,Alaska,6.044259806810861
+South Lakes,Willow,Alaska,21.361925875651334
+South Lakes,Point MacKenzie,Alaska,29.807883853864503
+South Lakes,Lazy Mountain,Alaska,14.35503903637777
+South Lakes,Houston,Alaska,16.09510297852003
+South Lakes,Susitna North,Alaska,41.44536635984388
+South Lakes,Sutton-Alpine,Alaska,18.607643657972858
+South Lakes,Talkeetna,Alaska,53.59408612020114
+South Lakes,Buffalo Soapstone,Alaska,10.725910221157978
+South Lakes,Knik River,Alaska,15.889015266464204
+South Lakes,Whittier,Alaska,59.89475390227678
+South Lakes,Chickaloon,Alaska,33.34532922135156
+South Lakes,Glacier View,Alaska,53.78125456182236
+South Lakes,Hope,Alaska,49.28709722561514
+South Lakes,Sunrise,Alaska,49.92446038765155
+South Lakes,Susitna,Alaska,42.76497198260491
+Bethel,Nunapitchuk,Alaska,23.37794639779234
+Bethel,Tuntutuliak,Alaska,41.50659527683026
+Bethel,Napakiak,Alaska,9.49230105015133
+Bethel,Napaskiak,Alaska,6.382529167806002
+Bethel,Kwethluk,Alaska,12.761214274372378
+Bethel,Eek,Alaska,40.7484915484092
+Bethel,Tuluksak,Alaska,35.66444230580818
+Bethel,Akiachak,Alaska,15.871594781644113
+Bethel,Kasigluk,Alaska,25.554057039789427
+Bethel,Akiak,Alaska,21.088632835653424
+Bethel,Oscarville,Alaska,4.477136314474988
+Bethel,Atmautluak,Alaska,17.379459811887635
+Sterling,Nikiski,Alaska,18.791086065070612
+Sterling,Soldotna,Alaska,9.584822576410946
+Sterling,Seward,Alaska,56.94432431752454
+Sterling,Ridgeway,Alaska,7.576968785407344
+Sterling,Fritz Creek,Alaska,57.3743504540283
+Sterling,Cohoe,Alaska,24.91487079447762
+Sterling,Bear Creek,Alaska,55.00532697707874
+Sterling,Salamatof,Alaska,18.033084893810873
+Sterling,Funny River,Alaska,3.782541116927142
+Sterling,Ninilchik,Alaska,37.834750661892365
+Sterling,Happy Valley,Alaska,51.367239796541
+Sterling,Fox River,Alaska,46.725198765965345
+Sterling,Clam Gulch,Alaska,30.950873071673527
+Sterling,Kasilof,Alaska,20.427368728320726
+Sterling,Tyonek,Alaska,40.93380763428078
+Sterling,Cooper Landing,Alaska,33.1868809073088
+Sterling,Nikolaevsk,Alaska,56.21394688533178
+Sterling,Moose Pass,Alaska,46.58271330878335
+Sterling,Hope,Alaska,46.67453753753948
+Sterling,Primrose,Alaska,52.616154033595876
+Sterling,Crown Point,Alaska,50.36019603530325
+Sterling,Sunrise,Alaska,50.9060139617845
+Sterling,Beluga,Alaska,46.323804072993575
+Sterling,Point Possession,Alaska,26.77875639310647
+Sterling,Lowell Point,Alaska,56.09772839427145
+Gateway,Palmer,Alaska,4.684353967269224
+Gateway,Fishhook,Alaska,10.622751394062048
+Gateway,Butte,Alaska,7.91756614547902
+Gateway,Big Lake,Alaska,24.298384641858156
+Gateway,Farm Loop,Alaska,5.372325606195502
+Gateway,Willow,Alaska,24.079264637947073
+Gateway,Point MacKenzie,Alaska,31.18503142810231
+Gateway,Lazy Mountain,Alaska,12.650568102970098
+Gateway,Houston,Alaska,18.741365247345097
+Gateway,Susitna North,Alaska,43.807807528649526
+Gateway,Sutton-Alpine,Alaska,17.629962962555915
+Gateway,Talkeetna,Alaska,55.88454844798938
+Gateway,Buffalo Soapstone,Alaska,10.649437217189123
+Gateway,Knik River,Alaska,13.0572314382984
+Gateway,Whittier,Alaska,57.67230740281802
+Gateway,Chickaloon,Alaska,31.90107731454517
+Gateway,Glacier View,Alaska,52.02952929922838
+Gateway,Hope,Alaska,48.508001512698435
+Gateway,Sunrise,Alaska,48.82734023015851
+Gateway,Susitna,Alaska,45.024966312447134
+Palmer,Fishhook,Alaska,9.789007214773518
+Palmer,Butte,Alaska,4.737866139561695
+Palmer,Big Lake,Alaska,28.73755958796832
+Palmer,Farm Loop,Alaska,2.9992708298269926
+Palmer,Willow,Alaska,25.86948288161618
+Palmer,Point MacKenzie,Alaska,35.867426405441286
+Palmer,Lazy Mountain,Alaska,7.967781690873858
+Palmer,Houston,Alaska,22.643698531085207
+Palmer,Susitna North,Alaska,44.10094837532716
+Palmer,Sutton-Alpine,Alaska,13.229009992436156
+Palmer,Talkeetna,Alaska,55.902587211522174
+Palmer,Buffalo Soapstone,Alaska,7.619161830599393
+Palmer,Knik River,Alaska,11.52177325687847
+Palmer,Whittier,Alaska,58.36290569087678
+Palmer,Chickaloon,Alaska,27.23509810303216
+Palmer,Glacier View,Alaska,47.35642220506333
+Palmer,Hope,Alaska,51.79064031813292
+Palmer,Sunrise,Alaska,51.698372719195945
+Palmer,Susitna,Alaska,49.43234977137585
+Homer,Soldotna,Alaska,59.82121601387055
+Homer,Anchor Point,Alaska,10.268153085504503
+Homer,Fritz Creek,Alaska,10.540152348292493
+Homer,Cohoe,Alaska,43.39742891351913
+Homer,Diamond Ridge,Alaska,3.568238839098185
+Homer,Ninilchik,Alaska,29.590335091767702
+Homer,Kachemak,Alaska,3.460527877102889
+Homer,Happy Valley,Alaska,18.271081375189155
+Homer,Fox River,Alaska,23.85495807544249
+Homer,Clam Gulch,Alaska,38.14260793025972
+Homer,Kasilof,Alaska,48.04761333958539
+Homer,Halibut Cove,Alaska,11.718678805405286
+Homer,Seldovia Village,Alaska,14.031868471532093
+Homer,Nikolaevsk,Alaska,12.466965310066907
+Homer,Seldovia,Alaska,16.148430978744877
+Homer,Nanwalek,Alaska,26.13913054360259
+Homer,Port Graham,Alaska,24.434102396290125
+Kodiak,Mill Bay,Alaska,2.2853301090215714
+Kodiak,Kodiak Station,Alaska,6.113498751139744
+Kodiak,Womens Bay,Alaska,10.617820858533035
+Kodiak,Old Harbor,Alaska,52.57433194389034
+Kodiak,Port Lions,Alaska,18.184962649742918
+Kodiak,Ouzinkie,Alaska,9.204526172581541
+Kodiak,Aleneva,Alaska,26.098294849725395
+Kodiak,Chiniak,Alaska,15.71707089860045
+Chena Ridge,Farmers Loop,Alaska,12.674789625681958
+Chena Ridge,Eielson AFB,Alaska,30.043067901517077
+Chena Ridge,Ester,Alaska,5.154896512141254
+Chena Ridge,North Pole,Alaska,20.18041269259325
+Chena Ridge,Goldstream,Alaska,9.71851359170849
+Chena Ridge,Salcha,Alaska,38.33360578398686
+Chena Ridge,Pleasant Valley,Alaska,34.12689007825475
+Chena Ridge,Moose Creek,Alaska,26.380231621892865
+Chena Ridge,Nenana,Alaska,35.84210229478689
+Chena Ridge,South Van Horn,Alaska,7.4642297071044075
+Chena Ridge,Two Rivers,Alaska,28.686666153735022
+Chena Ridge,Harding-Birch Lakes,Alaska,51.8219825534614
+Chena Ridge,Fox,Alaska,17.739404090629492
+Chena Ridge,Anderson,Alaska,47.4546338071517
+Chena Ridge,Minto,Alaska,49.53466713405938
+Chena Ridge,Ferry,Alaska,57.980317464585866
+Chena Ridge,Livengood,Alaska,48.91765317587313
+Chena Ridge,Four Mile Road,Alaska,34.78423096585311
+Fishhook,Butte,Alaska,14.307828567703247
+Fishhook,Big Lake,Alaska,26.97984828728541
+Fishhook,Farm Loop,Alaska,6.790623220521032
+Fishhook,Willow,Alaska,17.417350402620222
+Fishhook,Point MacKenzie,Alaska,36.925676534735715
+Fishhook,Lazy Mountain,Alaska,12.751684486459665
+Fishhook,Houston,Alaska,19.1214522253796
+Fishhook,Susitna North,Alaska,34.33611408859583
+Fishhook,Sutton-Alpine,Alaska,13.471436260417166
+Fishhook,Talkeetna,Alaska,46.11395651188341
+Fishhook,Buffalo Soapstone,Alaska,5.099254344531298
+Fishhook,Knik River,Alaska,21.287826389627803
+Fishhook,Trapper Creek,Alaska,55.523609637113516
+Fishhook,Chickaloon,Alaska,28.54973829329812
+Fishhook,Glacier View,Alaska,49.55111129682922
+Fishhook,Hope,Alaska,58.62877410722022
+Fishhook,Chase,Alaska,55.89143255819524
+Fishhook,Sunrise,Alaska,59.23922225003555
+Fishhook,Susitna,Alaska,46.6669242590744
+Utqiagvik,Atqasuk,Alaska,56.70048170030963
+Nikiski,Soldotna,Alaska,16.81462144036818
+Nikiski,Ridgeway,Alaska,14.510653698105022
+Nikiski,Point MacKenzie,Alaska,58.840883666661924
+Nikiski,Cohoe,Alaska,31.006414153828686
+Nikiski,Salamatof,Alaska,7.478427520319144
+Nikiski,Funny River,Alaska,21.98830019574607
+Nikiski,Ninilchik,Alaska,44.664261313730606
+Nikiski,Happy Valley,Alaska,56.96774655439642
+Nikiski,Fox River,Alaska,58.91012949097113
+Nikiski,Clam Gulch,Alaska,36.09750302705276
+Nikiski,Kasilof,Alaska,26.59978262371243
+Nikiski,Tyonek,Alaska,25.03525053678574
+Nikiski,Cooper Landing,Alaska,49.74015001151066
+Nikiski,Hope,Alaska,55.38090900962068
+Nikiski,Beluga,Alaska,32.732975551852846
+Nikiski,Susitna,Alaska,57.958782418900775
+Nikiski,Point Possession,Alaska,23.306301176412035
+Soldotna,Ridgeway,Alaska,3.3182835591984325
+Soldotna,Anchor Point,Alaska,54.23872792271857
+Soldotna,Fritz Creek,Alaska,51.74249313152883
+Soldotna,Cohoe,Alaska,16.83369506325088
+Soldotna,Diamond Ridge,Alaska,56.81797415188761
+Soldotna,Salamatof,Alaska,12.325273763216751
+Soldotna,Funny River,Alaska,9.770737936303343
+Soldotna,Ninilchik,Alaska,30.51609529135176
+Soldotna,Kachemak,Alaska,57.625097450297034
+Soldotna,Happy Valley,Alaska,43.78576507136442
+Soldotna,Fox River,Alaska,42.57354113533917
+Soldotna,Clam Gulch,Alaska,22.76541024127134
+Soldotna,Kasilof,Alaska,12.094053539598956
+Soldotna,Tyonek,Alaska,41.639481459113995
+Soldotna,Cooper Landing,Alaska,41.88804387761125
+Soldotna,Nikolaevsk,Alaska,48.99338060887414
+Soldotna,Moose Pass,Alaska,55.36556760878796
+Soldotna,Hope,Alaska,56.16145525924587
+Soldotna,Crown Point,Alaska,58.75787395932891
+Soldotna,Beluga,Alaska,48.61702036208784
+Soldotna,Point Possession,Alaska,32.83825856570229
+Unalaska,Akutan,Alaska,38.50171871598201
+Farmers Loop,Eielson AFB,Alaska,24.707542790150324
+Farmers Loop,Ester,Alaska,12.004278300000044
+Farmers Loop,North Pole,Alaska,14.517955811770998
+Farmers Loop,Goldstream,Alaska,9.3904088380124
+Farmers Loop,Salcha,Alaska,35.18502766632856
+Farmers Loop,Pleasant Valley,Alaska,23.502936373672963
+Farmers Loop,Moose Creek,Alaska,20.58091443965469
+Farmers Loop,Nenana,Alaska,48.40760446868313
+Farmers Loop,South Van Horn,Alaska,7.22109337215073
+Farmers Loop,Two Rivers,Alaska,17.86280629214416
+Farmers Loop,Harding-Birch Lakes,Alaska,49.32842119680732
+Farmers Loop,Fox,Alaska,5.404218100791521
+Farmers Loop,Minto,Alaska,56.219823371959436
+Farmers Loop,Livengood,Alaska,45.06534884818044
+Farmers Loop,Four Mile Road,Alaska,47.08841349415473
+Valdez,Cordova,Alaska,44.68047586774646
+Valdez,Tatitlek,Alaska,19.820800103997925
+Valdez,Tonsina,Alaska,51.15270662270472
+Butte,Big Lake,Alaska,32.06885328100376
+Butte,Farm Loop,Alaska,7.624396359961727
+Butte,Willow,Alaska,30.60182511519612
+Butte,Point MacKenzie,Alaska,37.955483019014146
+Butte,Lazy Mountain,Alaska,7.554401274066086
+Butte,Houston,Alaska,26.643079950566324
+Butte,Susitna North,Alaska,48.635571555170166
+Butte,Sutton-Alpine,Alaska,13.96714326036225
+Butte,Buffalo Soapstone,Alaska,11.166575702833503
+Butte,Knik River,Alaska,7.0861511570404385
+Butte,Whittier,Alaska,54.55485290004863
+Butte,Chickaloon,Alaska,26.092556863061194
+Butte,Glacier View,Alaska,45.28698710403139
+Butte,Hope,Alaska,50.42429529716946
+Butte,Sunrise,Alaska,49.82111463335129
+Butte,Susitna,Alaska,52.78898148729227
+Nome,Teller,Alaska,57.70907626154901
+Nome,Port Clarence,Alaska,57.32257145384236
+Mill Bay,Kodiak Station,Alaska,8.331491647020593
+Mill Bay,Womens Bay,Alaska,12.873540038055218
+Mill Bay,Old Harbor,Alaska,54.85957270692327
+Mill Bay,Port Lions,Alaska,19.159944861947793
+Mill Bay,Ouzinkie,Alaska,8.10356408374353
+Mill Bay,Aleneva,Alaska,26.01994459048912
+Mill Bay,Chiniak,Alaska,17.018409874300467
+Petersburg,Wrangell,Alaska,43.82692312787452
+Petersburg,Kake,Alaska,42.234755532723895
+Petersburg,Coffman Cove,Alaska,51.96956762965162
+Petersburg,Whale Pass,Alaska,46.083723054632664
+Petersburg,Port Protection,Alaska,40.425436596796885
+Petersburg,Kupreanof,Alaska,5.711811063843728
+Petersburg,Hobart Bay,Alaska,49.01817712761317
+Petersburg,Point Baker,Alaska,40.07456748542767
+Big Lake,Farm Loop,Alaska,27.78869237078225
+Big Lake,Willow,Alaska,21.31695627505755
+Big Lake,Point MacKenzie,Alaska,12.594948899197588
+Big Lake,Lazy Mountain,Alaska,36.366255620381736
+Big Lake,Houston,Alaska,8.421664823212236
+Big Lake,Susitna North,Alaska,41.85706068136964
+Big Lake,Sutton-Alpine,Alaska,39.75578058620091
+Big Lake,Talkeetna,Alaska,53.55797501100938
+Big Lake,Buffalo Soapstone,Alaska,31.08548488099943
+Big Lake,Knik River,Alaska,35.26313217817372
+Big Lake,Trapper Creek,Alaska,56.62724655065664
+Big Lake,Chickaloon,Alaska,54.89209796814067
+Big Lake,Tyonek,Alaska,55.10078961749486
+Big Lake,Hope,Alaska,45.29097573385316
+Big Lake,Skwentna,Alaska,49.3993810304714
+Big Lake,Sunrise,Alaska,48.43960008638388
+Big Lake,Beluga,Alaska,46.05140677696271
+Big Lake,Susitna,Alaska,20.72842058525114
+Big Lake,Point Possession,Alaska,48.13817472357485
+Kotzebue,Noorvik,Alaska,40.63559503312437
+Kotzebue,Noatak,Alaska,51.856139048545295
+Kotzebue,Kiana,Alaska,57.176644166079875
+Kotzebue,Deering,Alaska,56.071279114599776
+Eielson AFB,Ester,Alaska,33.21894662635355
+Eielson AFB,North Pole,Alaska,10.415500398776713
+Eielson AFB,Goldstream,Alaska,33.27391438654008
+Eielson AFB,Delta Junction,Alaska,58.82063785979555
+Eielson AFB,Salcha,Alaska,11.175866951278943
+Eielson AFB,Pleasant Valley,Alaska,15.407756247675737
+Eielson AFB,Moose Creek,Alaska,4.12775200240521
+Eielson AFB,Big Delta,Alaska,53.640224883277575
+Eielson AFB,South Van Horn,Alaska,23.404022609518996
+Eielson AFB,Two Rivers,Alaska,15.036943897856961
+Eielson AFB,Harding-Birch Lakes,Alaska,25.088284333552263
+Eielson AFB,Fox,Alaska,26.38459753355728
+Eielson AFB,Whitestone,Alaska,50.00181294086821
+Ester,North Pole,Alaska,22.945925030944526
+Ester,Goldstream,Alaska,5.390386929088831
+Ester,Salcha,Alaska,42.24645637577445
+Ester,Pleasant Valley,Alaska,35.166533998472076
+Ester,Moose Creek,Alaska,29.326360992399255
+Ester,Nenana,Alaska,37.129969642926234
+Ester,South Van Horn,Alaska,9.814924615200127
+Ester,Two Rivers,Alaska,29.55888803669379
+Ester,Harding-Birch Lakes,Alaska,55.9952883146433
+Ester,Fox,Alaska,16.115804977527638
+Ester,Anderson,Alaska,49.94009469958951
+Ester,Minto,Alaska,46.03818706684462
+Ester,Livengood,Alaska,43.79086340788871
+Ester,Four Mile Road,Alaska,35.43538771359836
+North Pole,Goldstream,Alaska,22.86312857080815
+North Pole,Salcha,Alaska,20.67107908622351
+North Pole,Pleasant Valley,Alaska,16.42540438455212
+North Pole,Moose Creek,Alaska,6.397863020507829
+North Pole,Nenana,Alaska,53.364034000309545
+North Pole,South Van Horn,Alaska,13.163811018787738
+North Pole,Two Rivers,Alaska,12.443321999616794
+North Pole,Harding-Birch Lakes,Alaska,34.816490002642325
+North Pole,Fox,Alaska,17.040854381672734
+North Pole,Livengood,Alaska,59.17005437187093
+North Pole,Four Mile Road,Alaska,53.281150660196296
+Goldstream,Salcha,Alaska,43.14628069754287
+Goldstream,Pleasant Valley,Alaska,32.813251014730824
+Goldstream,Moose Creek,Alaska,29.20300650666401
+Goldstream,Nenana,Alaska,42.042952493754214
+Goldstream,South Van Horn,Alaska,10.856017223270596
+Goldstream,Two Rivers,Alaska,27.179854079210116
+Goldstream,Harding-Birch Lakes,Alaska,57.173075811802306
+Goldstream,Fox,Alaska,12.063957767614859
+Goldstream,Anderson,Alaska,55.208331317958816
+Goldstream,Minto,Alaska,46.844138710077516
+Goldstream,Livengood,Alaska,39.77049557146318
+Goldstream,Four Mile Road,Alaska,40.06856345765685
+Seward,Bear Creek,Alaska,6.700506956220625
+Seward,Funny River,Alaska,54.32411915212193
+Seward,Fox River,Alaska,58.121277908545245
+Seward,Whittier,Alaska,53.125829409297125
+Seward,Cooper Landing,Alaska,30.613362070800207
+Seward,Moose Pass,Alaska,26.877251132170883
+Seward,Hope,Alaska,54.634315709570146
+Seward,Primrose,Alaska,16.6175481966183
+Seward,Crown Point,Alaska,21.8017331179353
+Seward,Chenega,Alaska,47.540711416628945
+Seward,Sunrise,Alaska,52.52126173691029
+Seward,Lowell Point,Alaska,4.802557149264758
+Ridgeway,Anchor Point,Alaska,57.555425694485606
+Ridgeway,Fritz Creek,Alaska,54.970317115630216
+Ridgeway,Cohoe,Alaska,20.145533803139692
+Ridgeway,Salamatof,Alaska,11.374121539879614
+Ridgeway,Funny River,Alaska,9.001202891017329
+Ridgeway,Ninilchik,Alaska,33.83354311352964
+Ridgeway,Happy Valley,Alaska,47.09992153862461
+Ridgeway,Fox River,Alaska,45.587530478660014
+Ridgeway,Clam Gulch,Alaska,26.060726685333158
+Ridgeway,Kasilof,Alaska,15.402545765588073
+Ridgeway,Tyonek,Alaska,38.96024825041622
+Ridgeway,Cooper Landing,Alaska,40.66563401120927
+Ridgeway,Nikolaevsk,Alaska,52.31161900854565
+Ridgeway,Moose Pass,Alaska,54.09575206123152
+Ridgeway,Hope,Alaska,53.5451420691244
+Ridgeway,Primrose,Alaska,59.82976305256649
+Ridgeway,Crown Point,Alaska,57.754552702568446
+Ridgeway,Sunrise,Alaska,57.997699145137965
+Ridgeway,Beluga,Alaska,45.663888980567094
+Ridgeway,Point Possession,Alaska,29.5200699163924
+Farm Loop,Willow,Alaska,23.140971354110814
+Farm Loop,Point MacKenzie,Alaska,35.85186632530467
+Farm Loop,Lazy Mountain,Alaska,8.62892693917518
+Farm Loop,Houston,Alaska,21.095372853437198
+Farm Loop,Susitna North,Alaska,41.10448247440722
+Farm Loop,Sutton-Alpine,Alaska,12.575366012655074
+Farm Loop,Talkeetna,Alaska,52.90457823341167
+Farm Loop,Buffalo Soapstone,Alaska,5.324696802121009
+Farm Loop,Knik River,Alaska,14.514723634816097
+Farm Loop,Chickaloon,Alaska,27.334293623794032
+Farm Loop,Glacier View,Alaska,47.88665027768998
+Farm Loop,Hope,Alaska,53.74411512288152
+Farm Loop,Sunrise,Alaska,53.89199979407341
+Farm Loop,Susitna,Alaska,48.33446904057529
+Cordova,Tatitlek,Alaska,43.76120756857942
+Anchor Point,Fritz Creek,Alaska,14.642228586046446
+Anchor Point,Cohoe,Alaska,37.421154657074794
+Anchor Point,Diamond Ridge,Alaska,7.056547482456327
+Anchor Point,Funny River,Alaska,59.027381370622024
+Anchor Point,Ninilchik,Alaska,23.82974341706452
+Anchor Point,Kachemak,Alaska,11.505104715173344
+Anchor Point,Happy Valley,Alaska,10.497786224972234
+Anchor Point,Fox River,Alaska,25.628408913614262
+Anchor Point,Clam Gulch,Alaska,31.646572224105316
+Anchor Point,Kasilof,Alaska,42.16810606243438
+Anchor Point,Halibut Cove,Alaska,21.47614323798756
+Anchor Point,Seldovia Village,Alaska,22.330312710421513
+Anchor Point,Nikolaevsk,Alaska,5.585532661705334
+Anchor Point,Seldovia,Alaska,22.893377733146174
+Anchor Point,Nanwalek,Alaska,31.306019565130278
+Anchor Point,Port Graham,Alaska,30.197279937898738
+Dillingham,Manokotak,Alaska,17.42269771564074
+Dillingham,New Stuyahok,Alaska,53.52835932000696
+Dillingham,Aleknagik,Alaska,17.440054321711013
+Dillingham,Ekwok,Alaska,42.433530784150335
+Dillingham,Clark's Point,Alaska,15.377451327954876
+Dillingham,Levelock,Alaska,58.36068668301718
+Dillingham,Portage Creek,Alaska,32.69965170043968
+Fritz Creek,Cohoe,Alaska,36.07524595860978
+Fritz Creek,Diamond Ridge,Alaska,9.80184838867673
+Fritz Creek,Funny River,Alaska,54.18408748911266
+Fritz Creek,Ninilchik,Alaska,22.91530909205182
+Fritz Creek,Kachemak,Alaska,7.204857525743952
+Fritz Creek,Happy Valley,Alaska,16.016553791620296
+Fritz Creek,Fox River,Alaska,13.321299868872574
+Fritz Creek,Clam Gulch,Alaska,31.572872624437164
+Fritz Creek,Kasilof,Alaska,40.48156114578842
+Fritz Creek,Halibut Cove,Alaska,12.125005127471624
+Fritz Creek,Seldovia Village,Alaska,22.945560300125305
+Fritz Creek,Nikolaevsk,Alaska,12.167434837695186
+Fritz Creek,Seldovia,Alaska,25.938403448372483
+Fritz Creek,Nanwalek,Alaska,36.208750036954186
+Fritz Creek,Port Graham,Alaska,34.326291542195094
+Wrangell,Thorne Bay,Alaska,50.193216179983814
+Wrangell,Coffman Cove,Alaska,38.77765845251275
+Wrangell,Naukati Bay,Alaska,55.19555813270115
+Wrangell,Whale Pass,Alaska,45.27733129417893
+Wrangell,Kasaan,Alaska,55.69478314524472
+Wrangell,Kupreanof,Alaska,49.53458934089235
+Wrangell,Loring,Alaska,52.32010637156642
+Kodiak Station,Womens Bay,Alaska,4.586505974682337
+Kodiak Station,Old Harbor,Alaska,46.72171761386321
+Kodiak Station,Port Lions,Alaska,15.168002752566908
+Kodiak Station,Ouzinkie,Alaska,12.593300392472552
+Kodiak Station,Larsen Bay,Alaska,56.047331768087766
+Kodiak Station,Aleneva,Alaska,25.55317078865055
+Kodiak Station,Chiniak,Alaska,15.315795830466051
+Deltana,Delta Junction,Alaska,19.800920979888193
+Deltana,Big Delta,Alaska,25.005754928153394
+Deltana,Harding-Birch Lakes,Alaska,54.30680869175882
+Deltana,Dry Creek,Alaska,24.660884926769302
+Deltana,Fort Greely,Alaska,16.593863766133108
+Deltana,Whitestone,Alaska,28.589456854532777
+Deltana,Healy Lake,Alaska,20.771803439437026
+Deltana,Dot Lake,Alaska,37.853183397225656
+Deltana,Dot Lake Village,Alaska,39.54016226061684
+Prudhoe Bay,Nuiqsut,Alaska,53.708395693218755
+Willow,Point MacKenzie,Alaska,33.87856874821572
+Willow,Lazy Mountain,Alaska,30.167855831678196
+Willow,Houston,Alaska,13.922426023226013
+Willow,Susitna North,Alaska,21.9089195821991
+Willow,Sutton-Alpine,Alaska,29.88483621750228
+Willow,Talkeetna,Alaska,34.16545141417195
+Willow,Buffalo Soapstone,Alaska,22.420482272586117
+Willow,Knik River,Alaska,36.957211066130846
+Willow,Trapper Creek,Alaska,40.635860207802914
+Willow,Chickaloon,Alaska,43.995539490601615
+Willow,Skwentna,Alaska,48.28972693752128
+Willow,Petersville,Alaska,54.945846170371745
+Willow,Chase,Alaska,45.17996253142498
+Willow,Susitna,Alaska,35.58625713101383
+Haines,Skagway,Alaska,15.94899507336127
+Haines,Gustavus,Alaska,57.32965474989193
+Haines,Mosquito Lake,Alaska,29.102618300752393
+Haines,Klukwan,Alaska,18.807501866889773
+Haines,Excursion Inlet,Alaska,55.878666150132055
+Haines,Mud Bay,Alaska,7.096174013588909
+Haines,Covenant Life,Alaska,25.14300955875954
+Haines,Lutak,Alaska,12.60018092930368
+Point MacKenzie,Lazy Mountain,Alaska,43.83510466245874
+Point MacKenzie,Houston,Alaska,20.423770410332803
+Point MacKenzie,Susitna North,Alaska,54.321770178378664
+Point MacKenzie,Sutton-Alpine,Alaska,48.40578056204557
+Point MacKenzie,Buffalo Soapstone,Alaska,40.16605581357577
+Point MacKenzie,Knik River,Alaska,38.96260569400674
+Point MacKenzie,Tyonek,Alaska,46.42753735933984
+Point MacKenzie,Cooper Landing,Alaska,59.70445128915234
+Point MacKenzie,Hope,Alaska,34.80770116188918
+Point MacKenzie,Skwentna,Alaska,55.13567621607965
+Point MacKenzie,Sunrise,Alaska,38.79955195226272
+Point MacKenzie,Beluga,Alaska,38.28156717037306
+Point MacKenzie,Susitna,Alaska,20.162144564989333
+Point MacKenzie,Point Possession,Alaska,36.17528380133226
+Lazy Mountain,Houston,Alaska,29.70136657197331
+Lazy Mountain,Susitna North,Alaska,45.461358426982
+Lazy Mountain,Sutton-Alpine,Alaska,6.496420523384346
+Lazy Mountain,Talkeetna,Alaska,56.571232425603476
+Lazy Mountain,Buffalo Soapstone,Alaska,7.825104133348433
+Lazy Mountain,Knik River,Alaska,13.2401461001606
+Lazy Mountain,Chickaloon,Alaska,19.289867467147932
+Lazy Mountain,Glacier View,Alaska,39.441618794041666
+Lazy Mountain,Hope,Alaska,57.97710853480449
+Lazy Mountain,Sunrise,Alaska,57.31286916939882
+Lazy Mountain,Susitna,Alaska,56.95424175848101
+Houston,Susitna North,Alaska,35.52112148052155
+Houston,Sutton-Alpine,Alaska,32.32432941574473
+Houston,Talkeetna,Alaska,47.61729704311703
+Houston,Buffalo Soapstone,Alaska,23.607540614469002
+Houston,Knik River,Alaska,31.157290553216455
+Houston,Trapper Creek,Alaska,52.41640091932547
+Houston,Chickaloon,Alaska,47.50574444717728
+Houston,Hope,Alaska,50.39786220591293
+Houston,Skwentna,Alaska,51.126536397790616
+Houston,Chase,Alaska,58.78816735597995
+Houston,Sunrise,Alaska,52.818123714153664
+Houston,Beluga,Alaska,54.13891462765945
+Houston,Susitna,Alaska,27.5853871565783
+Houston,Point Possession,Alaska,56.39953146647799
+Susitna North,Sutton-Alpine,Alaska,42.26102282599373
+Susitna North,Talkeetna,Alaska,12.302229847191292
+Susitna North,Buffalo Soapstone,Alaska,38.07103951754267
+Susitna North,Knik River,Alaska,55.61829409554896
+Susitna North,Trapper Creek,Alaska,21.81815745003522
+Susitna North,Chickaloon,Alaska,52.28991281415456
+Susitna North,Skwentna,Alaska,45.983942127750055
+Susitna North,Petersville,Alaska,37.763823837284576
+Susitna North,Chase,Alaska,23.286462874530926
+Susitna North,Susitna,Alaska,50.11908817705941
+Cohoe,Diamond Ridge,Alaska,40.26908459721105
+Cohoe,Salamatof,Alaska,24.068918352271858
+Cohoe,Funny River,Alaska,22.984764078639493
+Cohoe,Ninilchik,Alaska,13.839693000991675
+Cohoe,Kachemak,Alaska,41.430909812920135
+Cohoe,Happy Valley,Alaska,26.955776536660508
+Cohoe,Fox River,Alaska,29.13817520102275
+Cohoe,Clam Gulch,Alaska,6.038619290411465
+Cohoe,Kasilof,Alaska,4.747014241684737
+Cohoe,Tyonek,Alaska,55.77981118432936
+Cohoe,Cooper Landing,Alaska,51.88855280417046
+Cohoe,Halibut Cove,Alaska,48.06076098152836
+Cohoe,Seldovia Village,Alaska,57.42503912588873
+Cohoe,Nikolaevsk,Alaska,32.22901975657621
+Cohoe,Seldovia,Alaska,59.24874800847531
+Cohoe,Point Possession,Alaska,49.65123097753868
+Metlakatla,Thorne Bay,Alaska,53.619028341561005
+Metlakatla,Saxman,Alaska,14.203733885337266
+Metlakatla,Hydaburg,Alaska,49.95050272590403
+Metlakatla,Hollis,Alaska,52.333789173836806
+Metlakatla,Kasaan,Alaska,45.072166165927655
+Metlakatla,Loring,Alaska,33.89003381049883
+Diamond Ridge,Ninilchik,Alaska,26.431959843127974
+Diamond Ridge,Kachemak,Alaska,4.568587940053772
+Diamond Ridge,Happy Valley,Alaska,14.742093494495665
+Diamond Ridge,Fox River,Alaska,22.690435025450686
+Diamond Ridge,Clam Gulch,Alaska,34.896781093408485
+Diamond Ridge,Kasilof,Alaska,44.95341417876167
+Diamond Ridge,Halibut Cove,Alaska,14.431698511980807
+Diamond Ridge,Seldovia Village,Alaska,17.3104012577324
+Diamond Ridge,Nikolaevsk,Alaska,8.918846686867859
+Diamond Ridge,Seldovia,Alaska,19.004184639221872
+Diamond Ridge,Nanwalek,Alaska,28.648509991968155
+Diamond Ridge,Port Graham,Alaska,27.10470442368134
+Tok,Northway,Alaska,50.94374539651566
+Tok,Dry Creek,Alaska,53.59659801992791
+Tok,Tetlin,Alaska,21.089148151249326
+Tok,Mentasta Lake,Alaska,28.091727171182537
+Tok,Tanacross,Alaska,12.36360006453049
+Tok,Slana,Alaska,51.24092812569705
+Tok,Dot Lake,Alaska,39.3287609179916
+Tok,Dot Lake Village,Alaska,38.08834787658526
+Sutton-Alpine,Talkeetna,Alaska,52.714222355086704
+Sutton-Alpine,Buffalo Soapstone,Alaska,8.718614463090075
+Sutton-Alpine,Knik River,Alaska,19.643235936967475
+Sutton-Alpine,Chickaloon,Alaska,15.183135822845735
+Sutton-Alpine,Glacier View,Alaska,36.13121768094205
+Sutton-Alpine,Susitna,Alaska,59.90556230189027
+Sutton-Alpine,Eureka Roadhouse,Alaska,57.77742825384155
+Emmonak,Kotlik,Alaska,35.14355356586644
+Emmonak,Alakanuk,Alaska,6.984240260183523
+Emmonak,Mountain Village,Alaska,53.86736258993775
+Emmonak,Nunam Iqua,Alaska,22.0720288802929
+Bear Creek,Funny River,Alaska,52.72497517096215
+Bear Creek,Whittier,Alaska,46.740761718990335
+Bear Creek,Cooper Landing,Alaska,26.016090012646657
+Bear Creek,Moose Pass,Alaska,20.512319027472937
+Bear Creek,Hope,Alaska,48.41590667987752
+Bear Creek,Primrose,Alaska,9.935417677939997
+Bear Creek,Crown Point,Alaska,15.203299986162813
+Bear Creek,Chenega,Alaska,46.910672875931354
+Bear Creek,Sunrise,Alaska,46.070589747521566
+Bear Creek,Lowell Point,Alaska,11.05305287188229
+Kotlik,Alakanuk,Alaska,41.44208509131175
+Kotlik,Stebbins,Alaska,50.57661118101339
+Kotlik,St. Michael,Alaska,53.64852529590707
+Kotlik,Nunam Iqua,Alaska,55.86439726291176
+Salamatof,Funny River,Alaska,20.263701473430725
+Salamatof,Ninilchik,Alaska,37.52105834827681
+Salamatof,Happy Valley,Alaska,49.601848422594045
+Salamatof,Fox River,Alaska,52.59985803406717
+Salamatof,Clam Gulch,Alaska,28.883024240680275
+Salamatof,Kasilof,Alaska,19.91115731635942
+Salamatof,Tyonek,Alaska,31.715910986998775
+Salamatof,Cooper Landing,Alaska,50.970455808581626
+Salamatof,Nikolaevsk,Alaska,55.2592319592807
+Salamatof,Beluga,Alaska,39.89405388349447
+Salamatof,Point Possession,Alaska,30.05861425511591
+Skagway,Mosquito Lake,Alaska,30.051276220416675
+Skagway,Klukwan,Alaska,21.395853804910693
+Skagway,Mud Bay,Alaska,21.226730593128565
+Skagway,Covenant Life,Alaska,28.554088081826603
+Skagway,Lutak,Alaska,12.578234478915448
+Alakanuk,Mountain Village,Alaska,50.75417804093272
+Alakanuk,Nunam Iqua,Alaska,15.096151808145871
+Delta Junction,Salcha,Alaska,48.44284224453297
+Delta Junction,Big Delta,Alaska,6.232454466066437
+Delta Junction,Harding-Birch Lakes,Alaska,34.51284857177803
+Delta Junction,Dry Creek,Alaska,44.453099872573425
+Delta Junction,Fort Greely,Alaska,6.413342507428105
+Delta Junction,Whitestone,Alaska,8.818944625755583
+Delta Junction,Healy Lake,Alaska,32.639581920336454
+Delta Junction,Dot Lake,Alaska,57.49956559027944
+Delta Junction,Dot Lake Village,Alaska,58.51351358262349
+King Cove,Cold Bay,Alaska,19.84554919666667
+King Cove,False Pass,Alaska,45.081676673003656
+King Cove,Nelson Lagoon,Alaska,59.06889260911112
+Quinhagak,Tuntutuliak,Alaska,51.56100633542414
+Quinhagak,Kwigillingok,Alaska,45.204671686531974
+Quinhagak,Eek,Alaska,32.54504299503141
+Quinhagak,Kongiganak,Alaska,37.007437166787135
+Quinhagak,Goodnews Bay,Alaska,44.678782099661866
+Quinhagak,Platinum,Alaska,53.89475248229373
+Craig,Klawock,Alaska,4.564941870520817
+Craig,Thorne Bay,Alaska,25.798334136146828
+Craig,Hydaburg,Alaska,22.944991310340125
+Craig,Coffman Cove,Alaska,37.15912417495897
+Craig,Hollis,Alaska,16.320032691531726
+Craig,Naukati Bay,Alaska,27.05674326557199
+Craig,Whale Pass,Alaska,42.444444111453286
+Craig,Kasaan,Alaska,27.95285477576923
+Craig,Edna Bay,Alaska,39.0859647684945
+Craig,Loring,Alaska,58.42679910828027
+Funny River,Ninilchik,Alaska,35.32393503931589
+Funny River,Happy Valley,Alaska,48.8754586844085
+Funny River,Fox River,Alaska,43.25761556918308
+Funny River,Clam Gulch,Alaska,28.95528606317923
+Funny River,Kasilof,Alaska,18.78815699045243
+Funny River,Tyonek,Alaska,44.65329666829491
+Funny River,Cooper Landing,Alaska,32.11806827826041
+Funny River,Nikolaevsk,Alaska,53.54364027418815
+Funny River,Moose Pass,Alaska,45.596563888412646
+Funny River,Hope,Alaska,47.94721365527272
+Funny River,Primrose,Alaska,50.92717737976167
+Funny River,Crown Point,Alaska,49.01520576188716
+Funny River,Sunrise,Alaska,51.870840527114055
+Funny River,Beluga,Alaska,50.10628165923054
+Funny River,Point Possession,Alaska,30.29303343368632
+Funny River,Lowell Point,Alaska,53.25443093829951
+Womens Bay,Old Harbor,Alaska,42.14464536879917
+Womens Bay,Port Lions,Alaska,15.41339335256081
+Womens Bay,Ouzinkie,Alaska,16.741731521022277
+Womens Bay,Larsen Bay,Alaska,52.28997445104192
+Womens Bay,Aleneva,Alaska,27.180998012112397
+Womens Bay,Chiniak,Alaska,15.465761538718562
+Sand Point,Nelson Lagoon,Alaska,57.05940172741776
+Sand Point,Ivanof Bay,Alaska,56.5685976804188
+Talkeetna,Buffalo Soapstone,Alaska,49.4916471768127
+Talkeetna,Trapper Creek,Alaska,14.129116075171913
+Talkeetna,Skwentna,Alaska,47.87334872805305
+Talkeetna,Petersville,Alaska,29.701961134029958
+Talkeetna,Chase,Alaska,11.312418937329184
+Talkeetna,Susitna,Alaska,59.53612792557587
+St. Mary's,Mountain Village,Alaska,14.362875217749428
+St. Mary's,Pilot Station,Alaska,15.752253132451726
+St. Mary's,Pitkas Point,Alaska,2.416035690778409
+St. Mary's,Marshall,Alaska,42.3835554354608
+Ninilchik,Kachemak,Alaska,27.74989918382983
+Ninilchik,Happy Valley,Alaska,13.552494365534143
+Ninilchik,Fox River,Alaska,19.376508138512342
+Ninilchik,Clam Gulch,Alaska,8.694664959449325
+Ninilchik,Kasilof,Alaska,18.543532654037755
+Ninilchik,Halibut Cove,Alaska,35.03757380233622
+Ninilchik,Seldovia Village,Alaska,43.62218732080795
+Ninilchik,Nikolaevsk,Alaska,18.490742432302444
+Ninilchik,Seldovia,Alaska,45.409210577730455
+Ninilchik,Nanwalek,Alaska,54.71410964129703
+Ninilchik,Port Graham,Alaska,53.35293322741812
+Buffalo Soapstone,Knik River,Alaska,18.227754881281733
+Buffalo Soapstone,Trapper Creek,Alaska,59.57854647786253
+Buffalo Soapstone,Chickaloon,Alaska,23.901748672343473
+Buffalo Soapstone,Glacier View,Alaska,44.8335187784501
+Buffalo Soapstone,Hope,Alaska,59.067239750931506
+Buffalo Soapstone,Chase,Alaska,58.80485570546918
+Buffalo Soapstone,Sunrise,Alaska,59.17303395215885
+Buffalo Soapstone,Susitna,Alaska,51.18717071646778
+Toksook Bay,Kipnuk,Alaska,55.86631768150068
+Toksook Bay,Chefornak,Alaska,40.50907319920224
+Toksook Bay,Tununak,Alaska,3.626722408349916
+Toksook Bay,Mekoryuk,Alaska,39.64246191667307
+Toksook Bay,Newtok,Alaska,32.823199945555444
+Toksook Bay,Nightmute,Alaska,11.908708402165065
+Toksook Bay,Mertarvik,Alaska,29.45096635021983
+Hoonah,Gustavus,Alaska,24.846407293993632
+Hoonah,Angoon,Alaska,56.92181811564036
+Hoonah,Tenakee Springs,Alaska,23.732210402488818
+Hoonah,Excursion Inlet,Alaska,22.474892336891813
+Hoonah,Pelican,Alaska,30.996777347938487
+Hoonah,Elfin Cove,Alaska,28.23237542347385
+Hoonah,Game Creek,Alaska,4.959036994926334
+Hoonah,Whitestone Logging Camp,Alaska,3.1871051561830286
+Mountain Village,Pilot Station,Alaska,29.156488248082116
+Mountain Village,Pitkas Point,Alaska,15.17423725601912
+Mountain Village,Marshall,Alaska,56.48550656145157
+Mountain Village,Nunam Iqua,Alaska,47.85176714053142
+Healy,Denali Park,Alaska,26.268366424509065
+Healy,Nenana,Alaska,41.13269739841327
+Healy,Anderson,Alaska,25.436811471695666
+Healy,Cantwell,Alaska,39.708390136287626
+Healy,Ferry,Alaska,7.769893483410788
+Healy,Four Mile Road,Alaska,45.7707109365794
+Togiak,Manokotak,Alaska,57.128464367082266
+Togiak,Goodnews Bay,Alaska,39.46481862194706
+Togiak,Twin Hills,Alaska,6.830252223110377
+Togiak,Platinum,Alaska,44.90402333486639
+Nunapitchuk,Tuntutuliak,Alaska,34.9533522163036
+Nunapitchuk,Napakiak,Alaska,20.665965434530044
+Nunapitchuk,Napaskiak,Alaska,26.618276371072064
+Nunapitchuk,Kwethluk,Alaska,35.7981546164573
+Nunapitchuk,Eek,Alaska,48.025199521063946
+Nunapitchuk,Tuluksak,Alaska,53.243958803331864
+Nunapitchuk,Akiachak,Alaska,35.85889589251119
+Nunapitchuk,Kasigluk,Alaska,2.2191914614230774
+Nunapitchuk,Akiak,Alaska,42.192324929670136
+Nunapitchuk,Oscarville,Alaska,25.462822300957
+Nunapitchuk,Atmautluak,Alaska,6.02159719004918
+Savoonga,Gambell,Alaska,37.361822248265504
+Knik River,Whittier,Alaska,47.630875732533255
+Knik River,Chickaloon,Alaska,29.026390460288546
+Knik River,Glacier View,Alaska,46.23566446578842
+Knik River,Hope,Alaska,46.11706345893404
+Knik River,Sunrise,Alaska,44.86530709403664
+Knik River,Susitna,Alaska,55.662480608214416
+Tuntutuliak,Napakiak,Alaska,32.052143505503366
+Tuntutuliak,Kwigillingok,Alaska,38.96874582004229
+Tuntutuliak,Napaskiak,Alaska,38.36964769305669
+Tuntutuliak,Kipnuk,Alaska,56.7228098409782
+Tuntutuliak,Kwethluk,Alaska,51.83665973694028
+Tuntutuliak,Chefornak,Alaska,56.31562735172864
+Tuntutuliak,Eek,Alaska,25.197740887458927
+Tuntutuliak,Akiachak,Alaska,57.2552250168945
+Tuntutuliak,Kasigluk,Alaska,34.627939801680476
+Tuntutuliak,Kongiganak,Alaska,28.208348505524526
+Tuntutuliak,Oscarville,Alaska,39.15639416081639
+Tuntutuliak,Atmautluak,Alaska,35.750166848798216
+Denali Park,Anderson,Alaska,51.452123565544696
+Denali Park,Cantwell,Alaska,15.033439204431746
+Denali Park,Ferry,Alaska,32.414857479629724
+Klawock,Thorne Bay,Alaska,22.947138159195326
+Klawock,Hydaburg,Alaska,26.349876130429458
+Klawock,Coffman Cove,Alaska,32.597400070980925
+Klawock,Hollis,Alaska,15.393903975946113
+Klawock,Naukati Bay,Alaska,22.87444018681749
+Klawock,Whale Pass,Alaska,38.057743397542836
+Klawock,Kasaan,Alaska,26.397621587931383
+Klawock,Edna Bay,Alaska,36.18161757666679
+Klawock,Port Protection,Alaska,57.03481067384231
+Klawock,Loring,Alaska,56.78464392281713
+Klawock,Point Baker,Alaska,58.569507047908246
+Hooper Bay,Scammon Bay,Alaska,27.99372160830099
+Hooper Bay,Chevak,Alaska,17.209976288897064
+Kachemak,Happy Valley,Alaska,17.599605591229803
+Kachemak,Fox River,Alaska,20.518039036429116
+Kachemak,Clam Gulch,Alaska,36.40896967417832
+Kachemak,Kasilof,Alaska,46.011519145714736
+Kachemak,Halibut Cove,Alaska,10.027344990702536
+Kachemak,Seldovia Village,Alaska,16.261717214676313
+Kachemak,Nikolaevsk,Alaska,12.099971333884232
+Kachemak,Seldovia,Alaska,18.91105051366625
+Kachemak,Nanwalek,Alaska,29.101393997654284
+Kachemak,Port Graham,Alaska,27.283374973114217
+Kivalina,Noatak,Alaska,40.37384483375404
+Kivalina,Red Dog Mine,Alaska,48.91178813247524
+Happy Valley,Fox River,Alaska,21.370693972323675
+Happy Valley,Clam Gulch,Alaska,21.150637815543707
+Happy Valley,Kasilof,Alaska,31.701943419623213
+Happy Valley,Halibut Cove,Alaska,26.939888716974178
+Happy Valley,Seldovia Village,Alaska,31.897327654042066
+Happy Valley,Nikolaevsk,Alaska,5.841024701228562
+Happy Valley,Seldovia,Alaska,33.02051209890239
+Happy Valley,Nanwalek,Alaska,41.76780395648108
+Happy Valley,Port Graham,Alaska,40.58990183930519
+Unalakleet,Stebbins,Alaska,53.92294284678497
+Unalakleet,Shaktoolik,Alaska,34.492796951603026
+Unalakleet,St. Michael,Alaska,50.83952215320423
+Fox River,Clam Gulch,Alaska,26.506817165475404
+Fox River,Kasilof,Alaska,32.74985183799501
+Fox River,Cooper Landing,Alaska,58.72381347983935
+Fox River,Halibut Cove,Alaska,22.143345641496445
+Fox River,Seldovia Village,Alaska,35.66733979205846
+Fox River,Nikolaevsk,Alaska,21.03606804531111
+Fox River,Seldovia,Alaska,38.98883774119536
+Fox River,Nanwalek,Alaska,49.3228576659097
+Fox River,Port Graham,Alaska,47.353170101216236
+Fox River,Lowell Point,Alaska,53.99556654851905
+Gustavus,Tenakee Springs,Alaska,48.4784002556433
+Gustavus,Excursion Inlet,Alaska,13.656272227418139
+Gustavus,Mud Bay,Alaska,52.060935691226206
+Gustavus,Pelican,Alaska,36.751189832866764
+Gustavus,Elfin Cove,Alaska,26.31006858600761
+Gustavus,Game Creek,Alaska,27.222285701165724
+Gustavus,Whitestone Logging Camp,Alaska,27.755042337914738
+Napakiak,Napaskiak,Alaska,7.516115987315772
+Napakiak,Kwethluk,Alaska,20.572847804107372
+Napakiak,Eek,Alaska,32.99400156243075
+Napakiak,Tuluksak,Alaska,45.05631461379301
+Napakiak,Akiachak,Alaska,25.213892757599503
+Napakiak,Kasigluk,Alaska,22.505124408615192
+Napakiak,Kongiganak,Alaska,57.342645527342185
+Napakiak,Akiak,Alaska,29.96293118600147
+Napakiak,Oscarville,Alaska,7.540256426412667
+Napakiak,Atmautluak,Alaska,15.621305944689741
+Salcha,Pleasant Valley,Alaska,24.808145228951958
+Salcha,Moose Creek,Alaska,15.056688463255204
+Salcha,Big Delta,Alaska,43.59105603281478
+Salcha,South Van Horn,Alaska,32.62930234620477
+Salcha,Two Rivers,Alaska,25.767808546876616
+Salcha,Harding-Birch Lakes,Alaska,14.14574762782338
+Salcha,Fox,Alaska,37.36091311560596
+Salcha,Fort Greely,Alaska,52.7919643731964
+Salcha,Whitestone,Alaska,39.65253502888704
+Noorvik,Buckland,Alaska,59.01362064534774
+Noorvik,Selawik,Alaska,32.64014640716004
+Noorvik,Kiana,Alaska,19.197161756387114
+Stebbins,St. Michael,Alaska,3.9602753012310172
+Buckland,Selawik,Alaska,53.379514324611876
+Buckland,Deering,Alaska,45.82323225847879
+Manokotak,Aleknagik,Alaska,28.894013420483965
+Manokotak,Twin Hills,Alaska,50.71244137365392
+Manokotak,Ekwok,Alaska,59.625158890434655
+Manokotak,Clark's Point,Alaska,14.359090099621017
+Manokotak,Portage Creek,Alaska,44.46114364311682
+Galena,Nulato,Alaska,40.77906501195698
+Galena,Ruby,Alaska,40.36835253421399
+Galena,Koyukuk,Alaska,26.992416788263515
+Brevig Mission,Wales,Alaska,49.25204421943731
+Brevig Mission,Teller,Alaska,7.555551552739253
+Brevig Mission,Port Clarence,Alaska,17.831838571512215
+Pleasant Valley,Moose Creek,Alaska,14.233390022938817
+Pleasant Valley,South Van Horn,Alaska,26.67655616638418
+Pleasant Valley,Two Rivers,Alaska,5.640130675451546
+Pleasant Valley,Harding-Birch Lakes,Alaska,36.723267052426664
+Pleasant Valley,Fox,Alaska,21.780567412334438
+Pleasant Valley,Whitestone,Alaska,58.7680804717394
+New Stuyahok,Naknek,Alaska,49.68375927340696
+New Stuyahok,King Salmon,Alaska,56.98329281248008
+New Stuyahok,Koliganek,Alaska,15.37331986175877
+New Stuyahok,Aleknagik,Alaska,51.647865867350916
+New Stuyahok,Igiugig,Alaska,50.721448398375905
+New Stuyahok,South Naknek,Alaska,57.11965568476186
+New Stuyahok,Ekwok,Alaska,11.772440930190005
+New Stuyahok,Levelock,Alaska,31.13143594920944
+New Stuyahok,Portage Creek,Alaska,41.9724226662555
+Kwigillingok,Kipnuk,Alaska,31.231377992317896
+Kwigillingok,Chefornak,Alaska,42.20321044178012
+Kwigillingok,Eek,Alaska,45.89735211184154
+Kwigillingok,Kongiganak,Alaska,13.357680430802985
+Moose Creek,Big Delta,Alaska,57.76797505284486
+Moose Creek,Nenana,Alaska,58.39630958511398
+Moose Creek,South Van Horn,Alaska,19.525522634874438
+Moose Creek,Two Rivers,Alaska,12.442519078093543
+Moose Creek,Harding-Birch Lakes,Alaska,29.103020281673736
+Moose Creek,Fox,Alaska,22.33598910020103
+Moose Creek,Whitestone,Alaska,54.121873321873565
+Moose Creek,Four Mile Road,Alaska,58.62820681700215
+Napaskiak,Kwethluk,Alaska,13.503716962580787
+Napaskiak,Eek,Alaska,34.86424716951341
+Napaskiak,Tuluksak,Alaska,39.1111342947599
+Napaskiak,Akiachak,Alaska,19.446195959819214
+Napaskiak,Kasigluk,Alaska,28.652660241907014
+Napaskiak,Akiak,Alaska,23.355516594742422
+Napaskiak,Oscarville,Alaska,1.9075844118687582
+Napaskiak,Atmautluak,Alaska,20.933307059730343
+Kipnuk,Chefornak,Alaska,16.49178542867661
+Kipnuk,Tununak,Alaska,59.39704916488992
+Kipnuk,Kongiganak,Alaska,42.038920210868305
+Kipnuk,Nightmute,Alaska,46.17390319700692
+Kwethluk,Eek,Alaska,45.452796059150955
+Kwethluk,Tuluksak,Alaska,26.41945415532107
+Kwethluk,Akiachak,Alaska,8.540651051792873
+Kwethluk,Kasigluk,Alaska,38.00580871498179
+Kwethluk,Akiak,Alaska,10.149374297371583
+Kwethluk,Oscarville,Alaska,13.035998550040556
+Kwethluk,Atmautluak,Alaska,29.778967647572788
+Selawik,Kiana,Alaska,28.50641421915599
+Aniak,Tuluksak,Alaska,57.185468950532204
+Aniak,Holy Cross,Alaska,42.852788302209476
+Aniak,Lower Kalskag,Alaska,27.158164771728753
+Aniak,Upper Kalskag,Alaska,26.191407336393603
+Aniak,Chuathbaluk,Alaska,9.789325927447212
+Aniak,Crooked Creek,Alaska,50.592236148020746
+Big Delta,Harding-Birch Lakes,Alaska,30.003388317476787
+Big Delta,Dry Creek,Alaska,49.58540737797723
+Big Delta,Fort Greely,Alaska,12.55782221811442
+Big Delta,Whitestone,Alaska,4.871033313707901
+Big Delta,Healy Lake,Alaska,34.726930684509895
+Noatak,Red Dog Mine,Alaska,32.573341479045254
+Glennallen,Tazlina,Alaska,11.968894445585141
+Glennallen,Copper Center,Alaska,16.741727027595854
+Glennallen,Kenny Lake,Alaska,43.5907022503229
+Glennallen,Gakona,Alaska,22.91571319391744
+Glennallen,Nelchina,Alaska,35.00601500234548
+Glennallen,Willow Creek,Alaska,27.913445829548404
+Glennallen,Silver Springs,Alaska,15.315752712757543
+Glennallen,Mendeltna,Alaska,24.95178598439721
+Glennallen,Gulkana,Alaska,12.132141425253726
+Glennallen,Chistochina,Alaska,44.48914152553129
+Glennallen,Tolsona,Alaska,10.892963089110257
+Glennallen,Tonsina,Alaska,45.46380417869048
+Glennallen,Lake Louise,Alaska,30.321574061377007
+Glennallen,Eureka Roadhouse,Alaska,46.35470036570841
+Nenana,South Van Horn,Alaska,42.893015976964385
+Nenana,Fox,Alaska,53.12172872978528
+Nenana,Anderson,Alaska,16.141070830686377
+Nenana,Minto,Alaska,41.528018219794916
+Nenana,Ferry,Alaska,34.22231319220867
+Nenana,Manley Hot Springs,Alaska,56.84975976000765
+Nenana,Four Mile Road,Alaska,4.707671953868338
+Scammon Bay,Chevak,Alaska,21.642252725294682
+Scammon Bay,Nunam Iqua,Alaska,51.34011787643432
+Thorne Bay,Saxman,Alaska,43.996397288800054
+Thorne Bay,Hydaburg,Alaska,33.70740449738065
+Thorne Bay,Coffman Cove,Alaska,26.394439932949794
+Thorne Bay,Hollis,Alaska,12.52958216308724
+Thorne Bay,Naukati Bay,Alaska,29.908747678283408
+Thorne Bay,Whale Pass,Alaska,38.13678586600044
+Thorne Bay,Kasaan,Alaska,8.828308164180259
+Thorne Bay,Edna Bay,Alaska,48.718160673428166
+Thorne Bay,Loring,Alaska,35.189127840837486
+South Van Horn,Two Rivers,Alaska,21.27432084233062
+South Van Horn,Harding-Birch Lakes,Alaska,46.533867100889516
+South Van Horn,Fox,Alaska,12.605014563347105
+South Van Horn,Anderson,Alaska,53.628567772158135
+South Van Horn,Minto,Alaska,55.851304382462004
+South Van Horn,Livengood,Alaska,50.104265401405165
+South Van Horn,Four Mile Road,Alaska,42.07636649646184
+Fort Yukon,Venetie,Alaska,43.44393871917916
+Fort Yukon,Chalkyitsik,Alaska,40.44324933098323
+Fort Yukon,Beaver,Alaska,59.187649339956984
+Fort Yukon,Birch Creek,Alaska,27.772338782956723
+Chefornak,Tununak,Alaska,43.91675429630188
+Chefornak,Kongiganak,Alaska,49.853665377089165
+Chefornak,Newtok,Alaska,55.503550994043486
+Chefornak,Nightmute,Alaska,30.08743011749696
+Chefornak,Mertarvik,Alaska,46.17520137663752
+Eek,Akiachak,Alaska,53.310380578293945
+Eek,Kasigluk,Alaska,48.83763089650101
+Eek,Kongiganak,Alaska,32.57004135527152
+Eek,Akiak,Alaska,55.34322631701077
+Eek,Oscarville,Alaska,36.573553179993674
+Eek,Atmautluak,Alaska,45.53437316340825
+Kake,Angoon,Alaska,39.9000389435758
+Kake,Port Alexander,Alaska,58.33993596261343
+Kake,Port Protection,Alaska,46.17990920112454
+Kake,Kupreanof,Alaska,36.854108139190906
+Kake,Hobart Bay,Alaska,38.16129941479375
+Kake,Point Baker,Alaska,44.68704215347476
+Tuluksak,Akiachak,Alaska,19.846150294428814
+Tuluksak,Kasigluk,Alaska,55.33138731709233
+Tuluksak,Akiak,Alaska,16.363240500621373
+Tuluksak,Lower Kalskag,Alaska,34.665830599637275
+Tuluksak,Upper Kalskag,Alaska,36.518270045405174
+Tuluksak,Oscarville,Alaska,38.06558016574307
+Tuluksak,Russian Mission,Alaska,48.817534426173566
+Tuluksak,Atmautluak,Alaska,47.99666689243267
+Tununak,Mekoryuk,Alaska,38.97503679463798
+Tununak,Newtok,Alaska,31.243573133920087
+Tununak,Nightmute,Alaska,14.682876225138457
+Tununak,Mertarvik,Alaska,28.927693097319718
+Tazlina,Copper Center,Alaska,5.477141446289518
+Tazlina,Kenny Lake,Alaska,32.77311167299279
+Tazlina,Gakona,Alaska,21.984304203770222
+Tazlina,Nelchina,Alaska,44.882540474191394
+Tazlina,Willow Creek,Alaska,17.321602727036566
+Tazlina,Silver Springs,Alaska,3.47266888202153
+Tazlina,Mendeltna,Alaska,36.235055330490894
+Tazlina,Chitina,Alaska,52.11840555251439
+Tazlina,Gulkana,Alaska,11.215109384423366
+Tazlina,Chistochina,Alaska,42.34460194052003
+Tazlina,Tolsona,Alaska,21.406909264834653
+Tazlina,Tonsina,Alaska,36.16307968530373
+Tazlina,Lake Louise,Alaska,42.264954940563726
+Tazlina,Eureka Roadhouse,Alaska,56.189791471199236
+Chevak,Newtok,Alaska,52.11983474539066
+Two Rivers,Harding-Birch Lakes,Alaska,38.832910955441974
+Two Rivers,Fox,Alaska,16.335011579280188
+Two Rivers,Livengood,Alaska,56.290774685538196
+Angoon,Tenakee Springs,Alaska,34.82045913892728
+Angoon,Game Creek,Alaska,55.8777165429873
+Angoon,Hobart Bay,Alaska,43.8983668887137
+Angoon,Whitestone Logging Camp,Alaska,54.331879464006626
+Naknek,King Salmon,Alaska,14.20987118341191
+Naknek,Igiugig,Alaska,51.28773347580283
+Naknek,South Naknek,Alaska,9.03546958559102
+Naknek,Ekwok,Alaska,44.18249938169809
+Naknek,Egegik,Alaska,43.3038315742653
+Naknek,Clark's Point,Alaska,58.66478355297222
+Naknek,Levelock,Alaska,19.63052466007176
+Naknek,Portage Creek,Alaska,28.96827362049203
+Akiachak,Kasigluk,Alaska,38.05939887091623
+Akiachak,Akiak,Alaska,6.484526880787038
+Akiachak,Lower Kalskag,Alaska,54.03543076571626
+Akiachak,Upper Kalskag,Alaska,55.838300446835454
+Akiachak,Oscarville,Alaska,18.27920734128
+Akiachak,Russian Mission,Alaska,59.671467617456756
+Akiachak,Atmautluak,Alaska,30.088381371907726
+Kasigluk,Akiak,Alaska,44.40139166081521
+Kasigluk,Oscarville,Alaska,27.544243124198058
+Kasigluk,Atmautluak,Alaska,8.226897951424766
+King Salmon,Igiugig,Alaska,44.406267066149645
+King Salmon,South Naknek,Alaska,18.518372785112604
+King Salmon,Ekwok,Alaska,53.91888039260051
+King Salmon,Egegik,Alaska,49.28176183657603
+King Salmon,Levelock,Alaska,26.002226410990435
+King Salmon,Portage Creek,Alaska,43.07630970306948
+Pilot Station,Pitkas Point,Alaska,14.175320213254176
+Pilot Station,Marshall,Alaska,27.629402391650054
+Pilot Station,Russian Mission,Alaska,51.12111243399198
+Whittier,Cooper Landing,Alaska,45.356983643113
+Whittier,Moose Pass,Alaska,33.6469258034943
+Whittier,Hope,Alaska,34.256393176221884
+Whittier,Primrose,Alaska,37.910904759332965
+Whittier,Crown Point,Alaska,34.5821589447397
+Whittier,Chenega,Alaska,53.589646944299744
+Whittier,Sunrise,Alaska,28.410623559367444
+Whittier,Lowell Point,Alaska,57.75542632876539
+Saxman,Hydaburg,Alaska,49.31969608680823
+Saxman,Hollis,Alaska,45.69234213603144
+Saxman,Kasaan,Alaska,36.23786816522142
+Saxman,Loring,Alaska,19.694838444743574
+St. Paul,St. George,Alaska,48.662646249460906
+Copper Center,Kenny Lake,Alaska,27.329392061626734
+Copper Center,Gakona,Alaska,26.223698732505003
+Copper Center,Nelchina,Alaska,47.450729555592225
+Copper Center,Willow Creek,Alaska,11.844934405516762
+Copper Center,Silver Springs,Alaska,2.4133843774097428
+Copper Center,Mendeltna,Alaska,39.88835621886332
+Copper Center,Chitina,Alaska,46.90846371048021
+Copper Center,Gulkana,Alaska,16.264128302759467
+Copper Center,Chistochina,Alaska,45.548595737927755
+Copper Center,Tolsona,Alaska,24.965691927515138
+Copper Center,Tonsina,Alaska,30.77179756587662
+Copper Center,Lake Louise,Alaska,46.994487301120614
+Copper Center,Eureka Roadhouse,Alaska,58.600031268703816
+Hydaburg,Coffman Cove,Alaska,55.32128503862873
+Hydaburg,Hollis,Alaska,21.623209192140777
+Hydaburg,Naukati Bay,Alaska,48.932205950036376
+Hydaburg,Kasaan,Alaska,29.105437627469584
+Hydaburg,Loring,Alaska,54.084085007415524
+Mekoryuk,Nightmute,Alaska,50.19424063401661
+Shaktoolik,Koyuk,Alaska,40.50670922331526
+Shaktoolik,Elim,Alaska,36.98473643269385
+Shaktoolik,Golovin,Alaska,55.751284961825235
+Trapper Creek,Skwentna,Alaska,37.6185697207598
+Trapper Creek,Petersville,Alaska,16.096351578485717
+Trapper Creek,Chase,Alaska,17.79835524757671
+Trapper Creek,Susitna,Alaska,57.523781488490336
+Koyuk,Elim,Alaska,40.20182300354697
+Akiak,Lower Kalskag,Alaska,51.024189673469664
+Akiak,Upper Kalskag,Alaska,52.87961189352099
+Akiak,Oscarville,Alaska,22.58349151845716
+Akiak,Atmautluak,Alaska,36.35358059589287
+Wales,Teller,Alaska,55.87526572806297
+Wales,Diomede,Alaska,26.045425115136915
+Wales,Port Clarence,Alaska,51.36026256391406
+Elim,White Mountain,Alaska,34.321751889057666
+Elim,Golovin,Alaska,21.835000348291384
+Harding-Birch Lakes,Fox,Alaska,51.43890552275376
+Harding-Birch Lakes,Fort Greely,Alaska,38.674459980480336
+Harding-Birch Lakes,Whitestone,Alaska,25.798490516178315
+Chickaloon,Glacier View,Alaska,21.010170691253595
+Chickaloon,Nelchina,Alaska,53.94991653808701
+Chickaloon,Eureka Roadhouse,Alaska,42.59444937935772
+Clam Gulch,Kasilof,Alaska,10.691218200955594
+Clam Gulch,Cooper Landing,Alaska,57.04403019152251
+Clam Gulch,Halibut Cove,Alaska,43.6840823557191
+Clam Gulch,Seldovia Village,Alaska,52.16418098655558
+Clam Gulch,Nikolaevsk,Alaska,26.591944689009452
+Clam Gulch,Seldovia,Alaska,53.78855263193146
+Clam Gulch,Point Possession,Alaska,55.50878575048289
+Teller,Port Clarence,Alaska,15.850210455450213
+Kasilof,Tyonek,Alaska,51.52092180631615
+Kasilof,Cooper Landing,Alaska,48.86315525316521
+Kasilof,Halibut Cove,Alaska,52.37781591288855
+Kasilof,Nikolaevsk,Alaska,36.96735885770472
+Kasilof,Beluga,Alaska,59.29410156217414
+Kasilof,Point Possession,Alaska,44.90434125981259
+Ambler,Shungnak,Alaska,24.3763101001343
+Ambler,Kobuk,Alaska,28.70278263646764
+Holy Cross,Lower Kalskag,Alaska,49.62904756623183
+Holy Cross,Upper Kalskag,Alaska,47.73464657427492
+Holy Cross,Grayling,Alaska,50.22982886277649
+Holy Cross,Chuathbaluk,Alaska,46.31828570582069
+Holy Cross,Anvik,Alaska,34.749144544786645
+Holy Cross,Shageluk,Alaska,34.356038316627526
+Holy Cross,Russian Mission,Alaska,57.35930867236068
+Holy Cross,Flat,Alaska,59.98401612689752
+Coldfoot,Evansville,Alaska,42.062862370864245
+Coldfoot,Wiseman,Alaska,13.149909629920522
+Coldfoot,Bettles,Alaska,45.16433517573134
+Tyonek,Hope,Alaska,58.469129202441
+Tyonek,Skwentna,Alaska,59.55146668280228
+Tyonek,Beluga,Alaska,9.684291289643816
+Tyonek,Susitna,Alaska,38.08947863070435
+Tyonek,Point Possession,Alaska,24.029871287729616
+Lower Kalskag,Upper Kalskag,Alaska,1.895597730839881
+Lower Kalskag,Chuathbaluk,Alaska,36.79015449829053
+Lower Kalskag,Russian Mission,Alaska,37.77115539191738
+Upper Kalskag,Chuathbaluk,Alaska,35.902609030863985
+Upper Kalskag,Russian Mission,Alaska,37.580486361062846
+Northway,Tetlin,Alaska,30.178045520076434
+Northway,Alcan Border,Alaska,25.74426559249008
+Northway,Mentasta Lake,Alaska,59.93250465688813
+Northway,Nabesna,Alaska,57.40375522631879
+Nulato,Kaltag,Alaska,30.513582951876465
+Nulato,Koyukuk,Alaska,21.00665438204151
+Shungnak,Kobuk,Alaska,7.795141014137138
+Pitkas Point,Marshall,Alaska,41.31246662500753
+Koliganek,Aleknagik,Alaska,58.569924543378185
+Koliganek,Igiugig,Alaska,54.75611762058203
+Koliganek,Ekwok,Alaska,25.95722510037551
+Koliganek,Levelock,Alaska,45.01443944110258
+Koliganek,Portage Creek,Alaska,57.01045521357482
+McGrath,Nikolai,Alaska,37.683026531077815
+McGrath,Takotna,Alaska,16.65473701025373
+Cooper Landing,Moose Pass,Alaska,13.480787753035965
+Cooper Landing,Hope,Alaska,28.420743131129935
+Cooper Landing,Primrose,Alaska,20.461205083747146
+Cooper Landing,Crown Point,Alaska,17.33212461210171
+Cooper Landing,Sunrise,Alaska,28.928131004597024
+Cooper Landing,Point Possession,Alaska,41.31909891847443
+Cooper Landing,Lowell Point,Alaska,32.227516946514164
+Kenny Lake,Gakona,Alaska,49.95352547109735
+Kenny Lake,Willow Creek,Alaska,15.679046004429475
+Kenny Lake,Silver Springs,Alaska,29.38446539547273
+Kenny Lake,Chitina,Alaska,20.969528549102954
+Kenny Lake,Gulkana,Alaska,42.576721950621405
+Kenny Lake,Tolsona,Alaska,49.515016849305866
+Kenny Lake,Tonsina,Alaska,9.684819247326708
+Allakaket,Alatna,Alaska,5.907844487708709
+Allakaket,Hughes,Alaska,56.94631729777579
+Allakaket,Evansville,Alaska,41.84099078776042
+Allakaket,Bettles,Alaska,38.8537443370457
+Glacier View,Nelchina,Alaska,33.12656578666267
+Glacier View,Mendeltna,Alaska,44.86903412623384
+Glacier View,Tolsona,Alaska,57.22580935728581
+Glacier View,Lake Louise,Alaska,51.437551490948
+Glacier View,Eureka Roadhouse,Alaska,21.849046268963658
+Marshall,Russian Mission,Alaska,23.550476871071364
+Tanana,Manley Hot Springs,Alaska,42.95023330386146
+Halibut Cove,Seldovia Village,Alaska,15.225710099872018
+Halibut Cove,Nikolaevsk,Alaska,21.82916688755744
+Halibut Cove,Seldovia,Alaska,19.342212313438196
+Halibut Cove,Nanwalek,Alaska,29.366706909196385
+Halibut Cove,Port Graham,Alaska,27.123644182375443
+Grayling,Anvik,Alaska,17.346775035358736
+Grayling,Shageluk,Alaska,23.567827883619323
+Seldovia Village,Nikolaevsk,Alaska,26.063875617586795
+Seldovia Village,Seldovia,Alaska,4.351198972926687
+Seldovia Village,Nanwalek,Alaska,14.151655491090688
+Seldovia Village,Port Graham,Alaska,11.949646924924306
+Nikolaevsk,Seldovia,Alaska,27.28845971543629
+Nikolaevsk,Nanwalek,Alaska,36.28003386917368
+Nikolaevsk,Port Graham,Alaska,35.003219231053635
+Dry Creek,Mentasta Lake,Alaska,56.29573196622807
+Dry Creek,Fort Greely,Alaska,40.65777068989804
+Dry Creek,Tanacross,Alaska,41.8183633106126
+Dry Creek,Whitestone,Alaska,53.24979809657739
+Dry Creek,Healy Lake,Alaska,27.887132722464976
+Dry Creek,Dot Lake,Alaska,14.45956283459893
+Dry Creek,Dot Lake Village,Alaska,19.26859731074029
+Dry Creek,Paxson,Alaska,54.532928064504134
+Coffman Cove,Hollis,Alaska,34.61972972007176
+Coffman Cove,Naukati Bay,Alaska,16.448395600968446
+Coffman Cove,Whale Pass,Alaska,13.001819664729146
+Coffman Cove,Kasaan,Alaska,35.1917098080155
+Coffman Cove,Edna Bay,Alaska,32.19226451320603
+Coffman Cove,Port Protection,Alaska,36.73518832573345
+Coffman Cove,Kupreanof,Alaska,55.87432963688343
+Coffman Cove,Loring,Alaska,54.27189466008942
+Coffman Cove,Point Baker,Alaska,38.22254263509142
+Tetlin,Alcan Border,Alaska,54.183930192032776
+Tetlin,Mentasta Lake,Alaska,34.066326482926904
+Tetlin,Tanacross,Alaska,32.49245519263823
+Tetlin,Slana,Alaska,49.38677173015668
+Tetlin,Nabesna,Alaska,50.65614160474554
+Tetlin,Dot Lake Village,Alaska,59.17235097813608
+Moose Pass,Hope,Alaska,27.933791294040397
+Moose Pass,Primrose,Alaska,11.251364821240962
+Moose Pass,Crown Point,Alaska,5.978181975385856
+Moose Pass,Chenega,Alaska,57.158648260825686
+Moose Pass,Sunrise,Alaska,25.655145233624104
+Moose Pass,Point Possession,Alaska,51.33605120467204
+Moose Pass,Lowell Point,Alaska,30.277033954481087
+Kaltag,Koyukuk,Alaska,50.78451398596483
+Fox,Minto,Alaska,57.69208221097081
+Fox,Livengood,Alaska,42.24132801015657
+Fox,Four Mile Road,Alaska,51.547013656955045
+White Mountain,Golovin,Alaska,14.990094784529415
+Seldovia,Nanwalek,Alaska,10.350202717281196
+Seldovia,Port Graham,Alaska,8.387894589961032
+Alcan Border,Chisana,Alaska,49.43087989690129
+Anderson,Minto,Alaska,56.397924606598714
+Anderson,Ferry,Alaska,19.225205085981074
+Anderson,Four Mile Road,Alaska,20.606016055250876
+Nanwalek,Port Graham,Alaska,2.384650147369845
+Eareckson Station,Attu Station,Alaska,43.11516688363185
+Mentasta Lake,Tanacross,Alaska,25.46876014006431
+Mentasta Lake,Slana,Alaska,24.792105338324404
+Mentasta Lake,Chistochina,Alaska,49.315882346113305
+Mentasta Lake,Nabesna,Alaska,39.487101857858065
+Mentasta Lake,Dot Lake,Alaska,45.676652548184386
+Mentasta Lake,Dot Lake Village,Alaska,49.30632063459182
+Fort Greely,Whitestone,Alaska,14.060307612990437
+Fort Greely,Healy Lake,Alaska,33.15801385329998
+Fort Greely,Dot Lake,Alaska,54.31146040222267
+Fort Greely,Dot Lake Village,Alaska,56.12100742410647
+Port Alsworth,Kokhanok,Alaska,54.1702472033734
+Port Alsworth,Newhalen,Alaska,36.50113522643095
+Port Alsworth,Nondalton,Alaska,23.14346198520502
+Port Alsworth,Iliamna,Alaska,32.03991347076
+Port Alsworth,Pedro Bay,Alaska,27.304788376333814
+Port Alsworth,Pope-Vannoy Landing,Alaska,42.097790005290314
+Old Harbor,Port Lions,Alaska,48.59294416287011
+Old Harbor,Akhiok,Alaska,38.4455870780535
+Old Harbor,Ouzinkie,Alaska,58.31074589769554
+Old Harbor,Larsen Bay,Alaska,33.880665898989214
+Old Harbor,Karluk,Alaska,45.2026933957948
+Old Harbor,Chiniak,Alaska,46.51870978056783
+Gakona,Nelchina,Alaska,55.94788954737437
+Gakona,Willow Creek,Alaska,36.61263018403999
+Gakona,Silver Springs,Alaska,23.845518429432328
+Gakona,Mendeltna,Alaska,43.96543427136572
+Gakona,Slana,Alaska,57.49561403402008
+Gakona,Gulkana,Alaska,11.609913431970991
+Gakona,Chistochina,Alaska,21.594133581187876
+Gakona,Tolsona,Alaska,32.86138868256122
+Gakona,Tonsina,Alaska,55.72658463295354
+Gakona,Lake Louise,Alaska,42.558152290738676
+Gakona,Paxson,Alaska,47.39756456709255
+Mosquito Lake,Klukwan,Alaska,10.33348407170917
+Mosquito Lake,Mud Bay,Alaska,35.53492051740306
+Mosquito Lake,Covenant Life,Alaska,5.228639521461562
+Mosquito Lake,Lutak,Alaska,18.77403628986671
+Cold Bay,False Pass,Alaska,35.022633370093935
+Hollis,Naukati Bay,Alaska,32.061080831206276
+Hollis,Whale Pass,Alaska,44.26114321109988
+Hollis,Kasaan,Alaska,11.763513493094733
+Hollis,Edna Bay,Alaska,48.95106242970843
+Hollis,Loring,Alaska,42.14885041403152
+Tenakee Springs,Excursion Inlet,Alaska,45.050610664222674
+Tenakee Springs,Pelican,Alaska,39.4080541129626
+Tenakee Springs,Elfin Cove,Alaska,43.55614860701357
+Tenakee Springs,Game Creek,Alaska,21.593928170545844
+Tenakee Springs,Whitestone Logging Camp,Alaska,20.72898582041148
+Tanacross,Slana,Alaska,50.248041009450866
+Tanacross,Healy Lake,Alaska,59.621050766513676
+Tanacross,Dot Lake,Alaska,27.881070589207123
+Tanacross,Dot Lake Village,Alaska,28.08612955477063
+Nelchina,Willow Creek,Alaska,54.35220496831027
+Nelchina,Silver Springs,Alaska,47.3041111908902
+Nelchina,Mendeltna,Alaska,12.971554880189514
+Nelchina,Gulkana,Alaska,46.793472880985306
+Nelchina,Tolsona,Alaska,24.118920444426024
+Nelchina,Lake Louise,Alaska,24.85819169643572
+Nelchina,Eureka Roadhouse,Alaska,11.363698884845038
+Hope,Primrose,Alaska,39.074822684390675
+Hope,Crown Point,Alaska,33.63852103081
+Hope,Sunrise,Alaska,5.856323221389225
+Hope,Beluga,Alaska,55.22344001861767
+Hope,Susitna,Alaska,52.543863011865724
+Hope,Point Possession,Alaska,35.597763321943724
+Hope,Lowell Point,Alaska,57.643594265731366
+Port Lions,Ouzinkie,Alaska,15.312797219986301
+Port Lions,Larsen Bay,Alaska,47.92290002191699
+Port Lions,Karluk,Alaska,57.39978370885272
+Port Lions,Aleneva,Alaska,12.745298488199499
+Port Lions,Chiniak,Alaska,30.308569201067094
+Willow Creek,Silver Springs,Alaska,14.068086024822993
+Willow Creek,Mendeltna,Alaska,48.85640483399831
+Willow Creek,Chitina,Alaska,35.99602115694695
+Willow Creek,Gulkana,Alaska,27.77889804809594
+Willow Creek,Chistochina,Alaska,53.8717861849628
+Willow Creek,Tolsona,Alaska,34.33243320407871
+Willow Creek,Tonsina,Alaska,19.223600372667136
+Willow Creek,Lake Louise,Alaska,57.60237948467632
+Aleknagik,Twin Hills,Alaska,58.4706414059059
+Aleknagik,Ekwok,Alaska,42.73016610508876
+Aleknagik,Clark's Point,Alaska,32.47568682919152
+Aleknagik,Portage Creek,Alaska,45.21575563693242
+Naukati Bay,Whale Pass,Alaska,15.848741621754295
+Naukati Bay,Kasaan,Alaska,37.948911351824364
+Naukati Bay,Edna Bay,Alaska,19.047509885919887
+Naukati Bay,Port Protection,Alaska,34.62451266627956
+Naukati Bay,Point Baker,Alaska,36.186736904876945
+Goodnews Bay,Twin Hills,Alaska,46.1345109689673
+Goodnews Bay,Platinum,Alaska,11.514624077270529
+Cantwell,Ferry,Alaska,46.56098164890462
+Kokhanok,Newhalen,Alaska,22.188100478632656
+Kokhanok,Igiugig,Alaska,40.5924241544271
+Kokhanok,Nondalton,Alaska,38.65811201788046
+Kokhanok,Iliamna,Alaska,26.656246991809464
+Kokhanok,Pedro Bay,Alaska,33.4812532843357
+Kokhanok,Pope-Vannoy Landing,Alaska,14.279312376098774
+Minto,Rampart,Alaska,24.640723898266153
+Minto,Manley Hot Springs,Alaska,32.378204653925415
+Minto,Livengood,Alaska,42.17156979337431
+Minto,Four Mile Road,Alaska,36.84872569331691
+Venetie,Beaver,Alaska,51.26479951231462
+Venetie,Birch Creek,Alaska,53.921196637444574
+Silver Springs,Mendeltna,Alaska,39.175134696898134
+Silver Springs,Chitina,Alaska,48.646023263847404
+Silver Springs,Gulkana,Alaska,13.873519073963937
+Silver Springs,Chistochina,Alaska,43.380214828532345
+Silver Springs,Tolsona,Alaska,24.266789010990028
+Silver Springs,Tonsina,Alaska,33.10919468004893
+Silver Springs,Lake Louise,Alaska,45.63694237343315
+Silver Springs,Eureka Roadhouse,Alaska,58.5422716053665
+Central,Circle,Alaska,22.991244658408387
+Eagle,Eagle Village,Alaska,3.6165559843192816
+Eagle,Chicken,Alaska,51.61508445522906
+Akhiok,Larsen Bay,Alaska,41.94299639488349
+Akhiok,Karluk,Alaska,44.4461054309994
+Whale Pass,Kasaan,Alaska,46.94255939820933
+Whale Pass,Port Alexander,Alaska,59.686558951636876
+Whale Pass,Edna Bay,Alaska,23.154909875050834
+Whale Pass,Port Protection,Alaska,23.834070655975076
+Whale Pass,Kupreanof,Alaska,48.96433524350088
+Whale Pass,Point Baker,Alaska,25.34805043889362
+Newtok,Nightmute,Alaska,31.53066765645301
+Newtok,Mertarvik,Alaska,9.74068873280773
+Chuathbaluk,Crooked Creek,Alaska,41.873898118610114
+Newhalen,Igiugig,Alaska,45.07543536946981
+Newhalen,Nondalton,Alaska,16.940436939268107
+Newhalen,Iliamna,Alaska,4.849747964852988
+Newhalen,Pedro Bay,Alaska,27.027918999333917
+Newhalen,Pope-Vannoy Landing,Alaska,18.832389378552246
+Ouzinkie,Aleneva,Alaska,18.78927892826506
+Ouzinkie,Chiniak,Alaska,24.908199318243934
+Mendeltna,Gulkana,Alaska,35.836789489603916
+Mendeltna,Tolsona,Alaska,14.926976484591853
+Mendeltna,Lake Louise,Alaska,14.379817021894498
+Mendeltna,Eureka Roadhouse,Alaska,23.196108638436456
+Oscarville,Atmautluak,Alaska,19.66247700596506
+Beaver,Stevens Village,Alaska,55.10643004620301
+Beaver,Birch Creek,Alaska,41.21079193457386
+Nikolai,Takotna,Alaska,53.80104050313391
+Perryville,Chignik,Alaska,38.40766081870726
+Perryville,Chignik Lagoon,Alaska,36.14442473472194
+Perryville,Chignik Lake,Alaska,26.656638075041922
+Perryville,Ivanof Bay,Alaska,13.137803731111232
+Primrose,Crown Point,Alaska,5.4502180760281425
+Primrose,Chenega,Alaska,48.65111987324667
+Primrose,Sunrise,Alaska,36.37964130823001
+Primrose,Lowell Point,Alaska,20.70034242688371
+Kasaan,Edna Bay,Alaska,56.3860314527942
+Kasaan,Loring,Alaska,30.48564904849425
+Slana,Chistochina,Alaska,39.85611418751814
+Slana,Nabesna,Alaska,20.50372624878247
+Anvik,Shageluk,Alaska,20.758499499111316
+Sleetmute,Stony River,Alaska,20.25859286877685
+Sleetmute,Crooked Creek,Alaska,34.91165897673341
+Sleetmute,Red Devil,Alaska,11.135792124689395
+Pilot Point,Port Heiden,Alaska,54.952461653853824
+Pilot Point,Egegik,Alaska,46.769307997439434
+Pilot Point,Ugashik,Alaska,20.72453107336428
+Chitina,Tonsina,Alaska,25.43762700305546
+Chitina,McCarthy,Alaska,47.74911497047041
+Nightmute,Mertarvik,Alaska,24.914132997095923
+Igiugig,South Naknek,Alaska,59.71934705324186
+Igiugig,Ekwok,Alaska,57.10007577804626
+Igiugig,Nondalton,Alaska,58.12380738454256
+Igiugig,Levelock,Alaska,40.00578474588613
+Igiugig,Iliamna,Alaska,48.948856846138625
+Igiugig,Pope-Vannoy Landing,Alaska,52.80885536716589
+Gulkana,Chistochina,Alaska,33.038379802549336
+Gulkana,Tolsona,Alaska,22.846343658412707
+Gulkana,Tonsina,Alaska,46.940056788555644
+Gulkana,Lake Louise,Alaska,37.892069280457015
+Gulkana,Eureka Roadhouse,Alaska,58.079817092565264
+Gulkana,Paxson,Alaska,55.84437411075271
+Eagle Village,Chicken,Alaska,50.20683309118761
+Klukwan,Mud Bay,Alaska,25.392614066403677
+Klukwan,Covenant Life,Alaska,7.27202834319049
+Klukwan,Lutak,Alaska,9.079222589430758
+Shageluk,Flat,Alaska,51.13930224879649
+Port Heiden,Chignik,Alaska,45.038029540695774
+Port Heiden,Chignik Lagoon,Alaska,44.35758919209699
+Port Heiden,Chignik Lake,Alaska,47.63224043185314
+Skwentna,Petersville,Alaska,36.011457721226975
+Skwentna,Chase,Alaska,55.19447526346362
+Skwentna,Beluga,Alaska,51.58179454949942
+Skwentna,Susitna,Alaska,36.43418287651954
+Crown Point,Chenega,Alaska,51.92388099310831
+Crown Point,Sunrise,Alaska,30.945890903140885
+Crown Point,Point Possession,Alaska,56.91085362196035
+Crown Point,Lowell Point,Alaska,25.622479921600217
+Excursion Inlet,Mud Bay,Alaska,49.588829335887745
+Excursion Inlet,Pelican,Alaska,45.22504516905144
+Excursion Inlet,Elfin Cove,Alaska,36.719458811358734
+Excursion Inlet,Game Creek,Alaska,26.761824304092055
+Excursion Inlet,Whitestone Logging Camp,Alaska,25.638264202659318
+Mud Bay,Covenant Life,Alaska,31.220993450861222
+Mud Bay,Lutak,Alaska,19.695965190510258
+Chenega,Lowell Point,Alaska,50.882467703751374
+Pelican,Elfin Cove,Alaska,11.863226251743955
+Pelican,Game Creek,Alaska,26.93093925436708
+Pelican,Whitestone Logging Camp,Alaska,30.213746763008324
+Chignik,Chignik Lagoon,Alaska,3.364523672044047
+Chignik,Chignik Lake,Alaska,15.293311382621626
+Chignik,Ivanof Bay,Alaska,49.416475260023105
+South Naknek,Ekwok,Alaska,50.44299308127746
+South Naknek,Egegik,Alaska,34.28649812216943
+South Naknek,Clark's Point,Alaska,56.50995603440236
+South Naknek,Levelock,Alaska,28.18976366837401
+South Naknek,Portage Creek,Alaska,29.58472998117162
+Twin Hills,Platinum,Alaska,51.7341503434094
+Ekwok,Clark's Point,Alaska,51.36727965241449
+Ekwok,Levelock,Alaska,28.312058081376428
+Ekwok,Portage Creek,Alaska,31.20406047830471
+Larsen Bay,Karluk,Alaska,12.28243080422041
+Larsen Bay,Aleneva,Alaska,54.12305640816705
+Egegik,Clark's Point,Alaska,58.87606108275542
+Egegik,Portage Creek,Alaska,48.53442639182319
+Egegik,Ugashik,Alaska,45.78418164280689
+Circle,Birch Creek,Alaska,57.85285884039671
+Chistochina,Tolsona,Alaska,54.13154160184744
+Chistochina,Lake Louise,Alaska,59.44043669581151
+Chistochina,Nabesna,Alaska,57.465413540768765
+Chistochina,Paxson,Alaska,41.08211595317014
+Stony River,Crooked Creek,Alaska,49.97166049319191
+Stony River,Lime Village,Alaska,52.89584931163237
+Stony River,Red Devil,Alaska,24.959070064085534
+Rampart,Manley Hot Springs,Alaska,33.03744144611208
+Rampart,Livengood,Alaska,45.661423467938846
+Rampart,Stevens Village,Alaska,49.989630547088325
+Nondalton,Iliamna,Alaska,12.14495537790775
+Nondalton,Pedro Bay,Alaska,28.464591231580442
+Nondalton,Pope-Vannoy Landing,Alaska,31.35484913602454
+Port Alexander,Edna Bay,Alaska,42.51079015899979
+Port Alexander,Port Protection,Alaska,41.28750525668072
+Port Alexander,Point Baker,Alaska,40.6567945660307
+Chignik Lagoon,Chignik Lake,Alaska,12.05702724280789
+Chignik Lagoon,Ivanof Bay,Alaska,46.751047722397466
+Whitestone,Healy Lake,Alaska,39.53311402050404
+Petersville,Chase,Alaska,29.24118181841057
+Alatna,Hughes,Alaska,53.029771288188705
+Alatna,Evansville,Alaska,46.04944049915193
+Alatna,Bettles,Alaska,42.94700297827231
+Clark's Point,Portage Creek,Alaska,31.157719371962234
+Chignik Lake,Ivanof Bay,Alaska,35.74908699426552
+Tolsona,Tonsina,Alaska,49.39401589178684
+Tolsona,Lake Louise,Alaska,23.991826229505552
+Tolsona,Eureka Roadhouse,Alaska,35.47413851981855
+Levelock,Portage Creek,Alaska,29.694399935042348
+Crooked Creek,Red Devil,Alaska,25.439773467930316
+Crooked Creek,Flat,Alaska,41.44220907154644
+Iliamna,Pedro Bay,Alaska,25.747377329505824
+Iliamna,Pope-Vannoy Landing,Alaska,21.346556454878804
+Evansville,Wiseman,Alaska,49.78814794195106
+Evansville,Bettles,Alaska,3.2619610100860195
+Healy Lake,Dot Lake,Alaska,34.3022605105159
+Healy Lake,Dot Lake Village,Alaska,31.56980970795509
+Ferry,Four Mile Road,Alaska,38.91430393556149
+Covenant Life,Lutak,Alaska,16.35031120392268
+Edna Bay,Port Protection,Alaska,25.427103159761522
+Edna Bay,Point Baker,Alaska,26.657483120888685
+Wiseman,Bettles,Alaska,52.58065668729358
+Manley Hot Springs,Four Mile Road,Alaska,53.33311958032675
+Elfin Cove,Game Creek,Alaska,25.687456653409676
+Elfin Cove,Whitestone Logging Camp,Alaska,28.707731145458894
+Sunrise,Susitna,Alaska,57.29597101804327
+Sunrise,Point Possession,Alaska,41.3553885124361
+Sunrise,Lowell Point,Alaska,55.89016516310323
+Port Protection,Kupreanof,Alaska,40.44541177653363
+Port Protection,Point Baker,Alaska,1.573452686003787
+Livengood,Stevens Village,Alaska,42.115413103818746
+Pedro Bay,Pope-Vannoy Landing,Alaska,19.25766049233468
+Kupreanof,Hobart Bay,Alaska,44.19105881007406
+Kupreanof,Point Baker,Alaska,39.880751731749186
+Red Devil,Flat,Alaska,51.45281897246616
+Beluga,Susitna,Alaska,28.43894820719692
+Beluga,Point Possession,Alaska,24.245715172514075
+McCarthy,Chisana,Alaska,52.06561964764732
+Susitna,Point Possession,Alaska,39.64061462703875
+Lake Louise,Eureka Roadhouse,Alaska,31.9085883332935
+Lake Louise,Paxson,Alaska,53.7375695472412
+Game Creek,Whitestone Logging Camp,Alaska,3.283702859004575
+Nabesna,Chisana,Alaska,41.18442528115758
+Dot Lake,Dot Lake Village,Alaska,7.927908311810424
+Aleneva,Chiniak,Alaska,40.74185605268075

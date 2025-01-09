@@ -1,0 +1,2459 @@
+City 1,City 2,State,Distance
+Dover,Wilmington,Delaware,40.06341135261306
+Dover,Newark,Delaware,37.83472366309808
+Dover,Middletown,Delaware,22.28389882456417
+Dover,Bear,Delaware,32.73782865372805
+Dover,Glasgow,Delaware,32.73043664915792
+Dover,Brookside,Delaware,36.40050260899234
+Dover,Hockessin,Delaware,43.815600212850256
+Dover,Smyrna,Delaware,10.29038257783716
+Dover,Milford,Delaware,18.151111657954136
+Dover,Pike Creek Valley,Delaware,40.36040150280223
+Dover,Claymont,Delaware,44.41784206537224
+Dover,North Star,Delaware,42.53068685554737
+Dover,Wilmington Manor,Delaware,36.369422101030274
+Dover,Seaford,Delaware,35.32762847497517
+Dover,Georgetown,Delaware,33.31142548528863
+Dover,Pike Creek,Delaware,41.61429532772976
+Dover,Millsboro,Delaware,41.05556030583714
+Dover,Edgemoor,Delaware,40.963912133012094
+Dover,Elsmere,Delaware,40.0314509263329
+Dover,New Castle,Delaware,35.08331424129648
+Dover,Rising Sun-Lebanon,Delaware,4.289600798741931
+Dover,Clayton,Delaware,10.586019249766364
+Dover,Laurel,Delaware,40.91377539037898
+Dover,Camden,Delaware,4.71413736796036
+Dover,Highland Acres,Delaware,3.0844780513529377
+Dover,Harrington,Delaware,16.552567718510883
+Dover,Milton,Delaware,28.92880446357493
+Dover,Lewes,Delaware,33.2820290606921
+Dover,Dover Base Housing,Delaware,3.5673193608297846
+Dover,Long Neck,Delaware,42.21573747840063
+Dover,Selbyville,Delaware,50.9516217064078
+Dover,Greenville,Delaware,42.80377928233597
+Dover,Townsend,Delaware,18.754628069107625
+Dover,Ocean View,Delaware,48.77841566859037
+Dover,Bridgeville,Delaware,30.397122475918824
+Dover,Delmar,Delaware,48.04027021393479
+Dover,Riverview,Delaware,9.08505458126412
+Dover,Kent Acres,Delaware,1.985787144129324
+Dover,Millville,Delaware,48.03873014100352
+Dover,Woodside East,Delaware,6.5105300109060105
+Dover,Delaware City,Delaware,28.76257929364392
+Dover,Wyoming,Delaware,3.935493608774584
+Dover,Cheswold,Delaware,5.411022327520521
+Dover,Greenwood,Delaware,24.693329896382995
+Dover,Bellefonte,Delaware,41.80908038771827
+Dover,Lincoln,Delaware,20.87899875286345
+Dover,Rehoboth Beach,Delaware,38.57665572201371
+Dover,Dagsboro,Delaware,44.91736799099157
+Dover,St. Georges,Delaware,28.44814233162589
+Dover,Rodney Village,Delaware,2.48484787906804
+Dover,Newport,Delaware,38.38179385916006
+Dover,Felton,Delaware,10.668522588580746
+Dover,Bethany Beach,Delaware,49.40161762931552
+Dover,Frederica,Delaware,10.932630983212842
+Dover,Blades,Delaware,36.53280500598907
+Dover,Frankford,Delaware,46.7329819544188
+Dover,Arden,Delaware,44.90131982214368
+Dover,Ellendale,Delaware,24.73559090940101
+Dover,South Bethany,Delaware,50.97915888493628
+Dover,Houston,Delaware,16.826949307049066
+Dover,Kenton,Delaware,9.003598010950402
+Dover,Slaughter Beach,Delaware,20.422238975446064
+Dover,Odessa,Delaware,21.727680524453035
+Dover,Bethel,Delaware,41.0422918290814
+Dover,Dewey Beach,Delaware,40.06789355782484
+Dover,Fenwick Island,Delaware,54.47947923719328
+Dover,Bowers,Delaware,9.418321271737607
+Dover,Little Creek,Delaware,3.88671906837849
+Dover,Magnolia,Delaware,6.621580940029196
+Dover,Woodside,Delaware,6.706378723279547
+Dover,Farmington,Delaware,20.32845324341116
+Dover,Ardentown,Delaware,44.70505193304159
+Dover,Henlopen Acres,Delaware,38.098908233378495
+Dover,Ardencroft,Delaware,44.506512908407984
+Dover,Leipsic,Delaware,5.662328193343236
+Dover,Hartly,Delaware,10.333833956884384
+Dover,Port Penn,Delaware,24.767857747237965
+Dover,Viola,Delaware,8.600870434247915
+Wilmington,Newark,Delaware,12.325039083244974
+Wilmington,Middletown,Delaware,22.524751477286937
+Wilmington,Bear,Delaware,11.251836985878368
+Wilmington,Glasgow,Delaware,14.613661601963411
+Wilmington,Brookside,Delaware,10.599791969391095
+Wilmington,Hockessin,Delaware,7.997667032172218
+Wilmington,Smyrna,Delaware,31.11141722896512
+Wilmington,Milford,Delaware,57.77596821077318
+Wilmington,Pike Creek Valley,Delaware,8.420142355254317
+Wilmington,Claymont,Delaware,6.055499712292793
+Wilmington,North Star,Delaware,10.24089143311462
+Wilmington,Wilmington Manor,Delaware,4.482143929868949
+Wilmington,Pike Creek,Delaware,8.185287135241879
+Wilmington,Edgemoor,Delaware,2.060180181935914
+Wilmington,Elsmere,Delaware,2.8309770944845614
+Wilmington,New Castle,Delaware,5.280640287851234
+Wilmington,Rising Sun-Lebanon,Delaware,44.29906502014984
+Wilmington,Clayton,Delaware,31.906307434049456
+Wilmington,Camden,Delaware,44.33178636447847
+Wilmington,Highland Acres,Delaware,43.14389079214739
+Wilmington,Harrington,Delaware,56.39672764864189
+Wilmington,Dover Base Housing,Delaware,43.13850302276137
+Wilmington,Greenville,Delaware,4.194537283941985
+Wilmington,Townsend,Delaware,25.139192780799377
+Wilmington,Riverview,Delaware,49.14546813648453
+Wilmington,Kent Acres,Delaware,42.042298588925554
+Wilmington,Woodside East,Delaware,46.49058113400381
+Wilmington,Delaware City,Delaware,11.886293961948596
+Wilmington,Wyoming,Delaware,43.25614801447324
+Wilmington,Cheswold,Delaware,36.13885331842153
+Wilmington,Bellefonte,Delaware,2.896174086352317
+Wilmington,St. Georges,Delaware,13.785664094442408
+Wilmington,Rodney Village,Delaware,42.30295645239055
+Wilmington,Newport,Delaware,3.872347088923341
+Wilmington,Felton,Delaware,50.31192549802994
+Wilmington,Frederica,Delaware,50.75321296864549
+Wilmington,Arden,Delaware,5.587176508426202
+Wilmington,Houston,Delaware,56.88701237516853
+Wilmington,Kenton,Delaware,36.07087439375789
+Wilmington,Slaughter Beach,Delaware,58.36266477807782
+Wilmington,Odessa,Delaware,20.660502588058403
+Wilmington,Bowers,Delaware,47.590720644100486
+Wilmington,Little Creek,Delaware,40.0226502547055
+Wilmington,Magnolia,Delaware,46.36107020944825
+Wilmington,Woodside,Delaware,46.26973708258086
+Wilmington,Ardentown,Delaware,5.6285840422545945
+Wilmington,Ardencroft,Delaware,5.31556359444389
+Wilmington,Leipsic,Delaware,34.418638679505655
+Wilmington,Hartly,Delaware,40.58477458690399
+Wilmington,Port Penn,Delaware,15.63762305450461
+Wilmington,Viola,Delaware,48.220523374056405
+Newark,Middletown,Delaware,16.183367702605413
+Newark,Bear,Delaware,5.759918533329492
+Newark,Glasgow,Delaware,5.278762363261315
+Newark,Brookside,Delaware,2.3867130109388417
+Newark,Hockessin,Delaware,8.367435980766803
+Newark,Smyrna,Delaware,27.673986764961924
+Newark,Milford,Delaware,55.97207395563903
+Newark,Pike Creek Valley,Delaware,4.749362794604076
+Newark,Claymont,Delaware,18.03188445429641
+Newark,North Star,Delaware,5.497090016027674
+Newark,Wilmington Manor,Delaware,9.223453651795086
+Newark,Pike Creek,Delaware,5.937534361470477
+Newark,Edgemoor,Delaware,14.377510454934194
+Newark,Elsmere,Delaware,9.645535416856854
+Newark,New Castle,Delaware,10.039047058958284
+Newark,Rising Sun-Lebanon,Delaware,42.08353039561425
+Newark,Clayton,Delaware,27.852977068737378
+Newark,Camden,Delaware,41.33337347588787
+Newark,Highland Acres,Delaware,40.73040490607151
+Newark,Harrington,Delaware,52.92338316907014
+Newark,Dover Base Housing,Delaware,41.307657391272535
+Newark,Greenville,Delaware,10.69622800076768
+Newark,Townsend,Delaware,19.66477701997699
+Newark,Riverview,Delaware,46.495840033722416
+Newark,Kent Acres,Delaware,39.771992540748414
+Newark,Woodside East,Delaware,43.69916760172551
+Newark,Delaware City,Delaware,11.289305281196649
+Newark,Wyoming,Delaware,40.20518404806676
+Newark,Cheswold,Delaware,32.91594960378048
+Newark,Bellefonte,Delaware,15.127960800010202
+Newark,Lincoln,Delaware,58.66275924376951
+Newark,St. Georges,Delaware,9.862034933295083
+Newark,Rodney Village,Delaware,39.64981661636486
+Newark,Newport,Delaware,8.522153682273622
+Newark,Felton,Delaware,46.88324713770989
+Newark,Frederica,Delaware,48.743785243238605
+Newark,Arden,Delaware,17.04288128409418
+Newark,Houston,Delaware,54.17699101051583
+Newark,Kenton,Delaware,31.453787298965985
+Newark,Slaughter Beach,Delaware,57.84288874447087
+Newark,Odessa,Delaware,16.110422777389726
+Newark,Bowers,Delaware,46.65446996463741
+Newark,Little Creek,Delaware,38.99182531659957
+Newark,Magnolia,Delaware,44.45439203932055
+Newark,Woodside,Delaware,43.057856674106105
+Newark,Farmington,Delaware,56.536152063061415
+Newark,Ardentown,Delaware,17.276726404214536
+Newark,Ardencroft,Delaware,16.938969971660697
+Newark,Leipsic,Delaware,32.65773010379389
+Newark,Hartly,Delaware,35.218134177013866
+Newark,Port Penn,Delaware,14.548164469640506
+Newark,Viola,Delaware,44.90535468785428
+Middletown,Bear,Delaware,12.163148699826817
+Middletown,Glasgow,Delaware,10.907240216263109
+Middletown,Brookside,Delaware,15.28183292303484
+Middletown,Hockessin,Delaware,23.44897477371312
+Middletown,Smyrna,Delaware,11.996876830793257
+Middletown,Milford,Delaware,40.23145611971984
+Middletown,Pike Creek Valley,Delaware,19.6477237912984
+Middletown,Claymont,Delaware,28.27640188106238
+Middletown,North Star,Delaware,21.40115624055216
+Middletown,Wilmington Manor,Delaware,18.07514057420517
+Middletown,Seaford,Delaware,54.88319089062876
+Middletown,Georgetown,Delaware,55.08039354420573
+Middletown,Pike Creek,Delaware,20.995692561193025
+Middletown,Edgemoor,Delaware,24.161773311864025
+Middletown,Elsmere,Delaware,21.2909731091291
+Middletown,New Castle,Delaware,17.3166797594234
+Middletown,Rising Sun-Lebanon,Delaware,26.412274316080417
+Middletown,Clayton,Delaware,11.879629538071349
+Middletown,Camden,Delaware,25.385672095077773
+Middletown,Highland Acres,Delaware,25.00777060548977
+Middletown,Harrington,Delaware,36.78364107309445
+Middletown,Milton,Delaware,51.15856437439541
+Middletown,Lewes,Delaware,55.39752601544205
+Middletown,Dover Base Housing,Delaware,25.839684742022072
+Middletown,Greenville,Delaware,23.76100140050782
+Middletown,Townsend,Delaware,3.5645188718461687
+Middletown,Bridgeville,Delaware,50.04677729919965
+Middletown,Riverview,Delaware,30.582789244166605
+Middletown,Kent Acres,Delaware,24.13814010157269
+Middletown,Woodside East,Delaware,27.780157299489733
+Middletown,Delaware City,Delaware,11.111451107496736
+Middletown,Wyoming,Delaware,24.259420846083483
+Middletown,Cheswold,Delaware,17.084184865764215
+Middletown,Greenwood,Delaware,44.534342594506434
+Middletown,Bellefonte,Delaware,25.116304615928883
+Middletown,Lincoln,Delaware,42.84893545888291
+Middletown,St. Georges,Delaware,8.739794247675674
+Middletown,Rodney Village,Delaware,23.85568713917884
+Middletown,Newport,Delaware,19.492632341437947
+Middletown,Felton,Delaware,30.777168435205724
+Middletown,Frederica,Delaware,33.02448023624349
+Middletown,Blades,Delaware,56.201879980481
+Middletown,Arden,Delaware,28.09128461140092
+Middletown,Ellendale,Delaware,46.539878476389525
+Middletown,Houston,Delaware,38.17284518288052
+Middletown,Kenton,Delaware,15.284482428953035
+Middletown,Slaughter Beach,Delaware,42.65742161555533
+Middletown,Odessa,Delaware,3.1915504507956665
+Middletown,Bowers,Delaware,31.50329899601092
+Middletown,Little Creek,Delaware,24.09187769750805
+Middletown,Magnolia,Delaware,28.8634259328272
+Middletown,Woodside,Delaware,27.02844139615096
+Middletown,Farmington,Delaware,40.37177188335615
+Middletown,Ardentown,Delaware,28.08196509725502
+Middletown,Ardencroft,Delaware,27.78880615760004
+Middletown,Leipsic,Delaware,17.66903570853737
+Middletown,Hartly,Delaware,19.09089624213665
+Middletown,Port Penn,Delaware,8.854563554937414
+Middletown,Viola,Delaware,28.8348294949618
+Bear,Glasgow,Delaware,3.7460967517954
+Bear,Brookside,Delaware,3.761705379444067
+Bear,Hockessin,Delaware,11.36963937148717
+Bear,Smyrna,Delaware,22.78082605897464
+Bear,Milford,Delaware,50.884069596096325
+Bear,Pike Creek Valley,Delaware,7.684205758764219
+Bear,Claymont,Delaware,17.297724346181678
+Bear,North Star,Delaware,9.794634896925674
+Bear,Wilmington Manor,Delaware,6.888967701529949
+Bear,Pike Creek,Delaware,8.99370392581685
+Bear,Edgemoor,Delaware,13.179390941486368
+Bear,Elsmere,Delaware,9.438466624633682
+Bear,New Castle,Delaware,6.828943816961095
+Bear,Rising Sun-Lebanon,Delaware,37.018308717846566
+Bear,Clayton,Delaware,23.16266697643511
+Bear,Camden,Delaware,36.47252813814819
+Bear,Highland Acres,Delaware,35.705034964423994
+Bear,Harrington,Delaware,48.27931190271613
+Bear,Dover Base Housing,Delaware,36.14417640168469
+Bear,Greenville,Delaware,11.703481314938225
+Bear,Townsend,Delaware,15.339177649391166
+Bear,Riverview,Delaware,41.57421638282046
+Bear,Kent Acres,Delaware,34.70231994758618
+Bear,Woodside East,Delaware,38.79774629542647
+Bear,Delaware City,Delaware,5.58177549738243
+Bear,Wyoming,Delaware,35.35017716894094
+Bear,Cheswold,Delaware,28.036029396995453
+Bear,Greenwood,Delaware,56.20621164539198
+Bear,Bellefonte,Delaware,14.100736937270808
+Bear,Lincoln,Delaware,53.61608476481252
+Bear,St. Georges,Delaware,4.317356780115702
+Bear,Rodney Village,Delaware,34.67877469873385
+Bear,Newport,Delaware,7.687739035734462
+Bear,Felton,Delaware,42.19088471237827
+Bear,Frederica,Delaware,43.6704478607431
+Bear,Arden,Delaware,16.77037419666143
+Bear,Ellendale,Delaware,57.45165309384979
+Bear,Houston,Delaware,49.31390331605049
+Bear,Kenton,Delaware,27.022255974025207
+Bear,Slaughter Beach,Delaware,52.49209812001856
+Bear,Odessa,Delaware,11.25603957888888
+Bear,Bowers,Delaware,41.33479924836505
+Bear,Little Creek,Delaware,33.64177690141694
+Bear,Magnolia,Delaware,39.33060095635008
+Bear,Woodside,Delaware,38.27298666753991
+Bear,Farmington,Delaware,51.95730250717469
+Bear,Ardentown,Delaware,16.85783337439181
+Bear,Ardencroft,Delaware,16.53546086901051
+Bear,Leipsic,Delaware,27.39860239775053
+Bear,Hartly,Delaware,31.131300402373004
+Bear,Port Penn,Delaware,8.82358406571394
+Bear,Viola,Delaware,40.164945167338885
+Glasgow,Brookside,Delaware,4.800112398723318
+Glasgow,Hockessin,Delaware,13.05005297351249
+Glasgow,Smyrna,Delaware,22.511157898323223
+Glasgow,Milford,Delaware,50.83875844700863
+Glasgow,Pike Creek Valley,Delaware,9.193420684899722
+Glasgow,Claymont,Delaware,20.66168798835562
+Glasgow,North Star,Delaware,10.616968581680048
+Glasgow,Wilmington Manor,Delaware,10.433121173694396
+Glasgow,Pike Creek,Delaware,10.537765665234264
+Glasgow,Edgemoor,Delaware,16.611711395157503
+Glasgow,Elsmere,Delaware,12.469305062540116
+Glasgow,New Castle,Delaware,10.529103068272164
+Glasgow,Rising Sun-Lebanon,Delaware,36.95605609353476
+Glasgow,Clayton,Delaware,22.62972748622656
+Glasgow,Camden,Delaware,36.13131583553929
+Glasgow,Highland Acres,Delaware,35.58756901117307
+Glasgow,Harrington,Delaware,47.66686611697525
+Glasgow,Dover Base Housing,Delaware,36.231752911496415
+Glasgow,Greenville,Delaware,14.357021716251047
+Glasgow,Townsend,Delaware,14.403093946802738
+Glasgow,Riverview,Delaware,41.30687654068624
+Glasgow,Kent Acres,Delaware,34.65058588479769
+Glasgow,Woodside East,Delaware,38.50668932482948
+Glasgow,Delaware City,Delaware,8.410447805266204
+Glasgow,Wyoming,Delaware,35.002813552882344
+Glasgow,Cheswold,Delaware,27.733569093842068
+Glasgow,Greenwood,Delaware,55.44075426478883
+Glasgow,Bellefonte,Delaware,17.50325337986772
+Glasgow,Lincoln,Delaware,53.50940818783848
+Glasgow,St. Georges,Delaware,5.845623388356326
+Glasgow,Rodney Village,Delaware,34.48694234024514
+Glasgow,Newport,Delaware,10.844771267682058
+Glasgow,Felton,Delaware,41.63729210511906
+Glasgow,Frederica,Delaware,43.61094602319657
+Glasgow,Arden,Delaware,19.99353441005964
+Glasgow,Ellendale,Delaware,57.26236054114938
+Glasgow,Houston,Delaware,48.9645560198832
+Glasgow,Kenton,Delaware,26.18461269067945
+Glasgow,Slaughter Beach,Delaware,52.87082160683005
+Glasgow,Odessa,Delaware,11.025841093050486
+Glasgow,Bowers,Delaware,41.67316626480489
+Glasgow,Little Creek,Delaware,34.05281935912067
+Glasgow,Magnolia,Delaware,39.351607926873456
+Glasgow,Woodside,Delaware,37.8338937362394
+Glasgow,Farmington,Delaware,51.270401271948295
+Glasgow,Ardentown,Delaware,20.126677432521355
+Glasgow,Ardencroft,Delaware,19.79573232988936
+Glasgow,Leipsic,Delaware,27.667394810595887
+Glasgow,Hartly,Delaware,29.943250344208423
+Glasgow,Port Penn,Delaware,10.622309472136696
+Glasgow,Viola,Delaware,39.66995351620624
+Brookside,Hockessin,Delaware,8.282594509749067
+Brookside,Smyrna,Delaware,26.35934382545126
+Brookside,Milford,Delaware,54.551515266383085
+Brookside,Pike Creek Valley,Delaware,4.425574405084325
+Brookside,Claymont,Delaware,16.514043582362493
+Brookside,North Star,Delaware,6.179688268918202
+Brookside,Wilmington Manor,Delaware,7.072896682776737
+Brookside,Pike Creek,Delaware,5.77902514103597
+Brookside,Edgemoor,Delaware,12.657734879976289
+Brookside,Elsmere,Delaware,8.118513321295334
+Brookside,New Castle,Delaware,7.758538968037231
+Brookside,Rising Sun-Lebanon,Delaware,40.67308601351574
+Brookside,Clayton,Delaware,26.65891402912244
+Brookside,Camden,Delaware,40.05423908260684
+Brookside,Highland Acres,Delaware,39.34564780818355
+Brookside,Harrington,Delaware,51.78344180224381
+Brookside,Dover Base Housing,Delaware,39.82959201459168
+Brookside,Greenville,Delaware,9.689813335421537
+Brookside,Townsend,Delaware,18.639570847850347
+Brookside,Riverview,Delaware,45.18164297584816
+Brookside,Kent Acres,Delaware,38.35725871095238
+Brookside,Woodside East,Delaware,42.396191567980544
+Brookside,Delaware City,Delaware,9.092710721105302
+Brookside,Wyoming,Delaware,38.92880840248096
+Brookside,Cheswold,Delaware,31.61702795684285
+Brookside,Greenwood,Delaware,59.65778114072707
+Brookside,Bellefonte,Delaware,13.47429231674828
+Brookside,Lincoln,Delaware,57.27107755402614
+Brookside,St. Georges,Delaware,8.060162655644026
+Brookside,Rodney Village,Delaware,38.299711988634165
+Brookside,Newport,Delaware,6.727954549851304
+Brookside,Felton,Delaware,45.710824305706254
+Brookside,Frederica,Delaware,47.33088171564251
+Brookside,Arden,Delaware,15.6717462128723
+Brookside,Houston,Delaware,52.90359659429498
+Brookside,Kenton,Delaware,30.41290916342025
+Brookside,Slaughter Beach,Delaware,56.2295264174744
+Brookside,Odessa,Delaware,14.779103373409704
+Brookside,Bowers,Delaware,45.06366682647664
+Brookside,Little Creek,Delaware,37.375468765107335
+Brookside,Magnolia,Delaware,43.00527830115876
+Brookside,Woodside,Delaware,41.826830249435886
+Brookside,Farmington,Delaware,55.43663905790081
+Brookside,Ardentown,Delaware,15.857121534390147
+Brookside,Ardencroft,Delaware,15.520239714353302
+Brookside,Leipsic,Delaware,31.10696938463022
+Brookside,Hartly,Delaware,34.36954014958355
+Brookside,Port Penn,Delaware,12.559869546532504
+Brookside,Viola,Delaware,43.70267096112438
+Hockessin,Smyrna,Delaware,34.043318117631976
+Hockessin,Pike Creek Valley,Delaware,3.8590795381046266
+Hockessin,Claymont,Delaware,11.827911122440762
+Hockessin,North Star,Delaware,3.3863556972672124
+Hockessin,Wilmington Manor,Delaware,8.490878101072097
+Hockessin,Pike Creek,Delaware,2.512775973844788
+Hockessin,Edgemoor,Delaware,9.50849052863456
+Hockessin,Elsmere,Delaware,5.583643258384164
+Hockessin,New Castle,Delaware,9.953797502361503
+Hockessin,Rising Sun-Lebanon,Delaware,48.105194928525286
+Hockessin,Clayton,Delaware,34.4947894043745
+Hockessin,Camden,Delaware,47.7018366674969
+Hockessin,Highland Acres,Delaware,46.82954492311472
+Hockessin,Harrington,Delaware,59.58282394211548
+Hockessin,Dover Base Housing,Delaware,47.14091075703462
+Hockessin,Greenville,Delaware,4.112272894160981
+Hockessin,Townsend,Delaware,26.70052347415308
+Hockessin,Riverview,Delaware,52.75456740339953
+Hockessin,Kent Acres,Delaware,45.7947916156412
+Hockessin,Woodside East,Delaware,49.99782431131665
+Hockessin,Delaware City,Delaware,15.203839429867315
+Hockessin,Wyoming,Delaware,46.58555126571866
+Hockessin,Cheswold,Delaware,39.28206261296914
+Hockessin,Bellefonte,Delaware,9.827354342146457
+Hockessin,St. Georges,Delaware,15.475057803349245
+Hockessin,Rodney Village,Delaware,45.8466490242672
+Hockessin,Newport,Delaware,6.342544276970577
+Hockessin,Felton,Delaware,53.48470730584861
+Hockessin,Frederica,Delaware,54.727230498288
+Hockessin,Arden,Delaware,10.442048917752006
+Hockessin,Kenton,Delaware,38.38855470600023
+Hockessin,Odessa,Delaware,22.601052964842623
+Hockessin,Bowers,Delaware,52.104182066671626
+Hockessin,Little Creek,Delaware,44.40968858103473
+Hockessin,Magnolia,Delaware,50.35428607704732
+Hockessin,Woodside,Delaware,49.53564788563533
+Hockessin,Ardentown,Delaware,10.809762498967844
+Hockessin,Ardencroft,Delaware,10.50308459332977
+Hockessin,Leipsic,Delaware,38.34193327780064
+Hockessin,Hartly,Delaware,42.48702378881729
+Hockessin,Port Penn,Delaware,19.16939643597836
+Hockessin,Viola,Delaware,51.443240737293735
+Smyrna,Milford,Delaware,28.331534165555247
+Smyrna,Pike Creek Valley,Delaware,30.459051440104144
+Smyrna,Claymont,Delaware,36.03616464412894
+Smyrna,North Star,Delaware,32.528691934996225
+Smyrna,Wilmington Manor,Delaware,27.09274010617913
+Smyrna,Seaford,Delaware,44.12771208925644
+Smyrna,Georgetown,Delaware,43.3383438919828
+Smyrna,Pike Creek,Delaware,31.749992163464224
+Smyrna,Millsboro,Delaware,51.190692554691495
+Smyrna,Edgemoor,Delaware,32.275214974497395
+Smyrna,Elsmere,Delaware,30.70146838606512
+Smyrna,New Castle,Delaware,25.924989209420115
+Smyrna,Rising Sun-Lebanon,Delaware,14.460480826569128
+Smyrna,Clayton,Delaware,1.6289654933757531
+Smyrna,Laurel,Delaware,50.01491284003355
+Smyrna,Camden,Delaware,13.695996948186604
+Smyrna,Highland Acres,Delaware,13.07974713318089
+Smyrna,Harrington,Delaware,25.548608763601194
+Smyrna,Milton,Delaware,39.19840632533229
+Smyrna,Lewes,Delaware,43.44853202008592
+Smyrna,Dover Base Housing,Delaware,13.842999690657678
+Smyrna,Long Neck,Delaware,52.505373098048224
+Smyrna,Greenville,Delaware,33.42536132161269
+Smyrna,Townsend,Delaware,8.485502854495731
+Smyrna,Ocean View,Delaware,59.06830276457568
+Smyrna,Bridgeville,Delaware,39.21040797462297
+Smyrna,Delmar,Delaware,57.214764920260585
+Smyrna,Riverview,Delaware,18.829625669269547
+Smyrna,Kent Acres,Delaware,12.167271926258918
+Smyrna,Millville,Delaware,58.32756673488191
+Smyrna,Woodside East,Delaware,16.039123690383104
+Smyrna,Delaware City,Delaware,19.366387352368893
+Smyrna,Wyoming,Delaware,12.571731916386211
+Smyrna,Cheswold,Delaware,5.257966762570943
+Smyrna,Greenwood,Delaware,33.560589033424115
+Smyrna,Bellefonte,Delaware,33.177616027585835
+Smyrna,Lincoln,Delaware,30.99860788236825
+Smyrna,Rehoboth Beach,Delaware,48.736007423588525
+Smyrna,Dagsboro,Delaware,55.12635657624778
+Smyrna,St. Georges,Delaware,18.570124438949463
+Smyrna,Rodney Village,Delaware,11.977770223153238
+Smyrna,Newport,Delaware,28.975552280257304
+Smyrna,Felton,Delaware,19.445761497202152
+Smyrna,Bethany Beach,Delaware,59.68352693366787
+Smyrna,Frederica,Delaware,21.10594453622418
+Smyrna,Blades,Delaware,45.40467017498082
+Smyrna,Frankford,Delaware,56.94225116477311
+Smyrna,Arden,Delaware,36.29646520653331
+Smyrna,Ellendale,Delaware,34.76646867777126
+Smyrna,Houston,Delaware,26.544379878777143
+Smyrna,Kenton,Delaware,5.468916388439608
+Smyrna,Slaughter Beach,Delaware,30.66787791420495
+Smyrna,Odessa,Delaware,11.586891654697064
+Smyrna,Bethel,Delaware,49.83554320603946
+Smyrna,Dewey Beach,Delaware,50.24330745891307
+Smyrna,Bowers,Delaware,19.53742870831071
+Smyrna,Little Creek,Delaware,12.302820670979402
+Smyrna,Magnolia,Delaware,16.88774932040541
+Smyrna,Woodside,Delaware,15.496112060194074
+Smyrna,Farmington,Delaware,29.26354213682151
+Smyrna,Ardentown,Delaware,36.16109632128078
+Smyrna,Henlopen Acres,Delaware,48.24538460084226
+Smyrna,Ardencroft,Delaware,35.925731932031624
+Smyrna,Leipsic,Delaware,6.074492262891278
+Smyrna,Hartly,Delaware,10.285393595583844
+Smyrna,Port Penn,Delaware,15.480210995598132
+Smyrna,Viola,Delaware,17.399925313895935
+Milford,Pike Creek Valley,Delaware,58.49215857022172
+Milford,Wilmington Manor,Delaware,54.28166581893599
+Milford,Seaford,Delaware,20.33441855819256
+Milford,Georgetown,Delaware,15.2754534638995
+Milford,Pike Creek,Delaware,59.7361032289971
+Milford,Millsboro,Delaware,22.90654185068776
+Milford,Edgemoor,Delaware,58.50851073830199
+Milford,Elsmere,Delaware,57.946466659184296
+Milford,New Castle,Delaware,52.94946872343191
+Milford,Rising Sun-Lebanon,Delaware,13.88857069893434
+Milford,Clayton,Delaware,28.359186966490924
+Milford,Laurel,Delaware,24.74703457313545
+Milford,Camden,Delaware,14.964324082906048
+Milford,Highland Acres,Delaware,15.251923832704602
+Milford,Harrington,Delaware,8.044374357701916
+Milford,Milton,Delaware,11.063410623444618
+Milford,Lewes,Delaware,17.51289909694112
+Milford,Dover Base Housing,Delaware,14.766086733679414
+Milford,Long Neck,Delaware,24.66984449789308
+Milford,Selbyville,Delaware,32.82403847654868
+Milford,Townsend,Delaware,36.66983223046752
+Milford,Ocean View,Delaware,31.164172649415697
+Milford,Bridgeville,Delaware,15.989386013314926
+Milford,Delmar,Delaware,31.45409900159479
+Milford,Riverview,Delaware,9.814124937942836
+Milford,Kent Acres,Delaware,16.201241707642232
+Milford,Millville,Delaware,30.27641579505372
+Milford,Woodside East,Delaware,12.562126166457174
+Milford,Delaware City,Delaware,46.777204154140826
+Milford,Wyoming,Delaware,16.06740118824287
+Milford,Cheswold,Delaware,23.15009955367072
+Milford,Greenwood,Delaware,11.437946007247971
+Milford,Bellefonte,Delaware,59.30721706576683
+Milford,Lincoln,Delaware,2.83511909309351
+Milford,Rehoboth Beach,Delaware,22.54688200635896
+Milford,Dagsboro,Delaware,26.79515120921123
+Milford,St. Georges,Delaware,46.58809714420335
+Milford,Rodney Village,Delaware,16.377232859877683
+Milford,Newport,Delaware,56.34161559100623
+Milford,Felton,Delaware,10.93996594691581
+Milford,Bethany Beach,Delaware,31.982454620066623
+Milford,Frederica,Delaware,7.228633323039793
+Milford,Blades,Delaware,21.233466401982867
+Milford,Frankford,Delaware,28.61099544043707
+Milford,Ellendale,Delaware,6.823265366373027
+Milford,South Bethany,Delaware,33.49339785223695
+Milford,Houston,Delaware,4.413391553515465
+Milford,Kenton,Delaware,25.52118870320754
+Milford,Slaughter Beach,Delaware,6.141216834310953
+Milford,Odessa,Delaware,39.86165148736427
+Milford,Bethel,Delaware,25.624507314533496
+Milford,Dewey Beach,Delaware,23.85176967650591
+Milford,Fenwick Island,Delaware,36.8083125237124
+Milford,Bowers,Delaware,10.482536735514538
+Milford,Little Creek,Delaware,17.7672723319815
+Milford,Magnolia,Delaware,11.557582854026212
+Milford,Woodside,Delaware,13.63140926558486
+Milford,Farmington,Delaware,8.849493951887796
+Milford,Henlopen Acres,Delaware,22.189102894036463
+Milford,Leipsic,Delaware,23.56761204581852
+Milford,Hartly,Delaware,23.719184130510754
+Milford,Port Penn,Delaware,42.78169037375884
+Milford,Viola,Delaware,12.22223068451842
+Pike Creek Valley,Claymont,Delaware,13.666060338674605
+Pike Creek Valley,North Star,Delaware,2.5371621139448823
+Pike Creek Valley,Wilmington Manor,Delaware,6.778641144894939
+Pike Creek Valley,Pike Creek,Delaware,1.354441469570896
+Pike Creek Valley,Edgemoor,Delaware,10.373890940273697
+Pike Creek Valley,Elsmere,Delaware,5.59030339121361
+Pike Creek Valley,New Castle,Delaware,8.080594086065654
+Pike Creek Valley,Rising Sun-Lebanon,Delaware,44.64647776592563
+Pike Creek Valley,Clayton,Delaware,30.84530295347935
+Pike Creek Valley,Camden,Delaware,44.14623421227762
+Pike Creek Valley,Highland Acres,Delaware,43.346608587245846
+Pike Creek Valley,Harrington,Delaware,55.96349505298063
+Pike Creek Valley,Dover Base Housing,Delaware,43.73520936189893
+Pike Creek Valley,Greenville,Delaware,6.03811624833605
+Pike Creek Valley,Townsend,Delaware,22.946894067722425
+Pike Creek Valley,Riverview,Delaware,49.23578365575749
+Pike Creek Valley,Kent Acres,Delaware,42.33160076941233
+Pike Creek Valley,Woodside East,Delaware,46.46439313683942
+Pike Creek Valley,Delaware City,Delaware,12.09772822648549
+Pike Creek Valley,Wyoming,Delaware,43.02509659240494
+Pike Creek Valley,Cheswold,Delaware,35.71196532926699
+Pike Creek Valley,Bellefonte,Delaware,10.995459621027155
+Pike Creek Valley,St. Georges,Delaware,11.917806431713434
+Pike Creek Valley,Rodney Village,Delaware,42.33475763508016
+Pike Creek Valley,Newport,Delaware,5.142312141869384
+Pike Creek Valley,Felton,Delaware,49.87490116632252
+Pike Creek Valley,Frederica,Delaware,51.28955923746423
+Pike Creek Valley,Arden,Delaware,12.54418138777316
+Pike Creek Valley,Houston,Delaware,56.982407947045616
+Pike Creek Valley,Kenton,Delaware,34.68024251987119
+Pike Creek Valley,Slaughter Beach,Delaware,59.940363583595456
+Pike Creek Valley,Odessa,Delaware,18.93829730207696
+Pike Creek Valley,Bowers,Delaware,48.82446339992868
+Pike Creek Valley,Little Creek,Delaware,41.12357500691268
+Pike Creek Valley,Magnolia,Delaware,46.934673331801605
+Pike Creek Valley,Woodside,Delaware,45.95354256552601
+Pike Creek Valley,Farmington,Delaware,59.640175939875306
+Pike Creek Valley,Ardentown,Delaware,12.819352607106666
+Pike Creek Valley,Ardencroft,Delaware,12.48508272716687
+Pike Creek Valley,Leipsic,Delaware,34.958438221968656
+Pike Creek Valley,Hartly,Delaware,38.71542572410545
+Pike Creek Valley,Port Penn,Delaware,15.950577010157248
+Pike Creek Valley,Viola,Delaware,47.84771345849085
+Claymont,North Star,Delaware,14.876772270783771
+Claymont,Wilmington Manor,Delaware,10.457355558426228
+Claymont,Pike Creek,Delaware,13.025211337118504
+Claymont,Edgemoor,Delaware,4.15263896425019
+Claymont,Elsmere,Delaware,8.414473604345295
+Claymont,New Castle,Delaware,10.981016721667562
+Claymont,Rising Sun-Lebanon,Delaware,48.56883182748415
+Claymont,Clayton,Delaware,36.9703335848199
+Claymont,Camden,Delaware,48.85358796706792
+Claymont,Highland Acres,Delaware,47.4991417392601
+Claymont,Dover Base Housing,Delaware,47.29988437183081
+Claymont,Greenville,Delaware,7.853643489438918
+Claymont,Townsend,Delaware,30.68398549748608
+Claymont,Riverview,Delaware,53.48370600647026
+Claymont,Kent Acres,Delaware,46.37110464224569
+Claymont,Woodside East,Delaware,50.91329783274296
+Claymont,Delaware City,Delaware,17.33107697299972
+Claymont,Wyoming,Delaware,47.81174927314341
+Claymont,Cheswold,Delaware,40.881365873377455
+Claymont,Bellefonte,Delaware,3.207901394227802
+Claymont,St. Georges,Delaware,19.582244095128527
+Claymont,Rodney Village,Delaware,46.750319373519766
+Claymont,Newport,Delaware,9.849317873187625
+Claymont,Felton,Delaware,54.88494144224827
+Claymont,Frederica,Delaware,54.8522182910296
+Claymont,Arden,Delaware,1.5887028258430471
+Claymont,Kenton,Delaware,41.1903119802088
+Claymont,Odessa,Delaware,26.18597205522942
+Claymont,Bowers,Delaware,51.353410015637245
+Claymont,Little Creek,Delaware,43.97094330657932
+Claymont,Magnolia,Delaware,50.49133303506343
+Claymont,Woodside,Delaware,50.82869729883108
+Claymont,Ardentown,Delaware,1.130993299354544
+Claymont,Ardencroft,Delaware,1.3669806387720866
+Claymont,Leipsic,Delaware,38.75784478551605
+Claymont,Hartly,Delaware,45.82025088441659
+Claymont,Port Penn,Delaware,20.76895064773896
+Claymont,Viola,Delaware,52.7846567545142
+North Star,Wilmington Manor,Delaware,9.226797215088444
+North Star,Pike Creek,Delaware,2.0735308743921794
+North Star,Edgemoor,Delaware,12.045288161294817
+North Star,Elsmere,Delaware,7.464447807416527
+North Star,New Castle,Delaware,10.57107579373958
+North Star,Rising Sun-Lebanon,Delaware,46.80951813713548
+North Star,Clayton,Delaware,32.838564781983074
+North Star,Camden,Delaware,46.22463212443368
+North Star,Highland Acres,Delaware,45.49141383669704
+North Star,Harrington,Delaware,57.96308758060119
+North Star,Dover Base Housing,Delaware,45.93849277261948
+North Star,Greenville,Delaware,7.023147325895018
+North Star,Townsend,Delaware,24.79840689640145
+North Star,Riverview,Delaware,51.34415891773291
+North Star,Kent Acres,Delaware,44.49344487302336
+North Star,Woodside East,Delaware,48.56176306407699
+North Star,Delaware City,Delaware,14.529143363957775
+North Star,Wyoming,Delaware,45.09988740868123
+North Star,Cheswold,Delaware,37.78665707049327
+North Star,Bellefonte,Delaware,12.533921320407664
+North Star,St. Georges,Delaware,14.101459132289165
+North Star,Rodney Village,Delaware,44.455878379028825
+North Star,Newport,Delaware,7.419416687599855
+North Star,Felton,Delaware,51.89028352303249
+North Star,Frederica,Delaware,53.4632703596306
+North Star,Arden,Delaware,13.583652834513517
+North Star,Houston,Delaware,59.072624957836624
+North Star,Kenton,Delaware,36.58159073997425
+North Star,Odessa,Delaware,20.954498522118406
+North Star,Bowers,Delaware,51.102228209025085
+North Star,Little Creek,Delaware,43.404138229041095
+North Star,Magnolia,Delaware,49.12515591956991
+North Star,Woodside,Delaware,48.00304445975237
+North Star,Ardentown,Delaware,13.919095812360023
+North Star,Ardencroft,Delaware,13.598443806376231
+North Star,Leipsic,Delaware,37.18709827334703
+North Star,Hartly,Delaware,40.48998627677452
+North Star,Port Penn,Delaware,18.318426511508125
+North Star,Viola,Delaware,49.8809322119685
+Wilmington Manor,Pike Creek,Delaware,7.300811975098797
+Wilmington Manor,Edgemoor,Delaware,6.313821219659732
+Wilmington Manor,Elsmere,Delaware,3.665510818488828
+Wilmington Manor,New Castle,Delaware,1.4655214471749114
+Wilmington Manor,Rising Sun-Lebanon,Delaware,40.63965804021886
+Wilmington Manor,Clayton,Delaware,27.79486876952556
+Wilmington Manor,Camden,Delaware,40.50860926649278
+Wilmington Manor,Highland Acres,Delaware,39.433663624277465
+Wilmington Manor,Harrington,Delaware,52.53792868740813
+Wilmington Manor,Dover Base Housing,Delaware,39.55695070822562
+Wilmington Manor,Greenville,Delaware,6.446905350917691
+Wilmington Manor,Townsend,Delaware,20.77631001330792
+Wilmington Manor,Riverview,Delaware,45.421708024004815
+Wilmington Manor,Kent Acres,Delaware,38.35487258551357
+Wilmington Manor,Woodside East,Delaware,42.72245094937632
+Wilmington Manor,Delaware City,Delaware,7.727603848686884
+Wilmington Manor,Wyoming,Delaware,39.41566554598902
+Wilmington Manor,Cheswold,Delaware,32.210604970659524
+Wilmington Manor,Bellefonte,Delaware,7.249890710720867
+Wilmington Manor,Lincoln,Delaware,57.08072236263996
+Wilmington Manor,St. Georges,Delaware,9.337724457516153
+Wilmington Manor,Rodney Village,Delaware,38.53639281801086
+Wilmington Manor,Newport,Delaware,2.1804256753483
+Wilmington Manor,Felton,Delaware,46.43663594316834
+Wilmington Manor,Frederica,Delaware,47.17849869251752
+Wilmington Manor,Arden,Delaware,10.0691448890023
+Wilmington Manor,Houston,Delaware,53.18586262024964
+Wilmington Manor,Kenton,Delaware,31.909697821937545
+Wilmington Manor,Slaughter Beach,Delaware,55.19184641905218
+Wilmington Manor,Odessa,Delaware,16.32593392369611
+Wilmington Manor,Bowers,Delaware,44.254912502633886
+Wilmington Manor,Little Creek,Delaware,36.60545992850089
+Wilmington Manor,Magnolia,Delaware,42.78431225570286
+Wilmington Manor,Woodside,Delaware,42.41588623368358
+Wilmington Manor,Farmington,Delaware,56.285850070592346
+Wilmington Manor,Ardentown,Delaware,10.104576163177995
+Wilmington Manor,Ardencroft,Delaware,9.795031097525042
+Wilmington Manor,Leipsic,Delaware,30.77218288975705
+Wilmington Manor,Hartly,Delaware,36.34657305526175
+Wilmington Manor,Port Penn,Delaware,11.65400138536396
+Wilmington Manor,Viola,Delaware,44.35699972352701
+Seaford,Georgetown,Delaware,12.348621430537804
+Seaford,Millsboro,Delaware,16.943865066871524
+Seaford,Rising Sun-Lebanon,Delaware,31.30816834760349
+Seaford,Clayton,Delaware,43.556020413228616
+Seaford,Laurel,Delaware,6.270940442008472
+Seaford,Camden,Delaware,30.847270409904
+Seaford,Highland Acres,Delaware,32.265496079918805
+Seaford,Harrington,Delaware,18.785320832852225
+Seaford,Milton,Delaware,18.27984826992741
+Seaford,Lewes,Delaware,26.59194089480701
+Seaford,Dover Base Housing,Delaware,32.73448907627946
+Seaford,Long Neck,Delaware,24.88984983983925
+Seaford,Selbyville,Delaware,25.319462346598016
+Seaford,Townsend,Delaware,51.44932396640706
+Seaford,Ocean View,Delaware,28.92341141116008
+Seaford,Bridgeville,Delaware,4.937597937469936
+Seaford,Delmar,Delaware,13.36089784769533
+Seaford,Riverview,Delaware,26.36106897629528
+Seaford,Kent Acres,Delaware,33.40894048449561
+Seaford,Millville,Delaware,27.36716204154969
+Seaford,Woodside East,Delaware,28.81718840740622
+Seaford,Wyoming,Delaware,31.898240042888133
+Seaford,Cheswold,Delaware,39.00055030582793
+Seaford,Greenwood,Delaware,10.641982431784928
+Seaford,Lincoln,Delaware,17.930750927358186
+Seaford,Rehoboth Beach,Delaware,28.798961578302645
+Seaford,Dagsboro,Delaware,21.115235327220017
+Seaford,Rodney Village,Delaware,32.9568080173714
+Seaford,Felton,Delaware,24.826743434075286
+Seaford,Bethany Beach,Delaware,30.5440942463146
+Seaford,Frederica,Delaware,25.649722216149087
+Seaford,Blades,Delaware,1.3582434779275665
+Seaford,Frankford,Delaware,22.347402092918813
+Seaford,Ellendale,Delaware,14.743777443088714
+Seaford,South Bethany,Delaware,31.365634337453177
+Seaford,Houston,Delaware,19.080184651461057
+Seaford,Kenton,Delaware,39.67279041167197
+Seaford,Slaughter Beach,Delaware,24.299756224949004
+Seaford,Odessa,Delaware,55.436200620686186
+Seaford,Bethel,Delaware,5.72293549779797
+Seaford,Dewey Beach,Delaware,29.13272499548809
+Seaford,Fenwick Island,Delaware,32.9756143491626
+Seaford,Bowers,Delaware,30.21499196412684
+Seaford,Little Creek,Delaware,36.39969602937183
+Seaford,Magnolia,Delaware,29.71196636805523
+Seaford,Woodside,Delaware,28.88000030427868
+Seaford,Farmington,Delaware,15.006211804054914
+Seaford,Henlopen Acres,Delaware,28.87084458314468
+Seaford,Leipsic,Delaware,40.96797682906626
+Seaford,Hartly,Delaware,35.908879315720355
+Seaford,Port Penn,Delaware,59.56078180961926
+Seaford,Viola,Delaware,26.924567054729
+Georgetown,Millsboro,Delaware,8.106358739748329
+Georgetown,Rising Sun-Lebanon,Delaware,29.02302653366197
+Georgetown,Clayton,Delaware,43.21721163033342
+Georgetown,Laurel,Delaware,12.865048741388067
+Georgetown,Camden,Delaware,29.701795300261143
+Georgetown,Highland Acres,Delaware,30.32580148816984
+Georgetown,Harrington,Delaware,18.990446435435103
+Georgetown,Milton,Delaware,7.223005106189618
+Georgetown,Lewes,Delaware,14.430848835663276
+Georgetown,Dover Base Housing,Delaware,30.00557433526297
+Georgetown,Long Neck,Delaware,13.534575382381192
+Georgetown,Selbyville,Delaware,18.28627918710388
+Georgetown,Townsend,Delaware,51.51858071520368
+Georgetown,Ocean View,Delaware,18.893877331188296
+Georgetown,Bridgeville,Delaware,11.915443537233434
+Georgetown,Delmar,Delaware,17.950273113707485
+Georgetown,Riverview,Delaware,24.519081731807773
+Georgetown,Kent Acres,Delaware,31.336976522122168
+Georgetown,Millville,Delaware,17.57030716944363
+Georgetown,Woodside East,Delaware,27.319695332816966
+Georgetown,Wyoming,Delaware,30.829821240822955
+Georgetown,Cheswold,Delaware,38.09623888493379
+Georgetown,Greenwood,Delaware,13.639382291459684
+Georgetown,Lincoln,Delaware,12.469574131224151
+Georgetown,Rehoboth Beach,Delaware,16.4732901018158
+Georgetown,Dagsboro,Delaware,12.49471885985402
+Georgetown,Rodney Village,Delaware,31.370048068340548
+Georgetown,Felton,Delaware,24.52765025911412
+Georgetown,Bethany Beach,Delaware,20.239571271664843
+Georgetown,Frederica,Delaware,22.39828704223669
+Georgetown,Blades,Delaware,12.222075859632657
+Georgetown,Frankford,Delaware,14.237347297751162
+Georgetown,Ellendale,Delaware,8.579159906669247
+Georgetown,South Bethany,Delaware,21.42016267118827
+Georgetown,Houston,Delaware,16.941831596788575
+Georgetown,Kenton,Delaware,40.00634320091705
+Georgetown,Slaughter Beach,Delaware,16.124059085974036
+Georgetown,Odessa,Delaware,54.91927513769729
+Georgetown,Bethel,Delaware,14.985400426562885
+Georgetown,Dewey Beach,Delaware,16.88847665464012
+Georgetown,Fenwick Island,Delaware,23.97136306695264
+Georgetown,Bowers,Delaware,25.590356090406555
+Georgetown,Little Creek,Delaware,33.03281525073144
+Georgetown,Magnolia,Delaware,26.781957346275945
+Georgetown,Woodside,Delaware,28.07086076476987
+Georgetown,Farmington,Delaware,16.194672101605946
+Georgetown,Henlopen Acres,Delaware,16.52946061849761
+Georgetown,Leipsic,Delaware,38.808112365551786
+Georgetown,Hartly,Delaware,37.39424097559704
+Georgetown,Port Penn,Delaware,58.02700578108535
+Georgetown,Viola,Delaware,26.33225041567811
+Pike Creek,Edgemoor,Delaware,10.025141846204152
+Pike Creek,Elsmere,Delaware,5.395147548978792
+Pike Creek,New Castle,Delaware,8.693468877675949
+Pike Creek,Rising Sun-Lebanon,Delaware,45.90212950686824
+Pike Creek,Clayton,Delaware,32.15528629511634
+Pike Creek,Camden,Delaware,45.4307846286036
+Pike Creek,Highland Acres,Delaware,44.60940893306141
+Pike Creek,Harrington,Delaware,57.26724652913349
+Pike Creek,Dover Base Housing,Delaware,44.97448848302307
+Pike Creek,Greenville,Delaware,5.2178309963893525
+Pike Creek,Townsend,Delaware,24.284025969756847
+Pike Creek,Riverview,Delaware,50.510016394818194
+Pike Creek,Kent Acres,Delaware,43.58826266238127
+Pike Creek,Woodside East,Delaware,47.74266952976103
+Pike Creek,Delaware City,Delaware,13.211672048826642
+Pike Creek,Wyoming,Delaware,44.3109438425104
+Pike Creek,Cheswold,Delaware,36.99966218834163
+Pike Creek,Bellefonte,Delaware,10.552582942004568
+Pike Creek,St. Georges,Delaware,13.19038223996248
+Pike Creek,Rodney Village,Delaware,43.60612304837081
+Pike Creek,Newport,Delaware,5.396297582173966
+Pike Creek,Felton,Delaware,51.17559614392691
+Pike Creek,Frederica,Delaware,52.53968045323598
+Pike Creek,Arden,Delaware,11.80526374809286
+Pike Creek,Houston,Delaware,58.26131403458695
+Pike Creek,Kenton,Delaware,36.00683372605159
+Pike Creek,Odessa,Delaware,20.24935815543129
+Pike Creek,Bowers,Delaware,50.02537241472251
+Pike Creek,Little Creek,Delaware,42.32491401260582
+Pike Creek,Magnolia,Delaware,48.17872803298824
+Pike Creek,Woodside,Delaware,47.2459946998158
+Pike Creek,Ardentown,Delaware,12.113754638438396
+Pike Creek,Ardencroft,Delaware,11.785667102995458
+Pike Creek,Leipsic,Delaware,36.188899175425625
+Pike Creek,Hartly,Delaware,40.05791868310229
+Pike Creek,Port Penn,Delaware,17.113527121554643
+Pike Creek,Viola,Delaware,49.14419023902047
+Millsboro,Rising Sun-Lebanon,Delaware,36.78403046413555
+Millsboro,Clayton,Delaware,51.13445592631041
+Millsboro,Laurel,Delaware,14.145687526931248
+Millsboro,Camden,Delaware,37.62862154291789
+Millsboro,Highland Acres,Delaware,38.12645520318476
+Millsboro,Harrington,Delaware,27.096785575297883
+Millsboro,Milton,Delaware,12.816315795044533
+Millsboro,Lewes,Delaware,15.729186283421454
+Millsboro,Dover Base Housing,Delaware,37.66209263608256
+Millsboro,Long Neck,Delaware,8.715191927872866
+Millsboro,Selbyville,Delaware,10.179979603796657
+Millsboro,Townsend,Delaware,59.447312416086326
+Millsboro,Ocean View,Delaware,11.98673387453233
+Millsboro,Bridgeville,Delaware,18.45868794077707
+Millsboro,Delmar,Delaware,15.85929279273759
+Millsboro,Riverview,Delaware,32.42923336215326
+Millsboro,Kent Acres,Delaware,39.099311118228975
+Millsboro,Millville,Delaware,10.451151180529935
+Millsboro,Woodside East,Delaware,35.23162104817098
+Millsboro,Wyoming,Delaware,38.75358802143136
+Millsboro,Cheswold,Delaware,45.971808674845576
+Millsboro,Greenwood,Delaware,21.37761676782149
+Millsboro,Lincoln,Delaware,20.193605913962585
+Millsboro,Rehoboth Beach,Delaware,15.009124484710794
+Millsboro,Dagsboro,Delaware,4.524761933586779
+Millsboro,Rodney Village,Delaware,39.213543156817536
+Millsboro,Felton,Delaware,32.58874185741291
+Millsboro,Bethany Beach,Delaware,13.600788728117864
+Millsboro,Frederica,Delaware,30.12479955064476
+Millsboro,Blades,Delaware,16.199285610522104
+Millsboro,Frankford,Delaware,6.178655743790024
+Millsboro,Ellendale,Delaware,16.48542756663072
+Millsboro,South Bethany,Delaware,14.451816827088802
+Millsboro,Houston,Delaware,24.96906804746135
+Millsboro,Kenton,Delaware,48.0165063883177
+Millsboro,Slaughter Beach,Delaware,22.47332163699445
+Millsboro,Bethel,Delaware,16.863338102246125
+Millsboro,Dewey Beach,Delaware,14.639296162746216
+Millsboro,Fenwick Island,Delaware,16.41326408194966
+Millsboro,Bowers,Delaware,32.87554805986224
+Millsboro,Little Creek,Delaware,40.48283068529571
+Millsboro,Magnolia,Delaware,34.462314751071844
+Millsboro,Woodside,Delaware,36.05510246811036
+Millsboro,Farmington,Delaware,24.246217302645142
+Millsboro,Henlopen Acres,Delaware,15.343690705276533
+Millsboro,Leipsic,Delaware,46.453606832640645
+Millsboro,Hartly,Delaware,45.48680083342832
+Millsboro,Viola,Delaware,34.35509932747237
+Edgemoor,Elsmere,Delaware,4.804104812038219
+Edgemoor,New Castle,Delaware,6.847818905352702
+Edgemoor,Rising Sun-Lebanon,Delaware,45.165875856884846
+Edgemoor,Clayton,Delaware,33.14315522905644
+Edgemoor,Camden,Delaware,45.314367819849096
+Edgemoor,Highland Acres,Delaware,44.04831781573783
+Edgemoor,Harrington,Delaware,57.38770877555967
+Edgemoor,Dover Base Housing,Delaware,43.95534711969379
+Edgemoor,Greenville,Delaware,5.44443159769324
+Edgemoor,Townsend,Delaware,26.641050127541074
+Edgemoor,Riverview,Delaware,50.04785521163261
+Edgemoor,Kent Acres,Delaware,42.93342607726984
+Edgemoor,Woodside East,Delaware,47.42922697767872
+Edgemoor,Delaware City,Delaware,13.299686276666453
+Edgemoor,Wyoming,Delaware,44.25354903174883
+Edgemoor,Cheswold,Delaware,37.21816774087366
+Edgemoor,Bellefonte,Delaware,0.9547067633934792
+Edgemoor,St. Georges,Delaware,15.449614113978573
+Edgemoor,Rodney Village,Delaware,43.24888345057092
+Edgemoor,Newport,Delaware,5.92978548478728
+Edgemoor,Felton,Delaware,51.323321711511625
+Edgemoor,Frederica,Delaware,51.55015471477672
+Edgemoor,Arden,Delaware,4.031253399699576
+Edgemoor,Houston,Delaware,57.76204559097136
+Edgemoor,Kenton,Delaware,37.34107517389129
+Edgemoor,Slaughter Beach,Delaware,58.88953407415569
+Edgemoor,Odessa,Delaware,22.145375129289828
+Edgemoor,Bowers,Delaware,48.239006759378505
+Edgemoor,Little Creek,Delaware,40.74123864053518
+Edgemoor,Magnolia,Delaware,47.16762352681136
+Edgemoor,Woodside,Delaware,47.271423772649975
+Edgemoor,Ardentown,Delaware,3.9484226776142615
+Edgemoor,Ardencroft,Delaware,3.680463263896792
+Edgemoor,Leipsic,Delaware,35.30402325521256
+Edgemoor,Hartly,Delaware,41.92015440540503
+Edgemoor,Port Penn,Delaware,16.876365562414176
+Edgemoor,Viola,Delaware,49.22620960210839
+Elsmere,New Castle,Delaware,5.028253248551746
+Elsmere,Rising Sun-Lebanon,Delaware,44.30309266469428
+Elsmere,Clayton,Delaware,31.366410665159844
+Elsmere,Camden,Delaware,44.15577140052954
+Elsmere,Highland Acres,Delaware,43.094093829670335
+Elsmere,Harrington,Delaware,56.17589965384679
+Elsmere,Dover Base Housing,Delaware,43.22244095116925
+Elsmere,Greenville,Delaware,2.783444182063428
+Elsmere,Townsend,Delaware,24.160262140721898
+Elsmere,Riverview,Delaware,49.08012104056373
+Elsmere,Kent Acres,Delaware,42.01703299742335
+Elsmere,Woodside East,Delaware,46.37665941624695
+Elsmere,Delaware City,Delaware,11.34197399406807
+Elsmere,Wyoming,Delaware,43.06032497606506
+Elsmere,Cheswold,Delaware,35.840643821650964
+Elsmere,Bellefonte,Delaware,5.494727020808916
+Elsmere,St. Georges,Delaware,12.634846387465767
+Elsmere,Rodney Village,Delaware,42.19166868187767
+Elsmere,Newport,Delaware,1.7985688228416936
+Elsmere,Felton,Delaware,50.07272391369367
+Elsmere,Frederica,Delaware,50.84394490334847
+Elsmere,Arden,Delaware,7.563551929697498
+Elsmere,Houston,Delaware,56.84535486908701
+Elsmere,Kenton,Delaware,35.45070165619552
+Elsmere,Slaughter Beach,Delaware,58.82773825842445
+Elsmere,Odessa,Delaware,19.763459348613893
+Elsmere,Bowers,Delaware,47.90884471674843
+Elsmere,Little Creek,Delaware,40.264845433034886
+Elsmere,Magnolia,Delaware,46.44979445561469
+Elsmere,Woodside,Delaware,46.0572834338657
+Elsmere,Farmington,Delaware,59.91968354364312
+Elsmere,Ardentown,Delaware,7.739162022301541
+Elsmere,Ardencroft,Delaware,7.402559981393332
+Elsmere,Leipsic,Delaware,34.43702922692703
+Elsmere,Hartly,Delaware,39.83100809680397
+Elsmere,Port Penn,Delaware,15.29808801301804
+Elsmere,Viola,Delaware,47.996015334089165
+New Castle,Rising Sun-Lebanon,Delaware,39.345341190654935
+New Castle,Clayton,Delaware,26.676868678297385
+New Castle,Camden,Delaware,39.26594157319931
+New Castle,Highland Acres,Delaware,38.15371228147497
+New Castle,Harrington,Delaware,51.31132374646019
+New Castle,Dover Base Housing,Delaware,38.241345090163485
+New Castle,Greenville,Delaware,7.806690907593309
+New Castle,Townsend,Delaware,19.86486717709058
+New Castle,Riverview,Delaware,44.147915562555006
+New Castle,Kent Acres,Delaware,37.06770281176185
+New Castle,Woodside East,Delaware,41.46185116092057
+New Castle,Delaware City,Delaware,6.617996937855441
+New Castle,Wyoming,Delaware,38.17879735620997
+New Castle,Cheswold,Delaware,31.004795987659133
+New Castle,Greenwood,Delaware,59.39886424422389
+New Castle,Bellefonte,Delaware,7.802517789058053
+New Castle,Lincoln,Delaware,55.75339878734604
+New Castle,St. Georges,Delaware,8.602689875031023
+New Castle,Rodney Village,Delaware,37.27377355597312
+New Castle,Newport,Delaware,3.6428777597171713
+New Castle,Felton,Delaware,45.21480299756886
+New Castle,Frederica,Delaware,45.8637600193862
+New Castle,Arden,Delaware,10.788818731198466
+New Castle,Ellendale,Delaware,59.688820617035645
+New Castle,Houston,Delaware,51.90723644339538
+New Castle,Kenton,Delaware,30.82343103534695
+New Castle,Slaughter Beach,Delaware,53.79950179949342
+New Castle,Odessa,Delaware,15.38211112493704
+New Castle,Bowers,Delaware,42.88740592484374
+New Castle,Little Creek,Delaware,35.25087887561687
+New Castle,Magnolia,Delaware,41.46869953782856
+New Castle,Woodside,Delaware,41.18490752549866
+New Castle,Farmington,Delaware,55.0660985834159
+New Castle,Ardentown,Delaware,10.7669751475871
+New Castle,Ardencroft,Delaware,10.4770704118697
+New Castle,Leipsic,Delaware,29.46937317554984
+New Castle,Hartly,Delaware,35.31494884508734
+New Castle,Port Penn,Delaware,10.448848153721404
+New Castle,Viola,Delaware,43.1301824671663
+Rising Sun-Lebanon,Clayton,Delaware,14.58862142014671
+Rising Sun-Lebanon,Laurel,Delaware,36.78484490179181
+Rising Sun-Lebanon,Camden,Delaware,2.8174327062432534
+Rising Sun-Lebanon,Highland Acres,Delaware,1.4454500256825138
+Rising Sun-Lebanon,Harrington,Delaware,12.629891087373675
+Rising Sun-Lebanon,Milton,Delaware,24.746812644845
+Rising Sun-Lebanon,Lewes,Delaware,29.497635340198286
+Rising Sun-Lebanon,Dover Base Housing,Delaware,1.667799401571385
+Rising Sun-Lebanon,Long Neck,Delaware,38.13150171370792
+Rising Sun-Lebanon,Selbyville,Delaware,46.70724538525795
+Rising Sun-Lebanon,Greenville,Delaware,47.0774896508559
+Rising Sun-Lebanon,Townsend,Delaware,22.86126820565042
+Rising Sun-Lebanon,Ocean View,Delaware,44.687615677875336
+Rising Sun-Lebanon,Bridgeville,Delaware,26.396863407730248
+Rising Sun-Lebanon,Delmar,Delaware,43.88005036148717
+Rising Sun-Lebanon,Riverview,Delaware,4.947790008148089
+Rising Sun-Lebanon,Kent Acres,Delaware,2.3160801567502984
+Rising Sun-Lebanon,Millville,Delaware,43.90984049994729
+Rising Sun-Lebanon,Woodside East,Delaware,2.85028961346736
+Rising Sun-Lebanon,Delaware City,Delaware,33.045811393595
+Rising Sun-Lebanon,Wyoming,Delaware,3.2933785090308465
+Rising Sun-Lebanon,Cheswold,Delaware,9.34804059456204
+Rising Sun-Lebanon,Greenwood,Delaware,20.71368182544412
+Rising Sun-Lebanon,Bellefonte,Delaware,46.00182622874658
+Rising Sun-Lebanon,Lincoln,Delaware,16.598652082933135
+Rising Sun-Lebanon,Rehoboth Beach,Delaware,34.78733414993363
+Rising Sun-Lebanon,Dagsboro,Delaware,40.675350524107245
+Rising Sun-Lebanon,St. Georges,Delaware,32.73243530491437
+Rising Sun-Lebanon,Rodney Village,Delaware,2.707184582952345
+Rising Sun-Lebanon,Newport,Delaware,42.65965289029959
+Rising Sun-Lebanon,Felton,Delaware,7.153980475097106
+Rising Sun-Lebanon,Bethany Beach,Delaware,45.35864679084981
+Rising Sun-Lebanon,Frederica,Delaware,6.660820768527869
+Rising Sun-Lebanon,Blades,Delaware,32.48522260459458
+Rising Sun-Lebanon,Frankford,Delaware,42.49126964599832
+Rising Sun-Lebanon,Arden,Delaware,49.08507196254731
+Rising Sun-Lebanon,Ellendale,Delaware,20.44648246873789
+Rising Sun-Lebanon,South Bethany,Delaware,46.92242880175064
+Rising Sun-Lebanon,Houston,Delaware,12.596173116558756
+Rising Sun-Lebanon,Kenton,Delaware,12.287243572885174
+Rising Sun-Lebanon,Slaughter Beach,Delaware,16.546922422547446
+Rising Sun-Lebanon,Odessa,Delaware,25.97311459330017
+Rising Sun-Lebanon,Bethel,Delaware,37.005443384398
+Rising Sun-Lebanon,Dewey Beach,Delaware,36.25131972909423
+Rising Sun-Lebanon,Fenwick Island,Delaware,50.37988081318642
+Rising Sun-Lebanon,Bowers,Delaware,6.166703345151018
+Rising Sun-Lebanon,Little Creek,Delaware,5.4693037039965455
+Rising Sun-Lebanon,Magnolia,Delaware,2.5046235371437127
+Rising Sun-Lebanon,Woodside,Delaware,3.930188486477213
+Rising Sun-Lebanon,Farmington,Delaware,16.368977390344188
+Rising Sun-Lebanon,Ardentown,Delaware,48.8802212020559
+Rising Sun-Lebanon,Henlopen Acres,Delaware,34.32930503519656
+Rising Sun-Lebanon,Ardencroft,Delaware,48.68742358967813
+Rising Sun-Lebanon,Leipsic,Delaware,9.881723213857184
+Rising Sun-Lebanon,Hartly,Delaware,12.112664340584436
+Rising Sun-Lebanon,Port Penn,Delaware,29.0500415875899
+Rising Sun-Lebanon,Viola,Delaware,5.330827746278755
+Clayton,Laurel,Delaware,49.51112901529624
+Clayton,Camden,Delaware,13.515607649920106
+Clayton,Highland Acres,Delaware,13.16719421737088
+Clayton,Harrington,Delaware,25.126195122059656
+Clayton,Milton,Delaware,39.31438220877998
+Clayton,Lewes,Delaware,43.86573236665769
+Clayton,Dover Base Housing,Delaware,14.150232409407415
+Clayton,Long Neck,Delaware,52.71865069737037
+Clayton,Greenville,Delaware,34.060976248012736
+Clayton,Townsend,Delaware,8.315313500247024
+Clayton,Ocean View,Delaware,59.27578889455027
+Clayton,Bridgeville,Delaware,38.65863265093587
+Clayton,Delmar,Delaware,56.71974256505376
+Clayton,Riverview,Delaware,18.707695283554536
+Clayton,Kent Acres,Delaware,12.351724257672826
+Clayton,Millville,Delaware,58.49551699529464
+Clayton,Woodside East,Delaware,15.904784633268768
+Clayton,Delaware City,Delaware,20.075136166757616
+Clayton,Wyoming,Delaware,12.387904082733256
+Clayton,Cheswold,Delaware,5.241073512259633
+Clayton,Greenwood,Delaware,33.04808118846449
+Clayton,Bellefonte,Delaware,34.05769922944124
+Clayton,Lincoln,Delaware,30.969396266660155
+Clayton,Rehoboth Beach,Delaware,49.15984618421266
+Clayton,Dagsboro,Delaware,55.136730167219824
+Clayton,St. Georges,Delaware,19.03615012971977
+Clayton,Rodney Village,Delaware,11.99191390230709
+Clayton,Newport,Delaware,29.61757286464493
+Clayton,Felton,Delaware,19.05281065434376
+Clayton,Bethany Beach,Delaware,59.93585445751628
+Clayton,Frederica,Delaware,21.163536764242146
+Clayton,Blades,Delaware,44.84812407439126
+Clayton,Frankford,Delaware,56.9515052025264
+Clayton,Arden,Delaware,37.172501418161126
+Clayton,Ellendale,Delaware,34.66768929463839
+Clayton,Houston,Delaware,26.335547024092747
+Clayton,Kenton,Delaware,4.241377754132003
+Clayton,Slaughter Beach,Delaware,31.00288710487548
+Clayton,Odessa,Delaware,11.907006256134462
+Clayton,Bethel,Delaware,49.2472361651779
+Clayton,Dewey Beach,Delaware,50.65308649802618
+Clayton,Bowers,Delaware,19.973925761431023
+Clayton,Little Creek,Delaware,13.026360045959102
+Clayton,Magnolia,Delaware,17.066649978592714
+Clayton,Woodside,Delaware,15.205638409810309
+Clayton,Farmington,Delaware,28.79487356668132
+Clayton,Ardentown,Delaware,37.05371041232032
+Clayton,Henlopen Acres,Delaware,48.67985883604472
+Clayton,Ardencroft,Delaware,36.80943386445123
+Clayton,Leipsic,Delaware,7.108387846384399
+Clayton,Hartly,Delaware,9.013340023420048
+Clayton,Port Penn,Delaware,16.2782093831287
+Clayton,Viola,Delaware,17.05621079953357
+Laurel,Camden,Delaware,36.557969712297286
+Laurel,Highland Acres,Delaware,37.83198033076431
+Laurel,Harrington,Delaware,24.501470493331944
+Laurel,Milton,Delaware,19.935090638903752
+Laurel,Lewes,Delaware,27.060093096061284
+Laurel,Dover Base Housing,Delaware,38.12734419763142
+Laurel,Long Neck,Delaware,22.79661331300338
+Laurel,Selbyville,Delaware,20.6970052293809
+Laurel,Townsend,Delaware,57.49386356340764
+Laurel,Ocean View,Delaware,25.58963472731521
+Laurel,Bridgeville,Delaware,10.91655627983747
+Laurel,Delmar,Delaware,7.21127497089451
+Laurel,Riverview,Delaware,31.85299783794778
+Laurel,Kent Acres,Delaware,38.96109224828067
+Laurel,Millville,Delaware,23.97114598240009
+Laurel,Woodside East,Delaware,34.42782478737654
+Laurel,Wyoming,Delaware,37.63680631949956
+Laurel,Cheswold,Delaware,44.83564518206346
+Laurel,Greenwood,Delaware,16.4632595812283
+Laurel,Lincoln,Delaware,22.07570822598317
+Laurel,Rehoboth Beach,Delaware,28.125123075685856
+Laurel,Dagsboro,Delaware,17.570456190114125
+Laurel,Rodney Village,Delaware,38.6059974528728
+Laurel,Felton,Delaware,30.601988093811187
+Laurel,Bethany Beach,Delaware,27.31720698077901
+Laurel,Frederica,Delaware,30.78046001687964
+Laurel,Blades,Delaware,4.913133277762737
+Laurel,Frankford,Delaware,18.425560736943428
+Laurel,Ellendale,Delaware,18.36021422184277
+Laurel,South Bethany,Delaware,27.86941856655706
+Laurel,Houston,Delaware,24.280550485723523
+Laurel,Kenton,Delaware,45.702005160888135
+Laurel,Slaughter Beach,Delaware,27.68423564511641
+Laurel,Bethel,Delaware,2.743528993738994
+Laurel,Dewey Beach,Delaware,28.12013067927332
+Laurel,Fenwick Island,Delaware,28.88314775140834
+Laurel,Bowers,Delaware,35.0528655146797
+Laurel,Little Creek,Delaware,41.6796438809064
+Laurel,Magnolia,Delaware,35.00928357072259
+Laurel,Woodside,Delaware,34.62786556294851
+Laurel,Farmington,Delaware,20.75591005025279
+Laurel,Henlopen Acres,Delaware,28.321913371489675
+Laurel,Leipsic,Delaware,46.575112492827095
+Laurel,Hartly,Delaware,42.051122767266
+Laurel,Viola,Delaware,32.68279984864304
+Camden,Highland Acres,Delaware,2.250455952431578
+Camden,Harrington,Delaware,12.073354860409651
+Camden,Milton,Delaware,26.00865948944356
+Camden,Lewes,Delaware,31.375635772471703
+Camden,Dover Base Housing,Delaware,4.152584748984794
+Camden,Long Neck,Delaware,39.55610931225805
+Camden,Selbyville,Delaware,47.67629366246816
+Camden,Greenville,Delaware,46.91105706821029
+Camden,Townsend,Delaware,21.822011931498217
+Camden,Ocean View,Delaware,46.082747759026766
+Camden,Bridgeville,Delaware,25.909755108436325
+Camden,Delmar,Delaware,43.72604912847356
+Camden,Riverview,Delaware,5.201503690353014
+Camden,Kent Acres,Delaware,3.1916921061220607
+Camden,Millville,Delaware,45.22780926754231
+Camden,Woodside East,Delaware,2.40644019080882
+Camden,Delaware City,Delaware,32.827190394964006
+Camden,Wyoming,Delaware,1.1285022829257916
+Camden,Cheswold,Delaware,8.43810834602118
+Camden,Greenwood,Delaware,20.20658716714212
+Camden,Bellefonte,Delaware,46.17712515934472
+Camden,Lincoln,Delaware,17.496311280384464
+Camden,Rehoboth Beach,Delaware,36.63908448340737
+Camden,Dagsboro,Delaware,41.66797217923226
+Camden,St. Georges,Delaware,32.24210741778692
+Camden,Rodney Village,Delaware,2.2292945506557245
+Camden,Newport,Delaware,42.46844440282254
+Camden,Felton,Delaware,6.043938099760132
+Camden,Bethany Beach,Delaware,46.83972717177615
+Camden,Frederica,Delaware,7.934811021236521
+Camden,Blades,Delaware,32.079292420615346
+Camden,Frankford,Delaware,43.480797990006685
+Camden,Arden,Delaware,49.28284527840757
+Camden,Ellendale,Delaware,21.154251382462057
+Camden,South Bethany,Delaware,48.376243891192885
+Camden,Houston,Delaware,12.85017374911472
+Camden,Kenton,Delaware,10.572806247790853
+Camden,Slaughter Beach,Delaware,18.42311810038401
+Camden,Odessa,Delaware,25.277612039879056
+Camden,Bethel,Delaware,36.56976293247447
+Camden,Dewey Beach,Delaware,38.068132433630026
+Camden,Fenwick Island,Delaware,51.74647109502259
+Camden,Bowers,Delaware,8.758226658157076
+Camden,Little Creek,Delaware,7.456087927275395
+Camden,Magnolia,Delaware,4.7577063164857964
+Camden,Woodside,Delaware,2.0072204097734203
+Camden,Farmington,Delaware,15.84761575828323
+Camden,Ardentown,Delaware,49.10203357280315
+Camden,Henlopen Acres,Delaware,36.20370231048903
+Camden,Ardencroft,Delaware,48.89360943134741
+Camden,Leipsic,Delaware,10.181737923712925
+Camden,Hartly,Delaware,9.616101385455636
+Camden,Port Penn,Delaware,28.857709859074284
+Camden,Viola,Delaware,3.946635874147258
+Highland Acres,Harrington,Delaware,13.505526381315155
+Highland Acres,Milton,Delaware,26.15273856055774
+Highland Acres,Lewes,Delaware,30.942018394947983
+Highland Acres,Dover Base Housing,Delaware,2.0393104222039624
+Highland Acres,Long Neck,Delaware,39.55989801263186
+Highland Acres,Selbyville,Delaware,48.07596217672147
+Highland Acres,Greenville,Delaware,45.86413963917026
+Highland Acres,Townsend,Delaware,21.45278012765488
+Highland Acres,Ocean View,Delaware,46.11420212931978
+Highland Acres,Bridgeville,Delaware,27.33863102337988
+Highland Acres,Delmar,Delaware,44.9561749305453
+Highland Acres,Riverview,Delaware,6.001965749937924
+Highland Acres,Kent Acres,Delaware,1.15067130248009
+Highland Acres,Millville,Delaware,45.32834257497369
+Highland Acres,Woodside East,Delaware,3.4678275712512217
+Highland Acres,Delaware City,Delaware,31.810812838700546
+Highland Acres,Wyoming,Delaware,2.22755266481988
+Highland Acres,Cheswold,Delaware,7.930014278575972
+Highland Acres,Greenwood,Delaware,21.63801469585216
+Highland Acres,Bellefonte,Delaware,44.89353955381594
+Highland Acres,Lincoln,Delaware,17.933356825303072
+Highland Acres,Rehoboth Beach,Delaware,36.23208012368843
+Highland Acres,Dagsboro,Delaware,42.04660944315389
+Highland Acres,St. Georges,Delaware,31.429222119258142
+Highland Acres,Rodney Village,Delaware,1.2730920559382832
+Highland Acres,Newport,Delaware,41.43759398230226
+Highland Acres,Felton,Delaware,7.73244107875792
+Highland Acres,Bethany Beach,Delaware,46.79265923054642
+Highland Acres,Frederica,Delaware,8.026666319881084
+Highland Acres,Blades,Delaware,33.464370118438666
+Highland Acres,Frankford,Delaware,43.86250441689524
+Highland Acres,Arden,Delaware,47.98555169485635
+Highland Acres,Ellendale,Delaware,21.746642448221618
+Highland Acres,South Bethany,Delaware,48.35444594152354
+Highland Acres,Houston,Delaware,13.753547318404149
+Highland Acres,Kenton,Delaware,10.848953966292324
+Highland Acres,Slaughter Beach,Delaware,17.99228132418148
+Highland Acres,Odessa,Delaware,24.621758790727508
+Highland Acres,Bethel,Delaware,37.97688310179913
+Highland Acres,Dewey Beach,Delaware,37.69658501378413
+Highland Acres,Fenwick Island,Delaware,51.80433980537707
+Highland Acres,Bowers,Delaware,7.504514966162346
+Highland Acres,Little Creek,Delaware,5.224680119871443
+Highland Acres,Magnolia,Delaware,3.9499634683819966
+Highland Acres,Woodside,Delaware,3.982882877402987
+Highland Acres,Farmington,Delaware,17.275686939949303
+Highland Acres,Ardentown,Delaware,47.78880609131368
+Highland Acres,Henlopen Acres,Delaware,35.77350460419746
+Highland Acres,Ardencroft,Delaware,47.59060925427495
+Highland Acres,Leipsic,Delaware,8.746401009541172
+Highland Acres,Hartly,Delaware,10.859198170864392
+Highland Acres,Port Penn,Delaware,27.81894003565877
+Highland Acres,Viola,Delaware,5.730239748325998
+Harrington,Milton,Delaware,17.421556448488168
+Harrington,Lewes,Delaware,25.09309224607525
+Harrington,Dover Base Housing,Delaware,14.145211281495
+Harrington,Long Neck,Delaware,30.79181312983233
+Harrington,Selbyville,Delaware,37.27672538944834
+Harrington,Greenville,Delaware,58.92132336324482
+Harrington,Townsend,Delaware,33.26384928564496
+Harrington,Ocean View,Delaware,37.019725561622536
+Harrington,Bridgeville,Delaware,13.85018178282887
+Harrington,Delmar,Delaware,31.685730527256712
+Harrington,Riverview,Delaware,7.736651120270368
+Harrington,Kent Acres,Delaware,14.653791918133225
+Harrington,Millville,Delaware,35.916415597102485
+Harrington,Woodside East,Delaware,10.044386730163612
+Harrington,Delaware City,Delaware,44.83653454471341
+Harrington,Wyoming,Delaware,13.140717297193037
+Harrington,Cheswold,Delaware,20.344070282274217
+Harrington,Greenwood,Delaware,8.14436579985983
+Harrington,Bellefonte,Delaware,58.25022993768188
+Harrington,Lincoln,Delaware,8.863394390379126
+Harrington,Rehoboth Beach,Delaware,29.873731936441214
+Harrington,Dagsboro,Delaware,31.437708118083915
+Harrington,St. Georges,Delaware,44.1079075713975
+Harrington,Rodney Village,Delaware,14.171501607396708
+Harrington,Newport,Delaware,54.47373777516336
+Harrington,Felton,Delaware,6.105953675925805
+Harrington,Bethany Beach,Delaware,38.07329941559017
+Harrington,Frederica,Delaware,8.048819820887624
+Harrington,Blades,Delaware,20.0083352609261
+Harrington,Frankford,Delaware,33.205550672255534
+Harrington,Ellendale,Delaware,11.121302648307084
+Harrington,South Bethany,Delaware,39.472784700395785
+Harrington,Houston,Delaware,3.6309875378669614
+Harrington,Kenton,Delaware,21.509627912029966
+Harrington,Slaughter Beach,Delaware,14.11706285330644
+Harrington,Odessa,Delaware,37.02846341561942
+Harrington,Bethel,Delaware,24.50551675096632
+Harrington,Dewey Beach,Delaware,31.05574638965189
+Harrington,Fenwick Island,Delaware,42.46813260271071
+Harrington,Bowers,Delaware,13.052177211101236
+Harrington,Little Creek,Delaware,17.923565284191092
+Harrington,Magnolia,Delaware,11.355679334669214
+Harrington,Woodside,Delaware,10.1278149770189
+Harrington,Farmington,Delaware,3.779122838176797
+Harrington,Henlopen Acres,Delaware,29.57732296604892
+Harrington,Leipsic,Delaware,22.1842275866743
+Harrington,Hartly,Delaware,18.477169132270475
+Harrington,Port Penn,Delaware,40.88398850417151
+Harrington,Viola,Delaware,8.181334395002853
+Milton,Lewes,Delaware,8.921979035901089
+Milton,Dover Base Housing,Delaware,25.426693289884103
+Milton,Long Neck,Delaware,13.63356246793691
+Milton,Selbyville,Delaware,22.177890208242104
+Milton,Townsend,Delaware,47.60529231839239
+Milton,Ocean View,Delaware,20.10344716381352
+Milton,Bridgeville,Delaware,16.18082088512787
+Milton,Delmar,Delaware,25.156516414018103
+Milton,Riverview,Delaware,20.876756781461307
+Milton,Kent Acres,Delaware,27.03123499040988
+Milton,Millville,Delaware,19.21918631840604
+Milton,Woodside East,Delaware,23.612321445491123
+Milton,Delaware City,Delaware,57.182893428054925
+Milton,Wyoming,Delaware,27.102597674590072
+Milton,Cheswold,Delaware,34.08198982913581
+Milton,Greenwood,Delaware,15.267447748156302
+Milton,Lincoln,Delaware,8.839608667089026
+Milton,Rehoboth Beach,Delaware,12.82742567544025
+Milton,Dagsboro,Delaware,16.16188030470997
+Milton,St. Georges,Delaware,57.20706632243132
+Milton,Rodney Village,Delaware,27.324478647968387
+Milton,Felton,Delaware,21.79294161761268
+Milton,Bethany Beach,Delaware,20.95754267930398
+Milton,Frederica,Delaware,18.158334135877165
+Milton,Blades,Delaware,18.50101259047852
+Milton,Frankford,Delaware,17.96260116479003
+Milton,Ellendale,Delaware,6.6560316806125535
+Milton,South Bethany,Delaware,22.44908407347154
+Milton,Houston,Delaware,14.34101772817172
+Milton,Kenton,Delaware,36.57580115826294
+Milton,Slaughter Beach,Delaware,9.657414883392793
+Milton,Odessa,Delaware,50.64085608077535
+Milton,Bethel,Delaware,21.85269922109177
+Milton,Dewey Beach,Delaware,13.83671823245962
+Milton,Fenwick Island,Delaware,25.74532465383117
+Milton,Bowers,Delaware,20.28579384657392
+Milton,Little Creek,Delaware,27.96866373287476
+Milton,Magnolia,Delaware,22.312678155870763
+Milton,Woodside,Delaware,24.69248103599584
+Milton,Farmington,Delaware,15.91358487356881
+Milton,Henlopen Acres,Delaware,12.63595597057008
+Milton,Leipsic,Delaware,34.122022512036764
+Milton,Hartly,Delaware,34.71482045975314
+Milton,Port Penn,Delaware,53.207375522917445
+Milton,Viola,Delaware,23.234438214857114
+Lewes,Dover Base Housing,Delaware,29.7251376425472
+Lewes,Long Neck,Delaware,10.844894942000414
+Lewes,Selbyville,Delaware,22.00519359471064
+Lewes,Townsend,Delaware,51.92830999695427
+Lewes,Ocean View,Delaware,16.888644353000593
+Lewes,Bridgeville,Delaware,24.99716809300736
+Lewes,Delmar,Delaware,30.944838793308456
+Lewes,Riverview,Delaware,26.654009238769948
+Lewes,Kent Acres,Delaware,31.59589821928458
+Lewes,Millville,Delaware,16.716744950321633
+Lewes,Woodside East,Delaware,29.11583836651332
+Lewes,Delaware City,Delaware,59.99118002322434
+Lewes,Wyoming,Delaware,32.36863789799411
+Lewes,Cheswold,Delaware,38.6759842087536
+Lewes,Greenwood,Delaware,24.10950900707239
+Lewes,Lincoln,Delaware,16.240647541800957
+Lewes,Rehoboth Beach,Delaware,5.29515266630928
+Lewes,Dagsboro,Delaware,16.86674863133152
+Lewes,Rodney Village,Delaware,32.202145853291725
+Lewes,Felton,Delaware,28.355895520663864
+Lewes,Bethany Beach,Delaware,16.997000355705147
+Lewes,Frederica,Delaware,23.527935917770723
+Lewes,Blades,Delaware,26.599226785354467
+Lewes,Frankford,Delaware,18.312261967592864
+Lewes,Ellendale,Delaware,15.281580873999768
+Lewes,South Bethany,Delaware,18.635925742509936
+Lewes,Houston,Delaware,21.62874269462981
+Lewes,Kenton,Delaware,41.77214256939892
+Lewes,Slaughter Beach,Delaware,12.965106869179204
+Lewes,Odessa,Delaware,54.41213708444745
+Lewes,Bethel,Delaware,29.34623208750469
+Lewes,Dewey Beach,Delaware,6.795617656954371
+Lewes,Fenwick Island,Delaware,22.42454910449063
+Lewes,Bowers,Delaware,23.91273894138664
+Lewes,Little Creek,Delaware,31.366408348532552
+Lewes,Magnolia,Delaware,26.99712841081812
+Lewes,Woodside,Delaware,30.474275971233297
+Lewes,Farmington,Delaware,24.268842347241435
+Lewes,Henlopen Acres,Delaware,4.832683061305336
+Lewes,Leipsic,Delaware,37.79257517021036
+Lewes,Hartly,Delaware,40.74115409327048
+Lewes,Port Penn,Delaware,56.1219635993549
+Lewes,Viola,Delaware,29.38155765012966
+Dover Base Housing,Long Neck,Delaware,38.6648721644922
+Dover Base Housing,Selbyville,Delaware,47.50112911100823
+Dover Base Housing,Greenville,Delaware,46.00205768296663
+Dover Base Housing,Townsend,Delaware,22.31615687067584
+Dover Base Housing,Ocean View,Delaware,45.22829441127082
+Dover Base Housing,Bridgeville,Delaware,27.83991690128768
+Dover Base Housing,Delmar,Delaware,45.18843660617387
+Dover Base Housing,Riverview,Delaware,6.4126947073531095
+Dover Base Housing,Kent Acres,Delaware,2.006614540221244
+Dover Base Housing,Millville,Delaware,44.50121702551764
+Dover Base Housing,Woodside East,Delaware,4.5152453975256215
+Dover Base Housing,Delaware City,Delaware,32.01916078445828
+Dover Base Housing,Wyoming,Delaware,4.2668616741769485
+Dover Base Housing,Cheswold,Delaware,8.951547460223614
+Dover Base Housing,Greenwood,Delaware,22.17725475567377
+Dover Base Housing,Bellefonte,Delaware,44.77932992963999
+Dover Base Housing,Lincoln,Delaware,17.539724849892213
+Dover Base Housing,Rehoboth Beach,Delaware,35.020195087802286
+Dover Base Housing,Dagsboro,Delaware,41.46549411364702
+Dover Base Housing,St. Georges,Delaware,31.840512206486867
+Dover Base Housing,Rodney Village,Delaware,3.089817844343897
+Dover Base Housing,Newport,Delaware,41.60151004005225
+Dover Base Housing,Felton,Delaware,8.801663386362566
+Dover Base Housing,Bethany Beach,Delaware,45.8413948734823
+Dover Base Housing,Frederica,Delaware,7.6224149832414225
+Dover Base Housing,Blades,Delaware,33.89282639557016
+Dover Base Housing,Frankford,Delaware,43.280034740059925
+Dover Base Housing,Arden,Delaware,47.850337688015024
+Dover Base Housing,Ellendale,Delaware,21.45287208446196
+Dover Base Housing,South Bethany,Delaware,47.42113550146224
+Dover Base Housing,Houston,Delaware,13.86667217776366
+Dover Base Housing,Kenton,Delaware,12.30925073051554
+Dover Base Housing,Slaughter Beach,Delaware,16.855094723130886
+Dover Base Housing,Odessa,Delaware,25.21447679281447
+Dover Base Housing,Bethel,Delaware,38.41628608081567
+Dover Base Housing,Dewey Beach,Delaware,36.50817120072078
+Dover Base Housing,Fenwick Island,Delaware,50.93113708522047
+Dover Base Housing,Bowers,Delaware,5.922762236859778
+Dover Base Housing,Little Creek,Delaware,3.8297728364629697
+Dover Base Housing,Magnolia,Delaware,3.227460704738067
+Dover Base Housing,Woodside,Delaware,5.546844913017609
+Dover Base Housing,Farmington,Delaware,17.853521301414837
+Dover Base Housing,Ardentown,Delaware,47.63598212522859
+Dover Base Housing,Henlopen Acres,Delaware,34.54521274287302
+Dover Base Housing,Ardencroft,Delaware,47.44965831857901
+Dover Base Housing,Leipsic,Delaware,8.803931644972296
+Dover Base Housing,Hartly,Delaware,12.769806180731573
+Dover Base Housing,Port Penn,Delaware,28.02248393099223
+Dover Base Housing,Viola,Delaware,6.998619603180982
+Long Neck,Selbyville,Delaware,11.32775979358224
+Long Neck,Ocean View,Delaware,6.563770296295702
+Long Neck,Bridgeville,Delaware,25.380491697787125
+Long Neck,Delmar,Delaware,24.29154867195757
+Long Neck,Riverview,Delaware,34.46709032275313
+Long Neck,Kent Acres,Delaware,40.37552264752246
+Long Neck,Millville,Delaware,6.004502891725428
+Long Neck,Woodside East,Delaware,37.1729850154416
+Long Neck,Wyoming,Delaware,40.63521518200945
+Long Neck,Cheswold,Delaware,47.47758075391457
+Long Neck,Greenwood,Delaware,26.90467324324809
+Long Neck,Lincoln,Delaware,22.45434457574262
+Long Neck,Rehoboth Beach,Delaware,7.627106719990746
+Long Neck,Dagsboro,Delaware,7.180786039167576
+Long Neck,Rodney Village,Delaware,40.76469659850891
+Long Neck,Felton,Delaware,35.418616583247214
+Long Neck,Bethany Beach,Delaware,7.325514946179198
+Long Neck,Frederica,Delaware,31.64857051023747
+Long Neck,Blades,Delaware,24.34291074000869
+Long Neck,Frankford,Delaware,8.124817714183314
+Long Neck,Ellendale,Delaware,19.68388337044928
+Long Neck,South Bethany,Delaware,8.824281202649981
+Long Neck,Houston,Delaware,27.90521128354842
+Long Neck,Kenton,Delaware,50.12858658530655
+Long Neck,Slaughter Beach,Delaware,21.99394501824332
+Long Neck,Bethel,Delaware,25.48679682900803
+Long Neck,Dewey Beach,Delaware,6.6914028736837565
+Long Neck,Fenwick Island,Delaware,12.269479435957564
+Long Neck,Bowers,Delaware,33.174180321887576
+Long Neck,Little Creek,Delaware,40.849142979466
+Long Neck,Magnolia,Delaware,35.65352391707363
+Long Neck,Woodside,Delaware,38.29864785678489
+Long Neck,Farmington,Delaware,28.736195074317315
+Long Neck,Henlopen Acres,Delaware,8.13492707719693
+Long Neck,Leipsic,Delaware,47.1758820031665
+Long Neck,Hartly,Delaware,48.34834450650831
+Long Neck,Viola,Delaware,36.8654130865442
+Selbyville,Ocean View,Delaware,7.924203507766913
+Selbyville,Bridgeville,Delaware,27.848826583093675
+Selbyville,Delmar,Delaware,18.63434301557728
+Selbyville,Riverview,Delaware,42.47522087944863
+Selbyville,Kent Acres,Delaware,49.0159264545172
+Selbyville,Millville,Delaware,6.747815729532744
+Selbyville,Woodside East,Delaware,45.27266400362384
+Selbyville,Wyoming,Delaware,48.797000844359744
+Selbyville,Cheswold,Delaware,55.964530605961336
+Selbyville,Greenwood,Delaware,31.351342500552807
+Selbyville,Lincoln,Delaware,30.18707526946491
+Selbyville,Rehoboth Beach,Delaware,18.844096382727983
+Selbyville,Dagsboro,Delaware,6.0356456973239325
+Selbyville,Rodney Village,Delaware,49.19358423323446
+Selbyville,Felton,Delaware,42.73967471531739
+Selbyville,Bethany Beach,Delaware,9.486522169466934
+Selbyville,Frederica,Delaware,40.05119508235157
+Selbyville,Blades,Delaware,24.27516444371956
+Selbyville,Frankford,Delaware,4.222006621501744
+Selbyville,Ellendale,Delaware,26.590437616144545
+Selbyville,South Bethany,Delaware,9.057163575690112
+Selbyville,Houston,Delaware,35.10539479572319
+Selbyville,Kenton,Delaware,58.11940932340203
+Selbyville,Slaughter Beach,Delaware,31.62554219755961
+Selbyville,Bethel,Delaware,23.32533952751393
+Selbyville,Dewey Beach,Delaware,17.69004114467575
+Selbyville,Fenwick Island,Delaware,8.54338268502378
+Selbyville,Bowers,Delaware,42.463648417128816
+Selbyville,Little Creek,Delaware,50.14277557414489
+Selbyville,Magnolia,Delaware,44.33407440449295
+Selbyville,Woodside,Delaware,46.14819247552104
+Selbyville,Farmington,Delaware,34.390275812354226
+Selbyville,Henlopen Acres,Delaware,19.38322490967721
+Selbyville,Leipsic,Delaware,56.25092873569283
+Selbyville,Hartly,Delaware,55.6572844189489
+Selbyville,Viola,Delaware,44.47806932911247
+Greenville,Townsend,Delaware,26.73085458171368
+Greenville,Riverview,Delaware,51.84741688622368
+Greenville,Kent Acres,Delaware,44.78949427273249
+Greenville,Woodside East,Delaware,49.13918713673655
+Greenville,Delaware City,Delaware,14.08570306789151
+Greenville,Wyoming,Delaware,45.81322388382284
+Greenville,Cheswold,Delaware,38.58100597018716
+Greenville,Bellefonte,Delaware,5.7168797002919645
+Greenville,St. Georges,Delaware,15.204517779607851
+Greenville,Rodney Village,Delaware,44.95559411571537
+Greenville,Newport,Delaware,4.449899411444881
+Greenville,Felton,Delaware,52.81680236876883
+Greenville,Frederica,Delaware,53.62315947381736
+Greenville,Arden,Delaware,6.589534094617148
+Greenville,Houston,Delaware,59.61380806719351
+Greenville,Kenton,Delaware,38.11978837610886
+Greenville,Odessa,Delaware,22.379655491876463
+Greenville,Bowers,Delaware,50.69143354351361
+Greenville,Little Creek,Delaware,43.04826640908071
+Greenville,Magnolia,Delaware,49.22931119836443
+Greenville,Woodside,Delaware,48.80676150787941
+Greenville,Ardentown,Delaware,6.9073604717676
+Greenville,Ardencroft,Delaware,6.582905411468307
+Greenville,Leipsic,Delaware,37.21436194610465
+Greenville,Hartly,Delaware,42.45469884157796
+Greenville,Port Penn,Delaware,18.056712487494643
+Greenville,Viola,Delaware,50.74304677998519
+Townsend,Bridgeville,Delaware,46.59557620379505
+Townsend,Riverview,Delaware,27.01859504572866
+Townsend,Kent Acres,Delaware,20.59384079538852
+Townsend,Woodside East,Delaware,24.2159008803344
+Townsend,Delaware City,Delaware,13.353061439213992
+Townsend,Wyoming,Delaware,20.69554035467304
+Townsend,Cheswold,Delaware,13.525819297291807
+Townsend,Greenwood,Delaware,41.05692841547243
+Townsend,Bellefonte,Delaware,27.58906885761228
+Townsend,Lincoln,Delaware,39.28470786634172
+Townsend,Rehoboth Beach,Delaware,57.21374585368733
+Townsend,St. Georges,Delaware,11.530559855636987
+Townsend,Rodney Village,Delaware,20.29551399617901
+Townsend,Newport,Delaware,22.367607965727007
+Townsend,Felton,Delaware,27.24072256619363
+Townsend,Frederica,Delaware,29.465746405602065
+Townsend,Blades,Delaware,52.76209021074547
+Townsend,Arden,Delaware,30.63700061715771
+Townsend,Ellendale,Delaware,42.97626179809048
+Townsend,Houston,Delaware,34.61568145163305
+Townsend,Kenton,Delaware,11.79403696009078
+Townsend,Slaughter Beach,Delaware,39.15211105084237
+Townsend,Odessa,Delaware,4.4980467980879295
+Townsend,Bethel,Delaware,57.10031985138841
+Townsend,Dewey Beach,Delaware,58.72360459192639
+Townsend,Bowers,Delaware,28.02016867833695
+Townsend,Little Creek,Delaware,20.686984156429784
+Townsend,Magnolia,Delaware,25.319079543733302
+Townsend,Woodside,Delaware,23.472429026271385
+Townsend,Farmington,Delaware,36.871433330797686
+Townsend,Ardentown,Delaware,30.588119744812
+Townsend,Henlopen Acres,Delaware,56.720756695074265
+Townsend,Ardencroft,Delaware,30.31062079156496
+Townsend,Leipsic,Delaware,14.295576673710356
+Townsend,Hartly,Delaware,15.79295297580983
+Townsend,Port Penn,Delaware,10.261406226409562
+Townsend,Viola,Delaware,25.28723157943641
+Ocean View,Bridgeville,Delaware,30.26772067136866
+Ocean View,Delmar,Delaware,25.237211154795546
+Ocean View,Riverview,Delaware,40.97372600808463
+Ocean View,Kent Acres,Delaware,46.93528392836407
+Ocean View,Millville,Delaware,1.625332898055302
+Ocean View,Woodside East,Delaware,43.694169226780055
+Ocean View,Wyoming,Delaware,47.16686248746887
+Ocean View,Cheswold,Delaware,54.03476536308044
+Ocean View,Greenwood,Delaware,32.525501536364274
+Ocean View,Lincoln,Delaware,28.873447493768545
+Ocean View,Rehoboth Beach,Delaware,12.55574015571345
+Ocean View,Dagsboro,Delaware,8.01917900763481
+Ocean View,Rodney Village,Delaware,47.31530687189177
+Ocean View,Felton,Delaware,41.83290762693724
+Ocean View,Bethany Beach,Delaware,1.7727781995925858
+Ocean View,Frederica,Delaware,38.18713591988022
+Ocean View,Blades,Delaware,28.14139854744804
+Ocean View,Frankford,Delaware,7.421088162529847
+Ocean View,Ellendale,Delaware,25.90233856821202
+Ocean View,South Bethany,Delaware,2.52783991409728
+Ocean View,Houston,Delaware,34.26401117381143
+Ocean View,Kenton,Delaware,56.65531538046706
+Ocean View,Slaughter Beach,Delaware,28.54384059471927
+Ocean View,Bethel,Delaware,28.33141665447284
+Ocean View,Dewey Beach,Delaware,11.129953013782554
+Ocean View,Fenwick Island,Delaware,5.707325490496617
+Ocean View,Bowers,Delaware,39.73085936345981
+Ocean View,Little Creek,Delaware,47.39982656315288
+Ocean View,Magnolia,Delaware,42.21230872101344
+Ocean View,Woodside,Delaware,44.7951095341717
+Ocean View,Farmington,Delaware,34.73997618827859
+Ocean View,Henlopen Acres,Delaware,13.1398282695416
+Ocean View,Leipsic,Delaware,53.73466686066737
+Ocean View,Hartly,Delaware,54.79217354784533
+Ocean View,Viola,Delaware,43.32824870978236
+Bridgeville,Delmar,Delaware,18.118188347541743
+Bridgeville,Riverview,Delaware,21.45239509528268
+Bridgeville,Kent Acres,Delaware,28.48343178249344
+Bridgeville,Millville,Delaware,28.80927546304797
+Bridgeville,Woodside East,Delaware,23.8866382763314
+Bridgeville,Delaware City,Delaware,58.562216769963605
+Bridgeville,Wyoming,Delaware,26.96081993095233
+Bridgeville,Cheswold,Delaware,34.0722561748935
+Bridgeville,Greenwood,Delaware,5.705868070459547
+Bridgeville,Lincoln,Delaware,13.84106842733948
+Bridgeville,Rehoboth Beach,Delaware,28.01845214260736
+Bridgeville,Dagsboro,Delaware,22.92451405627489
+Bridgeville,St. Georges,Delaware,57.69458324986318
+Bridgeville,Rodney Village,Delaware,28.021471960898083
+Bridgeville,Felton,Delaware,19.889741092826185
+Bridgeville,Bethany Beach,Delaware,31.75587570211685
+Bridgeville,Frederica,Delaware,20.857471973098843
+Bridgeville,Blades,Delaware,6.194286518614532
+Bridgeville,Frankford,Delaware,24.39802508670323
+Bridgeville,Ellendale,Delaware,11.25852522747091
+Bridgeville,South Bethany,Delaware,32.781120291397805
+Bridgeville,Houston,Delaware,14.300161151113654
+Bridgeville,Kenton,Delaware,34.808331980147216
+Bridgeville,Slaughter Beach,Delaware,20.569937024029844
+Bridgeville,Odessa,Delaware,50.54901928720369
+Bridgeville,Bethel,Delaware,10.66044334011531
+Bridgeville,Dewey Beach,Delaware,28.60764764114609
+Bridgeville,Fenwick Island,Delaware,34.866230461805586
+Bridgeville,Bowers,Delaware,25.526711775942328
+Bridgeville,Little Creek,Delaware,31.52958618151989
+Bridgeville,Magnolia,Delaware,24.8480805352364
+Bridgeville,Woodside,Delaware,23.942595260108927
+Bridgeville,Farmington,Delaware,10.07119527951928
+Bridgeville,Henlopen Acres,Delaware,27.98991012338225
+Bridgeville,Leipsic,Delaware,36.03414200508009
+Bridgeville,Hartly,Delaware,31.13626882480369
+Bridgeville,Port Penn,Delaware,54.63350442895197
+Bridgeville,Viola,Delaware,21.987256885102177
+Delmar,Riverview,Delaware,38.964013144130064
+Delmar,Kent Acres,Delaware,46.07883649916343
+Delmar,Millville,Delaware,23.644961824346225
+Delmar,Woodside East,Delaware,41.570871480895626
+Delmar,Wyoming,Delaware,44.81090371233715
+Delmar,Cheswold,Delaware,52.02736845618697
+Delmar,Greenwood,Delaware,23.671766898849885
+Delmar,Lincoln,Delaware,28.698703657144563
+Delmar,Rehoboth Beach,Delaware,30.85391789262213
+Delmar,Dagsboro,Delaware,17.682928961490834
+Delmar,Rodney Village,Delaware,45.75499734975533
+Delmar,Felton,Delaware,37.79011210573538
+Delmar,Bethany Beach,Delaware,27.00788381461886
+Delmar,Frederica,Delaware,37.76005595753138
+Delmar,Blades,Delaware,12.01381183991528
+Delmar,Frankford,Delaware,17.835906915362855
+Delmar,Ellendale,Delaware,24.82598851707316
+Delmar,South Bethany,Delaware,27.13836705729884
+Delmar,Houston,Delaware,31.32231966428053
+Delmar,Kenton,Delaware,52.91295999301246
+Delmar,Slaughter Beach,Delaware,33.76918171669365
+Delmar,Bethel,Delaware,8.096984061555233
+Delmar,Dewey Beach,Delaware,30.492101551002754
+Delmar,Fenwick Island,Delaware,27.17747119268604
+Delmar,Bowers,Delaware,41.87597604520326
+Delmar,Little Creek,Delaware,48.68586176353891
+Delmar,Magnolia,Delaware,42.0406854187106
+Delmar,Woodside,Delaware,41.80668318250499
+Delmar,Farmington,Delaware,27.951646520621168
+Delmar,Henlopen Acres,Delaware,31.169200899478994
+Delmar,Leipsic,Delaware,53.702537430444615
+Delmar,Hartly,Delaware,49.24178967049895
+Delmar,Viola,Delaware,39.865617454893744
+Riverview,Kent Acres,Delaware,7.115708737250546
+Riverview,Millville,Delaware,40.09021842684233
+Riverview,Woodside East,Delaware,2.80291077897898
+Riverview,Delaware City,Delaware,37.78284185803396
+Riverview,Wyoming,Delaware,6.324716670216345
+Riverview,Cheswold,Delaware,13.580017017584083
+Riverview,Greenwood,Delaware,15.775637150325846
+Riverview,Bellefonte,Delaware,50.89120529076202
+Riverview,Lincoln,Delaware,12.29929008696289
+Riverview,Rehoboth Beach,Delaware,31.86633491079932
+Riverview,Dagsboro,Delaware,36.46832874751652
+Riverview,St. Georges,Delaware,37.32050209563558
+Riverview,Rodney Village,Delaware,6.908492750633093
+Riverview,Newport,Delaware,47.41622166047711
+Riverview,Felton,Delaware,3.2387604701019304
+Riverview,Bethany Beach,Delaware,41.7695730877835
+Riverview,Frederica,Delaware,3.2291297319558963
+Riverview,Blades,Delaware,27.537534923821053
+Riverview,Frankford,Delaware,38.28079309728049
+Riverview,Arden,Delaware,53.981074578292905
+Riverview,Ellendale,Delaware,15.960648879403044
+Riverview,South Bethany,Delaware,43.2912917489529
+Riverview,Houston,Delaware,7.768771397415559
+Riverview,Kenton,Delaware,15.71445157673954
+Riverview,Slaughter Beach,Delaware,13.83856653687078
+Riverview,Odessa,Delaware,30.416070918641665
+Riverview,Bethel,Delaware,32.05765431305959
+Riverview,Dewey Beach,Delaware,33.25605507054506
+Riverview,Fenwick Island,Delaware,46.62205046798733
+Riverview,Bowers,Delaware,6.706135625940229
+Riverview,Little Creek,Delaware,10.18894489194346
+Riverview,Magnolia,Delaware,3.753201484739879
+Riverview,Woodside,Delaware,3.852570945401089
+Riverview,Farmington,Delaware,11.44268433155286
+Riverview,Ardentown,Delaware,53.78184055924332
+Riverview,Henlopen Acres,Delaware,31.456052802877185
+Riverview,Ardencroft,Delaware,53.58533054011505
+Riverview,Leipsic,Delaware,14.743922829185914
+Riverview,Hartly,Delaware,14.095209519093522
+Riverview,Port Penn,Delaware,33.79524418767318
+Riverview,Viola,Delaware,2.9150214944008934
+Kent Acres,Millville,Delaware,46.17400528838842
+Kent Acres,Woodside East,Delaware,4.618416417719827
+Kent Acres,Delaware City,Delaware,30.747867947329645
+Kent Acres,Wyoming,Delaware,2.8051474641630763
+Kent Acres,Cheswold,Delaware,7.115835680220161
+Kent Acres,Greenwood,Delaware,22.78395450661209
+Kent Acres,Bellefonte,Delaware,43.77580951075404
+Kent Acres,Lincoln,Delaware,18.914717845272893
+Kent Acres,Rehoboth Beach,Delaware,36.890382092564266
+Kent Acres,Dagsboro,Delaware,42.9831816693293
+Kent Acres,St. Georges,Delaware,30.417046411401376
+Kent Acres,Rodney Village,Delaware,1.2991474250453583
+Kent Acres,Newport,Delaware,40.36756905391909
+Kent Acres,Felton,Delaware,8.874975560365018
+Kent Acres,Bethany Beach,Delaware,47.584958879387216
+Kent Acres,Frederica,Delaware,8.975013996919955
+Kent Acres,Blades,Delaware,34.605135657535776
+Kent Acres,Frankford,Delaware,44.79904697174257
+Kent Acres,Arden,Delaware,46.86536714602912
+Kent Acres,Ellendale,Delaware,22.75961171355337
+Kent Acres,South Bethany,Delaware,49.15512641517704
+Kent Acres,Houston,Delaware,14.84543933262581
+Kent Acres,Kenton,Delaware,10.324881399965834
+Kent Acres,Slaughter Beach,Delaware,18.68065915219984
+Kent Acres,Odessa,Delaware,23.661817198144725
+Kent Acres,Bethel,Delaware,39.118909786602586
+Kent Acres,Dewey Beach,Delaware,38.36829374704701
+Kent Acres,Fenwick Island,Delaware,52.63187613425596
+Kent Acres,Bowers,Delaware,7.896711856560644
+Kent Acres,Little Creek,Delaware,4.317684196123005
+Kent Acres,Magnolia,Delaware,4.725403972021437
+Kent Acres,Woodside,Delaware,5.060009751406286
+Kent Acres,Farmington,Delaware,18.422517533403308
+Kent Acres,Ardentown,Delaware,46.66634293815014
+Kent Acres,Henlopen Acres,Delaware,36.42242233916954
+Kent Acres,Ardencroft,Delaware,46.4696390955848
+Kent Acres,Leipsic,Delaware,7.629683039419907
+Kent Acres,Hartly,Delaware,10.836031559218249
+Kent Acres,Port Penn,Delaware,26.753350845990845
+Kent Acres,Viola,Delaware,6.857143921052154
+Millville,Woodside East,Delaware,42.831296358224535
+Millville,Wyoming,Delaware,46.3208322215657
+Millville,Cheswold,Delaware,53.256762381311695
+Millville,Greenwood,Delaware,31.20947231055433
+Millville,Lincoln,Delaware,27.912444596731405
+Millville,Rehoboth Beach,Delaware,12.749530839946509
+Millville,Dagsboro,Delaware,6.401829766235804
+Millville,Rodney Village,Delaware,46.515954252864745
+Millville,Felton,Delaware,40.84753817737439
+Millville,Bethany Beach,Delaware,3.389186892584456
+Millville,Frederica,Delaware,37.36302838249878
+Millville,Blades,Delaware,26.567719852871097
+Millville,Frankford,Delaware,5.814427140600814
+Millville,Ellendale,Delaware,24.819397710662155
+Millville,South Bethany,Delaware,4.001148638921609
+Millville,Houston,Delaware,33.24533126477989
+Millville,Kenton,Delaware,55.79451630286349
+Millville,Slaughter Beach,Delaware,27.930697222977766
+Millville,Bethel,Delaware,26.71233864687876
+Millville,Dewey Beach,Delaware,11.42315890785387
+Millville,Fenwick Island,Delaware,6.56366104764775
+Millville,Bowers,Delaware,39.08435404062106
+Millville,Little Creek,Delaware,46.77302564649803
+Millville,Magnolia,Delaware,41.44860183106174
+Millville,Woodside,Delaware,43.8939649498416
+Millville,Farmington,Delaware,33.53998536285892
+Millville,Henlopen Acres,Delaware,13.322164438568878
+Millville,Leipsic,Delaware,53.07187439154298
+Millville,Hartly,Delaware,53.82394962488857
+Millville,Viola,Delaware,42.388044422976215
+Woodside East,Delaware City,Delaware,35.06387293021401
+Woodside East,Wyoming,Delaware,3.524355283262325
+Woodside East,Cheswold,Delaware,10.7853432991222
+Woodside East,Greenwood,Delaware,18.183153395109127
+Woodside East,Bellefonte,Delaware,48.28160581644588
+Woodside East,Lincoln,Delaware,15.090704561713018
+Woodside East,Rehoboth Beach,Delaware,34.36347623926786
+Woodside East,Dagsboro,Delaware,39.26302793704836
+Woodside East,St. Georges,Delaware,34.5522930796767
+Woodside East,Rodney Village,Delaware,4.188646955649138
+Woodside East,Newport,Delaware,44.70245678310045
+Woodside East,Felton,Delaware,4.326857959652304
+Woodside East,Bethany Beach,Delaware,44.46298961631353
+Woodside East,Frederica,Delaware,5.603162775917792
+Woodside East,Blades,Delaware,30.02422428282315
+Woodside East,Frankford,Delaware,41.07607541035653
+Woodside East,Arden,Delaware,51.37946261970822
+Woodside East,Ellendale,Delaware,18.763370067670863
+Woodside East,South Bethany,Delaware,45.99500372723967
+Woodside East,Houston,Delaware,10.518682525395592
+Woodside East,Kenton,Delaware,12.963660753138337
+Woodside East,Slaughter Beach,Delaware,16.194335540280484
+Woodside East,Odessa,Delaware,27.62596143631819
+Woodside East,Bethel,Delaware,34.532398235294174
+Woodside East,Dewey Beach,Delaware,35.77878803723148
+Woodside East,Fenwick Island,Delaware,49.35373830760449
+Woodside East,Bowers,Delaware,7.310236186151876
+Woodside East,Little Creek,Delaware,8.313536601988474
+Woodside East,Magnolia,Delaware,3.322862034884402
+Woodside East,Woodside,Delaware,1.636522447876412
+Woodside East,Farmington,Delaware,13.818659468084167
+Woodside East,Ardentown,Delaware,51.18862516926266
+Woodside East,Henlopen Acres,Delaware,33.937075639394386
+Woodside East,Ardencroft,Delaware,50.98660529720246
+Woodside East,Leipsic,Delaware,12.157815909063762
+Woodside East,Hartly,Delaware,11.682903049010076
+Woodside East,Port Penn,Delaware,31.0826799135362
+Woodside East,Viola,Delaware,2.495528158585636
+Delaware City,Wyoming,Delaware,31.72815086806179
+Delaware City,Cheswold,Delaware,24.498950514271023
+Delaware City,Greenwood,Delaware,52.89739014727192
+Delaware City,Bellefonte,Delaware,14.244357563193086
+Delaware City,Lincoln,Delaware,49.558819834597465
+Delaware City,St. Georges,Delaware,3.2114650987509337
+Delaware City,Rodney Village,Delaware,30.88379038787232
+Delaware City,Newport,Delaware,9.64125463021149
+Delaware City,Felton,Delaware,38.73255460824312
+Delaware City,Frederica,Delaware,39.6288476558118
+Delaware City,Arden,Delaware,17.31140974839615
+Delaware City,Ellendale,Delaware,53.46351641625209
+Delaware City,Houston,Delaware,45.55134531683452
+Delaware City,Kenton,Delaware,24.209153857583416
+Delaware City,Slaughter Beach,Delaware,47.95912369729706
+Delaware City,Odessa,Delaware,8.855014646294036
+Delaware City,Bowers,Delaware,36.904804860009655
+Delaware City,Little Creek,Delaware,29.214229704800186
+Delaware City,Magnolia,Delaware,35.242027148923626
+Delaware City,Woodside,Delaware,34.7210592163975
+Delaware City,Farmington,Delaware,48.578447980338616
+Delaware City,Ardentown,Delaware,17.24810488587708
+Delaware City,Ardencroft,Delaware,16.97619142278382
+Delaware City,Leipsic,Delaware,23.21588062807198
+Delaware City,Hartly,Delaware,28.69911736691986
+Delaware City,Port Penn,Delaware,3.997208309085992
+Delaware City,Viola,Delaware,36.65767716252336
+Wyoming,Cheswold,Delaware,7.314386429562982
+Wyoming,Greenwood,Delaware,21.26155178375836
+Wyoming,Bellefonte,Delaware,45.1197979401722
+Wyoming,Lincoln,Delaware,18.61419391809901
+Wyoming,Rehoboth Beach,Delaware,37.64035194876276
+Wyoming,Dagsboro,Delaware,42.78693576081888
+Wyoming,St. Georges,Delaware,31.1231664384896
+Wyoming,Rodney Village,Delaware,1.5688269575082965
+Wyoming,Newport,Delaware,41.36919589711827
+Wyoming,Felton,Delaware,7.073579662761434
+Wyoming,Bethany Beach,Delaware,47.91250289703683
+Wyoming,Frederica,Delaware,8.994293001904747
+Wyoming,Blades,Delaware,33.13734855108679
+Wyoming,Frankford,Delaware,44.600108687119885
+Wyoming,Arden,Delaware,48.22784361834565
+Wyoming,Ellendale,Delaware,22.28089194342596
+Wyoming,South Bethany,Delaware,49.45305927908975
+Wyoming,Houston,Delaware,13.976821669026222
+Wyoming,Kenton,Delaware,9.49771497604392
+Wyoming,Slaughter Beach,Delaware,19.406633891263603
+Wyoming,Odessa,Delaware,24.151546880665087
+Wyoming,Bethel,Delaware,37.621175065910926
+Wyoming,Dewey Beach,Delaware,39.07789329954409
+Wyoming,Fenwick Island,Delaware,52.834838980546245
+Wyoming,Bowers,Delaware,9.436729788786256
+Wyoming,Little Creek,Delaware,7.111577401632158
+Wyoming,Magnolia,Delaware,5.549287943830558
+Wyoming,Woodside,Delaware,3.018248951669096
+Wyoming,Farmington,Delaware,16.908679853253922
+Wyoming,Ardentown,Delaware,48.05058004652983
+Wyoming,Henlopen Acres,Delaware,37.199411948175744
+Wyoming,Ardencroft,Delaware,47.8399292588032
+Wyoming,Leipsic,Delaware,9.21075766798604
+Wyoming,Hartly,Delaware,8.836515600820949
+Wyoming,Port Penn,Delaware,27.76294440105896
+Wyoming,Viola,Delaware,4.974002567662453
+Cheswold,Greenwood,Delaware,28.40004523387299
+Cheswold,Bellefonte,Delaware,38.10324159286955
+Cheswold,Lincoln,Delaware,25.787514012871828
+Cheswold,Rehoboth Beach,Delaware,43.97111294426861
+Cheswold,Dagsboro,Delaware,49.94038444335263
+Cheswold,St. Georges,Delaware,23.81420302225006
+Cheswold,Rodney Village,Delaware,6.772867031025562
+Cheswold,Newport,Delaware,34.13241531943221
+Cheswold,Felton,Delaware,14.23822424305718
+Cheswold,Bethany Beach,Delaware,54.69635806220507
+Cheswold,Frederica,Delaware,15.940337197667692
+Cheswold,Blades,Delaware,40.26455786391468
+Cheswold,Frankford,Delaware,51.75584354287016
+Cheswold,Arden,Delaware,41.22036672501795
+Cheswold,Ellendale,Delaware,29.529280050787182
+Cheswold,South Bethany,Delaware,56.26392404468375
+Cheswold,Houston,Delaware,21.2865724465678
+Cheswold,Kenton,Delaware,4.141169138362641
+Cheswold,Slaughter Beach,Delaware,25.785870367151823
+Cheswold,Odessa,Delaware,16.8424195686658
+Cheswold,Bethel,Delaware,44.71746153980365
+Cheswold,Dewey Beach,Delaware,45.45713266371672
+Cheswold,Fenwick Island,Delaware,59.72775744666191
+Cheswold,Bowers,Delaware,14.829342444773246
+Cheswold,Little Creek,Delaware,8.362336015730229
+Cheswold,Magnolia,Delaware,11.82612967975424
+Cheswold,Woodside,Delaware,10.255062983865372
+Cheswold,Farmington,Delaware,24.079925927026974
+Cheswold,Ardentown,Delaware,41.06373355879303
+Cheswold,Henlopen Acres,Delaware,43.49671941143962
+Cheswold,Ardencroft,Delaware,40.84054501202982
+Cheswold,Leipsic,Delaware,4.240017312823378
+Cheswold,Hartly,Delaware,7.525566046346194
+Cheswold,Port Penn,Delaware,20.56139987705209
+Cheswold,Viola,Delaware,12.174183392633644
+Greenwood,Lincoln,Delaware,9.942855951413124
+Greenwood,Rehoboth Beach,Delaware,27.997390380229653
+Greenwood,Dagsboro,Delaware,25.893945889532933
+Greenwood,St. Georges,Delaware,52.0769799733549
+Greenwood,Rodney Village,Delaware,22.315605417406704
+Greenwood,Felton,Delaware,14.194205127366054
+Greenwood,Bethany Beach,Delaware,33.83550293473423
+Greenwood,Frederica,Delaware,15.369225909876087
+Greenwood,Blades,Delaware,11.876325451179
+Greenwood,Frankford,Delaware,27.54289368091088
+Greenwood,Ellendale,Delaware,8.90774884181021
+Greenwood,South Bethany,Delaware,35.04967752464484
+Greenwood,Houston,Delaware,8.907667117641568
+Greenwood,Kenton,Delaware,29.26292517169289
+Greenwood,Slaughter Beach,Delaware,16.88097739568418
+Greenwood,Odessa,Delaware,44.95077985616016
+Greenwood,Bethel,Delaware,16.363641222693925
+Greenwood,Dewey Beach,Delaware,28.864669266508617
+Greenwood,Fenwick Island,Delaware,37.584112357474375
+Greenwood,Bowers,Delaware,20.17856017003608
+Greenwood,Little Creek,Delaware,25.896205706095323
+Greenwood,Magnolia,Delaware,19.2317926403068
+Greenwood,Woodside,Delaware,18.24371127853937
+Greenwood,Farmington,Delaware,4.3655637218136585
+Greenwood,Henlopen Acres,Delaware,27.850503294100434
+Greenwood,Leipsic,Delaware,30.328499189172284
+Greenwood,Hartly,Delaware,25.76615088681776
+Greenwood,Port Penn,Delaware,48.96009777029361
+Greenwood,Viola,Delaware,16.289336520575386
+Bellefonte,St. Georges,Delaware,16.404199979270924
+Bellefonte,Rodney Village,Delaware,44.10390936058867
+Bellefonte,Newport,Delaware,6.755544801484499
+Bellefonte,Felton,Delaware,52.19125440163295
+Bellefonte,Frederica,Delaware,52.36715585256086
+Bellefonte,Arden,Delaware,3.119142290445018
+Bellefonte,Houston,Delaware,58.59740696770263
+Bellefonte,Kenton,Delaware,38.26002945085313
+Bellefonte,Slaughter Beach,Delaware,59.62973699740924
+Bellefonte,Odessa,Delaware,23.09276197747286
+Bellefonte,Bowers,Delaware,49.01708792991489
+Bellefonte,Little Creek,Delaware,41.54097532766571
+Bellefonte,Magnolia,Delaware,47.98812506702612
+Bellefonte,Woodside,Delaware,48.13797165282871
+Bellefonte,Ardentown,Delaware,3.007558456591357
+Bellefonte,Ardencroft,Delaware,2.752003770532381
+Bellefonte,Leipsic,Delaware,36.14764592698225
+Bellefonte,Hartly,Delaware,42.84805933383827
+Bellefonte,Port Penn,Delaware,17.798446657902748
+Bellefonte,Viola,Delaware,50.09326105158029
+Lincoln,Rehoboth Beach,Delaware,21.0220919599751
+Lincoln,Dagsboro,Delaware,24.173104919396195
+Lincoln,St. Georges,Delaware,49.32697841740072
+Lincoln,Rodney Village,Delaware,19.023072792975466
+Lincoln,Newport,Delaware,59.13469267567553
+Lincoln,Felton,Delaware,12.965480291962582
+Lincoln,Bethany Beach,Delaware,29.779700967046708
+Lincoln,Frederica,Delaware,9.94815732978022
+Lincoln,Blades,Delaware,18.75239626677124
+Lincoln,Frankford,Delaware,25.98669447119616
+Lincoln,Ellendale,Delaware,3.988648394338342
+Lincoln,South Bethany,Delaware,31.25289309539153
+Lincoln,Houston,Delaware,5.538862077625849
+Lincoln,Kenton,Delaware,27.994432798557337
+Lincoln,Slaughter Beach,Delaware,6.94362729140982
+Lincoln,Odessa,Delaware,42.55497884997588
+Lincoln,Bethel,Delaware,23.07138488929468
+Lincoln,Dewey Beach,Delaware,22.228940063022907
+Lincoln,Fenwick Island,Delaware,34.468154616027505
+Lincoln,Bowers,Delaware,13.305915452616132
+Lincoln,Little Creek,Delaware,20.59444240251892
+Lincoln,Magnolia,Delaware,14.31923709707281
+Lincoln,Woodside,Delaware,16.03386586016978
+Lincoln,Farmington,Delaware,8.418915248968204
+Lincoln,Henlopen Acres,Delaware,20.718260245594923
+Lincoln,Leipsic,Delaware,26.34351487671244
+Lincoln,Hartly,Delaware,25.919618263219835
+Lincoln,Port Penn,Delaware,45.56220059711936
+Lincoln,Viola,Delaware,14.478245267698767
+Rehoboth Beach,Dagsboro,Delaware,14.672710565843502
+Rehoboth Beach,Rodney Village,Delaware,37.490864721651086
+Rehoboth Beach,Felton,Delaware,33.45891971561215
+Rehoboth Beach,Bethany Beach,Delaware,12.325592189167825
+Rehoboth Beach,Frederica,Delaware,28.76678335598352
+Rehoboth Beach,Blades,Delaware,28.567776517021567
+Rehoboth Beach,Frankford,Delaware,15.74306050519971
+Rehoboth Beach,Ellendale,Delaware,19.475774130630203
+Rehoboth Beach,South Bethany,Delaware,13.9472048474669
+Rehoboth Beach,Houston,Delaware,26.51341225070633
+Rehoboth Beach,Kenton,Delaware,47.05729995790711
+Rehoboth Beach,Slaughter Beach,Delaware,18.246814094847693
+Rehoboth Beach,Odessa,Delaware,59.66390614700292
+Rehoboth Beach,Bethel,Delaware,30.645534258835468
+Rehoboth Beach,Dewey Beach,Delaware,1.5646737533665518
+Rehoboth Beach,Fenwick Island,Delaware,17.78907320656054
+Rehoboth Beach,Bowers,Delaware,29.20264554349601
+Rehoboth Beach,Little Creek,Delaware,36.62902490274619
+Rehoboth Beach,Magnolia,Delaware,32.28573601904183
+Rehoboth Beach,Woodside,Delaware,35.6993884946688
+Rehoboth Beach,Farmington,Delaware,28.69758698199991
+Rehoboth Beach,Henlopen Acres,Delaware,0.5867157346081382
+Rehoboth Beach,Leipsic,Delaware,43.05875868897949
+Rehoboth Beach,Hartly,Delaware,45.96107366964807
+Rehoboth Beach,Viola,Delaware,34.55776491686586
+Dagsboro,Rodney Village,Delaware,43.168432576610016
+Dagsboro,Felton,Delaware,36.80079076075063
+Dagsboro,Bethany Beach,Delaware,9.752419161184166
+Dagsboro,Frederica,Delaware,34.02087773034829
+Dagsboro,Blades,Delaware,20.25951073129704
+Dagsboro,Frankford,Delaware,1.815934993749379
+Dagsboro,Ellendale,Delaware,20.627517674143714
+Dagsboro,South Bethany,Delaware,10.338389225077602
+Dagsboro,Houston,Delaware,29.156007184427555
+Dagsboro,Kenton,Delaware,52.13244659867424
+Dagsboro,Slaughter Beach,Delaware,25.667475264691912
+Dagsboro,Bethel,Delaware,20.31230048038628
+Dagsboro,Dewey Beach,Delaware,13.85662508550145
+Dagsboro,Fenwick Island,Delaware,11.95292579173773
+Dagsboro,Bowers,Delaware,36.44407485568663
+Dagsboro,Little Creek,Delaware,44.11752913180499
+Dagsboro,Magnolia,Delaware,38.29924676722308
+Dagsboro,Woodside,Delaware,40.15976426858346
+Dagsboro,Farmington,Delaware,28.6855787555678
+Dagsboro,Henlopen Acres,Delaware,15.135301792814396
+Dagsboro,Leipsic,Delaware,50.21627144661269
+Dagsboro,Hartly,Delaware,49.74736996184647
+Dagsboro,Viola,Delaware,38.50990507016536
+St. Georges,Rodney Village,Delaware,30.417934333375943
+St. Georges,Newport,Delaware,10.839844204318757
+St. Georges,Felton,Delaware,38.00968477984373
+St. Georges,Frederica,Delaware,39.379538044363386
+St. Georges,Arden,Delaware,19.3568336930775
+St. Georges,Ellendale,Delaware,53.17336195551784
+St. Georges,Houston,Delaware,45.07093237463351
+St. Georges,Kenton,Delaware,22.99715867172616
+St. Georges,Slaughter Beach,Delaware,48.175634472997146
+St. Georges,Odessa,Delaware,7.198082557674821
+St. Georges,Bowers,Delaware,37.01744462214712
+St. Georges,Little Creek,Delaware,29.3245950650044
+St. Georges,Magnolia,Delaware,35.0321622235383
+St. Georges,Woodside,Delaware,34.06500149379442
+St. Georges,Farmington,Delaware,47.80564624358571
+St. Georges,Ardentown,Delaware,19.35528601399856
+St. Georges,Ardencroft,Delaware,19.058932729155195
+St. Georges,Leipsic,Delaware,23.08589480678283
+St. Georges,Hartly,Delaware,27.25968792132979
+St. Georges,Port Penn,Delaware,4.815635114193298
+St. Georges,Viola,Delaware,35.969579058021395
+Rodney Village,Newport,Delaware,40.52061821633679
+Rodney Village,Felton,Delaware,8.21755567638592
+Rodney Village,Bethany Beach,Delaware,48.00770117212564
+Rodney Village,Frederica,Delaware,9.171732323767928
+Rodney Village,Blades,Delaware,34.175491937994515
+Rodney Village,Frankford,Delaware,44.983986656985365
+Rodney Village,Arden,Delaware,47.20412509453484
+Rodney Village,Ellendale,Delaware,22.794286273376333
+Rodney Village,South Bethany,Delaware,49.56544621727108
+Rodney Village,Houston,Delaware,14.674603406424644
+Rodney Village,Kenton,Delaware,9.580163213831147
+Rodney Village,Slaughter Beach,Delaware,19.24772305742004
+Rodney Village,Odessa,Delaware,23.55025498543765
+Rodney Village,Bethel,Delaware,38.676556563211285
+Rodney Village,Dewey Beach,Delaware,38.952423050515634
+Rodney Village,Fenwick Island,Delaware,53.00140553994945
+Rodney Village,Bowers,Delaware,8.762480653927057
+Rodney Village,Little Creek,Delaware,5.557394321781277
+Rodney Village,Magnolia,Delaware,5.205134394687372
+Rodney Village,Woodside,Delaware,4.225034835598119
+Rodney Village,Farmington,Delaware,17.95062403206924
+Rodney Village,Ardentown,Delaware,47.016303139184906
+Rodney Village,Henlopen Acres,Delaware,37.03413376067602
+Rodney Village,Ardencroft,Delaware,46.81230757271624
+Rodney Village,Leipsic,Delaware,8.017553115557027
+Rodney Village,Hartly,Delaware,9.683352349990049
+Rodney Village,Port Penn,Delaware,26.89988848966834
+Rodney Village,Viola,Delaware,6.135693849412991
+Newport,Felton,Delaware,48.368895297926926
+Newport,Frederica,Delaware,49.2199457380058
+Newport,Arden,Delaware,9.152432211091842
+Newport,Houston,Delaware,55.18387241668811
+Newport,Kenton,Delaware,33.68788238949967
+Newport,Slaughter Beach,Delaware,57.31725920275332
+Newport,Odessa,Delaware,17.97946612515994
+Newport,Bowers,Delaware,46.35542517597969
+Newport,Little Creek,Delaware,38.69374966678858
+Newport,Magnolia,Delaware,44.82789281013984
+Newport,Woodside,Delaware,44.36091013089714
+Newport,Farmington,Delaware,58.21216476378695
+Newport,Ardentown,Delaware,9.28214054428167
+Newport,Ardencroft,Delaware,8.950973726075826
+Newport,Leipsic,Delaware,32.806295315305626
+Newport,Hartly,Delaware,38.05119907471535
+Newport,Port Penn,Delaware,13.621101533756596
+Newport,Viola,Delaware,46.29615138375047
+Felton,Bethany Beach,Delaware,42.74412639687889
+Felton,Frederica,Delaware,5.9178690223298975
+Felton,Blades,Delaware,26.07043941138452
+Felton,Frankford,Delaware,38.59694405071714
+Felton,Arden,Delaware,55.3000994751341
+Felton,Ellendale,Delaware,16.179877947826554
+Felton,South Bethany,Delaware,44.21805965104433
+Felton,Houston,Delaware,7.648715240508288
+Felton,Kenton,Delaware,15.548922790864353
+Felton,Slaughter Beach,Delaware,15.904580031463484
+Felton,Odessa,Delaware,30.945260151295667
+Felton,Bethel,Delaware,30.549604503562943
+Felton,Dewey Beach,Delaware,34.782415199149135
+Felton,Fenwick Island,Delaware,47.40891354599216
+Felton,Bowers,Delaware,9.943404866604034
+Felton,Little Creek,Delaware,12.62274493468444
+Felton,Magnolia,Delaware,6.7546982812764025
+Felton,Woodside,Delaware,4.056286772803133
+Felton,Farmington,Delaware,9.851425445130776
+Felton,Ardentown,Delaware,55.123726756570456
+Felton,Henlopen Acres,Delaware,33.08644439920215
+Felton,Ardencroft,Delaware,54.912579991041504
+Felton,Leipsic,Delaware,16.221425073830208
+Felton,Hartly,Delaware,12.98412444719203
+Felton,Port Penn,Delaware,34.783094383860785
+Felton,Viola,Delaware,2.100560317731496
+Bethany Beach,Frederica,Delaware,38.91988123656815
+Bethany Beach,Blades,Delaware,29.788315574062537
+Bethany Beach,Frankford,Delaware,9.19378053257961
+Bethany Beach,Ellendale,Delaware,26.9539532647563
+Bethany Beach,South Bethany,Delaware,1.639134594153668
+Bethany Beach,Houston,Delaware,35.22435485736334
+Bethany Beach,Kenton,Delaware,57.40937616451818
+Bethany Beach,Slaughter Beach,Delaware,29.06395392374086
+Bethany Beach,Bethel,Delaware,30.060104484302627
+Bethany Beach,Dewey Beach,Delaware,10.819467031683429
+Bethany Beach,Fenwick Island,Delaware,5.465954949163113
+Bethany Beach,Bowers,Delaware,40.261567770330586
+Bethany Beach,Little Creek,Delaware,47.89751269103438
+Bethany Beach,Magnolia,Delaware,42.870738919489895
+Bethany Beach,Woodside,Delaware,45.606279987431655
+Bethany Beach,Farmington,Delaware,35.90941417884662
+Bethany Beach,Henlopen Acres,Delaware,12.91175207916733
+Bethany Beach,Leipsic,Delaware,54.26611402485982
+Bethany Beach,Hartly,Delaware,55.671472891534926
+Bethany Beach,Viola,Delaware,44.18583013245834
+Frederica,Blades,Delaware,26.73788382721367
+Frederica,Frankford,Delaware,35.8368019083366
+Frederica,Arden,Delaware,55.42939893804633
+Frederica,Ellendale,Delaware,13.83505565112859
+Frederica,South Bethany,Delaware,40.46334947268218
+Frederica,Houston,Delaware,6.569541147470564
+Frederica,Kenton,Delaware,18.491989844883708
+Frederica,Slaughter Beach,Delaware,10.647885623480216
+Frederica,Odessa,Delaware,32.633379390681924
+Frederica,Bethel,Delaware,31.252284488056866
+Frederica,Dewey Beach,Delaware,30.17769166707238
+Frederica,Fenwick Island,Delaware,43.86315848362579
+Frederica,Bowers,Delaware,5.003359227291093
+Frederica,Little Creek,Delaware,10.931326571254116
+Frederica,Magnolia,Delaware,4.395147995093241
+Frederica,Woodside,Delaware,6.957710600855754
+Frederica,Farmington,Delaware,11.290873457615552
+Frederica,Ardentown,Delaware,55.20836475784752
+Frederica,Henlopen Acres,Delaware,28.3443456592012
+Frederica,Ardencroft,Delaware,55.026754107034506
+Frederica,Leipsic,Delaware,16.414959964185375
+Frederica,Hartly,Delaware,17.222088059922
+Frederica,Port Penn,Delaware,35.63165796498476
+Frederica,Viola,Delaware,6.128765554305657
+Blades,Frankford,Delaware,21.425876065080026
+Blades,Ellendale,Delaware,15.409131605926198
+Blades,South Bethany,Delaware,30.557776449225248
+Blades,Houston,Delaware,20.1727846688233
+Blades,Kenton,Delaware,40.98091022085215
+Blades,Slaughter Beach,Delaware,24.964555244761023
+Blades,Odessa,Delaware,56.734465014639895
+Blades,Bethel,Delaware,4.524023180003796
+Blades,Dewey Beach,Delaware,28.830590579075576
+Blades,Fenwick Island,Delaware,32.05189028480785
+Blades,Bowers,Delaware,31.239535430771976
+Blades,Little Creek,Delaware,37.53419813636727
+Blades,Magnolia,Delaware,30.845113621989736
+Blades,Woodside,Delaware,30.11972840702855
+Blades,Farmington,Delaware,16.231732305492656
+Blades,Henlopen Acres,Delaware,28.666750944248616
+Blades,Leipsic,Delaware,42.18041673865188
+Blades,Hartly,Delaware,37.24169436784487
+Blades,Viola,Delaware,28.165588816960607
+Frankford,Ellendale,Delaware,22.42836321770474
+Frankford,South Bethany,Delaware,9.50705552575969
+Frankford,Houston,Delaware,30.954283189049427
+Frankford,Kenton,Delaware,53.9409309336373
+Frankford,Slaughter Beach,Delaware,27.44236518441513
+Frankford,Bethel,Delaware,21.14992534892834
+Frankford,Dewey Beach,Delaware,14.794573504578535
+Frankford,Fenwick Island,Delaware,10.629131822711551
+Frankford,Bowers,Delaware,38.2473905003534
+Frankford,Little Creek,Delaware,45.92392115847963
+Frankford,Magnolia,Delaware,40.11466821064303
+Frankford,Woodside,Delaware,41.9683245430626
+Frankford,Farmington,Delaware,30.41283021355332
+Frankford,Henlopen Acres,Delaware,16.23758002899096
+Frankford,Leipsic,Delaware,52.02892432557574
+Frankford,Hartly,Delaware,51.536725621693
+Frankford,Viola,Delaware,40.31359749693168
+Arden,Kenton,Delaware,41.37189916945024
+Arden,Odessa,Delaware,26.14508670451991
+Arden,Bowers,Delaware,52.0296823684234
+Arden,Little Creek,Delaware,44.58410556215454
+Arden,Magnolia,Delaware,51.05487766960074
+Arden,Woodside,Delaware,51.24608866628532
+Arden,Ardentown,Delaware,0.4621670117192327
+Arden,Ardencroft,Delaware,0.4200334708339701
+Arden,Leipsic,Delaware,39.23915428828347
+Arden,Hartly,Delaware,45.95048184744351
+Arden,Port Penn,Delaware,20.90754371537697
+Arden,Viola,Delaware,53.20162597335877
+Ellendale,South Bethany,Delaware,28.35178259624864
+Ellendale,Houston,Delaware,8.531533339091695
+Ellendale,Kenton,Delaware,31.53554445773458
+Ellendale,Slaughter Beach,Delaware,9.560221405244068
+Ellendale,Odessa,Delaware,46.34447691206418
+Ellendale,Bethel,Delaware,19.55937784065393
+Ellendale,Dewey Beach,Delaware,20.49065190976396
+Ellendale,Fenwick Island,Delaware,31.37869341883153
+Ellendale,Bowers,Delaware,17.28972543237047
+Ellendale,Little Creek,Delaware,24.56827886304506
+Ellendale,Magnolia,Delaware,18.226139119234773
+Ellendale,Woodside,Delaware,19.570292182139127
+Ellendale,Farmington,Delaware,9.272636829163652
+Ellendale,Henlopen Acres,Delaware,19.26896549667814
+Ellendale,Leipsic,Delaware,30.249976200133663
+Ellendale,Hartly,Delaware,29.147800731354472
+Ellendale,Port Penn,Delaware,49.46630900934592
+Ellendale,Viola,Delaware,17.88783496529399
+South Bethany,Houston,Delaware,36.673368601057625
+South Bethany,Kenton,Delaware,58.948065677144974
+South Bethany,Slaughter Beach,Delaware,30.66203412657945
+South Bethany,Bethel,Delaware,30.60526492019052
+South Bethany,Dewey Beach,Delaware,12.432290355079038
+South Bethany,Fenwick Island,Delaware,3.843507682767434
+South Bethany,Bowers,Delaware,41.85973812222423
+South Bethany,Little Creek,Delaware,49.50319704505216
+South Bethany,Magnolia,Delaware,44.43779562067894
+South Bethany,Woodside,Delaware,47.122786977164814
+South Bethany,Farmington,Delaware,37.23467267721793
+South Bethany,Henlopen Acres,Delaware,14.532811111123577
+South Bethany,Leipsic,Delaware,55.86566224231385
+South Bethany,Hartly,Delaware,57.16126771829627
+South Bethany,Viola,Delaware,45.68349775781456
+Houston,Kenton,Delaware,23.06452339124095
+Houston,Slaughter Beach,Delaware,10.504578135452238
+Houston,Odessa,Delaware,38.12770139053518
+Houston,Bethel,Delaware,24.690127825233148
+Houston,Dewey Beach,Delaware,27.74507579551918
+Houston,Fenwick Island,Delaware,39.808907051309625
+Houston,Bowers,Delaware,11.275129490663849
+Houston,Little Creek,Delaware,17.402945239761678
+Houston,Magnolia,Delaware,10.728833139660262
+Houston,Woodside,Delaware,11.144879488060385
+Houston,Farmington,Delaware,5.208263469241868
+Houston,Henlopen Acres,Delaware,26.193009266590803
+Houston,Leipsic,Delaware,22.469448579432125
+Houston,Hartly,Delaware,20.62419845363384
+Houston,Port Penn,Delaware,41.56311654798656
+Houston,Viola,Delaware,9.3911956447361
+Kenton,Slaughter Beach,Delaware,28.81055595606807
+Kenton,Odessa,Delaware,15.806191407292111
+Kenton,Bethel,Delaware,45.33720982533234
+Kenton,Dewey Beach,Delaware,48.51119123641557
+Kenton,Bowers,Delaware,18.22149498982658
+Kenton,Little Creek,Delaware,12.371435255616156
+Kenton,Magnolia,Delaware,14.779503856755706
+Kenton,Woodside,Delaware,11.972682344448502
+Kenton,Farmington,Delaware,25.08736524865007
+Kenton,Ardentown,Delaware,41.25963660227365
+Kenton,Henlopen Acres,Delaware,46.60474347641038
+Kenton,Ardencroft,Delaware,41.01203082046158
+Kenton,Leipsic,Delaware,8.071056133956867
+Kenton,Hartly,Delaware,4.817130443003946
+Kenton,Port Penn,Delaware,20.46583850033368
+Kenton,Viola,Delaware,13.674988821035548
+Slaughter Beach,Odessa,Delaware,41.85067299452801
+Slaughter Beach,Bethel,Delaware,29.0529719967316
+Slaughter Beach,Dewey Beach,Delaware,19.70471866285021
+Slaughter Beach,Fenwick Island,Delaware,34.24973485284812
+Slaughter Beach,Bowers,Delaware,11.197813902739597
+Slaughter Beach,Little Creek,Delaware,18.856072328335195
+Slaughter Beach,Magnolia,Delaware,14.043391248996915
+Slaughter Beach,Woodside,Delaware,17.60387208760565
+Slaughter Beach,Farmington,Delaware,14.884059910772372
+Slaughter Beach,Henlopen Acres,Delaware,17.797483519182833
+Slaughter Beach,Leipsic,Delaware,25.203682625314503
+Slaughter Beach,Hartly,Delaware,27.86125870945733
+Slaughter Beach,Port Penn,Delaware,44.014276797853256
+Slaughter Beach,Viola,Delaware,16.661485006322895
+Odessa,Bowers,Delaware,30.65291930547305
+Odessa,Little Creek,Delaware,23.05327274703012
+Odessa,Magnolia,Delaware,28.34872465934105
+Odessa,Woodside,Delaware,27.04854593776573
+Odessa,Farmington,Delaware,40.7018786446538
+Odessa,Ardentown,Delaware,26.09298393709155
+Odessa,Henlopen Acres,Delaware,59.15130504831941
+Odessa,Ardencroft,Delaware,25.81670732049073
+Odessa,Leipsic,Delaware,16.650678748972616
+Odessa,Hartly,Delaware,20.07522864232106
+Odessa,Port Penn,Delaware,5.947934842292106
+Odessa,Viola,Delaware,28.92869479027433
+Bethel,Dewey Beach,Delaware,30.69467772879538
+Bethel,Fenwick Island,Delaware,31.571993806761
+Bethel,Bowers,Delaware,35.721426692378
+Bethel,Little Creek,Delaware,42.057674282764005
+Bethel,Magnolia,Delaware,35.368628944084186
+Bethel,Woodside,Delaware,34.60293570971301
+Bethel,Farmington,Delaware,20.72664818721837
+Bethel,Henlopen Acres,Delaware,30.821404246211173
+Bethel,Leipsic,Delaware,46.685859844556376
+Bethel,Hartly,Delaware,41.49850988039678
+Bethel,Viola,Delaware,32.64749716132457
+Dewey Beach,Fenwick Island,Delaware,16.275782454451782
+Dewey Beach,Bowers,Delaware,30.70673277125101
+Dewey Beach,Little Creek,Delaware,38.15613733245177
+Dewey Beach,Magnolia,Delaware,33.748056741968924
+Dewey Beach,Woodside,Delaware,37.096299271703344
+Dewey Beach,Farmington,Delaware,29.74869920425849
+Dewey Beach,Henlopen Acres,Delaware,2.1320904228982083
+Dewey Beach,Leipsic,Delaware,44.58408729764529
+Dewey Beach,Hartly,Delaware,47.35051937702585
+Dewey Beach,Viola,Delaware,35.92229577713072
+Fenwick Island,Bowers,Delaware,45.43793856993882
+Fenwick Island,Little Creek,Delaware,53.10541921303651
+Fenwick Island,Magnolia,Delaware,47.90788944153741
+Fenwick Island,Woodside,Delaware,50.43363348325182
+Fenwick Island,Farmington,Delaware,40.04170849124099
+Fenwick Island,Henlopen Acres,Delaware,18.37490929986745
+Fenwick Island,Leipsic,Delaware,59.441951505798805
+Fenwick Island,Viola,Delaware,48.94051699510042
+Bowers,Little Creek,Delaware,7.700919500920889
+Bowers,Magnolia,Delaware,4.053822371564405
+Bowers,Woodside,Delaware,8.942576913510127
+Bowers,Farmington,Delaware,16.22291173730376
+Bowers,Ardentown,Delaware,51.78146884595655
+Bowers,Henlopen Acres,Delaware,28.71621324045792
+Bowers,Ardencroft,Delaware,51.61978898160264
+Bowers,Leipsic,Delaware,14.006510951138234
+Bowers,Hartly,Delaware,18.27196781729257
+Bowers,Port Penn,Delaware,32.93601869565591
+Bowers,Viola,Delaware,9.194850875175865
+Little Creek,Magnolia,Delaware,6.689099524738214
+Little Creek,Woodside,Delaware,9.169104428257816
+Little Creek,Farmington,Delaware,21.59960597829184
+Little Creek,Ardentown,Delaware,44.35231014410195
+Little Creek,Henlopen Acres,Delaware,36.12263625424909
+Little Creek,Ardencroft,Delaware,44.17833549757208
+Little Creek,Leipsic,Delaware,6.432310241414351
+Little Creek,Hartly,Delaware,14.193953701073667
+Little Creek,Port Penn,Delaware,25.240395781583302
+Little Creek,Viola,Delaware,10.769576770239528
+Magnolia,Woodside,Delaware,4.93103884040676
+Magnolia,Farmington,Delaware,14.965524958531994
+Magnolia,Ardentown,Delaware,50.837231108631
+Magnolia,Henlopen Acres,Delaware,31.829218738527896
+Magnolia,Ardencroft,Delaware,50.65321730227674
+Magnolia,Leipsic,Delaware,12.026195214137193
+Magnolia,Hartly,Delaware,14.354595857960746
+Magnolia,Port Penn,Delaware,31.245050190303363
+Magnolia,Viola,Delaware,5.499754656351615
+Woodside,Farmington,Delaware,13.892404972659673
+Woodside,Ardentown,Delaware,51.06875520994226
+Woodside,Henlopen Acres,Delaware,35.28399331310557
+Woodside,Ardencroft,Delaware,50.85817412757536
+Woodside,Leipsic,Delaware,12.185199065468572
+Woodside,Hartly,Delaware,10.26742283736342
+Woodside,Port Penn,Delaware,30.76203925363735
+Woodside,Viola,Delaware,1.956013266710263
+Farmington,Henlopen Acres,Delaware,28.46589159242304
+Farmington,Leipsic,Delaware,25.96297925412188
+Farmington,Hartly,Delaware,21.800072832015147
+Farmington,Port Penn,Delaware,44.63286683178827
+Farmington,Viola,Delaware,11.940600569125
+Ardentown,Ardencroft,Delaware,0.3379816573738269
+Ardentown,Leipsic,Delaware,39.042740203199536
+Ardentown,Hartly,Delaware,45.85345031882461
+Ardentown,Port Penn,Delaware,20.801445569391483
+Ardentown,Viola,Delaware,53.02458028522641
+Henlopen Acres,Leipsic,Delaware,42.55355920934253
+Henlopen Acres,Hartly,Delaware,45.54867372956042
+Henlopen Acres,Viola,Delaware,34.16172603025617
+Ardencroft,Leipsic,Delaware,38.84423351261797
+Ardencroft,Hartly,Delaware,45.59823297252128
+Ardencroft,Port Penn,Delaware,20.55009124494884
+Ardencroft,Viola,Delaware,52.813835784025294
+Leipsic,Hartly,Delaware,11.757268680793867
+Leipsic,Port Penn,Delaware,19.21898206834087
+Leipsic,Viola,Delaware,14.127595008235668
+Hartly,Port Penn,Delaware,25.05586204212491
+Hartly,Viola,Delaware,11.496973255006738
+Port Penn,Viola,Delaware,32.70300918868909
+Dover,Bowers Beach,,9.370388456589351
+Dover,Stephen R Korup / Joseph B Riddle,,12.848023380980292

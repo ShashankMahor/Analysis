@@ -1,0 +1,1421 @@
+City 1,City 2,State,Distance
+Las Vegas,Henderson,Nevada,19.792627549221322
+Las Vegas,North Las Vegas,Nevada,10.56538472087964
+Las Vegas,Enterprise,Nevada,15.600606575967928
+Las Vegas,Spring Valley,Nevada,9.5223362681478
+Las Vegas,Sunrise Manor,Nevada,12.688935359031992
+Las Vegas,Paradise,Nevada,12.418651623669868
+Las Vegas,Whitney,Nevada,15.659758711540201
+Las Vegas,Pahrump,Nevada,40.897290960377234
+Las Vegas,Winchester,Nevada,9.800610078256783
+Las Vegas,Summerlin South,Nevada,8.40307403114949
+Las Vegas,Boulder City,Nevada,33.08438155087948
+Las Vegas,Moapa Valley,Nevada,51.9440720905511
+Las Vegas,Nellis AFB,Nevada,11.670658625882135
+Las Vegas,Sandy Valley,Nevada,33.83070672566971
+Las Vegas,Indian Springs,Nevada,34.471225124755904
+Las Vegas,Moapa Town,Nevada,47.253835339236
+Las Vegas,Mount Charleston,Nevada,19.561751342764044
+Las Vegas,Searchlight,Nevada,57.01516759995152
+Las Vegas,Blue Diamond,Nevada,15.671258885502438
+Las Vegas,Goodsprings,Nevada,29.263439069508365
+Las Vegas,Nelson,Nevada,43.06478976634929
+Reno,Sparks,Nevada,7.249346795141155
+Reno,Carson City,Nevada,28.02177383344731
+Reno,Fernley,Nevada,35.134649694795904
+Reno,Sun Valley,Nevada,5.6590073252603155
+Reno,Spanish Springs,Nevada,12.072507107329331
+Reno,Dayton,Nevada,25.120216584807036
+Reno,Gardnerville Ranchos,Nevada,45.42811985222216
+Reno,Cold Springs,Nevada,12.035116013862156
+Reno,Fallon,Nevada,57.438733274674945
+Reno,Incline Village,Nevada,20.391064837825393
+Reno,Johnson Lane,Nevada,35.17934837644169
+Reno,Gardnerville,Nevada,42.55064873264684
+Reno,Indian Hills,Nevada,31.86962336709608
+Reno,Lemmon Valley,Nevada,9.555421797358717
+Reno,Silver Springs,Nevada,35.78229767585797
+Reno,Washoe Valley,Nevada,18.165779285016903
+Reno,Minden,Nevada,40.68648219068556
+Reno,Yerington,Nevada,56.994813744718904
+Reno,Kingsbury,Nevada,38.59554155789019
+Reno,Stagecoach,Nevada,27.927834861266426
+Reno,Topaz Ranch Estates,Nevada,59.17400531105766
+Reno,Ruhenstroth,Nevada,46.274246096153746
+Reno,Smith Valley,Nevada,57.51808024787548
+Reno,Mogul,Nevada,4.604568753366294
+Reno,East Valley,Nevada,42.46023309448953
+Reno,Golden Valley,Nevada,4.886932047585737
+Reno,Verdi,Nevada,7.308618526397418
+Reno,Genoa,Nevada,36.16719334069582
+Reno,Stateline,Nevada,40.46907878352825
+Reno,Round Hill Village,Nevada,38.565932965261396
+Reno,Virginia City,Nevada,19.846973618289233
+Reno,Wadsworth,Nevada,30.333477097630965
+Reno,Zephyr Cove,Nevada,37.615780596874444
+Reno,Fish Springs,Nevada,42.4602901963007
+Reno,Carter Springs,Nevada,48.73067207533677
+Reno,Skyland,Nevada,36.309257749340766
+Reno,Nixon,Nevada,32.38971198202383
+Reno,Sutcliffe,Nevada,29.706007695971245
+Reno,Lakeridge,Nevada,35.62449058958508
+Reno,Double Spring,Nevada,54.63052661226876
+Reno,Glenbrook,Nevada,31.4571681615817
+Reno,Crystal Bay,Nevada,23.447281917943524
+Reno,Silver City,Nevada,22.763789589916396
+Reno,Logan Creek,Nevada,33.883442072112146
+Henderson,North Las Vegas,Nevada,19.171606614604773
+Henderson,Enterprise,Nevada,10.630405085857147
+Henderson,Spring Valley,Nevada,13.83028716005012
+Henderson,Sunrise Manor,Nevada,11.391844438477618
+Henderson,Paradise,Nevada,7.46327618663031
+Henderson,Whitney,Nevada,6.032906485585657
+Henderson,Pahrump,Nevada,55.586730317050765
+Henderson,Winchester,Nevada,10.13889247248309
+Henderson,Summerlin South,Nevada,18.16187045655709
+Henderson,Boulder City,Nevada,13.466232907049358
+Henderson,Moapa Valley,Nevada,52.28058148844712
+Henderson,Nellis AFB,Nevada,16.120688110457376
+Henderson,Sandy Valley,Nevada,35.24422963934667
+Henderson,Indian Springs,Nevada,54.164734416809125
+Henderson,Moapa Town,Nevada,51.93389625719618
+Henderson,Mount Charleston,Nevada,36.494994088165846
+Henderson,Searchlight,Nevada,39.02175276376737
+Henderson,Cal-Nev-Ari,Nevada,50.02530781842644
+Henderson,Blue Diamond,Nevada,21.066121104286463
+Henderson,Goodsprings,Nevada,25.540929860214707
+Henderson,Nelson,Nevada,23.440992566516464
+North Las Vegas,Enterprise,Nevada,20.760416458298877
+North Las Vegas,Spring Valley,Nevada,16.51378588403522
+North Las Vegas,Sunrise Manor,Nevada,7.908295419680687
+North Las Vegas,Paradise,Nevada,14.109159431074508
+North Las Vegas,Whitney,Nevada,13.23720071769441
+North Las Vegas,Pahrump,Nevada,50.93560019942525
+North Las Vegas,Winchester,Nevada,10.807421422981252
+North Las Vegas,Summerlin South,Nevada,17.700498685326515
+North Las Vegas,Boulder City,Nevada,32.18314394453411
+North Las Vegas,Moapa Valley,Nevada,41.54029801423375
+North Las Vegas,Nellis AFB,Nevada,3.376336129493972
+North Las Vegas,Sandy Valley,Nevada,43.18303955484889
+North Las Vegas,Indian Springs,Nevada,40.26009158741056
+North Las Vegas,Moapa Town,Nevada,37.595698089935404
+North Las Vegas,Mount Charleston,Nevada,29.364476724063753
+North Las Vegas,Searchlight,Nevada,58.19001391183928
+North Las Vegas,Blue Diamond,Nevada,24.924364001892126
+North Las Vegas,Goodsprings,Nevada,36.96306642924434
+North Las Vegas,Nelson,Nevada,41.88953892093282
+Enterprise,Spring Valley,Nevada,6.265617033652979
+Enterprise,Sunrise Manor,Nevada,15.379837872647775
+Enterprise,Paradise,Nevada,7.463499039123644
+Enterprise,Whitney,Nevada,12.369656485677618
+Enterprise,Pahrump,Nevada,45.52046597671699
+Enterprise,Winchester,Nevada,10.148301320379009
+Enterprise,Summerlin South,Nevada,9.862161800375008
+Enterprise,Boulder City,Nevada,20.537953218570546
+Enterprise,Moapa Valley,Nevada,59.634483871487845
+Enterprise,Nellis AFB,Nevada,18.955515395895034
+Enterprise,Sandy Valley,Nevada,25.337058079633078
+Enterprise,Indian Springs,Nevada,47.55912874683935
+Enterprise,Moapa Town,Nevada,57.54443877625024
+Enterprise,Mount Charleston,Nevada,27.77258509163533
+Enterprise,Searchlight,Nevada,41.89668814649157
+Enterprise,Cal-Nev-Ari,Nevada,52.73261180155061
+Enterprise,Blue Diamond,Nevada,10.578191517462983
+Enterprise,Goodsprings,Nevada,16.86848590780924
+Enterprise,Nelson,Nevada,29.970569858666206
+Spring Valley,Sunrise Manor,Nevada,13.314805863781997
+Spring Valley,Paradise,Nevada,7.1897340682334505
+Spring Valley,Whitney,Nevada,12.635103880766323
+Spring Valley,Pahrump,Nevada,41.97106705516983
+Spring Valley,Winchester,Nevada,7.633402074521061
+Spring Valley,Summerlin South,Nevada,4.337530802132725
+Spring Valley,Boulder City,Nevada,25.817793477837256
+Spring Valley,Moapa Valley,Nevada,57.228784817390164
+Spring Valley,Nellis AFB,Nevada,15.563962386303519
+Spring Valley,Sandy Valley,Nevada,26.95675673894339
+Spring Valley,Indian Springs,Nevada,41.590634337980596
+Spring Valley,Moapa Town,Nevada,54.052727750142964
+Spring Valley,Mount Charleston,Nevada,22.72140509921637
+Spring Valley,Searchlight,Nevada,48.13437458091639
+Spring Valley,Cal-Nev-Ari,Nevada,58.98841650978527
+Spring Valley,Blue Diamond,Nevada,9.17810222526645
+Spring Valley,Goodsprings,Nevada,20.544189258412118
+Spring Valley,Nelson,Nevada,35.56198918350131
+Sunrise Manor,Paradise,Nevada,7.938673334250595
+Sunrise Manor,Whitney,Nevada,5.377524467124901
+Sunrise Manor,Pahrump,Nevada,53.10720034759668
+Sunrise Manor,Winchester,Nevada,5.716803066375338
+Sunrise Manor,Summerlin South,Nevada,16.296547858738553
+Sunrise Manor,Boulder City,Nevada,24.27485491997653
+Sunrise Manor,Moapa Valley,Nevada,44.344935661078715
+Sunrise Manor,Nellis AFB,Nevada,4.732559639048872
+Sunrise Manor,Sandy Valley,Nevada,39.980977792035674
+Sunrise Manor,Indian Springs,Nevada,46.25196050940061
+Sunrise Manor,Moapa Town,Nevada,42.270399105130416
+Sunrise Manor,Mount Charleston,Nevada,32.10075250959005
+Sunrise Manor,Searchlight,Nevada,50.351262869871476
+Sunrise Manor,Blue Diamond,Nevada,22.49191344007632
+Sunrise Manor,Goodsprings,Nevada,32.23699796403888
+Sunrise Manor,Nelson,Nevada,34.00215395494361
+Paradise,Whitney,Nevada,5.541465806592106
+Paradise,Pahrump,Nevada,49.10070819224216
+Paradise,Winchester,Nevada,3.4001729247821175
+Paradise,Summerlin South,Nevada,11.308118233645077
+Paradise,Boulder City,Nevada,20.666938485761992
+Paradise,Moapa Valley,Nevada,52.17710355323023
+Paradise,Nellis AFB,Nevada,11.83218973161179
+Paradise,Sandy Valley,Nevada,32.473962904062546
+Paradise,Indian Springs,Nevada,46.709306467834836
+Paradise,Moapa Town,Nevada,50.18504868069565
+Paradise,Mount Charleston,Nevada,29.34248814606231
+Paradise,Searchlight,Nevada,45.197740336733546
+Paradise,Cal-Nev-Ari,Nevada,56.2020076291858
+Paradise,Blue Diamond,Nevada,15.860727137017276
+Paradise,Goodsprings,Nevada,24.33196896541003
+Paradise,Nelson,Nevada,30.650670165704692
+Sparks,Carson City,Nevada,29.19541044061251
+Sparks,Fernley,Nevada,28.068596523200437
+Sparks,Sun Valley,Nevada,4.124528594311857
+Sparks,Spanish Springs,Nevada,6.257439018721487
+Sparks,Dayton,Nevada,23.141857606229237
+Sparks,Gardnerville Ranchos,Nevada,46.79836812302996
+Sparks,Cold Springs,Nevada,16.184938014527138
+Sparks,Fallon,Nevada,50.59760884991135
+Sparks,Incline Village,Nevada,24.64026369117898
+Sparks,Johnson Lane,Nevada,36.19950015603302
+Sparks,Gardnerville,Nevada,43.79200609713105
+Sparks,Indian Hills,Nevada,33.68776707743129
+Sparks,Lemmon Valley,Nevada,10.166873503432686
+Sparks,Silver Springs,Nevada,29.864924994177727
+Sparks,Washoe Valley,Nevada,19.674966597780333
+Sparks,Minden,Nevada,42.20137937960322
+Sparks,Yerington,Nevada,53.616922854494774
+Sparks,Kingsbury,Nevada,41.189666424649445
+Sparks,Stagecoach,Nevada,22.86358606145609
+Sparks,Topaz Ranch Estates,Nevada,58.946714058700614
+Sparks,Ruhenstroth,Nevada,47.101063435181146
+Sparks,Smith Valley,Nevada,56.13273074117807
+Sparks,Mogul,Nevada,11.734316813890695
+Sparks,East Valley,Nevada,43.35947411758728
+Sparks,Golden Valley,Nevada,6.473998048763848
+Sparks,Verdi,Nevada,14.535630154463105
+Sparks,Genoa,Nevada,38.301470597244354
+Sparks,Stateline,Nevada,43.54114258824174
+Sparks,Fallon Station,Nevada,54.53773698254223
+Sparks,Round Hill Village,Nevada,41.51809801842516
+Sparks,Virginia City,Nevada,18.71904611602549
+Sparks,Wadsworth,Nevada,23.091126909470958
+Sparks,Zephyr Cove,Nevada,40.66532825353885
+Sparks,Fish Springs,Nevada,42.91247244092168
+Sparks,Carter Springs,Nevada,49.26000327304442
+Sparks,Skyland,Nevada,39.323799067672816
+Sparks,Nixon,Nevada,25.89220250608734
+Sparks,Sutcliffe,Nevada,26.10014996356322
+Sparks,Lakeridge,Nevada,38.83023951031622
+Sparks,Double Spring,Nevada,55.094360598867716
+Sparks,Glenbrook,Nevada,34.787156449250546
+Sparks,Crystal Bay,Nevada,28.129591137033284
+Sparks,Silver City,Nevada,21.794034862082132
+Sparks,Logan Creek,Nevada,37.05991260538093
+Carson City,Fernley,Nevada,41.18376331468032
+Carson City,Sun Valley,Nevada,31.72449786305223
+Carson City,Spanish Springs,Nevada,35.136678096891586
+Carson City,Dayton,Nevada,12.302114700088065
+Carson City,Gardnerville Ranchos,Nevada,17.618238589989655
+Carson City,Cold Springs,Nevada,39.33606279770316
+Carson City,Fallon,Nevada,56.53033649781841
+Carson City,Incline Village,Nevada,13.166645554446674
+Carson City,Johnson Lane,Nevada,7.1585683154687905
+Carson City,Gardnerville,Nevada,14.642475015280716
+Carson City,Indian Hills,Nevada,5.036226693284055
+Carson City,Lemmon Valley,Nevada,37.3356920822629
+Carson City,Silver Springs,Nevada,32.73136170555844
+Carson City,Washoe Valley,Nevada,9.864966609025993
+Carson City,Minden,Nevada,13.00953697053809
+Carson City,Yerington,Nevada,36.850763106212135
+Carson City,Kingsbury,Nevada,13.254664778985152
+Carson City,Stagecoach,Nevada,24.513040467946883
+Carson City,Topaz Ranch Estates,Nevada,31.58882139129113
+Carson City,Ruhenstroth,Nevada,18.252495617783648
+Carson City,Smith Valley,Nevada,31.703106053633395
+Carson City,Mogul,Nevada,26.895424714173352
+Carson City,East Valley,Nevada,14.43913902830647
+Carson City,Golden Valley,Nevada,32.44865815774014
+Carson City,Verdi,Nevada,27.90596904539346
+Carson City,Genoa,Nevada,9.747006874584159
+Carson City,Stateline,Nevada,16.475913717565
+Carson City,Fallon Station,Nevada,58.199553567188275
+Carson City,Round Hill Village,Nevada,14.392840915454384
+Carson City,Virginia City,Nevada,12.026739397448871
+Carson City,Schurz,Nevada,51.26564417953033
+Carson City,Wadsworth,Nevada,41.246376666208114
+Carson City,Zephyr Cove,Nevada,13.931647184880882
+Carson City,Fish Springs,Nevada,14.579278743951468
+Carson City,Carter Springs,Nevada,20.753752629528496
+Carson City,Skyland,Nevada,12.723334719468385
+Carson City,Nixon,Nevada,51.11138767635324
+Carson City,Sutcliffe,Nevada,55.20115365657228
+Carson City,Lakeridge,Nevada,12.934070039262215
+Carson City,Double Spring,Nevada,26.650325828547864
+Carson City,Glenbrook,Nevada,10.655444635409355
+Carson City,Topaz Lake,Nevada,33.174035617444126
+Carson City,Crystal Bay,Nevada,14.732395982819439
+Carson City,Silver City,Nevada,9.829451366489963
+Carson City,Logan Creek,Nevada,11.526026221059817
+Whitney,Pahrump,Nevada,54.30857512978358
+Whitney,Winchester,Nevada,6.06564071668636
+Whitney,Summerlin South,Nevada,16.55473057767226
+Whitney,Boulder City,Nevada,19.00352432988275
+Whitney,Moapa Valley,Nevada,47.67780476778077
+Whitney,Nellis AFB,Nevada,10.10986082039854
+Whitney,Sandy Valley,Nevada,37.6872667734481
+Whitney,Indian Springs,Nevada,50.04729871221626
+Whitney,Moapa Town,Nevada,46.55541991868077
+Whitney,Mount Charleston,Nevada,34.06666571007698
+Whitney,Searchlight,Nevada,44.976748272116204
+Whitney,Cal-Nev-Ari,Nevada,55.96718438646656
+Whitney,Blue Diamond,Nevada,21.399722012032395
+Whitney,Goodsprings,Nevada,28.975688044906722
+Whitney,Nelson,Nevada,28.830609939277462
+Pahrump,Winchester,Nevada,48.46670291198644
+Pahrump,Summerlin South,Nevada,37.79990070784712
+Pahrump,Nellis AFB,Nevada,52.547583527736144
+Pahrump,Sandy Valley,Nevada,33.36442577986739
+Pahrump,Amargosa Valley,Nevada,35.08174286856167
+Pahrump,Indian Springs,Nevada,28.556946943233196
+Pahrump,Mount Charleston,Nevada,21.59318375242278
+Pahrump,Blue Diamond,Nevada,35.06006909656103
+Pahrump,Goodsprings,Nevada,41.47717864129881
+Winchester,Summerlin South,Nevada,10.962115984144708
+Winchester,Boulder City,Nevada,23.582025776549393
+Winchester,Moapa Valley,Nevada,49.95413004074996
+Winchester,Nellis AFB,Nevada,8.80730817589577
+Winchester,Sandy Valley,Nevada,34.28945768488973
+Winchester,Indian Springs,Nevada,44.27181917285963
+Winchester,Moapa Town,Nevada,47.43982027005893
+Winchester,Mount Charleston,Nevada,28.025803004512003
+Winchester,Searchlight,Nevada,48.50175643125879
+Winchester,Cal-Nev-Ari,Nevada,59.512058961208396
+Winchester,Blue Diamond,Nevada,16.80749194877353
+Winchester,Goodsprings,Nevada,26.837843889594524
+Winchester,Nelson,Nevada,33.56796354704922
+Summerlin South,Boulder City,Nevada,30.024341978945554
+Summerlin South,Moapa Valley,Nevada,59.136023256169935
+Summerlin South,Nellis AFB,Nevada,17.549878719830627
+Summerlin South,Sandy Valley,Nevada,25.624492489906014
+Summerlin South,Indian Springs,Nevada,37.699764932151844
+Summerlin South,Moapa Town,Nevada,55.169487658847345
+Summerlin South,Mount Charleston,Nevada,18.391932136245295
+Summerlin South,Searchlight,Nevada,51.58579617237955
+Summerlin South,Blue Diamond,Nevada,7.345087045724233
+Summerlin South,Goodsprings,Nevada,20.960302423018955
+Summerlin South,Nelson,Nevada,39.67909690615386
+Fernley,Sun Valley,Nevada,31.474426043643845
+Fernley,Spanish Springs,Nevada,26.361591380952284
+Fernley,Dayton,Nevada,28.99052353778873
+Fernley,Gardnerville Ranchos,Nevada,54.912395781579086
+Fernley,Cold Springs,Nevada,42.92698058771016
+Fernley,Fallon,Nevada,22.890326365663
+Fernley,Incline Village,Nevada,45.351682127444846
+Fernley,Johnson Lane,Nevada,45.55307080155512
+Fernley,Gardnerville,Nevada,52.05555023028558
+Fernley,Indian Hills,Nevada,46.08827275576545
+Fernley,Lemmon Valley,Nevada,35.51964770666642
+Fernley,Silver Springs,Nevada,12.49182931786947
+Fernley,Washoe Valley,Nevada,36.48629409668598
+Fernley,Minden,Nevada,51.673214052298256
+Fernley,Yerington,Nevada,42.116381068712656
+Fernley,Kingsbury,Nevada,54.19336077092169
+Fernley,Stagecoach,Nevada,17.05752536817702
+Fernley,Topaz Ranch Estates,Nevada,59.4327122018191
+Fernley,Ruhenstroth,Nevada,53.32926695759965
+Fernley,Lovelock,Nevada,56.94947704704947
+Fernley,Smith Valley,Nevada,52.57836858605015
+Fernley,Mogul,Nevada,39.25191535301868
+Fernley,East Valley,Nevada,50.58635351238392
+Fernley,Golden Valley,Nevada,33.97425284013459
+Fernley,Verdi,Nevada,42.15052837775178
+Fernley,Genoa,Nevada,50.50589590767576
+Fernley,Stateline,Nevada,57.58856172800833
+Fernley,Fallon Station,Nevada,27.314582240280163
+Fernley,Round Hill Village,Nevada,55.53347568421448
+Fernley,Virginia City,Nevada,30.161431731819253
+Fernley,Schurz,Nevada,45.53590308613406
+Fernley,Wadsworth,Nevada,7.154753969398464
+Fernley,Zephyr Cove,Nevada,55.11306515430228
+Fernley,Fish Springs,Nevada,48.73907954185044
+Fernley,Carter Springs,Nevada,54.05703916556146
+Fernley,Skyland,Nevada,53.90451158617395
+Fernley,Nixon,Nevada,20.382805243479858
+Fernley,Sutcliffe,Nevada,35.33249891377299
+Fernley,Lakeridge,Nevada,54.04853496072648
+Fernley,Double Spring,Nevada,58.69041487631025
+Fernley,Glenbrook,Nevada,51.10498415580474
+Fernley,Crystal Bay,Nevada,49.07189582129596
+Fernley,Silver City,Nevada,31.499514045325856
+Fernley,Logan Creek,Nevada,52.51790751861587
+Sun Valley,Spanish Springs,Nevada,6.572083696790574
+Sun Valley,Dayton,Nevada,26.7444305307878
+Sun Valley,Gardnerville Ranchos,Nevada,49.32599620880751
+Sun Valley,Cold Springs,Nevada,12.106645976464916
+Sun Valley,Fallon,Nevada,54.19253857610614
+Sun Valley,Incline Village,Nevada,25.54699698299811
+Sun Valley,Johnson Lane,Nevada,38.83747836521215
+Sun Valley,Gardnerville,Nevada,46.3664624721512
+Sun Valley,Indian Hills,Nevada,35.95879016433682
+Sun Valley,Lemmon Valley,Nevada,6.214720013431094
+Sun Valley,Silver Springs,Nevada,33.910314293283484
+Sun Valley,Washoe Valley,Nevada,21.944828745215553
+Sun Valley,Minden,Nevada,44.649675257422714
+Sun Valley,Yerington,Nevada,57.6195050720535
+Sun Valley,Kingsbury,Nevada,43.117396365027396
+Sun Valley,Stagecoach,Nevada,26.987809073365753
+Sun Valley,Ruhenstroth,Nevada,49.86089283480095
+Sun Valley,Smith Valley,Nevada,59.68909621792732
+Sun Valley,Mogul,Nevada,10.140645471467359
+Sun Valley,East Valley,Nevada,46.07760889978666
+Sun Valley,Golden Valley,Nevada,2.512257713452037
+Sun Valley,Verdi,Nevada,12.582919353908963
+Sun Valley,Genoa,Nevada,40.446031938259495
+Sun Valley,Stateline,Nevada,45.22483664504337
+Sun Valley,Fallon Station,Nevada,58.25028753961683
+Sun Valley,Round Hill Village,Nevada,43.259877693800526
+Sun Valley,Virginia City,Nevada,22.00706752084745
+Sun Valley,Wadsworth,Nevada,26.021159280782356
+Sun Valley,Zephyr Cove,Nevada,42.35178917787818
+Sun Valley,Fish Springs,Nevada,45.809455518081585
+Sun Valley,Carter Springs,Nevada,52.14564838511325
+Sun Valley,Skyland,Nevada,41.02421561935411
+Sun Valley,Nixon,Nevada,26.86197420388856
+Sun Valley,Sutcliffe,Nevada,24.438018686801247
+Sun Valley,Lakeridge,Nevada,40.424734657242034
+Sun Valley,Double Spring,Nevada,58.019313962766155
+Sun Valley,Glenbrook,Nevada,36.29572844505185
+Sun Valley,Crystal Bay,Nevada,28.78230869834812
+Sun Valley,Silver City,Nevada,25.070609283377603
+Sun Valley,Logan Creek,Nevada,38.6633906723039
+Mesquite,Moapa Valley,Nevada,22.45774591702775
+Mesquite,Bunkerville,Nevada,3.0543178901430434
+Mesquite,Moapa Town,Nevada,28.915674547661155
+Elko,Spring Creek,Nevada,10.967577131084994
+Elko,Carlin,Nevada,19.651008508829005
+Elko,Wells,Nevada,46.625775743965704
+Elko,Osino,Nevada,9.042922028932843
+Elko,Crescent Valley,Nevada,51.33380337925426
+Elko,Lamoille,Nevada,17.07515651035442
+Spanish Springs,Dayton,Nevada,27.988581532439557
+Spanish Springs,Gardnerville Ranchos,Nevada,52.67860168468826
+Spanish Springs,Cold Springs,Nevada,16.611151259940982
+Spanish Springs,Fallon,Nevada,49.24998106111238
+Spanish Springs,Incline Village,Nevada,30.865613551480426
+Spanish Springs,Johnson Lane,Nevada,42.040300243108014
+Spanish Springs,Gardnerville,Nevada,49.649687893056715
+Spanish Springs,Indian Hills,Nevada,39.741025745362855
+Spanish Springs,Lemmon Valley,Nevada,9.158316605776918
+Spanish Springs,Silver Springs,Nevada,30.786758054143448
+Spanish Springs,Washoe Valley,Nevada,25.792036091383366
+Spanish Springs,Minden,Nevada,48.14099293955168
+Spanish Springs,Yerington,Nevada,56.91862946352944
+Spanish Springs,Kingsbury,Nevada,47.350816582127
+Spanish Springs,Stagecoach,Nevada,25.248357062609585
+Spanish Springs,Ruhenstroth,Nevada,52.81333513319177
+Spanish Springs,Mogul,Nevada,16.64550274830019
+Spanish Springs,East Valley,Nevada,49.116159352957496
+Spanish Springs,Golden Valley,Nevada,8.628713882436182
+Spanish Springs,Verdi,Nevada,19.15060692210687
+Spanish Springs,Genoa,Nevada,44.39493679622881
+Spanish Springs,Stateline,Nevada,49.75684708566375
+Spanish Springs,Fallon Station,Nevada,53.56602862474903
+Spanish Springs,Round Hill Village,Nevada,47.724324981374735
+Spanish Springs,Virginia City,Nevada,24.130628481668307
+Spanish Springs,Wadsworth,Nevada,20.301172910733577
+Spanish Springs,Zephyr Cove,Nevada,46.88289136086822
+Spanish Springs,Fish Springs,Nevada,48.52047948660644
+Spanish Springs,Carter Springs,Nevada,54.85680167024033
+Spanish Springs,Skyland,Nevada,45.54006035088298
+Spanish Springs,Nixon,Nevada,20.322028816255017
+Spanish Springs,Sutcliffe,Nevada,20.06625721266167
+Spanish Springs,Lakeridge,Nevada,45.06371182369176
+Spanish Springs,Glenbrook,Nevada,41.03313787330254
+Spanish Springs,Crystal Bay,Nevada,34.31556846477221
+Spanish Springs,Silver City,Nevada,27.164950517363245
+Spanish Springs,Logan Creek,Nevada,43.29348133302735
+Dayton,Gardnerville Ranchos,Nevada,26.95438286828034
+Dayton,Cold Springs,Nevada,37.1489537092534
+Dayton,Fallon,Nevada,44.68504334104234
+Dayton,Incline Village,Nevada,20.39208773832052
+Dayton,Johnson Lane,Nevada,16.839665204186158
+Dayton,Gardnerville,Nevada,23.936875638393
+Dayton,Indian Hills,Nevada,17.114972791214925
+Dayton,Lemmon Valley,Nevada,32.935863113150916
+Dayton,Silver Springs,Nevada,20.620125551152793
+Dayton,Washoe Valley,Nevada,11.562467891386055
+Dayton,Minden,Nevada,23.150779437933597
+Dayton,Yerington,Nevada,32.213859058137174
+Dayton,Kingsbury,Nevada,25.204130761980252
+Dayton,Stagecoach,Nevada,12.210983630746265
+Dayton,Topaz Ranch Estates,Nevada,36.27848718820242
+Dayton,Ruhenstroth,Nevada,26.15984421570255
+Dayton,Smith Valley,Nevada,32.99089116686334
+Dayton,Mogul,Nevada,26.105267291596228
+Dayton,East Valley,Nevada,22.826730926736822
+Dayton,Golden Valley,Nevada,28.322849589773156
+Dayton,Verdi,Nevada,28.207636880210657
+Dayton,Genoa,Nevada,21.52318591355008
+Dayton,Stateline,Nevada,28.605384537027202
+Dayton,Fallon Station,Nevada,46.723687604060245
+Dayton,Round Hill Village,Nevada,26.560391649310475
+Dayton,Virginia City,Nevada,5.554886078163842
+Dayton,Schurz,Nevada,44.63791561979884
+Dayton,Wadsworth,Nevada,29.64485260575417
+Dayton,Zephyr Cove,Nevada,26.176171076602078
+Dayton,Fish Springs,Nevada,21.57970231601519
+Dayton,Carter Springs,Nevada,27.709873838717293
+Dayton,Skyland,Nevada,25.000955303180874
+Dayton,Nixon,Nevada,40.759712101100114
+Dayton,Sutcliffe,Nevada,47.51610325234344
+Dayton,Lakeridge,Nevada,25.236025033984323
+Dayton,Double Spring,Nevada,33.24846030668874
+Dayton,Glenbrook,Nevada,22.689933550394805
+Dayton,Topaz Lake,Nevada,38.7591542836715
+Dayton,Crystal Bay,Nevada,23.49793956558292
+Dayton,Silver City,Nevada,3.7893371963923217
+Dayton,Logan Creek,Nevada,23.801274866499604
+Spring Creek,Carlin,Nevada,26.819621834354905
+Spring Creek,Wells,Nevada,42.24098145582443
+Spring Creek,Osino,Nevada,13.907722364450299
+Spring Creek,Crescent Valley,Nevada,56.081997780945976
+Spring Creek,Lamoille,Nevada,6.428904663947171
+Boulder City,Laughlin,Nevada,51.27188615437039
+Boulder City,Moapa Valley,Nevada,59.02734092505592
+Boulder City,Nellis AFB,Nevada,28.936700302816163
+Boulder City,Sandy Valley,Nevada,39.559820490468645
+Boulder City,Mount Charleston,Nevada,48.2697813130735
+Boulder City,Searchlight,Nevada,26.558395907828988
+Boulder City,Cal-Nev-Ari,Nevada,37.40225143108976
+Boulder City,Blue Diamond,Nevada,30.572315813788165
+Boulder City,Goodsprings,Nevada,28.610075567765485
+Boulder City,Nelson,Nevada,9.990283343824789
+Gardnerville Ranchos,Cold Springs,Nevada,56.32669567495826
+Gardnerville Ranchos,Incline Village,Nevada,27.50502349989078
+Gardnerville Ranchos,Johnson Lane,Nevada,10.651333583993944
+Gardnerville Ranchos,Gardnerville,Nevada,3.0595353673339316
+Gardnerville Ranchos,Indian Hills,Nevada,13.61445588256399
+Gardnerville Ranchos,Lemmon Valley,Nevada,54.84967817892574
+Gardnerville Ranchos,Silver Springs,Nevada,44.18524027142396
+Gardnerville Ranchos,Washoe Valley,Nevada,27.39854195859649
+Gardnerville Ranchos,Minden,Nevada,4.768588624072185
+Gardnerville Ranchos,Yerington,Nevada,34.68224227934918
+Gardnerville Ranchos,Kingsbury,Nevada,9.778710033959314
+Gardnerville Ranchos,Stagecoach,Nevada,37.9135151380398
+Gardnerville Ranchos,Topaz Ranch Estates,Nevada,17.36406621859348
+Gardnerville Ranchos,Ruhenstroth,Nevada,3.565462725609108
+Gardnerville Ranchos,Smith Valley,Nevada,22.22401343554659
+Gardnerville Ranchos,Mogul,Nevada,43.82277165178473
+Gardnerville Ranchos,East Valley,Nevada,4.346238269557759
+Gardnerville Ranchos,Golden Valley,Nevada,49.97139316269442
+Gardnerville Ranchos,Verdi,Nevada,44.386877635961085
+Gardnerville Ranchos,Genoa,Nevada,9.982721121502642
+Gardnerville Ranchos,Stateline,Nevada,11.614363625891245
+Gardnerville Ranchos,Round Hill Village,Nevada,11.561041747084627
+Gardnerville Ranchos,Virginia City,Nevada,28.913500075836474
+Gardnerville Ranchos,Schurz,Nevada,50.092724677569436
+Gardnerville Ranchos,Wadsworth,Nevada,56.45804087130602
+Gardnerville Ranchos,Zephyr Cove,Nevada,12.48191745553998
+Gardnerville Ranchos,Fish Springs,Nevada,6.6252703716292425
+Gardnerville Ranchos,Carter Springs,Nevada,6.26764549843631
+Gardnerville Ranchos,Skyland,Nevada,12.966104724387664
+Gardnerville Ranchos,Walker Lake,Nevada,56.31950787553689
+Gardnerville Ranchos,Lakeridge,Nevada,14.208083838176481
+Gardnerville Ranchos,Double Spring,Nevada,10.82272401083904
+Gardnerville Ranchos,Glenbrook,Nevada,17.17445791161098
+Gardnerville Ranchos,Topaz Lake,Nevada,17.63473045879429
+Gardnerville Ranchos,Crystal Bay,Nevada,26.850557625808694
+Gardnerville Ranchos,Silver City,Nevada,26.122262920152917
+Gardnerville Ranchos,Logan Creek,Nevada,15.059631705180747
+Cold Springs,Incline Village,Nevada,29.631270497891748
+Cold Springs,Johnson Lane,Nevada,46.43335805986181
+Cold Springs,Gardnerville,Nevada,53.56905336243742
+Cold Springs,Indian Hills,Nevada,42.71787061681301
+Cold Springs,Lemmon Valley,Nevada,7.5279471879156326
+Cold Springs,Silver Springs,Nevada,46.016467571474465
+Cold Springs,Washoe Valley,Nevada,29.63462296492505
+Cold Springs,Minden,Nevada,51.558107335427515
+Cold Springs,Kingsbury,Nevada,48.67431908336456
+Cold Springs,Stagecoach,Nevada,38.952088557491194
+Cold Springs,Ruhenstroth,Nevada,57.49009864237173
+Cold Springs,Mogul,Nevada,12.505672675414047
+Cold Springs,East Valley,Nevada,53.67816591537738
+Cold Springs,Golden Valley,Nevada,9.720864640522047
+Cold Springs,Verdi,Nevada,12.314545676682247
+Cold Springs,Genoa,Nevada,46.68547585142694
+Cold Springs,Stateline,Nevada,50.039962400188685
+Cold Springs,Round Hill Village,Nevada,48.30846059136929
+Cold Springs,Virginia City,Nevada,31.8764986912247
+Cold Springs,Wadsworth,Nevada,36.89007676146395
+Cold Springs,Zephyr Cove,Nevada,47.287387202693225
+Cold Springs,Fish Springs,Nevada,53.90321309766742
+Cold Springs,Skyland,Nevada,46.054196071968114
+Cold Springs,Nixon,Nevada,34.23520488573501
+Cold Springs,Sutcliffe,Nevada,25.4250087877414
+Cold Springs,Lakeridge,Nevada,45.19679100671523
+Cold Springs,Glenbrook,Nevada,41.05067270320782
+Cold Springs,Crystal Bay,Nevada,31.850583465592813
+Cold Springs,Silver City,Nevada,34.77075038981776
+Cold Springs,Logan Creek,Nevada,43.54417234538105
+Fallon,Johnson Lane,Nevada,58.615537504194045
+Fallon,Lemmon Valley,Nevada,58.40717980350392
+Fallon,Silver Springs,Nevada,24.20480289936607
+Fallon,Washoe Valley,Nevada,54.91602484475377
+Fallon,Yerington,Nevada,39.952413584558535
+Fallon,Stagecoach,Nevada,33.23562924490212
+Fallon,Lovelock,Nevada,51.19679494244354
+Fallon,Smith Valley,Nevada,55.141761316369006
+Fallon,Golden Valley,Nevada,56.703280378558006
+Fallon,Fallon Station,Nevada,5.213910854602543
+Fallon,Virginia City,Nevada,47.98392291709817
+Fallon,Schurz,Nevada,35.02119259006455
+Fallon,Wadsworth,Nevada,29.458887565643543
+Fallon,Fish Springs,Nevada,59.017801514074634
+Fallon,Walker Lake,Nevada,57.12245222199505
+Fallon,Nixon,Nevada,39.465434924349005
+Fallon,Sutcliffe,Nevada,55.91144458772911
+Fallon,Silver City,Nevada,48.15835934128191
+Incline Village,Johnson Lane,Nevada,18.99629392790386
+Incline Village,Gardnerville,Nevada,25.060694244212364
+Incline Village,Indian Hills,Nevada,14.418160604016316
+Incline Village,Lemmon Valley,Nevada,29.826603106144066
+Incline Village,Silver Springs,Nevada,39.99894003985352
+Incline Village,Washoe Valley,Nevada,9.259975619787893
+Incline Village,Minden,Nevada,22.82470316315675
+Incline Village,Yerington,Nevada,49.68570785870117
+Incline Village,Kingsbury,Nevada,19.122947619617378
+Incline Village,Stagecoach,Nevada,30.938373831392738
+Incline Village,Topaz Ranch Estates,Nevada,43.5954511007919
+Incline Village,Ruhenstroth,Nevada,29.315447311293052
+Incline Village,Smith Valley,Nevada,44.68789646128602
+Incline Village,Mogul,Nevada,17.46066983831081
+Incline Village,East Valley,Nevada,25.660072788886886
+Incline Village,Golden Valley,Nevada,25.277189944643656
+Incline Village,Verdi,Nevada,17.350488481913377
+Incline Village,Genoa,Nevada,17.55362100574678
+Incline Village,Stateline,Nevada,20.42608351031632
+Incline Village,Round Hill Village,Nevada,18.677427455940805
+Incline Village,Virginia City,Nevada,16.21303197348969
+Incline Village,Wadsworth,Nevada,43.29412589221159
+Incline Village,Zephyr Cove,Nevada,17.656976045151012
+Incline Village,Fish Springs,Nevada,26.618430796631667
+Incline Village,Carter Springs,Nevada,32.196965798748664
+Incline Village,Skyland,Nevada,16.42486146436675
+Incline Village,Nixon,Nevada,49.96076347308089
+Incline Village,Sutcliffe,Nevada,49.976209518594246
+Incline Village,Lakeridge,Nevada,15.57271809952495
+Incline Village,Double Spring,Nevada,37.88541104951416
+Incline Village,Glenbrook,Nevada,11.419465047272105
+Incline Village,Topaz Lake,Nevada,44.68054527719557
+Incline Village,Crystal Bay,Nevada,3.765456402999487
+Incline Village,Silver City,Nevada,16.61352141902366
+Incline Village,Logan Creek,Nevada,13.912989176230305
+Winnemucca,Battle Mountain,Nevada,46.644911086702805
+Winnemucca,Grass Valley,Nevada,11.700819297630959
+Winnemucca,Humboldt River Ranch,Nevada,46.65743474961629
+Winnemucca,Golconda,Nevada,11.800776738975268
+Winnemucca,Paradise Valley,Nevada,37.67441513094588
+Winnemucca,Orovada,Nevada,40.67613803939227
+Winnemucca,Imlay,Nevada,30.503974652651426
+Winnemucca,Valmy,Nevada,33.540609012131384
+Winnemucca,Unionville,Nevada,41.39805448808757
+Laughlin,Searchlight,Nevada,27.565651548920563
+Laughlin,Cal-Nev-Ari,Nevada,18.233134269189705
+Laughlin,Nelson,Nevada,41.569983157469814
+Moapa Valley,Nellis AFB,Nevada,41.711879822820954
+Moapa Valley,Bunkerville,Nevada,20.39866105776814
+Moapa Valley,Moapa Town,Nevada,11.533610404614594
+Johnson Lane,Gardnerville,Nevada,7.610424779122239
+Johnson Lane,Indian Hills,Nevada,4.826989845533817
+Johnson Lane,Lemmon Valley,Nevada,44.48753010075625
+Johnson Lane,Silver Springs,Nevada,35.74993893287112
+Johnson Lane,Washoe Valley,Nevada,17.023025834230054
+Johnson Lane,Minden,Nevada,6.364450763389954
+Johnson Lane,Yerington,Nevada,33.69341954633062
+Johnson Lane,Kingsbury,Nevada,9.455109736170726
+Johnson Lane,Stagecoach,Nevada,28.510227133319805
+Johnson Lane,Topaz Ranch Estates,Nevada,24.742484649404645
+Johnson Lane,Ruhenstroth,Nevada,11.095552722725849
+Johnson Lane,Smith Valley,Nevada,25.94225575025677
+Johnson Lane,Mogul,Nevada,33.96101544499775
+Johnson Lane,East Valley,Nevada,7.280891806631837
+Johnson Lane,Golden Valley,Nevada,39.59989914530835
+Johnson Lane,Verdi,Nevada,34.84077016204649
+Johnson Lane,Genoa,Nevada,5.945576997816086
+Johnson Lane,Stateline,Nevada,13.071357064440882
+Johnson Lane,Fallon Station,Nevada,59.68612045671751
+Johnson Lane,Round Hill Village,Nevada,11.355113789094212
+Johnson Lane,Virginia City,Nevada,18.295667711690744
+Johnson Lane,Schurz,Nevada,48.79139758122053
+Johnson Lane,Wadsworth,Nevada,46.483246251175196
+Johnson Lane,Zephyr Cove,Nevada,11.444417951623667
+Johnson Lane,Fish Springs,Nevada,7.6698253680079596
+Johnson Lane,Carter Springs,Nevada,13.655713403416389
+Johnson Lane,Skyland,Nevada,10.742310230321293
+Johnson Lane,Walker Lake,Nevada,59.167484495804906
+Johnson Lane,Nixon,Nevada,57.19519477369594
+Johnson Lane,Lakeridge,Nevada,11.600002971635503
+Johnson Lane,Double Spring,Nevada,19.537424399809066
+Johnson Lane,Glenbrook,Nevada,11.780371498773958
+Johnson Lane,Topaz Lake,Nevada,26.140580980097525
+Johnson Lane,Crystal Bay,Nevada,19.50816521986337
+Johnson Lane,Silver City,Nevada,15.579452981982795
+Johnson Lane,Logan Creek,Nevada,11.066326908657048
+Gardnerville,Indian Hills,Nevada,10.878629284121224
+Gardnerville,Lemmon Valley,Nevada,51.93769249440912
+Gardnerville,Silver Springs,Nevada,41.50455864506609
+Gardnerville,Washoe Valley,Nevada,24.46543178620871
+Gardnerville,Minden,Nevada,2.3764114379161367
+Gardnerville,Yerington,Nevada,33.78280008803225
+Gardnerville,Kingsbury,Nevada,8.678582553612939
+Gardnerville,Stagecoach,Nevada,35.0277308818645
+Gardnerville,Topaz Ranch Estates,Nevada,18.94487971190882
+Gardnerville,Ruhenstroth,Nevada,4.378414603882558
+Gardnerville,Smith Valley,Nevada,22.572129601047557
+Gardnerville,Mogul,Nevada,41.064097730150564
+Gardnerville,East Valley,Nevada,2.0702084298136456
+Gardnerville,Golden Valley,Nevada,47.05461468613749
+Gardnerville,Verdi,Nevada,41.72201857278731
+Gardnerville,Genoa,Nevada,7.829445038483722
+Gardnerville,Stateline,Nevada,11.330437480311296
+Gardnerville,Round Hill Village,Nevada,10.723884693939057
+Gardnerville,Virginia City,Nevada,25.855522484221314
+Gardnerville,Schurz,Nevada,49.20972567354402
+Gardnerville,Wadsworth,Nevada,53.48390774606255
+Gardnerville,Zephyr Cove,Nevada,11.475525837491222
+Gardnerville,Fish Springs,Nevada,4.730314576829534
+Gardnerville,Carter Springs,Nevada,7.40538076081814
+Gardnerville,Skyland,Nevada,11.655766650579029
+Gardnerville,Walker Lake,Nevada,56.668336307092744
+Gardnerville,Lakeridge,Nevada,12.885137833961267
+Gardnerville,Double Spring,Nevada,12.847470884157978
+Gardnerville,Glenbrook,Nevada,15.291242907673437
+Gardnerville,Topaz Lake,Nevada,19.67503396641042
+Gardnerville,Crystal Bay,Nevada,24.694734835808802
+Gardnerville,Silver City,Nevada,23.063219824894958
+Gardnerville,Logan Creek,Nevada,13.422730051987703
+Indian Hills,Lemmon Valley,Nevada,41.340322575560336
+Indian Hills,Silver Springs,Nevada,37.242320651563794
+Indian Hills,Washoe Valley,Nevada,14.042195872450636
+Indian Hills,Minden,Nevada,8.848108569578061
+Indian Hills,Yerington,Nevada,38.13694606873726
+Indian Hills,Kingsbury,Nevada,8.220301880922484
+Indian Hills,Stagecoach,Nevada,29.285468574193356
+Indian Hills,Topaz Ranch Estates,Nevada,29.177290507533243
+Indian Hills,Ruhenstroth,Nevada,14.988955352134454
+Indian Hills,Smith Valley,Nevada,30.760508176170244
+Indian Hills,Mogul,Nevada,30.212602984300762
+Indian Hills,East Valley,Nevada,11.268856476952752
+Indian Hills,Golden Valley,Nevada,36.47758847397064
+Indian Hills,Verdi,Nevada,30.84382257095528
+Indian Hills,Genoa,Nevada,4.749521546228251
+Indian Hills,Stateline,Nevada,11.503331723977485
+Indian Hills,Round Hill Village,Nevada,9.446408993318116
+Indian Hills,Virginia City,Nevada,17.043076031220412
+Indian Hills,Schurz,Nevada,53.063032528215274
+Indian Hills,Wadsworth,Nevada,46.271952636001274
+Indian Hills,Zephyr Cove,Nevada,9.086051906595463
+Indian Hills,Fish Springs,Nevada,12.246880541149837
+Indian Hills,Carter Springs,Nevada,17.810114433445456
+Indian Hills,Skyland,Nevada,7.974425250718724
+Indian Hills,Nixon,Nevada,56.09762276123367
+Indian Hills,Sutcliffe,Nevada,59.77338011138293
+Indian Hills,Lakeridge,Nevada,8.41378661490705
+Indian Hills,Double Spring,Nevada,23.569456472693876
+Indian Hills,Glenbrook,Nevada,7.359712602425475
+Indian Hills,Topaz Lake,Nevada,30.321601734070512
+Indian Hills,Crystal Bay,Nevada,14.704508784323174
+Indian Hills,Silver City,Nevada,14.851459547950698
+Indian Hills,Logan Creek,Nevada,7.323993115145765
+Lemmon Valley,Silver Springs,Nevada,39.321730491518885
+Lemmon Valley,Washoe Valley,Nevada,27.477449422255916
+Lemmon Valley,Minden,Nevada,50.126897816743195
+Lemmon Valley,Kingsbury,Nevada,48.14985246340649
+Lemmon Valley,Stagecoach,Nevada,32.87295138494872
+Lemmon Valley,Ruhenstroth,Nevada,55.56311864874135
+Lemmon Valley,Mogul,Nevada,12.702232560435835
+Lemmon Valley,East Valley,Nevada,51.7596140996191
+Lemmon Valley,Golden Valley,Nevada,4.887904345992342
+Lemmon Valley,Verdi,Nevada,14.144483283493631
+Lemmon Valley,Genoa,Nevada,45.69041637603677
+Lemmon Valley,Stateline,Nevada,50.00999524652783
+Lemmon Valley,Round Hill Village,Nevada,48.115693564712245
+Lemmon Valley,Virginia City,Nevada,28.109198281750814
+Lemmon Valley,Wadsworth,Nevada,29.382925782848034
+Lemmon Valley,Zephyr Cove,Nevada,47.161002076485254
+Lemmon Valley,Fish Springs,Nevada,51.62001582517424
+Lemmon Valley,Carter Springs,Nevada,57.93390353536923
+Lemmon Valley,Skyland,Nevada,45.85763562909
+Lemmon Valley,Nixon,Nevada,27.201155836428086
+Lemmon Valley,Sutcliffe,Nevada,20.91228535747872
+Lemmon Valley,Lakeridge,Nevada,45.16036443866068
+Lemmon Valley,Glenbrook,Nevada,40.98872273814777
+Lemmon Valley,Crystal Bay,Nevada,32.71267799658488
+Lemmon Valley,Silver City,Nevada,31.156732666540673
+Lemmon Valley,Logan Creek,Nevada,43.424162885088414
+Silver Springs,Washoe Valley,Nevada,30.739056192053972
+Silver Springs,Minden,Nevada,41.477169647167955
+Silver Springs,Yerington,Nevada,30.00139966036009
+Silver Springs,Kingsbury,Nevada,44.9405664675101
+Silver Springs,Stagecoach,Nevada,9.092514707631537
+Silver Springs,Topaz Ranch Estates,Nevada,47.20129863864063
+Silver Springs,Ruhenstroth,Nevada,42.21517231843984
+Silver Springs,Smith Valley,Nevada,40.1182428068283
+Silver Springs,Mogul,Nevada,38.986365528925134
+Silver Springs,East Valley,Nevada,39.842389738521014
+Silver Springs,Golden Valley,Nevada,36.335306680045996
+Silver Springs,Verdi,Nevada,41.77581559932918
+Silver Springs,Genoa,Nevada,41.2304161077918
+Silver Springs,Stateline,Nevada,48.49516321740936
+Silver Springs,Fallon Station,Nevada,26.764312553398373
+Silver Springs,Round Hill Village,Nevada,46.544585389425606
+Silver Springs,Virginia City,Nevada,23.792753543077353
+Silver Springs,Schurz,Nevada,35.511649428338856
+Silver Springs,Wadsworth,Nevada,17.683317663303278
+Silver Springs,Zephyr Cove,Nevada,46.30124633896749
+Silver Springs,Fish Springs,Nevada,37.74550237166259
+Silver Springs,Carter Springs,Nevada,42.607830487029
+Silver Springs,Skyland,Nevada,45.216722207264006
+Silver Springs,Walker Lake,Nevada,56.49863392326587
+Silver Springs,Nixon,Nevada,31.67533359655088
+Silver Springs,Sutcliffe,Nevada,44.75045681872871
+Silver Springs,Lakeridge,Nevada,45.584108389291146
+Silver Springs,Double Spring,Nevada,46.89106715621233
+Silver Springs,Glenbrook,Nevada,43.275005554116255
+Silver Springs,Topaz Lake,Nevada,50.43799038454541
+Silver Springs,Crystal Bay,Nevada,43.45392994671786
+Silver Springs,Silver City,Nevada,23.99296626692503
+Silver Springs,Logan Creek,Nevada,44.24891921107709
+West Wendover,Wells,Nevada,52.524158362291125
+West Wendover,Montello,Nevada,36.850802765948195
+West Wendover,Oasis,Nevada,28.794320764231824
+Nellis AFB,Sandy Valley,Nevada,42.51478567495962
+Nellis AFB,Indian Springs,Nevada,43.24067935011206
+Nellis AFB,Moapa Town,Nevada,38.68220993946235
+Nellis AFB,Mount Charleston,Nevada,31.107924349780866
+Nellis AFB,Searchlight,Nevada,55.07945428696272
+Nellis AFB,Blue Diamond,Nevada,24.4663717741017
+Nellis AFB,Goodsprings,Nevada,35.578058410649106
+Nellis AFB,Nelson,Nevada,38.585663412943944
+Battle Mountain,Carlin,Nevada,44.74842709949481
+Battle Mountain,Grass Valley,Nevada,43.989885034809895
+Battle Mountain,Crescent Valley,Nevada,24.558917146952442
+Battle Mountain,Golconda,Nevada,36.33511043978142
+Battle Mountain,Valmy,Nevada,14.405045804530296
+Ely,McGill,Nevada,10.68532439664116
+Ely,Preston,Nevada,26.276815468226726
+Ely,Ruth,Nevada,6.470444326197232
+Ely,Lund,Nevada,28.642311276790753
+Ely,Baker,Nevada,43.70284341588521
+Washoe Valley,Minden,Nevada,22.706902315674018
+Washoe Valley,Yerington,Nevada,42.697431812883465
+Washoe Valley,Kingsbury,Nevada,21.571535355861297
+Washoe Valley,Stagecoach,Nevada,21.68047901058254
+Washoe Valley,Topaz Ranch Estates,Nevada,41.16627428384728
+Washoe Valley,Ruhenstroth,Nevada,28.114125650403835
+Washoe Valley,Smith Valley,Nevada,40.31558519267879
+Washoe Valley,Mogul,Nevada,17.329615611018223
+Washoe Valley,East Valley,Nevada,24.302636293045097
+Washoe Valley,Golden Valley,Nevada,22.592038598890728
+Washoe Valley,Verdi,Nevada,18.69461833104178
+Washoe Valley,Genoa,Nevada,18.626808528823865
+Washoe Valley,Stateline,Nevada,24.122400000620807
+Washoe Valley,Fallon Station,Nevada,57.409463145186024
+Washoe Valley,Round Hill Village,Nevada,22.05254881955726
+Washoe Valley,Virginia City,Nevada,6.960527433102954
+Washoe Valley,Schurz,Nevada,55.88141791214747
+Washoe Valley,Wadsworth,Nevada,35.027576260485944
+Washoe Valley,Zephyr Cove,Nevada,21.272369038046094
+Washoe Valley,Fish Springs,Nevada,24.319838005819577
+Washoe Valley,Carter Springs,Nevada,30.569722269215237
+Washoe Valley,Skyland,Nevada,19.929435124383087
+Washoe Valley,Nixon,Nevada,43.169198434252436
+Washoe Valley,Sutcliffe,Nevada,45.77464304714311
+Washoe Valley,Lakeridge,Nevada,19.59283986708106
+Washoe Valley,Double Spring,Nevada,36.46986265401577
+Washoe Valley,Glenbrook,Nevada,15.809336334785646
+Washoe Valley,Topaz Lake,Nevada,42.91375112280021
+Washoe Valley,Crystal Bay,Nevada,12.786923001810873
+Washoe Valley,Silver City,Nevada,7.8095692054757375
+Washoe Valley,Logan Creek,Nevada,17.84354214583677
+Minden,Yerington,Nevada,35.45332555005454
+Minden,Kingsbury,Nevada,6.500820799108598
+Minden,Stagecoach,Nevada,34.615817306043056
+Minden,Topaz Ranch Estates,Nevada,21.318315390715995
+Minden,Ruhenstroth,Nevada,6.750942565876341
+Minden,Smith Valley,Nevada,24.79556746092166
+Minden,Mogul,Nevada,39.054223279159
+Minden,East Valley,Nevada,3.9183990062993175
+Minden,Golden Valley,Nevada,45.25320493040663
+Minden,Verdi,Nevada,39.628105787290764
+Minden,Genoa,Nevada,5.466648217817575
+Minden,Stateline,Nevada,9.46733933042238
+Minden,Round Hill Village,Nevada,8.60685123677052
+Minden,Virginia City,Nevada,24.603754120645114
+Minden,Schurz,Nevada,50.85439167260382
+Minden,Wadsworth,Nevada,52.79115062770209
+Minden,Zephyr Cove,Nevada,9.277982799044855
+Minden,Fish Springs,Nevada,6.346876095807811
+Minden,Carter Springs,Nevada,9.781371199037665
+Minden,Skyland,Nevada,9.360133587289468
+Minden,Walker Lake,Nevada,58.84669679625307
+Minden,Lakeridge,Nevada,10.577493891330624
+Minden,Double Spring,Nevada,15.158461005181232
+Minden,Glenbrook,Nevada,12.91577088450843
+Minden,Topaz Lake,Nevada,21.996033611782934
+Minden,Crystal Bay,Nevada,22.35995353113758
+Minden,Silver City,Nevada,21.933132693773363
+Minden,Logan Creek,Nevada,11.057921788684292
+Yerington,Hawthorne,Nevada,39.54906121527232
+Yerington,Kingsbury,Nevada,41.72820862432578
+Yerington,Stagecoach,Nevada,31.872293336625276
+Yerington,Topaz Ranch Estates,Nevada,25.958869840147646
+Yerington,Ruhenstroth,Nevada,31.20182078848642
+Yerington,Smith Valley,Nevada,16.402161101544607
+Yerington,Mogul,Nevada,58.30548585428143
+Yerington,East Valley,Nevada,31.74487625602613
+Yerington,Golden Valley,Nevada,59.5741797936704
+Yerington,Genoa,Nevada,39.10468439426856
+Yerington,Stateline,Nevada,44.918701939465876
+Yerington,Fallon Station,Nevada,38.101481688286526
+Yerington,Round Hill Village,Nevada,43.86740019854768
+Yerington,Virginia City,Nevada,37.759160022297436
+Yerington,Schurz,Nevada,15.430167086924484
+Yerington,Wadsworth,Nevada,47.67578833926513
+Yerington,Zephyr Cove,Nevada,44.33159419788472
+Yerington,Fish Springs,Nevada,29.13935228787228
+Yerington,Carter Springs,Nevada,29.347167265760365
+Yerington,Skyland,Nevada,43.98734868704212
+Yerington,Walker Lake,Nevada,28.64938812098485
+Yerington,Lakeridge,Nevada,45.02063661579027
+Yerington,Double Spring,Nevada,29.848613471723226
+Yerington,Glenbrook,Nevada,45.42364121119801
+Yerington,Topaz Lake,Nevada,29.344468143145388
+Yerington,Crystal Bay,Nevada,51.58192415061414
+Yerington,Silver City,Nevada,35.36701162465902
+Yerington,Logan Creek,Nevada,44.71591108593069
+Hawthorne,Topaz Ranch Estates,Nevada,49.50665731316297
+Hawthorne,Smith Valley,Nevada,43.911082648260845
+Hawthorne,Schurz,Nevada,32.31027639660433
+Hawthorne,Carter Springs,Nevada,59.594077256628815
+Hawthorne,Walker Lake,Nevada,10.901802648874908
+Hawthorne,Double Spring,Nevada,56.30028713495845
+Hawthorne,Topaz Lake,Nevada,51.0154939949213
+Hawthorne,Mina,Nevada,29.427821210923153
+Hawthorne,Gabbs,Nevada,44.08106414905436
+Carlin,Osino,Nevada,28.006077789348893
+Carlin,Crescent Valley,Nevada,32.10198078044866
+Carlin,Lamoille,Nevada,33.02856246617244
+Carlin,Valmy,Nevada,53.67194712816046
+Kingsbury,Stagecoach,Nevada,37.286317983747345
+Kingsbury,Topaz Ranch Estates,Nevada,27.135076752678682
+Kingsbury,Ruhenstroth,Nevada,12.796692572480355
+Kingsbury,Smith Valley,Nevada,31.2486081609742
+Kingsbury,Mogul,Nevada,36.31275652305724
+Kingsbury,East Valley,Nevada,10.418568089840951
+Kingsbury,Golden Valley,Nevada,43.36875571975814
+Kingsbury,Verdi,Nevada,36.446413945694786
+Kingsbury,Genoa,Nevada,3.715531455341202
+Kingsbury,Stateline,Nevada,3.6166771992251614
+Kingsbury,Round Hill Village,Nevada,2.1405183752306374
+Kingsbury,Virginia City,Nevada,25.230328065369978
+Kingsbury,Schurz,Nevada,57.080306858749964
+Kingsbury,Wadsworth,Nevada,54.48973678179421
+Kingsbury,Zephyr Cove,Nevada,2.797234856817144
+Kingsbury,Fish Springs,Nevada,12.786634472574619
+Kingsbury,Carter Springs,Nevada,15.804395122281273
+Kingsbury,Skyland,Nevada,3.209677203974547
+Kingsbury,Lakeridge,Nevada,4.441687013040523
+Kingsbury,Double Spring,Nevada,20.574261961817594
+Kingsbury,Glenbrook,Nevada,7.90863190897092
+Kingsbury,Topaz Lake,Nevada,27.3442644118363
+Kingsbury,Crystal Bay,Nevada,17.76501384030855
+Kingsbury,Silver City,Nevada,23.069893617129637
+Kingsbury,Logan Creek,Nevada,5.52595247833777
+Sandy Valley,Indian Springs,Nevada,50.55602061604637
+Sandy Valley,Mount Charleston,Nevada,28.986572038614142
+Sandy Valley,Searchlight,Nevada,48.03522349316717
+Sandy Valley,Cal-Nev-Ari,Nevada,56.54513767521978
+Sandy Valley,Blue Diamond,Nevada,18.293074943886108
+Sandy Valley,Goodsprings,Nevada,10.98198072106051
+Sandy Valley,Nelson,Nevada,45.70540425465775
+Stagecoach,Topaz Ranch Estates,Nevada,43.91002489491624
+Stagecoach,Ruhenstroth,Nevada,36.47612518106095
+Stagecoach,Smith Valley,Nevada,38.30225123072705
+Stagecoach,Mogul,Nevada,30.691531179649402
+Stagecoach,East Valley,Nevada,33.60466100650693
+Stagecoach,Golden Valley,Nevada,29.25080567724223
+Stagecoach,Verdi,Nevada,33.38712394284252
+Stagecoach,Genoa,Nevada,33.580438396429955
+Stagecoach,Stateline,Nevada,40.74270329586553
+Stagecoach,Fallon Station,Nevada,35.850830255304004
+Stagecoach,Round Hill Village,Nevada,38.71796496483872
+Stagecoach,Virginia City,Nevada,14.758363597465008
+Stagecoach,Schurz,Nevada,40.70258952507913
+Stagecoach,Wadsworth,Nevada,19.05335348766507
+Stagecoach,Zephyr Cove,Nevada,38.36381541440673
+Stagecoach,Fish Springs,Nevada,31.85556400958983
+Stagecoach,Carter Springs,Nevada,37.412954223061085
+Stagecoach,Skyland,Nevada,37.201951481807846
+Stagecoach,Nixon,Nevada,31.926826870998013
+Stagecoach,Sutcliffe,Nevada,42.16385654822384
+Stagecoach,Lakeridge,Nevada,37.44700666185781
+Stagecoach,Double Spring,Nevada,42.360916409959685
+Stagecoach,Glenbrook,Nevada,34.82556462055353
+Stagecoach,Topaz Lake,Nevada,46.87235787101863
+Stagecoach,Crystal Bay,Nevada,34.430387442295356
+Stagecoach,Silver City,Nevada,15.24164723209983
+Stagecoach,Logan Creek,Nevada,36.005268102905774
+Tonopah,Dyer,Nevada,53.49989976650166
+Tonopah,Silver Peak,Nevada,31.81510502514065
+Tonopah,Goldfield,Nevada,25.53554711712662
+Tonopah,Mina,Nevada,52.70670019642776
+Topaz Ranch Estates,Ruhenstroth,Nevada,14.567379292696119
+Topaz Ranch Estates,Smith Valley,Nevada,9.577512716473574
+Topaz Ranch Estates,Mogul,Nevada,58.437964094310566
+Topaz Ranch Estates,East Valley,Nevada,17.986511147903656
+Topaz Ranch Estates,Verdi,Nevada,59.49199139336369
+Topaz Ranch Estates,Genoa,Nevada,26.77067015761766
+Topaz Ranch Estates,Stateline,Nevada,28.771814178326622
+Topaz Ranch Estates,Round Hill Village,Nevada,28.9118013299781
+Topaz Ranch Estates,Virginia City,Nevada,40.22781599449801
+Topaz Ranch Estates,Schurz,Nevada,39.84871383754875
+Topaz Ranch Estates,Zephyr Cove,Nevada,29.84511243130721
+Topaz Ranch Estates,Fish Springs,Nevada,17.078073243746406
+Topaz Ranch Estates,Carter Springs,Nevada,11.545513551020058
+Topaz Ranch Estates,Skyland,Nevada,30.304515243412123
+Topaz Ranch Estates,Walker Lake,Nevada,40.722961772080325
+Topaz Ranch Estates,Lakeridge,Nevada,31.548591552310853
+Topaz Ranch Estates,Double Spring,Nevada,6.866585367387341
+Topaz Ranch Estates,Glenbrook,Nevada,34.23298045623312
+Topaz Ranch Estates,Topaz Lake,Nevada,3.4690014115197494
+Topaz Ranch Estates,Crystal Bay,Nevada,43.555660790642484
+Topaz Ranch Estates,Silver City,Nevada,37.15268363746211
+Topaz Ranch Estates,Logan Creek,Nevada,32.28754994815913
+Ruhenstroth,Smith Valley,Nevada,18.726507271550826
+Ruhenstroth,Mogul,Nevada,45.00023531862345
+Ruhenstroth,East Valley,Nevada,3.816734272055015
+Ruhenstroth,Golden Valley,Nevada,50.6752453397623
+Ruhenstroth,Verdi,Nevada,45.77415828892858
+Ruhenstroth,Genoa,Nevada,12.207384058403408
+Ruhenstroth,Stateline,Nevada,15.005171888499824
+Ruhenstroth,Round Hill Village,Nevada,14.732730434808754
+Ruhenstroth,Virginia City,Nevada,28.76541252686682
+Ruhenstroth,Schurz,Nevada,46.59535115069826
+Ruhenstroth,Wadsworth,Nevada,55.28973225374401
+Ruhenstroth,Zephyr Cove,Nevada,15.576111780364531
+Ruhenstroth,Fish Springs,Nevada,4.634571287429381
+Ruhenstroth,Carter Springs,Nevada,3.0399949133650357
+Ruhenstroth,Skyland,Nevada,15.886900624069044
+Ruhenstroth,Walker Lake,Nevada,52.846342453082386
+Ruhenstroth,Lakeridge,Nevada,17.12743675591658
+Ruhenstroth,Double Spring,Nevada,8.58144827145462
+Ruhenstroth,Glenbrook,Nevada,19.666185107305935
+Ruhenstroth,Topaz Lake,Nevada,15.366575211024998
+Ruhenstroth,Crystal Bay,Nevada,29.05177257832605
+Ruhenstroth,Silver City,Nevada,25.830078916427137
+Ruhenstroth,Logan Creek,Nevada,17.75854864081369
+Lovelock,Grass Valley,Nevada,56.99297096696762
+Lovelock,Fallon Station,Nevada,54.20206320380069
+Lovelock,Wadsworth,Nevada,57.322099797482316
+Lovelock,Nixon,Nevada,52.654200893643036
+Lovelock,Humboldt River Ranch,Nevada,20.56497002515918
+Lovelock,Empire,Nevada,53.26228855397755
+Lovelock,Imlay,Nevada,37.460386286894874
+Lovelock,Gerlach,Nevada,56.650005632330576
+Lovelock,Unionville,Nevada,26.31953069766843
+Smith Valley,Mogul,Nevada,57.531142764338654
+Smith Valley,East Valley,Nevada,20.906919805127366
+Smith Valley,Verdi,Nevada,59.01004051569765
+Smith Valley,Genoa,Nevada,29.76907025635194
+Smith Valley,Stateline,Nevada,33.71569803416135
+Smith Valley,Fallon Station,Nevada,53.86915097694101
+Smith Valley,Round Hill Village,Nevada,33.29033083569441
+Smith Valley,Virginia City,Nevada,37.78235532500579
+Smith Valley,Schurz,Nevada,30.425772075077653
+Smith Valley,Wadsworth,Nevada,56.75326353648107
+Smith Valley,Zephyr Cove,Nevada,34.04424190788042
+Smith Valley,Fish Springs,Nevada,18.907013425887953
+Smith Valley,Carter Springs,Nevada,16.015330011115285
+Smith Valley,Skyland,Nevada,34.14688401376153
+Smith Valley,Walker Lake,Nevada,34.12702912417142
+Smith Valley,Lakeridge,Nevada,35.3512079852621
+Smith Valley,Double Spring,Nevada,14.406292443004096
+Smith Valley,Glenbrook,Nevada,37.119512635643574
+Smith Valley,Topaz Lake,Nevada,12.94249522285111
+Smith Valley,Crystal Bay,Nevada,45.448233152759656
+Smith Valley,Silver City,Nevada,34.78415830035954
+Smith Valley,Logan Creek,Nevada,35.64357428822119
+Amargosa Valley,Indian Springs,Nevada,42.73199129462919
+Amargosa Valley,Beatty,Nevada,31.08490281797763
+Amargosa Valley,Mount Charleston,Nevada,52.39411048055525
+Mogul,East Valley,Nevada,41.191214362020666
+Mogul,Golden Valley,Nevada,8.797115778392483
+Mogul,Verdi,Nevada,2.900126206086566
+Mogul,Genoa,Nevada,34.21612148698844
+Mogul,Stateline,Nevada,37.86176622713338
+Mogul,Round Hill Village,Nevada,36.05838461925942
+Mogul,Virginia City,Nevada,20.590782056811133
+Mogul,Wadsworth,Nevada,34.721562423606564
+Mogul,Zephyr Cove,Nevada,35.06057620340414
+Mogul,Fish Springs,Nevada,41.47435441552375
+Mogul,Carter Springs,Nevada,47.61529231174358
+Mogul,Skyland,Nevada,33.795807799794304
+Mogul,Nixon,Nevada,36.96750771741576
+Mogul,Sutcliffe,Nevada,33.49039098083793
+Mogul,Lakeridge,Nevada,33.000830693718505
+Mogul,Double Spring,Nevada,53.497640410356546
+Mogul,Glenbrook,Nevada,28.82826897478132
+Mogul,Crystal Bay,Nevada,20.10981603216511
+Mogul,Silver City,Nevada,23.23670416050045
+Mogul,Logan Creek,Nevada,31.30744960530744
+East Valley,Golden Valley,Nevada,46.87172685895369
+East Valley,Verdi,Nevada,41.988577909652086
+East Valley,Genoa,Nevada,8.997679151201991
+East Valley,Stateline,Nevada,13.271444587271223
+East Valley,Round Hill Village,Nevada,12.51782780939832
+East Valley,Virginia City,Nevada,25.13557826527237
+East Valley,Schurz,Nevada,47.16836713487185
+East Valley,Wadsworth,Nevada,52.223233301042285
+East Valley,Zephyr Cove,Nevada,13.195831655245522
+East Valley,Fish Springs,Nevada,2.660189453541471
+East Valley,Carter Springs,Nevada,6.541462605086405
+East Valley,Skyland,Nevada,13.241365066664665
+East Valley,Walker Lake,Nevada,54.9343292051801
+East Valley,Lakeridge,Nevada,14.444369841707262
+East Valley,Double Spring,Nevada,12.337979231698561
+East Valley,Glenbrook,Nevada,16.480634422712438
+East Valley,Topaz Lake,Nevada,19.05558605030702
+East Valley,Crystal Bay,Nevada,25.58168214844363
+East Valley,Silver City,Nevada,22.24906807872671
+East Valley,Logan Creek,Nevada,14.802205121157154
+Jackpot,Montello,Nevada,54.81417227708806
+Grass Valley,Humboldt River Ranch,Nevada,36.864829261465154
+Grass Valley,Golconda,Nevada,17.345295577381663
+Grass Valley,Paradise Valley,Nevada,49.341440277152394
+Grass Valley,Orovada,Nevada,52.00526039101103
+Grass Valley,Imlay,Nevada,22.313656146640387
+Grass Valley,Valmy,Nevada,33.23504387583573
+Grass Valley,Unionville,Nevada,30.789950734238158
+Golden Valley,Verdi,Nevada,10.898948490280503
+Golden Valley,Genoa,Nevada,40.855435009821754
+Golden Valley,Stateline,Nevada,45.306343927699615
+Golden Valley,Round Hill Village,Nevada,43.38743594547688
+Golden Valley,Virginia City,Nevada,23.36489653048809
+Golden Valley,Wadsworth,Nevada,28.45306881500697
+Golden Valley,Zephyr Cove,Nevada,42.4470499141671
+Golden Valley,Fish Springs,Nevada,46.738560523351694
+Golden Valley,Carter Springs,Nevada,53.04964186119695
+Golden Valley,Skyland,Nevada,41.13467547451233
+Golden Valley,Nixon,Nevada,28.668572513777473
+Golden Valley,Sutcliffe,Nevada,24.861939708268743
+Golden Valley,Lakeridge,Nevada,40.46919871031288
+Golden Valley,Double Spring,Nevada,58.94163368020781
+Golden Valley,Glenbrook,Nevada,36.307513706038435
+Golden Valley,Crystal Bay,Nevada,28.321145857972713
+Golden Valley,Silver City,Nevada,26.392321499915713
+Golden Valley,Logan Creek,Nevada,38.722711843812505
+Verdi,Genoa,Nevada,34.6069575584309
+Verdi,Stateline,Nevada,37.735281626194855
+Verdi,Round Hill Village,Nevada,36.02279143399562
+Verdi,Virginia City,Nevada,22.656626276811462
+Verdi,Wadsworth,Nevada,37.57666448445157
+Verdi,Zephyr Cove,Nevada,34.99533285415645
+Verdi,Fish Springs,Nevada,42.445889691288166
+Verdi,Carter Springs,Nevada,48.476902336625855
+Verdi,Skyland,Nevada,33.773480303551416
+Verdi,Nixon,Nevada,39.437733318122575
+Verdi,Sutcliffe,Nevada,35.056287732489615
+Verdi,Lakeridge,Nevada,32.89840669044006
+Verdi,Double Spring,Nevada,54.32555781342024
+Verdi,Glenbrook,Nevada,28.76325766230373
+Verdi,Crystal Bay,Nevada,19.5540860981456
+Verdi,Silver City,Nevada,25.146540964453276
+Verdi,Logan Creek,Nevada,31.25850262178226
+Pioche,Panaca,Nevada,11.537948040130233
+Pioche,Alamo,Nevada,56.11307012381948
+Pioche,Caliente,Nevada,21.28408629721989
+Pioche,Bennett Springs,Nevada,16.450049813103405
+Pioche,Beaverdam,Nevada,18.079178438606316
+Pioche,Hiko,Nevada,47.870253329837766
+Pioche,Ursine,Nevada,11.84056502640306
+Pioche,Dry Valley,Nevada,8.878915025101957
+Pioche,Mount Wilson,Nevada,19.529449539138877
+Wells,Osino,Nevada,38.82208071746825
+Wells,Lamoille,Nevada,38.44795850027039
+Wells,Montello,Nevada,40.84021301599256
+Wells,Oasis,Nevada,25.59550096592572
+Osino,Lamoille,Nevada,17.745553232659027
+Panaca,Alamo,Nevada,50.762974237566254
+Panaca,Caliente,Nevada,11.042626004544408
+Panaca,Bennett Springs,Nevada,6.260035591911815
+Panaca,Beaverdam,Nevada,7.283275744296322
+Panaca,Hiko,Nevada,45.6661683062399
+Panaca,Ursine,Nevada,16.05932450877092
+Panaca,Dry Valley,Nevada,8.440903567911745
+Panaca,Mount Wilson,Nevada,30.94279950623298
+Alamo,Caliente,Nevada,41.449465870418074
+Alamo,Moapa Town,Nevada,55.626768758672775
+Alamo,Bennett Springs,Nevada,44.969609691156926
+Alamo,Rachel,Nevada,37.68111491124773
+Alamo,Beaverdam,Nevada,44.978092448807985
+Alamo,Hiko,Nevada,15.91659583228651
+Alamo,Dry Valley,Nevada,58.84322909712844
+Genoa,Stateline,Nevada,7.2775475834046635
+Genoa,Round Hill Village,Nevada,5.43806620838063
+Genoa,Virginia City,Nevada,21.772728510497622
+Genoa,Schurz,Nevada,54.349979474512615
+Genoa,Wadsworth,Nevada,50.89836862374027
+Genoa,Zephyr Cove,Nevada,5.503162666116813
+Genoa,Fish Springs,Nevada,10.879399448837185
+Genoa,Carter Springs,Nevada,15.226083433063513
+Genoa,Skyland,Nevada,4.907628190704079
+Genoa,Lakeridge,Nevada,5.917939625272861
+Genoa,Double Spring,Nevada,20.609585420339794
+Genoa,Glenbrook,Nevada,7.494142531321677
+Genoa,Topaz Lake,Nevada,27.449971702708996
+Genoa,Crystal Bay,Nevada,16.910446273456856
+Genoa,Silver City,Nevada,19.498232570245577
+Genoa,Logan Creek,Nevada,5.886215392231505
+Owyhee,Mountain City,Nevada,12.555337128978199
+Bunkerville,Moapa Town,Nevada,27.827729271018157
+Stateline,Round Hill Village,Nevada,2.1057507383468987
+Stateline,Virginia City,Nevada,28.304959576332024
+Stateline,Wadsworth,Nevada,57.698292587909634
+Stateline,Zephyr Cove,Nevada,2.877372991566518
+Stateline,Fish Springs,Nevada,15.805066797653076
+Stateline,Carter Springs,Nevada,17.87392482123498
+Stateline,Skyland,Nevada,4.217343525171128
+Stateline,Lakeridge,Nevada,4.861834886647803
+Stateline,Double Spring,Nevada,21.998548430883694
+Stateline,Glenbrook,Nevada,9.038581542377766
+Stateline,Topaz Lake,Nevada,28.56881482941014
+Stateline,Crystal Bay,Nevada,18.448327453933356
+Stateline,Silver City,Nevada,26.300357500617167
+Stateline,Logan Creek,Nevada,6.5858855502594995
+Fallon Station,Virginia City,Nevada,50.44896935005114
+Fallon Station,Schurz,Nevada,31.418692431897867
+Fallon Station,Wadsworth,Nevada,34.113367811941245
+Fallon Station,Fish Springs,Nevada,59.41949248231609
+Fallon Station,Walker Lake,Nevada,53.104287520724476
+Fallon Station,Nixon,Nevada,44.57031583292131
+Fallon Station,Silver City,Nevada,50.331599104081455
+Fallon Station,Gabbs,Nevada,56.80096669620647
+Round Hill Village,Virginia City,Nevada,26.200733938906087
+Round Hill Village,Schurz,Nevada,59.21607526172734
+Round Hill Village,Wadsworth,Nevada,55.60170206775927
+Round Hill Village,Zephyr Cove,Nevada,1.0766283149771227
+Round Hill Village,Fish Springs,Nevada,14.915913587859869
+Round Hill Village,Carter Springs,Nevada,17.706959152248203
+Round Hill Village,Skyland,Nevada,2.26352922441754
+Round Hill Village,Lakeridge,Nevada,3.1940537649206897
+Round Hill Village,Double Spring,Nevada,22.255405016736702
+Round Hill Village,Glenbrook,Nevada,7.25953377237938
+Round Hill Village,Topaz Lake,Nevada,28.960322170893708
+Round Hill Village,Crystal Bay,Nevada,16.932640113782814
+Round Hill Village,Silver City,Nevada,24.211657334012045
+Round Hill Village,Logan Creek,Nevada,4.764563414078889
+Virginia City,Schurz,Nevada,50.114434120587184
+Virginia City,Wadsworth,Nevada,29.477147313416292
+Virginia City,Zephyr Cove,Nevada,25.61330614950485
+Virginia City,Fish Springs,Nevada,24.406780088190253
+Virginia City,Carter Springs,Nevada,30.73415345417738
+Virginia City,Skyland,Nevada,24.324296828296813
+Virginia City,Nixon,Nevada,39.09844986609779
+Virginia City,Sutcliffe,Nevada,44.07367903113084
+Virginia City,Lakeridge,Nevada,24.283517912736873
+Virginia City,Double Spring,Nevada,36.50698648139269
+Virginia City,Glenbrook,Nevada,21.042322610507558
+Virginia City,Topaz Lake,Nevada,42.44740081500256
+Virginia City,Crystal Bay,Nevada,19.67237846698777
+Virginia City,Silver City,Nevada,3.075942671400177
+Virginia City,Logan Creek,Nevada,22.6514813694224
+Schurz,Wadsworth,Nevada,52.230429817069755
+Schurz,Zephyr Cove,Nevada,59.64717233938117
+Schurz,Fish Springs,Nevada,44.55508205579716
+Schurz,Carter Springs,Nevada,44.64164199128057
+Schurz,Skyland,Nevada,59.25070673920946
+Schurz,Walker Lake,Nevada,22.475928225760416
+Schurz,Double Spring,Nevada,44.611624154309396
+Schurz,Topaz Lake,Nevada,43.00832492574331
+Schurz,Mina,Nevada,55.415931540133826
+Schurz,Silver City,Nevada,48.180235904797215
+Schurz,Gabbs,Nevada,48.56257040543746
+Schurz,Logan Creek,Nevada,59.85511699224003
+McGill,Preston,Nevada,36.93812811255813
+McGill,Ruth,Nevada,14.193862734089178
+McGill,Lund,Nevada,39.13745228242616
+McGill,Baker,Nevada,44.10285421038471
+Caliente,Bennett Springs,Nevada,4.924449175819926
+Caliente,Beaverdam,Nevada,3.8696237050831277
+Caliente,Hiko,Nevada,38.980168441389196
+Caliente,Ursine,Nevada,27.03211401077337
+Caliente,Dry Valley,Nevada,19.397947080704718
+Caliente,Mount Wilson,Nevada,40.70296874203739
+Indian Springs,Mount Charleston,Nevada,22.145294360243497
+Indian Springs,Blue Diamond,Nevada,40.49336794703517
+Indian Springs,Goodsprings,Nevada,53.453447453123765
+Wadsworth,Zephyr Cove,Nevada,55.056894997651185
+Wadsworth,Fish Springs,Nevada,50.65523928858219
+Wadsworth,Carter Springs,Nevada,56.37915697438155
+Wadsworth,Skyland,Nevada,53.78153367875089
+Wadsworth,Nixon,Nevada,13.996680477366318
+Wadsworth,Sutcliffe,Nevada,28.235396832629394
+Wadsworth,Lakeridge,Nevada,53.76058406836764
+Wadsworth,Glenbrook,Nevada,50.44087927222252
+Wadsworth,Crystal Bay,Nevada,47.05950549990828
+Wadsworth,Silver City,Nevada,31.420493999739705
+Wadsworth,Logan Creek,Nevada,52.12437973832576
+Zephyr Cove,Fish Springs,Nevada,15.51811665865817
+Zephyr Cove,Carter Springs,Nevada,18.572854753805444
+Zephyr Cove,Skyland,Nevada,1.3445315318049205
+Zephyr Cove,Lakeridge,Nevada,2.1253728528698885
+Zephyr Cove,Double Spring,Nevada,23.22291697226002
+Zephyr Cove,Glenbrook,Nevada,6.2386948208700215
+Zephyr Cove,Topaz Lake,Nevada,29.95032051240895
+Zephyr Cove,Crystal Bay,Nevada,15.865303052009251
+Zephyr Cove,Silver City,Nevada,23.71311559327161
+Zephyr Cove,Logan Creek,Nevada,3.7531892533155133
+Beatty,Goldfield,Nevada,59.595581757762034
+Fish Springs,Carter Springs,Nevada,6.347546778872291
+Fish Springs,Skyland,Nevada,15.431559622046713
+Fish Springs,Walker Lake,Nevada,52.760315890976294
+Fish Springs,Lakeridge,Nevada,16.595359251039657
+Fish Springs,Double Spring,Nevada,12.21047807877758
+Fish Springs,Glenbrook,Nevada,18.218780442090907
+Fish Springs,Topaz Lake,Nevada,18.602320664221818
+Fish Springs,Crystal Bay,Nevada,26.886017329746352
+Fish Springs,Silver City,Nevada,21.421454997276474
+Fish Springs,Logan Creek,Nevada,16.764509993324033
+Mount Charleston,Blue Diamond,Nevada,19.01771253036469
+Mount Charleston,Goodsprings,Nevada,31.327619916535475
+Mount Charleston,Nelson,Nevada,57.72538438141625
+Crescent Valley,Valmy,Nevada,38.67680051801186
+Carter Springs,Skyland,Nevada,18.913786841862223
+Carter Springs,Walker Lake,Nevada,50.0716510244138
+Carter Springs,Lakeridge,Nevada,20.15564092176867
+Carter Springs,Double Spring,Nevada,5.90014082503499
+Carter Springs,Glenbrook,Nevada,22.69657949359235
+Carter Springs,Topaz Lake,Nevada,12.521414816724388
+Carter Springs,Crystal Bay,Nevada,32.030299747821445
+Carter Springs,Silver City,Nevada,27.73262780168778
+Carter Springs,Logan Creek,Nevada,20.798542884686253
+Skyland,Lakeridge,Nevada,1.2442132629895215
+Skyland,Double Spring,Nevada,23.77465188995666
+Skyland,Glenbrook,Nevada,5.01533730242031
+Skyland,Topaz Lake,Nevada,30.551599689810494
+Skyland,Crystal Bay,Nevada,14.770676125409675
+Skyland,Silver City,Nevada,22.469510532600637
+Skyland,Logan Creek,Nevada,2.5218781766416973
+Walker Lake,Double Spring,Nevada,47.327083394404205
+Walker Lake,Topaz Lake,Nevada,42.674298797250835
+Walker Lake,Mina,Nevada,39.150219090145406
+Walker Lake,Gabbs,Nevada,46.90500415860967
+Nixon,Sutcliffe,Nevada,16.57598810427868
+Nixon,Glenbrook,Nevada,58.97523075866845
+Nixon,Crystal Bay,Nevada,53.60953110886693
+Nixon,Empire,Nevada,51.6090661467329
+Nixon,Silver City,Nevada,41.6298596677666
+Nixon,Gerlach,Nevada,56.38413680020199
+Dyer,Silver Peak,Nevada,23.002651328326507
+Dyer,Goldfield,Nevada,43.9004542238346
+Dyer,Mina,Nevada,51.40993780831851
+Eureka,Ruth,Nevada,54.624820572233766
+Eureka,Austin,Nevada,59.232468697347784
+Sutcliffe,Crystal Bay,Nevada,53.142390473487666
+Sutcliffe,Empire,Nevada,46.03483550866176
+Sutcliffe,Silver City,Nevada,47.06512277928219
+Sutcliffe,Gerlach,Nevada,50.287429550623195
+Searchlight,Cal-Nev-Ari,Nevada,11.014772900217684
+Searchlight,Blue Diamond,Nevada,48.88510210177776
+Searchlight,Goodsprings,Nevada,38.89353102737381
+Searchlight,Nelson,Nevada,18.773369759259438
+Lakeridge,Double Spring,Nevada,25.013613053314327
+Lakeridge,Glenbrook,Nevada,4.177419514499698
+Lakeridge,Topaz Lake,Nevada,31.785890192939352
+Lakeridge,Crystal Bay,Nevada,13.740148437502492
+Lakeridge,Silver City,Nevada,22.56179435106811
+Lakeridge,Logan Creek,Nevada,1.7703328806864136
+Double Spring,Glenbrook,Nevada,27.954244174777802
+Double Spring,Topaz Lake,Nevada,6.840917304496852
+Double Spring,Crystal Bay,Nevada,37.51677442272497
+Double Spring,Silver City,Nevada,33.48102933473911
+Double Spring,Logan Creek,Nevada,25.87926486778986
+Cal-Nev-Ari,Blue Diamond,Nevada,59.26056727404256
+Cal-Nev-Ari,Goodsprings,Nevada,48.300435971354965
+Cal-Nev-Ari,Nelson,Nevada,28.956427949985603
+Fort McDermitt,Paradise Valley,Nevada,32.90956420031199
+Fort McDermitt,Orovada,Nevada,30.26499046484023
+Fort McDermitt,McDermitt,Nevada,4.5327509976727605
+Fort McDermitt,Denio,Nevada,51.42649799234614
+Blue Diamond,Goodsprings,Nevada,14.402528630667636
+Blue Diamond,Nelson,Nevada,39.46847875983075
+Glenbrook,Topaz Lake,Nevada,34.78891489940474
+Glenbrook,Crystal Bay,Nevada,9.85807025632691
+Glenbrook,Silver City,Nevada,19.664690204620126
+Glenbrook,Logan Creek,Nevada,2.4956652930018235
+Humboldt River Ranch,Golconda,Nevada,54.168994103405545
+Humboldt River Ranch,Empire,Nevada,57.28313423424724
+Humboldt River Ranch,Imlay,Nevada,17.00215079133707
+Humboldt River Ranch,Gerlach,Nevada,59.2131359379596
+Humboldt River Ranch,Unionville,Nevada,7.922230362090445
+Silver Peak,Goldfield,Nevada,22.177860323718203
+Silver Peak,Mina,Nevada,50.64399857717672
+Preston,Ruth,Nevada,25.426373940381577
+Preston,Lund,Nevada,4.548821945921857
+Preston,Baker,Nevada,51.111374357916375
+Preston,Mount Wilson,Nevada,57.46987325962474
+Topaz Lake,Crystal Bay,Nevada,44.35568834922866
+Topaz Lake,Silver City,Nevada,39.38388004622815
+Topaz Lake,Logan Creek,Nevada,32.693549067160355
+Ruth,Lund,Nevada,28.640707150169522
+Ruth,Baker,Nevada,49.997816593643265
+Crystal Bay,Silver City,Nevada,19.77012808874611
+Crystal Bay,Logan Creek,Nevada,12.276685771760492
+Golconda,Paradise Valley,Nevada,37.449213572874086
+Golconda,Orovada,Nevada,44.51592045438728
+Golconda,Imlay,Nevada,39.41368549141152
+Golconda,Valmy,Nevada,22.493862933330153
+Golconda,Unionville,Nevada,47.83036513176208
+Empire,Gerlach,Nevada,4.878682126437816
+Kingston,Gabbs,Nevada,52.368115763691755
+Kingston,Austin,Nevada,19.83617229350054
+Paradise Valley,Orovada,Nevada,14.843340035799875
+Paradise Valley,McDermitt,Nevada,35.43175490982091
+Paradise Valley,Valmy,Nevada,53.232566893570414
+Mina,Gabbs,Nevada,33.97959999080975
+Lund,Baker,Nevada,48.88310631840494
+Lund,Mount Wilson,Nevada,52.933942471646205
+Goodsprings,Nelson,Nevada,34.82782296485177
+Silver City,Logan Creek,Nevada,21.018507333529467
+Orovada,McDermitt,Nevada,30.900573840641826
+Orovada,Denio,Nevada,51.8573640365121
+Bennett Springs,Beaverdam,Nevada,1.9335730071810295
+Bennett Springs,Hiko,Nevada,40.983484905265996
+Bennett Springs,Ursine,Nevada,22.319306439238478
+Bennett Springs,Dry Valley,Nevada,14.696803921301521
+Bennett Springs,Mount Wilson,Nevada,35.937344244862864
+McDermitt,Denio,Nevada,47.195162727746435
+Imlay,Valmy,Nevada,54.193798398934014
+Imlay,Unionville,Nevada,14.629282235113672
+Lamoille,Oasis,Nevada,56.57023088661169
+Valmy,Unionville,Nevada,57.513877561177424
+Montello,Oasis,Nevada,21.9801425521138
+Baker,Mount Wilson,Nevada,56.63875855307683
+Rachel,Hiko,Nevada,31.15802923218996
+Beaverdam,Hiko,Nevada,41.67498863729151
+Beaverdam,Ursine,Nevada,23.188223181109382
+Beaverdam,Dry Valley,Nevada,15.558316302441373
+Beaverdam,Mount Wilson,Nevada,37.60227781908597
+Hiko,Ursine,Nevada,59.06959053654739
+Hiko,Dry Valley,Nevada,52.717358816973096
+Hiko,Mount Wilson,Nevada,59.71142510299161
+Ursine,Dry Valley,Nevada,7.634917793576348
+Ursine,Mount Wilson,Nevada,21.49690337890888
+Dry Valley,Mount Wilson,Nevada,25.4527564028675
